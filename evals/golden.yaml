@@ -1,0 +1,37 @@
+# Questions this Codex must answer. `python3 tools/kac.py eval` checks that search finds the page.
+- id: g01
+  question: What are the named points of interest on Hajin?
+  must_retrieve: [hajin-exclusion-zone]
+- id: g02
+  question: How many attachments can a weapon have in the Gunsmith?
+  must_retrieve: [gunsmith]
+- id: g03
+  question: What does the Tourniquet do?
+  must_retrieve: [tourniquet]
+- id: g04
+  question: What happens to an operator who does not exfil?
+  must_retrieve: [mia-system]
+- id: g05
+  question: Which progression carries over between matches?
+  must_retrieve: [what-carries-over]
+- id: g06
+  question: How do you unlock weapons in DMZ?
+  must_retrieve: [weapon-manuals]
+- id: g07
+  question: What does the Stealth Meter show?
+  must_retrieve: [stealth-meter]
+- id: g08
+  question: What are the commander threats?
+  must_retrieve: [commander-threats]
+- id: g09
+  question: What does the 3D Printer craft?
+  must_retrieve: [3d-printer]
+- id: g10
+  question: What are the ways to exfil?
+  must_retrieve: [exfil]
+- id: g11
+  question: What is a Dynamic Operation?
+  must_retrieve: [dynamic-operations]
+- id: g12
+  question: Are there keys in MW4 DMZ?
+  must_retrieve: [open-questions]

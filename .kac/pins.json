@@ -1,0 +1,9 @@
+{
+ "files": {
+  ".gitattributes": "48d2cb73caa38de96a5ad8241d6440fd76a1d081c544648603a448163787a4a5",
+  "AGENTS.md": "9764c345d01f11c5606db5e9e3a59da68beb03f21f899f8c0a53334b2b80f2d5",
+  "kac.yaml": "bf50c3847605cfb6a656c86324666fba66ac2d6a24020140c56bff1a1731fbc0",
+  "tools/kac.py": "e7d5b1d8150d5d3ed7e8f3d5ffcb6d7544a9273475463d7ba9d99486038d4e9d"
+ },
+ "kit": "2.0"
+}

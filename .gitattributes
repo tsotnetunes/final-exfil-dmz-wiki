@@ -1,0 +1,19 @@
+# Knowledge-as-Code: byte-stable checkouts on every operating system
+*               -text
+*.md            text eol=lf
+*.jsonl         text eol=lf
+*.json          text eol=lf
+*.yaml          text eol=lf
+*.yml           text eol=lf
+*.toml          text eol=lf
+*.txt           text eol=lf
+*.py            text eol=lf
+*.sh            text eol=lf
+*.js            text eol=lf
+.gitattributes  text eol=lf
+.gitignore      text eol=lf
+# append-only logs: keep both sides' new lines when two branches are merged
+log.md          text eol=lf merge=union
+.kac/manifest.jsonl text eol=lf merge=union
+# immutable evidence: stored byte for byte, never auto-merged (must stay last)
+raw/**          -text -merge

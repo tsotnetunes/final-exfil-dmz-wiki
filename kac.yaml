@@ -1,0 +1,21 @@
+name: dmz-codex
+spec: kac/2
+profile: stream             # a live stream of posts and patches about a subject that changes with every update
+dials: {sources: stream, form: both, volatility: days, sensitivity: one, writers: several, autonomy: scheduled,
+        readers: [files, chat, network, editor], untrusted: messages, effects: none, scale: small}
+modules: [M1, M2, M3, M4, M7, M9, M13]   # records (claims/evidence), stream intake (in the Brain), scheduled runs (the Brain), context pack, quarantine and proposals, staleness, lessons
+sensitivity: {ladder: [public, internal], default: public}
+kit:
+  pages: [wiki]
+  records: [claims, evidence]
+  tz: America/New_York
+  agent: claude
+  checks: ["{python} tools/kac.py eval"]
+  sync: ""
+  devices: [nzxt]
+  start_files: [AGENTS.md]
+  pack:
+    include: [wiki/hub/overview.md, wiki/hub/open-questions.md]
+    allow_sensitivity: [public]
+    forbid: ['(?i)(api[_-]?key|bearer|secret)\s*[:=]\s*\S{12,}']
+  backup: {dir: .backup, keep: 14}
