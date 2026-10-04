@@ -59,7 +59,7 @@ A person never edits the generated zone; the Brain never edits the human zone. T
 - Lessons: when the Brain or a person got something wrong, write a feedback page; promoted lessons become rules here, through a `schema` run.
 
 ## Start of a session
-`python3 tools/kac.py status`. Read nothing else until the task needs it. `wiki/hub/overview.md` orients; `wiki/hub/open-questions.md` lists what is unknown.
+`git pull --rebase` first — the Brain commits to `main` every hour, so a clone goes stale fast and a push from a stale clone is refused. Then `python3 tools/kac.py status`. Read nothing else until the task needs it. `wiki/hub/overview.md` orients; `wiki/hub/open-questions.md` lists what is unknown.
 
 ## To answer a question
 1. Known id → open that page. 2. `python3 tools/kac.py search "3–6 specific words"` → cards → open 1–3 pages. 3. Exact strings: `rg -n -i "text" wiki/`. 4. Cite page ids and claim ids. Say when a fact is a candidate, disputed, stale or unverified. If the Codex does not know, say so.
@@ -69,7 +69,7 @@ A person never edits the generated zone; the Brain never edits the human zone. T
 2. Write only inside the human zone, or create a new page with both zones (the generated zone empty).
 3. Make the page true now; rewrite, do not append "update" notes. Keep the card under 200 characters.
 4. A new official document → raw/inbox/ with URL and capture date in its header, plus a source page. Never X post text.
-5. Finish: `python3 tools/kac.py commit <ingest|edit|lint|schema> "<what and why, one line>"`, then `git push`. The Brain imports human zones and new pages within the hour; the site shows them once the page is published.
+5. Finish: `python3 tools/kac.py commit <ingest|edit|lint|schema> "<what and why, one line>"`, then `git pull --rebase && git push` (the remote is `origin`, github.com/tsotnetunes/final-exfil-dmz-wiki, branch `main`). The Brain imports human zones and new pages within the hour; the site shows them once the page is published.
 6. A disagreement with the generated zone is not fixed by editing it: write the correction in the human zone with a source, or leave a proposal in proposals/; the Brain supersedes the claim on the next run with that evidence.
 
 ## The Brain's commits

@@ -6,3 +6,7 @@
 ## [2026-10-03 23:46 EDT] lint | write index.md with kac index
 - changed: index.md 1
 - run: r-20261003-234602-5de2
+
+## [2026-10-04 10:24 EDT] schema | contract: pull before push now that the Brain commits hourly; README for GitHub visitors; raw/inbox kept in clones
+- changed: .kac 1, AGENTS.md 1, README.md 1
+- run: r-20261004-102434-74dd
