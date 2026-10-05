@@ -14,3 +14,7 @@
 ## [2026-10-05 16:25 EDT] schema | licence: CC BY-SA 4.0 for pages and records, MIT for tools/kac.py, raw/ official extracts excluded; README pointer
 - changed: LICENSE 1, README.md 1
 - run: r-20261005-162534-9e88
+
+## [2026-10-05 16:41 EDT] render | 57 pages rendered, 39 claims, 36 evidence
+- changed: wiki 57, claims 1, evidence 1, index.md 1
+- run: r-20261005-204116-c53b

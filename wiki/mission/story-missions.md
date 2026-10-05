@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-deep-dive-2026-06]
 aliases: ["story mission"]
-stale_after: 2026-11-15
 mission_kind: story
 ---
 <!-- generated:start -->

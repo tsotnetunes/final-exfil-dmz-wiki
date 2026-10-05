@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-deep-dive-2026-06]
 aliases: ["infil"]
-stale_after: 2026-11-15
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

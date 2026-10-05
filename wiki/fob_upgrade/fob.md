@@ -1,18 +1,23 @@
 ---
 type: fob_upgrade
 title: "FOB (Forward Operating Base)"
-description: "The persistent hub between deployments: Orders, Stash, Wallet, 3D Printer, Gunsmith, Weapon Vendor, Firing Range, Active Duty, Boss Board and Bounty Leaderboard."
+description: "The FOB is the deployment starting point, reported to feature a social hub, Firing Range, Vendors, and Crafting."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06]
+sources: [clm_46243e27d86a, clm_fd90953238b0, clm_c5bec6dd520b, src-activision-dmz-deep-dive-2026-06]
 aliases: ["Forward Operating Base", "the base"]
-stale_after: 2026-11-15
 station: hub
 unlock: start
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+The FOB serves as the starting point for deployments.
+
+* The FOB is confirmed to be the starting point for deployments.
+* Players report that the FOB acts as a social hub for your squad.
+* Players report that the FOB includes a Firing Range, Vendors, and Crafting.
+
+_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-05._
 <!-- generated:end -->
 
 <!-- human:start -->

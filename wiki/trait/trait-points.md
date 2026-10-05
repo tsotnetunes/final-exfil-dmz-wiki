@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-deep-dive-2026-06]
 aliases: ["traits", "trait tree"]
-stale_after: 2026-11-15
 tree: all
 tier: n/a
 ---

@@ -6,7 +6,6 @@ status: stable
 brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-deep-dive-2026-06]
-stale_after: 2026-11-15
 region: Hajin
 danger: unknown
 loot_profile: unknown

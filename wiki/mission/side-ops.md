@@ -1,13 +1,12 @@
 ---
 type: mission
 title: "Side Ops"
-description: "Small optional tasks in a match \u2014 truck repairs, finding a supply drop, scaling a radio tower \u2014 that give XP alongside the main objectives (official, pre-launch)."
+description: "Small optional tasks in a match — truck repairs, finding a supply drop, scaling a radio tower — that give XP alongside the main objectives (official, pre-launch)."
 status: stable
 brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-deep-dive-2026-06]
 aliases: ["side op"]
-stale_after: 2026-11-15
 mission_kind: side
 ---
 <!-- generated:start -->

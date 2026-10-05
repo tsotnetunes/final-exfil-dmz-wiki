@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-deep-dive-2026-06]
 aliases: ["bosses", "lieutenant"]
-stale_after: 2026-11-15
 weapon: unique
 location: unknown
 drops: dog tags, weapon
