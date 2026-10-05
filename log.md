@@ -10,3 +10,7 @@
 ## [2026-10-04 10:24 EDT] schema | contract: pull before push now that the Brain commits hourly; README for GitHub visitors; raw/inbox kept in clones
 - changed: .kac 1, AGENTS.md 1, README.md 1
 - run: r-20261004-102434-74dd
+
+## [2026-10-05 16:25 EDT] schema | licence: CC BY-SA 4.0 for pages and records, MIT for tools/kac.py, raw/ official extracts excluded; README pointer
+- changed: LICENSE 1, README.md 1
+- run: r-20261005-162534-9e88

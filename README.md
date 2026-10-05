@@ -9,3 +9,5 @@ What is known about the DMZ mode of Call of Duty: Modern Warfare 4 — places, m
 **Contributing.** Edit the human zone of a page (between `<!-- human:start -->` and `<!-- human:end -->`) or add a page with both zones. Keep the card under 200 characters, cite a source page or claim id, and mark anything unverified as such. Never paste X post text or a private person's handle. `python3 tools/kac.py check` before committing. `AGENTS.md` is the full contract, for people and AI agents alike.
 
 **Layout.** `wiki/<type>/<id>.md` pages · `raw/` official documents (immutable) · `claims/`, `evidence/` record stores (Brain only) · `proposals/`, `feedback/` · `evals/golden.yaml` · `tools/kac.py` · `index.md`, `log.md` (generated).
+
+**Licence.** Pages, records and evals are CC BY-SA 4.0 (credit "DMZ Codex (finalexfil.com)", share alike). `raw/` official extracts stay their publishers' property and are kept for reference only; `tools/kac.py` is MIT. See `LICENSE`. Unofficial; Call of Duty, Modern Warfare and DMZ are Activision trademarks.
