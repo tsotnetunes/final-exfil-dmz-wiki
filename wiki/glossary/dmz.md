@@ -1,15 +1,19 @@
 ---
 type: glossary
 title: "DMZ (the mode)"
-description: "Modern Warfare 4's extraction mode: squads infil into the Hajin Exclusion Zone, complete missions against AI and rival players, and exfil to keep what they found; paid with the base game."
+description: "DMZ is an extraction shooter mode reported by players to be featured within Call of Duty: Modern Warfare 4."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06]
+sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, src-activision-dmz-deep-dive-2026-06]
 aliases: ["MW4 DMZ"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+DMZ (also known as MW4 DMZ) is a game mode featured in Call of Duty: Modern Warfare 4.
+
+* Players report that DMZ is an extraction shooter within Call of Duty: Modern Warfare 4.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-05._
 <!-- generated:end -->
 
 <!-- human:start -->

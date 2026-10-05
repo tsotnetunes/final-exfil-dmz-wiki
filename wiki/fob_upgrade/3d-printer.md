@@ -1,16 +1,18 @@
 ---
 type: fob_upgrade
 title: "3D Printer"
-description: "The FOB crafting station: gear, backpacks, plate carriers, tacticals, lethals, consumables, field upgrades, fire support and special items, with recipes that unlock advanced crafting."
+description: "A station reported to allow players to craft gear and upgrade stations."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06]
+sources: [clm_2347ef065fca, src-activision-dmz-deep-dive-2026-06]
 station: 3d-printer
 unlock: unknown
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+The 3D Printer is a station that players report allows for crafting gear and upgrading stations.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-05._
 <!-- generated:end -->
 
 <!-- human:start -->

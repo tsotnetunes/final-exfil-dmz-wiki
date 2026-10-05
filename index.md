@@ -16,13 +16,13 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[rogue-operators]] — Rival human squads in the zone; the PvP side of DMZ, with bounties, dog tags and proximity chat built around them (official, pre-launch). · **published**
 
 ## fob_upgrade (11) in `wiki/fob_upgrade/<id>.md`
-- [[3d-printer]] — The FOB crafting station: gear, backpacks, plate carriers, tacticals, lethals, consumables, field upgrades, fire support and special items, with recipes that u… · **published**
+- [[3d-printer]] — A station reported to allow players to craft gear and upgrade stations. · **published**
 - [[active-duty]] — Operator management at the FOB: several operators in Active Duty slots, each with a persistent backpack and loadout (official, pre-launch). · **published**
-- [[boss-board]] — The FOB board with intel on Lieutenants and tracking of which ones you have taken down (official, pre-launch). · **published**
+- [[boss-board]] — The Boss Board is an upgrade reported by players to allow the purchase of intel. · **published**
 - [[bounty-leaderboard]] — The FOB leaderboard for rival player monitoring; standing on it carries over between matches (official, pre-launch). · **published**
-- [[firing-range]] — A range at the FOB to test weapons and builds between deployments (official, pre-launch). · **published**
-- [[fob]] — The FOB is the deployment starting point, reported to feature a social hub, Firing Range, Vendors, and Crafting. · **published**
-- [[gunsmith]] — Weapon customisation at the FOB: up to 5 attachments plus 1 Apex Attachment per weapon (official, pre-launch). · **published**
+- [[firing-range]] — A Forward Operating Base station reported by players to feature targets positioned past 100m. · **published**
+- [[fob]] — The FOB (Forward Operating Base) is the starting point for deployments and serves as a shared squad base with crafting, vendors, and a firing range. · **published**
+- [[gunsmith]] — The Gunsmith is an FOB upgrade reported by players to feature a vendor with daily rotating stock. · **published**
 - [[orders]] — The FOB station that tracks your objectives and missions between deployments (official, pre-launch). · **published**
 - [[stash]] — Persistent inventory that survives between deployments and expands as you rank up; its contents carry over (official, pre-launch). · **published**
 - [[wallet]] — In-game currency kept at the FOB, spent on purchases and on recovering operators (official, pre-launch); the currency's name is not public yet. · **published**
@@ -30,7 +30,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## glossary (2) in `wiki/glossary/<id>.md`
 - [[apex-attachment]] — A sixth attachment slot per weapon in the Gunsmith, on top of the usual five; what Apex Attachments do is not public before launch. · **published**
-- [[dmz]] — Modern Warfare 4's extraction mode: squads infil into the Hajin Exclusion Zone, complete missions against AI and rival players, and exfil to keep what they fou… · **published**
+- [[dmz]] — DMZ is an extraction shooter mode reported by players to be featured within Call of Duty: Modern Warfare 4. · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ before launch: keys and locked spaces, squad size, wipes, map size, the Warzone relationship, seasonal roadmap. Answered items … · **published**
@@ -76,7 +76,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[building-21]] — A new Building 21-type map is reported to be arriving in Season 1. · **candidate**
 - [[casino]] — A casino POI with a vault, named by Activision among Hajin's key points of interest; how the vault opens and what it holds is not public before launch. · **published**
 - [[fallout-reactor]] — An irradiated POI around the reactor whose meltdown created the exclusion zone; expect radiation hazards and high-value military technology nearby (official de… · **published**
-- [[hajin]] — Hajin is a confirmed map and location in DMZ, reported by players to feature roaming bosses and lieutenants. · **draft**
+- [[hajin]] — Hajin is a confirmed DMZ map featuring reported Lieutenants and roaming boss threats. · **draft**
 - [[hajin-city-remains]] — The ruined city at the centre of the exclusion zone, one of the five named POIs; the official loot logic puts tactical gear in police stations and medical supp… · **published**
 - [[hajin-exclusion-zone]] — DMZ's launch map: a radiation-scarred exclusion zone after the campaign's reactor meltdown, with a fallout reactor, prison complex, Hajin City remains, a milit… · **published**
 - [[haneul-nuclear-reactor]] — Players report that secured bunkers can be found by the Haneul Nuclear Reactor. · **candidate**

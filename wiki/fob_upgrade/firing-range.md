@@ -1,16 +1,20 @@
 ---
 type: fob_upgrade
 title: "Firing Range"
-description: "A range at the FOB to test weapons and builds between deployments (official, pre-launch)."
+description: "A Forward Operating Base station reported by players to feature targets positioned past 100m."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06]
+sources: [clm_71239444e8f1, src-activision-dmz-deep-dive-2026-06]
 station: firing-range
 unlock: unknown
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+### Station
+
+Players report that the Firing Range station features targets positioned past 100m.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-05._
 <!-- generated:end -->
 
 <!-- human:start -->

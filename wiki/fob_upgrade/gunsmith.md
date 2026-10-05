@@ -1,16 +1,20 @@
 ---
 type: fob_upgrade
 title: "Gunsmith"
-description: "Weapon customisation at the FOB: up to 5 attachments plus 1 Apex Attachment per weapon (official, pre-launch)."
+description: "The Gunsmith is an FOB upgrade reported by players to feature a vendor with daily rotating stock."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06]
+sources: [clm_7bd9889680ab, src-activision-dmz-deep-dive-2026-06]
 station: gunsmith
 unlock: unknown
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+### Station
+
+Players report that the Gunsmith includes a vendor whose stock rotates daily.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-05._
 <!-- generated:end -->
 
 <!-- human:start -->
