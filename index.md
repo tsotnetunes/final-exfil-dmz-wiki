@@ -7,7 +7,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[commander-threats]] — Commander-tier enemies: tanks, drone swarms, Deathstalker helicopters, Juggernauts and Elite Strike Teams; attack and Deathstalker helicopters arrive as reinfo… · **published**
 
 ## event (1) in `wiki/event/<id>.md`
-- [[dmz-week]] — DMZ Week is an event for Modern Warfare 4 starting October 4 that includes details about the Hajin location. · **draft**
+- [[dmz-week]] — DMZ Week is an event for Modern Warfare 4 starting October 4 that features details on the Hajin location. · **draft**
 
 ## exfil (1) in `wiki/exfil/<id>.md`
 - [[exfil]] — Two official ways out of Hajin: helicopter exfils and skyhooks. Exfilling with Dog Tags gives rewards but makes you trackable (official, pre-launch). · **published**
@@ -16,13 +16,13 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[rogue-operators]] — Rival human squads in the zone; the PvP side of DMZ, with bounties, dog tags and proximity chat built around them (official, pre-launch). · **published**
 
 ## fob_upgrade (11) in `wiki/fob_upgrade/<id>.md`
-- [[3d-printer]] — A station reported to allow players to craft gear and upgrade stations. · **published**
+- [[3d-printer]] — The 3D Printer is an upgrade station reported to craft gear and upgrade stations. · **published**
 - [[active-duty]] — Operator management at the FOB: several operators in Active Duty slots, each with a persistent backpack and loadout (official, pre-launch). · **published**
-- [[boss-board]] — The Boss Board is an upgrade reported by players to allow the purchase of intel. · **published**
+- [[boss-board]] — Players report that the Boss Board upgrade allows them to buy intel. · **published**
 - [[bounty-leaderboard]] — The FOB leaderboard for rival player monitoring; standing on it carries over between matches (official, pre-launch). · **published**
-- [[firing-range]] — A Forward Operating Base station reported by players to feature targets positioned past 100m. · **published**
-- [[fob]] — The FOB (Forward Operating Base) is the starting point for deployments and serves as a shared squad base with crafting, vendors, and a firing range. · **published**
-- [[gunsmith]] — The Gunsmith is an FOB upgrade reported by players to feature a vendor with daily rotating stock. · **published**
+- [[firing-range]] — A look at the Firing Range FOB upgrade, reported to feature targets past 100m. · **published**
+- [[fob]] — The FOB (Forward Operating Base) serves as the starting point for deployments and acts as a shared squad hub. · **published**
+- [[gunsmith]] — The Gunsmith is an FOB upgrade reported by players to feature a vendor with stock rotating daily. · **published**
 - [[orders]] — The FOB station that tracks your objectives and missions between deployments (official, pre-launch). · **published**
 - [[stash]] — Persistent inventory that survives between deployments and expands as you rank up; its contents carry over (official, pre-launch). · **published**
 - [[wallet]] — In-game currency kept at the FOB, spent on purchases and on recovering operators (official, pre-launch); the currency's name is not public yet. · **published**
@@ -38,29 +38,29 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## item (4) in `wiki/item/<id>.md`
 - [[dog-tags]] — Collected from Lieutenants or rival operators; exfilling with them gives rewards but makes you trackable (official, pre-launch). · **published**
-- [[gold-bars]] — Learn about the reported value of Gold Bars. · **candidate**
-- [[legendary-dog-tag]] — An item reported by players to drop upon killing the Scavenger. · **candidate**
-- [[tempered-armor-vest]] — The Tempered Armor Vest is reported by players to be one of eight armor vests. · **candidate**
+- [[gold-bars]] — Learn about Gold Bars, an item reported by players to be worth 25K. · **candidate**
+- [[legendary-dog-tag]] — The Legendary dog tag is an item reported by players to drop upon killing the Scavenger. · **candidate**
+- [[tempered-armor-vest]] — The Tempered Armor Vest is an armor vest item reported to be one of 8 armor vests. · **candidate**
 
 ## lieutenant (2) in `wiki/lieutenant/<id>.md`
 - [[lieutenants]] — Named high-value bosses with specialised units who carry uniquely customised weapons; tracked on the FOB Boss Board and a source of Dog Tags (official, pre-lau… · **published**
-- [[roze]] — Roze is reported by players to be a lieutenant boss found in DMZ who drops the Kraken weapon. · **candidate**
+- [[roze]] — Roze is a reported lieutenant boss in DMZ who drops the Kraken weapon. · **candidate**
 
 ## material (1) in `wiki/material/<id>.md`
-- [[reactive-metals]] — Reactive Metals are reported by players to be a material used to feed the 3D printer. · **candidate**
+- [[reactive-metals]] — Reactive Metals are a material reported by players to feed the 3D printer. · **candidate**
 
 ## mechanic (16) in `wiki/mechanic/<id>.md`
 - [[bounty-system]] — Hunting other players raises your notoriety and puts a price on your head; your standing shows on the FOB Bounty Leaderboard and carries over (official, pre-la… · **published**
-- [[dmz-orders]] — DMZ Orders are an objective mechanic featured in DMZ. · **draft**
+- [[dmz-orders]] — DMZ Orders are a type of objective featured in DMZ. · **draft**
 - [[dynamic-weather]] — Downpours cut visibility, fog changes routes, convoys move on roads, helicopters cross the sky and hostile forces reposition WMDs during a match (official, pre… · **published**
 - [[free-roam]] — Open exploration of Hajin without structured objectives; the third way to play alongside Story Missions and Dynamic Operations (official, pre-launch). · **published**
 - [[loot-placement]] — Loot is placed where it makes sense: tactical gear in police stations, medical supplies in hospitals, crafting resources in residential districts; damaged weap… · **published**
 - [[mia-system]] — When an operator does not exfil and is lost in the zone, the squad deploys a rescue team to recover the missing operator and continue their progression; recove… · **published**
-- [[missing-in-action]] — An overview of the Missing In Action mechanic that affects an Operator upon failing to exfil. · **candidate**
+- [[missing-in-action]] — Missing In Action is a status applied to your Operator if you fail to exfiltrate. · **candidate**
 - [[paid-infil]] — Enter on foot quietly, or fast and loud by helicopter or large plane; vehicle drops are bought through the Paid Infil system (official, pre-launch). · **published**
 - [[proximity-chat]] — Voice between nearby players with distance-based falloff, directionality and environmental reverb (official, pre-launch). · **published**
-- [[rescue]] — Rescue is a game mechanic involving operators that costs 50. · **candidate**
-- [[server-culling]] — Server Culling is a mechanic introduced in Modern Warfare 4 as a new way to combat cheating. · **draft**
+- [[rescue]] — Rescue is an operator mechanic reported to cost 50. · **candidate**
+- [[server-culling]] — Server Culling is an anti-cheat mechanic introduced in Modern Warfare 4 to combat cheating. · **draft**
 - [[stealth-meter]] — HUD indicator and audio cues (white → yellow → orange) that show how close you are to being detected, aimed at solo play (official, pre-launch). · **published**
 - [[threat-escalation]] — The game tracks what you do and escalates enemy responses as you attract attention, up to helicopter reinforcements; the Stealth Meter shows how exposed you ar… · **published**
 - [[tourniquet]] — Lets you heal to a wounded state when you have no self-revive equipped (official, pre-launch). · **published**
@@ -68,31 +68,31 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[what-carries-over]] — Persistent across deployments: operator traits and skill trees, FOB upgrades and stash, weapon unlocks from Weapon Manuals, Bounty Leaderboard standing, XP and… · **published**
 
 ## mission (3) in `wiki/mission/<id>.md`
-- [[dynamic-operations]] — Dynamic Operations are a gameplay mechanic reported by players to award cash, XP, and supply drops of increasing rarity. · **published**
+- [[dynamic-operations]] — Dynamic Operations are missions reported to award cash, XP, and supply drops of increasing rarity after each op. · **published**
 - [[side-ops]] — Small optional tasks in a match — truck repairs, finding a supply drop, scaling a radio tower — that give XP alongside the main objectives (official, pre-launc… · **published**
 - [[story-missions]] — Narrative missions built for replayability, squad play and evolving storytelling; one of the three ways to play DMZ and a source of XP (official, pre-launch). · **published**
 
 ## poi (10) in `wiki/poi/<id>.md`
-- [[building-21]] — A new Building 21-type map is reported to be arriving in Season 1. · **candidate**
+- [[building-21]] — A new Building 21-style map is reported by players to release in Season 1. · **candidate**
 - [[casino]] — A casino POI with a vault, named by Activision among Hajin's key points of interest; how the vault opens and what it holds is not public before launch. · **published**
 - [[fallout-reactor]] — An irradiated POI around the reactor whose meltdown created the exclusion zone; expect radiation hazards and high-value military technology nearby (official de… · **published**
-- [[hajin]] — Hajin is a confirmed DMZ map featuring reported Lieutenants and roaming boss threats. · **draft**
+- [[hajin]] — Hajin is a confirmed DMZ map featuring player-reported bosses and lieutenants. · **draft**
 - [[hajin-city-remains]] — The ruined city at the centre of the exclusion zone, one of the five named POIs; the official loot logic puts tactical gear in police stations and medical supp… · **published**
 - [[hajin-exclusion-zone]] — DMZ's launch map: a radiation-scarred exclusion zone after the campaign's reactor meltdown, with a fallout reactor, prison complex, Hajin City remains, a milit… · **published**
-- [[haneul-nuclear-reactor]] — Players report that secured bunkers can be found by the Haneul Nuclear Reactor. · **candidate**
+- [[haneul-nuclear-reactor]] — The Haneul Nuclear Reactor is a location reported by players to feature secured bunkers. · **candidate**
 - [[military-base]] — A military base POI on Hajin, named by Activision; likely source of the abandoned military technology the factions fight over, but no official detail before la… · **published**
-- [[power-plant]] — The Power Plant is reported by players to be an in-game location. · **candidate**
+- [[power-plant]] — The Power Plant is a player-reported location in the game. · **candidate**
 - [[prison-complex]] — A fortified prison POI on Hajin, named by Activision among the key points of interest; details on enemies, loot and objectives are not public before launch. · **published**
 
 ## source (1) in `wiki/source/<id>.md`
 - [[src-activision-dmz-deep-dive-2026-06]] — Official pre-launch description of DMZ: Hajin Exclusion Zone and its POIs, missions, the FOB and its stations, traits, infil/exfil, threats, PvP systems, what … · **published**
 
 ## trait (3) in `wiki/trait/<id>.md`
-- [[quick-fix]] — Quick Fix is a DMZ trait reported by players to provide faster health regeneration. · **candidate**
+- [[quick-fix]] — Quick Fix is a DMZ trait reported by players to grant faster health regeneration. · **candidate**
 - [[trait-points]] — Operators earn Trait Points individually and spend them across three trait trees (combat, scavenging and a third); traits persist per operator (official, pre-l… · **published**
-- [[viper-sense]] — Viper Sense is a DMZ trait reported to alert players to nearby enemy operators. · **candidate**
+- [[viper-sense]] — Viper Sense is a DMZ trait reported to alert players when enemy operators are nearby. · **candidate**
 
 ## weapon (3) in `wiki/weapon/<id>.md`
-- [[aston-martin-dreadnought]] — The Aston Martin Dreadnought is reported by players to be an armored SUV vehicle featured in MW4 DMZ. · **candidate**
-- [[ltv]] — The LTV is reported by players to be a vehicle in MW4 DMZ equipped with a mounted .50 Cal. · **candidate**
-- [[polaris-dagor-a1]] — The Polaris Dagor A1 is reported by players to be a vehicle in MW4 DMZ that can transport an entire squad. · **candidate**
+- [[aston-martin-dreadnought]] — Players report that the Aston Martin Dreadnought is an armored SUV vehicle in MW4 DMZ. · **candidate**
+- [[ltv]] — The LTV is reported by players to be a vehicle in MW4 DMZ featuring a mounted .50 Cal. · **candidate**
+- [[polaris-dagor-a1]] — The Polaris Dagor A1 is reported by players as a vehicle in MW4 DMZ capable of carrying an entire squad. · **candidate**

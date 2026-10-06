@@ -1,7 +1,7 @@
 ---
 type: fob_upgrade
 title: "3D Printer"
-description: "A station reported to allow players to craft gear and upgrade stations."
+description: "The 3D Printer is an upgrade station reported to craft gear and upgrade stations."
 status: stable
 brain_status: published
 sensitivity: public
@@ -10,9 +10,9 @@ station: 3d-printer
 unlock: unknown
 ---
 <!-- generated:start -->
-The 3D Printer is a station that players report allows for crafting gear and upgrading stations.
+Players report that the 3D Printer is a station used to craft gear and upgrade stations. Information on how this upgrade unlocks is not yet known.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-05._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-06._
 <!-- generated:end -->
 
 <!-- human:start -->
