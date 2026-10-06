@@ -43,7 +43,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[tempered-armor-vest]] — The Tempered Armor Vest is an armor vest item reported to be one of 8 armor vests. · **candidate**
 
 ## lieutenant (2) in `wiki/lieutenant/<id>.md`
-- [[lieutenants]] — Named high-value bosses with specialised units who carry uniquely customised weapons; tracked on the FOB Boss Board and a source of Dog Tags (official, pre-lau… · **published**
+- [[lieutenants]] — A summary of Lieutenants in DMZ, including player reports identifying Bale as a Lieutenant Boss. · **published**
 - [[roze]] — Roze is a reported lieutenant boss in DMZ who drops the Kraken weapon. · **candidate**
 
 ## material (1) in `wiki/material/<id>.md`
@@ -68,7 +68,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[what-carries-over]] — Persistent across deployments: operator traits and skill trees, FOB upgrades and stash, weapon unlocks from Weapon Manuals, Bounty Leaderboard standing, XP and… · **published**
 
 ## mission (3) in `wiki/mission/<id>.md`
-- [[dynamic-operations]] — Dynamic Operations are missions reported to award cash, XP, and supply drops of increasing rarity after each op. · **published**
+- [[dynamic-operations]] — Dynamic Operations are squad-based missions across Hajin that players report grant cash, XP, and escalating supply drops. · **published**
 - [[side-ops]] — Small optional tasks in a match — truck repairs, finding a supply drop, scaling a radio tower — that give XP alongside the main objectives (official, pre-launc… · **published**
 - [[story-missions]] — Narrative missions built for replayability, squad play and evolving storytelling; one of the three ways to play DMZ and a source of XP (official, pre-launch). · **published**
 

@@ -1,18 +1,30 @@
 ---
 type: lieutenant
 title: "Lieutenants"
-description: "Named high-value bosses with specialised units who carry uniquely customised weapons; tracked on the FOB Boss Board and a source of Dog Tags (official, pre-launch)."
+description: "A summary of Lieutenants in DMZ, including player reports identifying Bale as a Lieutenant Boss."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06]
+sources: [clm_e9f8c69f2b20, clm_11c4521ef65f, clm_133be03ad563, src-activision-dmz-deep-dive-2026-06]
 aliases: ["bosses", "lieutenant"]
 weapon: unique
 location: unknown
 drops: dog tags, weapon
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+## Overview
+
+Players report that Bale serves as a Lieutenant Boss in DMZ.
+
+## Location
+
+Information on specific encounter locations has not been established.
+
+## Drops
+
+Details regarding drops have not been established.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-06._
 <!-- generated:end -->
 
 <!-- human:start -->
