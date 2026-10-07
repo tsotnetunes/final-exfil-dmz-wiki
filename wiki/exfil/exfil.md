@@ -1,16 +1,20 @@
 ---
 type: exfil
 title: "Exfil: helicopters and skyhooks"
-description: "Two official ways out of Hajin: helicopter exfils and skyhooks. Exfilling with Dog Tags gives rewards but makes you trackable (official, pre-launch)."
+description: "Information regarding extraction mechanics, including player reports identifying Modern Warfare 4’s DMZ as an extraction shooter."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06]
+sources: [clm_00d9ca66573a, src-activision-dmz-deep-dive-2026-06]
 aliases: ["extraction", "skyhook"]
 method: helicopter|skyhook
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Extraction involves gameplay mechanics found in extraction shooters.
+
+* Players report that Modern Warfare 4’s DMZ is an extraction shooter.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-07._
 <!-- generated:end -->
 
 <!-- human:start -->

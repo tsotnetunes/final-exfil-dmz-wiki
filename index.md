@@ -11,7 +11,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-week]] — DMZ Week is an event for Modern Warfare 4 starting October 4 that features details on the Hajin location. · **draft**
 
 ## exfil (1) in `wiki/exfil/<id>.md`
-- [[exfil]] — Two official ways out of Hajin: helicopter exfils and skyhooks. Exfilling with Dog Tags gives rewards but makes you trackable (official, pre-launch). · **published**
+- [[exfil]] — Information regarding extraction mechanics, including player reports identifying Modern Warfare 4’s DMZ as an extraction shooter. · **published**
 
 ## faction (1) in `wiki/faction/<id>.md`
 - [[rogue-operators]] — Rival human squads in the zone; the PvP side of DMZ, with bounties, dog tags and proximity chat built around them (official, pre-launch). · **published**
