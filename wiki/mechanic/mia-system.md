@@ -1,15 +1,19 @@
 ---
 type: mechanic
 title: "MIA system"
-description: "When an operator does not exfil and is lost in the zone, the squad deploys a rescue team to recover the missing operator and continue their progression; recovery costs Wallet currency."
+description: "An overview of the MIA system mechanic, covering what happens to an Operator if you die."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06]
+sources: [clm_15b35293c60f, src-activision-dmz-deep-dive-2026-06]
 aliases: ["MIA", "rescue team", "missing in action", "lost operator"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+The MIA system is a mechanic that handles what happens to an Operator upon death.
+
+* If you die, that Operator becomes MIA.
+
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-07._
 <!-- generated:end -->
 
 <!-- human:start -->
