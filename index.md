@@ -17,12 +17,12 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[rogue-operators]] — Rival human squads in the zone; the PvP side of DMZ, with bounties, dog tags and proximity chat built around them (official, pre-launch). · **published**
 
 ## fob_upgrade (11) in `wiki/fob_upgrade/<id>.md`
-- [[3d-printer]] — The 3D Printer is reported to allow crafting gear and upgrading stations, with crafting also reported in DMZ. · **published**
+- [[3d-printer]] — The 3D Printer is a DMZ crafting station reported by players for printing gear like armor vests and upgrading stations. · **published**
 - [[active-duty]] — Operator management at the FOB: several operators in Active Duty slots, each with a persistent backpack and loadout (official, pre-launch). · **published**
 - [[boss-board]] — The Boss Board is an FOB upgrade reported to allow players to purchase intel. · **published**
 - [[bounty-leaderboard]] — The FOB leaderboard for rival player monitoring; standing on it carries over between matches (official, pre-launch). · **published**
 - [[firing-range]] — A forward operating base upgrade featuring a firing range reported to include targets past 100 meters. · **published**
-- [[fob]] — The Forward Operating Base (FOB) is the starting point for preparation and deployments, reported by players to include crafting, vendors, and a firing range. · **published**
+- [[fob]] — The Forward Operating Base (FOB) is the starting point for preparation and deployments, serving as a walk-around base with stations for squads. · **published**
 - [[gunsmith]] — The Gunsmith FOB upgrade features a vendor offering a daily rotating stock. · **published**
 - [[orders]] — The FOB station that tracks your objectives and missions between deployments (official, pre-launch). · **published**
 - [[stash]] — Learn about the Stash in Modern Warfare 4 DMZ, including how extracted items build it up and reports on its UI upgrade potential. · **published**
@@ -31,7 +31,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## glossary (2) in `wiki/glossary/<id>.md`
 - [[apex-attachment]] — A sixth attachment slot per weapon in the Gunsmith, on top of the usual five; what Apex Attachments do is not public before launch. · **published**
-- [[dmz]] — An overview of DMZ (MW4 DMZ), a game mode reported by players to be an extraction shooter. · **published**
+- [[dmz]] — DMZ is an extraction shooter mode reported to be available on day 1 for Modern Warfare 4 owners. · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ before launch: keys and locked spaces, squad size, wipes, map size, the Warzone relationship, seasonal roadmap. Answered items … · **published**
@@ -45,7 +45,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## lieutenant (2) in `wiki/lieutenant/<id>.md`
 - [[lieutenants]] — A summary of Lieutenants in DMZ, including player reports identifying Bale as a Lieutenant Boss. · **published**
-- [[roze]] — Roze is reported by players to be a lieutenant boss found in DMZ who drops the Kraken weapon. · **candidate**
+- [[roze]] — Roze is reported by players to be a lieutenant boss in DMZ who drops unique rewards, including the Kraken weapon. · **candidate**
 
 ## material (1) in `wiki/material/<id>.md`
 - [[reactive-metals]] — Reactive Metals are a material reported by players to feed the 3D printer. · **candidate**
@@ -90,7 +90,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## trait (3) in `wiki/trait/<id>.md`
 - [[quick-fix]] — Quick Fix is a DMZ trait reported by players to provide faster health regeneration. · **candidate**
-- [[trait-points]] — Operators earn Trait Points individually and spend them across three trait trees (combat, scavenging and a third); traits persist per operator (official, pre-l… · **published**
+- [[trait-points]] — Traits are reported by players to be featured as part of progression in DMZ. · **published**
 - [[viper-sense]] — Viper Sense is a reported DMZ trait that alerts players to nearby enemy operators. · **candidate**
 
 ## weapon (3) in `wiki/weapon/<id>.md`

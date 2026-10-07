@@ -1,17 +1,19 @@
 ---
 type: trait
 title: "Trait Points and trait trees"
-description: "Operators earn Trait Points individually and spend them across three trait trees (combat, scavenging and a third); traits persist per operator (official, pre-launch)."
+description: "Traits are reported by players to be featured as part of progression in DMZ."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06]
+sources: [clm_9f492a24aab7, src-activision-dmz-deep-dive-2026-06]
 aliases: ["traits", "trait tree"]
 tree: all
 tier: n/a
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Players report that DMZ includes traits as an element of progression.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-07._
 <!-- generated:end -->
 
 <!-- human:start -->
