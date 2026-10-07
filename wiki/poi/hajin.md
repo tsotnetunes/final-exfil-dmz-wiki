@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "Hajin"
-description: "Hajin is a confirmed DMZ map featuring reported threats including Lieutenants Gorani and The Warden, as well as roaming bosses Colossus and Deathstalker."
+description: "Hajin is a confirmed DMZ map featuring reported threats such as the lieutenants Gorani and The Warden, alongside roaming bosses Colossus and Deathstalker."
 status: draft
 brain_status: draft
 sensitivity: public
@@ -10,17 +10,20 @@ sources: [clm_d4ac4388b3f9, clm_3018c5a912d7, clm_e5cdf259848d, clm_f10952a863af
 <!-- generated:start -->
 ### Overview
 
-Hajin is a confirmed map and location in DMZ. Players report that it is a location within MW4 DMZ where deployments take place, and that Hajin locations are expected to expand in Season 2.
+Hajin is a confirmed map and location for deployments in DMZ. Players report that Hajin is specifically situated within MW4 DMZ and that its locations are scheduled to expand in Season 2.
 
 ### Loot
 
-Specific loot profiles for Hajin have not been confirmed.
+There is currently no confirmed or reported information regarding the specific loot profile for Hajin.
 
 ### Threats
 
-Players report several formidable hostiles operating across Hajin. Gorani and The Warden are reported by players as Lieutenants present in the area, with Gorani described as a ghillie sniper wearing a deer skull. Additionally, players report two roaming bosses active in Hajin: Colossus and Deathstalker.
+Hajin features multiple dangerous hostile figures, according to player reports:
 
-_Generated from 3 confirmed and 10 reported claims across 12 posts and 0 patch notes; last rendered 2026-10-06._
+* **Lieutenants:** Players report facing Gorani, described as a ghillie sniper wearing a deer skull, as well as The Warden.
+* **Roaming Bosses:** Players report encountering both Colossus and Deathstalker roaming the area.
+
+_Generated from 3 confirmed and 10 reported claims across 12 posts and 0 patch notes; last rendered 2026-10-07._
 <!-- generated:end -->
 
 <!-- human:start -->

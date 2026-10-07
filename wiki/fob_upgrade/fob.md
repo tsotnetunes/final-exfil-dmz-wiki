@@ -1,7 +1,7 @@
 ---
 type: fob_upgrade
 title: "FOB (Forward Operating Base)"
-description: "The FOB (Forward Operating Base) serves as the starting point for deployments and acts as a shared squad hub."
+description: "The Forward Operating Base (FOB) serves as the starting point for deployments and a shared squad hub."
 status: stable
 brain_status: published
 sensitivity: public
@@ -11,11 +11,11 @@ station: hub
 unlock: start
 ---
 <!-- generated:start -->
-The FOB (Forward Operating Base), also referred to simply as the base, serves as the starting point for deployments.
+The Forward Operating Base (FOB) is the starting point for deployments. 
 
-Players report that the base is a walk-around space shared with your squad, functioning as a squad social hub. It is also reported to include Vendors, Crafting, and a Firing Range.
+Players report that the base serves as a walk-around social hub shared with your squad. According to player reports, it includes a Firing Range, Vendors, and Crafting.
 
-_Generated from 1 confirmed and 3 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-06._
+_Generated from 1 confirmed and 3 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-07._
 <!-- generated:end -->
 
 <!-- human:start -->

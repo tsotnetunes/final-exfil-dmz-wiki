@@ -8,11 +8,11 @@ sensitivity: public
 sources: [clm_cde331b22aa0]
 ---
 <!-- generated:start -->
-Reactive Metals are a material used in fabrication.
+Reactive Metals are a material used in printing processes.
 
 * Players report that Reactive Metals feed the 3D printer.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-06._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-07._
 <!-- generated:end -->
 
 <!-- human:start -->

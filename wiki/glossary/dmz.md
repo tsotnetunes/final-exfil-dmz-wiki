@@ -1,7 +1,7 @@
 ---
 type: glossary
 title: "DMZ (the mode)"
-description: "An overview of the DMZ (MW4 DMZ) game mode, reported by players as an extraction shooter."
+description: "An overview of DMZ (MW4 DMZ), a game mode reported by players to be an extraction shooter."
 status: stable
 brain_status: published
 sensitivity: public
@@ -9,11 +9,11 @@ sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, src-activision-d
 aliases: ["MW4 DMZ"]
 ---
 <!-- generated:start -->
-DMZ (also known as MW4 DMZ) is a game mode.
+DMZ is a game mode also known as MW4 DMZ.
 
 * Players report that DMZ is an extraction shooter game.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-06._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-07._
 <!-- generated:end -->
 
 <!-- human:start -->

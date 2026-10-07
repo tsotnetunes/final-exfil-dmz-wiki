@@ -10,10 +10,10 @@ sources: [clm_a58e0e4d94d1, clm_3f7252837995]
 <!-- generated:start -->
 DMZ Week is an event for Modern Warfare 4.
 
-* The event starts on October 4.
-* It includes information on the Hajin location.
+* The event begins on October 4.
+* It includes information regarding the Hajin location.
 
-_Generated from 2 confirmed and 0 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-06._
+_Generated from 2 confirmed and 0 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-07._
 <!-- generated:end -->
 
 <!-- human:start -->

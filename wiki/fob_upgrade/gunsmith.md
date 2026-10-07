@@ -1,7 +1,7 @@
 ---
 type: fob_upgrade
 title: "Gunsmith"
-description: "The Gunsmith is an FOB upgrade reported by players to feature a vendor with stock rotating daily."
+description: "The Gunsmith FOB upgrade features a vendor offering a daily rotating stock."
 status: stable
 brain_status: published
 sensitivity: public
@@ -10,11 +10,9 @@ station: gunsmith
 unlock: unknown
 ---
 <!-- generated:start -->
-### Overview
+The Gunsmith station is reported by players to feature a vendor whose stock rotates daily. Details regarding how to unlock this upgrade remain unconfirmed.
 
-According to player reports, the Gunsmith station features a vendor offering stock that rotates on a daily basis. Details regarding how to unlock this upgrade are currently unconfirmed.
-
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-06._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-07._
 <!-- generated:end -->
 
 <!-- human:start -->

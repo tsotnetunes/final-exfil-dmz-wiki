@@ -1,7 +1,7 @@
 ---
 type: commander
 title: "Bale"
-description: ""
+description: "Bale: awaiting confirmed details."
 status: draft
 brain_status: candidate
 sensitivity: public
