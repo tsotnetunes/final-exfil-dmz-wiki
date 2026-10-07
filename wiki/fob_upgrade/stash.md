@@ -1,16 +1,20 @@
 ---
 type: fob_upgrade
 title: "Stash"
-description: "Persistent inventory that survives between deployments and expands as you rank up; its contents carry over (official, pre-launch)."
+description: "Learn about the Stash in Modern Warfare 4 DMZ, including how extracted items build it up and reports on its UI upgrade potential."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06]
+sources: [clm_fe49071395d4, clm_52ae1fb94e2f, clm_972cffa0bd29, src-activision-dmz-deep-dive-2026-06]
 station: stash
 unlock: unknown
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+What players extract matters as they build up their Stash.
+
+Players have reported getting a first look at the Stash UI in Modern Warfare 4 DMZ, noting that the UI can likely be updated to provide increased space.
+
+_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-07._
 <!-- generated:end -->
 
 <!-- human:start -->
