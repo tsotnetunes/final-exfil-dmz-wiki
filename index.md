@@ -11,7 +11,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-week]] — DMZ Week is an event for Modern Warfare 4 starting October 4 that features information on the Hajin location. · **draft**
 
 ## exfil (1) in `wiki/exfil/<id>.md`
-- [[exfil]] — Overview of extraction gameplay and related missions reported for Modern Warfare 4's DMZ. · **published**
+- [[exfil]] — Overview of extraction details in Modern Warfare 4's DMZ mode, including the Operation Critical Extraction mission. · **published**
 
 ## faction (1) in `wiki/faction/<id>.md`
 - [[rogue-operators]] — Rival human squads in the zone; the PvP side of DMZ, with bounties, dog tags and proximity chat built around them (official, pre-launch). · **published**
@@ -75,7 +75,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 ## mission (5) in `wiki/mission/<id>.md`
 - [[dynamic-operations]] — Dynamic Operations feature squad objectives across Hajin, with players reporting supply drops of increasing rarity after every op. · **published**
 - [[operation-shopping-hacks]] — Operation Shopping Hacks is a reported DMZ mission that awards the Night Vision Goggles crafting recipe upon completion. · **candidate**
-- [[operation-silent-ledger]] — Operation Silent Ledger is a mission in DMZ reported by players. · **candidate**
+- [[operation-silent-ledger]] — Operation Silent Ledger is a DMZ story mission reported by players. · **candidate**
 - [[side-ops]] — Small optional tasks in a match — truck repairs, finding a supply drop, scaling a radio tower — that give XP alongside the main objectives (official, pre-launc… · **published**
 - [[story-missions]] — Story Missions in Modern Warfare 4 DMZ are reported by players to unlock needed crafting recipes. · **published**
 
@@ -83,7 +83,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[building-21]] — Building 21 is a map type, with players reporting that a new map of this kind will be released in Season 1. · **candidate**
 - [[casino]] — A casino POI with a vault, named by Activision among Hajin's key points of interest; how the vault opens and what it holds is not public before launch. · **published**
 - [[fallout-reactor]] — An irradiated POI around the reactor whose meltdown created the exclusion zone; expect radiation hazards and high-value military technology nearby (official de… · **published**
-- [[hajin]] — Hajin is a DMZ deployment map featuring hostile lieutenants and roaming bosses across multiple locations. · **draft**
+- [[hajin]] — Hajin is a DMZ map featuring 14 named locations and high-threat targets including Lieutenants and roaming bosses. · **draft**
 - [[hajin-city-remains]] — The ruined city at the centre of the exclusion zone, one of the five named POIs; the official loot logic puts tactical gear in police stations and medical supp… · **published**
 - [[hajin-exclusion-zone]] — DMZ's launch map: a radiation-scarred exclusion zone after the campaign's reactor meltdown, with a fallout reactor, prison complex, Hajin City remains, a milit… · **published**
 - [[haneul-nuclear-reactor]] — A nuclear reactor site reported by players to feature nearby secured bunkers. · **candidate**
