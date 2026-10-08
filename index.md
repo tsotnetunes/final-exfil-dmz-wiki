@@ -54,7 +54,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[reactive-metals]] — Reactive Metals are a material reported to feed the 3D printer. · **candidate**
 
 ## mechanic (17) in `wiki/mechanic/<id>.md`
-- [[bounty-system]] — Hunting other players raises your notoriety and puts a price on your head; your standing shows on the FOB Bounty Leaderboard and carries over (official, pre-la… · **published**
+- [[bounty-system]] — Learn how bounties and notoriety work in DMZ, including the consequences of eliminating too many players. · **published**
 - [[dmz-orders]] — DMZ Orders are an objective mechanic featured in DMZ. · **draft**
 - [[dynamic-weather]] — Downpours cut visibility, fog changes routes, convoys move on roads, helicopters cross the sky and hostile forces reposition WMDs during a match (official, pre… · **published**
 - [[free-roam]] — Open exploration of Hajin without structured objectives; the third way to play alongside Story Missions and Dynamic Operations (official, pre-launch). · **published**
@@ -83,7 +83,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[building-21]] — Building 21 is a map type, with players reporting that a new map of this kind will be released in Season 1. · **candidate**
 - [[casino]] — A casino POI with a vault, named by Activision among Hajin's key points of interest; how the vault opens and what it holds is not public before launch. · **published**
 - [[fallout-reactor]] — An irradiated POI around the reactor whose meltdown created the exclusion zone; expect radiation hazards and high-value military technology nearby (official de… · **published**
-- [[hajin]] — Hajin is a DMZ map featuring 14 named locations and high-threat targets including Lieutenants and roaming bosses. · **draft**
+- [[hajin]] — Hajin is a combat map and deployment location for Operators in DMZ. · **draft**
 - [[hajin-city-remains]] — The ruined city at the centre of the exclusion zone, one of the five named POIs; the official loot logic puts tactical gear in police stations and medical supp… · **published**
 - [[hajin-exclusion-zone]] — DMZ's launch map: a radiation-scarred exclusion zone after the campaign's reactor meltdown, with a fallout reactor, prison complex, Hajin City remains, a milit… · **published**
 - [[haneul-nuclear-reactor]] — A nuclear reactor site reported by players to feature nearby secured bunkers. · **candidate**
