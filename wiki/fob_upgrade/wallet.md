@@ -1,16 +1,18 @@
 ---
 type: fob_upgrade
 title: "Wallet"
-description: "In-game currency kept at the FOB, spent on purchases and on recovering operators (official, pre-launch); the currency's name is not public yet."
+description: "Players report that the DMZ bank has a maximum capacity of 100K."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06]
+sources: [clm_06c3db0d22f9, src-activision-dmz-deep-dive-2026-06]
 station: wallet
 unlock: unknown
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Players report that the DMZ bank caps at 100K.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-08._
 <!-- generated:end -->
 
 <!-- human:start -->

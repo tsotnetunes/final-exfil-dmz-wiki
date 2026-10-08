@@ -25,8 +25,8 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[fob]] — The FOB (Forward Operating Base) serves as the starting point for preparation and deployments, with players reporting shared squad spaces, vendors, and craftin… · **published**
 - [[gunsmith]] — The Gunsmith is an FOB upgrade station reported to feature a vendor with daily rotating stock. · **published**
 - [[orders]] — The FOB station that tracks your objectives and missions between deployments (official, pre-launch). · **published**
-- [[stash]] — The Stash is built up through extractions, with player reports indicating potential UI updates to increase space in Modern Warfare 4 DMZ. · **published**
-- [[wallet]] — In-game currency kept at the FOB, spent on purchases and on recovering operators (official, pre-launch); the currency's name is not public yet. · **published**
+- [[stash]] — Learn about the DMZ Stash, its capacity, and reported options for increasing space. · **published**
+- [[wallet]] — Players report that the DMZ bank has a maximum capacity of 100K. · **published**
 - [[weapon-vendor]] — An FOB station selling a rotating selection of pre-built weapons (official, pre-launch); prices and rotation cadence are not public. · **published**
 
 ## glossary (2) in `wiki/glossary/<id>.md`
@@ -74,16 +74,16 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## mission (5) in `wiki/mission/<id>.md`
 - [[dynamic-operations]] — Dynamic Operations feature squad objectives across Hajin, with players reporting supply drops of increasing rarity after every op. · **published**
-- [[operation-shopping-hacks]] — Operation Shopping Hacks is a reported DMZ mission. · **candidate**
+- [[operation-shopping-hacks]] — Operation Shopping Hacks is a reported DMZ mission that awards the Night Vision Goggles crafting recipe upon completion. · **candidate**
 - [[operation-silent-ledger]] — Operation Silent Ledger is a mission in DMZ reported by players. · **candidate**
 - [[side-ops]] — Small optional tasks in a match — truck repairs, finding a supply drop, scaling a radio tower — that give XP alongside the main objectives (official, pre-launc… · **published**
-- [[story-missions]] — Narrative missions built for replayability, squad play and evolving storytelling; one of the three ways to play DMZ and a source of XP (official, pre-launch). · **published**
+- [[story-missions]] — Story Missions in Modern Warfare 4 DMZ are reported by players to unlock needed crafting recipes. · **published**
 
 ## poi (10) in `wiki/poi/<id>.md`
 - [[building-21]] — Building 21 is a map type, with players reporting that a new map of this kind will be released in Season 1. · **candidate**
 - [[casino]] — A casino POI with a vault, named by Activision among Hajin's key points of interest; how the vault opens and what it holds is not public before launch. · **published**
 - [[fallout-reactor]] — An irradiated POI around the reactor whose meltdown created the exclusion zone; expect radiation hazards and high-value military technology nearby (official de… · **published**
-- [[hajin]] — Hajin is a confirmed DMZ map featuring reported roaming bosses, lieutenants, and 14 named locations. · **draft**
+- [[hajin]] — Hajin is a DMZ deployment map featuring hostile lieutenants and roaming bosses across multiple locations. · **draft**
 - [[hajin-city-remains]] — The ruined city at the centre of the exclusion zone, one of the five named POIs; the official loot logic puts tactical gear in police stations and medical supp… · **published**
 - [[hajin-exclusion-zone]] — DMZ's launch map: a radiation-scarred exclusion zone after the campaign's reactor meltdown, with a fallout reactor, prison complex, Hajin City remains, a milit… · **published**
 - [[haneul-nuclear-reactor]] — A nuclear reactor site reported by players to feature nearby secured bunkers. · **candidate**
