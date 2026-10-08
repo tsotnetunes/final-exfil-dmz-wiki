@@ -9,14 +9,12 @@ sources: [clm_9eae7e022413]
 ---
 <!-- generated:start -->
 ## Overview
-
 Operation Silent Ledger is reported by players to be a mission in DMZ.
 
 ## Steps
+Information regarding the specific steps for this mission is currently unavailable.
 
-No steps have been reported for this mission.
-
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-07._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-08._
 <!-- generated:end -->
 
 <!-- human:start -->

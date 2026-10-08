@@ -1,7 +1,7 @@
 ---
 type: fob_upgrade
 title: "3D Printer"
-description: "The 3D Printer is a DMZ crafting station reported by players for printing gear like armor vests and upgrading stations."
+description: "A DMZ crafting station reported by players to craft gear, produce armor vests, and upgrade stations."
 status: stable
 brain_status: published
 sensitivity: public
@@ -12,18 +12,16 @@ unlock: unknown
 <!-- generated:start -->
 ### Overview
 
-Players report that the 3D Printer is a station featured in DMZ used for crafting gear and upgrading stations. The station itself can also be upgraded.
+Players report that the 3D printer is a crafting station in DMZ used to print gear and upgrade stations. The 3D printer itself can also be upgraded.
 
 ### Crafting
 
-According to player reports, DMZ armor is created using the 3D printer:
+According to player reports, DMZ armor is produced at the 3D printer:
 
-* **1-Plate Armor Vest:** Requires 25 Synthetics and 25 Metals to craft.
-* **Advanced Armor Types:** Reported to remain locked until their corresponding recipes are unlocked.
+* **1-Plate Armor Vest**: Reported to require 25 Synthetics and 25 Metals.
+* **Advanced Armor Types**: Players report that advanced armor options remain locked until their corresponding recipes are unlocked.
 
-*Note: Specific unlock requirements for the 3D Printer station itself have not been detailed.*
-
-_Generated from 0 confirmed and 6 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-07._
+_Generated from 0 confirmed and 6 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-08._
 <!-- generated:end -->
 
 <!-- human:start -->

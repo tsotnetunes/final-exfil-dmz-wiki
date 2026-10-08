@@ -1,18 +1,18 @@
 ---
 type: material
 title: "Reactive Metals"
-description: "Reactive Metals are a material reported by players to feed the 3D printer."
+description: "Reactive Metals are a material reported to feed the 3D printer."
 status: draft
 brain_status: candidate
 sensitivity: public
 sources: [clm_cde331b22aa0]
 ---
 <!-- generated:start -->
-Reactive Metals are a material used in printing processes.
+Reactive Metals are a material used in fabrication.
 
 * Players report that Reactive Metals feed the 3D printer.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-07._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-08._
 <!-- generated:end -->
 
 <!-- human:start -->

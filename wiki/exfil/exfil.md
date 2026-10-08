@@ -1,7 +1,7 @@
 ---
 type: exfil
 title: "Exfil: helicopters and skyhooks"
-description: "An overview of extraction shooter gameplay and related missions in Modern Warfare 4's DMZ mode."
+description: "Overview of extraction gameplay and related missions reported for Modern Warfare 4's DMZ."
 status: stable
 brain_status: published
 sensitivity: public
@@ -10,12 +10,12 @@ aliases: ["extraction", "skyhook"]
 method: helicopter|skyhook
 ---
 <!-- generated:start -->
-Exfil mechanics relate to extraction activities within the game's DMZ mode.
+DMZ features extraction shooter gameplay and related missions in Modern Warfare 4.
 
-* Players report that Modern Warfare 4's DMZ operates as an extraction shooter.
-* Operation Critical Extraction is reported by players to be a mission within DMZ.
+* Modern Warfare 4's DMZ is reported by players to be an extraction shooter.
+* Operation Critical Extraction is reported by players to be a mission in DMZ.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-07._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-08._
 <!-- generated:end -->
 
 <!-- human:start -->

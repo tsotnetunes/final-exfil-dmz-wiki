@@ -1,7 +1,7 @@
 ---
 type: trait
 title: "Trait Points and trait trees"
-description: "Traits are reported by players to be featured as part of progression in DMZ."
+description: "DMZ reportedly features traits as part of its progression system."
 status: stable
 brain_status: published
 sensitivity: public
@@ -13,7 +13,7 @@ tier: n/a
 <!-- generated:start -->
 Players report that DMZ includes traits as an element of progression.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-07._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-08._
 <!-- generated:end -->
 
 <!-- human:start -->
