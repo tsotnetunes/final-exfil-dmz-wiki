@@ -95,8 +95,8 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[src-activision-dmz-deep-dive-2026-06]] — Official pre-launch description of DMZ: Hajin Exclusion Zone and its POIs, missions, the FOB and its stations, traits, infil/exfil, threats, PvP systems, what … · **published**
 
 ## trait (6) in `wiki/trait/<id>.md`
-- [[adrenaline-burst]] — Adrenaline Burst is a trait reported to reset tactical sprint whenever an enemy is killed. · **candidate**
-- [[air-superiority]] — Players report that the Air Superiority trait causes captured SAM sites and UAV towers to stay captured for longer. · **candidate**
+- [[adrenaline-burst]] — Adrenaline Burst is reported by players to reset tactical sprint upon killing an enemy. · **candidate**
+- [[air-superiority]] — Air Superiority is a trait reported to extend the capture duration of SAM sites and UAV towers. · **candidate**
 - [[auto-fill]] — Auto Fill is a trait reported to automatically replenish lethals and tacticals. · **candidate**
 - [[quick-fix]] — Quick Fix is a DMZ trait reported by players to provide faster health regeneration. · **candidate**
 - [[trait-points]] — DMZ reportedly features traits as part of its progression system. · **published**

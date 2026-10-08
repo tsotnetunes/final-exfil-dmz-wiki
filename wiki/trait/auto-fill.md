@@ -5,12 +5,14 @@ description: "Auto Fill is a trait reported to automatically replenish lethals a
 status: draft
 brain_status: candidate
 sensitivity: public
-sources: [clm_afc354a32ecf]
+sources: [clm_afc354a32ecf, clm_6aac9d9c7dc0]
 ---
 <!-- generated:start -->
-Players report that Auto Fill causes lethals and tacticals to replenish automatically.
+The tree and tier for Auto Fill are currently undocumented.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-08._
+According to player reports, the Auto Fill trait causes lethals and tacticals to automatically replenish.
+
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-08._
 <!-- generated:end -->
 
 <!-- human:start -->
