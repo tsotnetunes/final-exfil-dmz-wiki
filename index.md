@@ -35,7 +35,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## glossary (2) in `wiki/glossary/<id>.md`
 - [[apex-attachment]] — A sixth attachment slot per weapon in the Gunsmith, on top of the usual five; what Apex Attachments do is not public before launch. · **published**
-- [[dmz]] — DMZ (MW4 DMZ) is an extraction shooter game mode reported to be available on day 1 for Modern Warfare 4 owners. · **published**
+- [[dmz]] — An overview of DMZ, an extraction shooter mode associated with Modern Warfare 4, detailing its release schedule and gameplay features. · **published**
 
 ## guide (1) in `wiki/guide/<id>.md`
 - [[modern-warfare-4]] — Explore Modern Warfare 4 details, including Vault Edition benefits, DMZ reveal schedules, and promotional campaign information. · **draft**
@@ -76,7 +76,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[paid-infil]] — Enter on foot quietly, or fast and loud by helicopter or large plane; vehicle drops are bought through the Paid Infil system (official, pre-launch). · **published**
 - [[proximity-chat]] — Voice between nearby players with distance-based falloff, directionality and environmental reverb (official, pre-launch). · **published**
 - [[radiation-storm]] — Radiation spreads across Hajin during a deployment; the Time Remaining timer shows when the storm intensifies; as it worsens, head for an exfil (official, 5 Oc… · **published**
-- [[rescue]] — Rescue is a mechanic that allows players to recover a fallen Operator along with their progressed Skill Tree and earned experience. · **draft**
+- [[rescue]] — Rescue allows players to recover a dead Operator, retaining their Skill Tree progress and earned experience by paying a rescue cost. · **draft**
 - [[secure-slots]] — Secure Slots protect carried items from being lost when failing to exfil. · **draft**
 - [[server-culling]] — Server Culling is a new anti-cheat mechanic introduced in Modern Warfare 4 to fight cheating. · **draft**
 - [[skill-trees]] — Learn about the Skill Tree mechanic, which is configured individually per Operator. · **draft**
@@ -129,7 +129,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 ## trait (6) in `wiki/trait/<id>.md`
 - [[adrenaline-burst]] — Adrenaline Burst is a trait reported by players to reset tactical sprint upon killing an enemy. · **candidate**
 - [[air-superiority]] — Air Superiority is reported to increase the duration that captured SAM sites and UAV towers remain under control. · **candidate**
-- [[auto-fill]] — Auto Fill is a trait reported to automatically replenish lethals and tacticals. · **candidate**
+- [[auto-fill]] — Auto Fill is a trait reported by players to automatically replenish lethals and tacticals. · **candidate**
 - [[quick-fix]] — Quick Fix is reported to grant faster health regeneration. · **candidate**
 - [[trait-points]] — An overview of available traits for operator customization, including Warfighter, Scout, and Survivalist. · **published**
 - [[viper-sense]] — Viper Sense is a DMZ trait reported to alert players to nearby enemy operators. · **candidate**
