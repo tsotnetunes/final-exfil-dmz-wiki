@@ -118,3 +118,7 @@
 ## [2026-10-09 00:51 EDT] edit | House style: no em dashes in page text, titles or cards (the site never shows one); rewrites by hand where a comma read badly
 - changed: index 10, index.md 1, wiki 25
 - run: r-20261009-005122-fcfb
+
+## [2026-10-09 05:00 EDT] render | 1 pages rendered, 107 claims, 103 evidence
+- changed: wiki 1, claims 1, evidence 1, index.md 1
+- run: r-20261009-090016-41bc
