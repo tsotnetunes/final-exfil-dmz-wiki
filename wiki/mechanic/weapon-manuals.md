@@ -5,7 +5,7 @@ description: "Weapon Manuals are items that unlock new weapons once located and 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9ee7db0a613a, src-activision-dmz-deep-dive-2026-06]
+sources: [clm_9ee7db0a613a, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["weapon manual"]
 ---
 <!-- generated:start -->
@@ -17,5 +17,5 @@ _Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Activision: weapon unlocks come from extracted Weapon Manuals and carry over [[src-activision-dmz-deep-dive-2026-06]].
+Extracting a weapon's Manual lets you buy that weapon in the [[gunsmith]] as often as you like [[src-activision-dmz-guide-part2-2026-10-09]]; weapon unlocks from Manuals carry over [[src-activision-dmz-deep-dive-2026-06]]. Like a Recipe, a Manual is consumed at exfil and pays 5,000 DMZ Cash [[src-activision-dmz-guide-part2-2026-10-09]].
 <!-- human:end -->

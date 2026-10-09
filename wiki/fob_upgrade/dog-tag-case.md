@@ -1,11 +1,11 @@
 ---
 type: fob_upgrade
 title: "Dog Tag Case"
-description: "An FOB station unlocked by playing: a trophy case for the dog tags you took from other players, where you can mark favourites to keep (official, 5 Oct guide)."
+description: "Unlocks at DMZ level 20: shows the dog tags you extracted (rarity, victim, killer, time); upgrades raise bounty payouts and add slots."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["tag case", "trophy case"]
 station: dog-tag-case
 unlock: progression
@@ -15,5 +15,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Your trophy case for dog tags taken from other players; mark favourites to keep them [[src-activision-dmz-guide-part1-2026-10-05]] [[src-playstation-blog-dmz-2026-10-05]]. Not to be confused with a Lieutenant's Dog Tag Case, the item that advances the [[boss-board]] ([[dog-tags]]).
+Unlocks at DMZ level 20 [[src-activision-dmz-guide-part2-2026-10-09]]. Your trophy case for dog tags you extracted after killing other players; mark favourites to keep them [[src-activision-dmz-guide-part1-2026-10-05]] [[src-playstation-blog-dmz-2026-10-05]]. Each tag shows its rarity (Steel to Onyx), the victim, the killer and the time [[src-activision-dmz-guide-part2-2026-10-09]]. DMZ levels upgrade it to pay more DMZ Cash from bounties, and 3D Printer upgrades add slots [[src-activision-dmz-guide-part2-2026-10-09]]. Not to be confused with a Lieutenant's Dog Tag Case, the item that advances the [[boss-board]] ([[dog-tags]]).
 <!-- human:end -->

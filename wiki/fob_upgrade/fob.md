@@ -1,11 +1,11 @@
 ---
 type: fob_upgrade
 title: "FOB (Forward Operating Base)"
-description: "The Forward Operating Base (FOB) is the starting point for deployments, featuring stations like the Vendor and Gunsmith alongside squad social spaces."
+description: "Your home between deployments; stations open from the start or by DMZ level: 3D Printer 2, Vendor 5, Gunsmith 10, Dog Tag Case 20, Boss Board after two Orders."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_46243e27d86a, clm_fd90953238b0, clm_c5bec6dd520b, clm_dffa557cf032, clm_f08caeac8e56, clm_be702dd26814, clm_0601ee8f8cb8, clm_d9ca819a3519, clm_b5908fa8c1b3, clm_311263850855, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05]
+sources: [clm_46243e27d86a, clm_fd90953238b0, clm_c5bec6dd520b, clm_dffa557cf032, clm_f08caeac8e56, clm_be702dd26814, clm_0601ee8f8cb8, clm_d9ca819a3519, clm_b5908fa8c1b3, clm_311263850855, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["Forward Operating Base", "the base"]
 station: hub
 unlock: start
@@ -26,11 +26,11 @@ _Generated from 3 confirmed and 6 reported claims across 9 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-The command centre between deployments; it grows from a foothold into a base with over a dozen stations as you complete operations [[src-activision-dmz-guide-part1-2026-10-05]].
+Your home between deployments: offload loot, gear up, take your next Orders; it grows from a foothold into a full base as you deploy [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]].
 
-**From the start:** Operators ([[active-duty]]), [[stash]] and loadout, DMZ Orders ([[orders]]), [[firing-range]], [[survival-kits]], and [[deploy]].
+**From the start:** Operators ([[active-duty]]), DMZ Orders ([[orders]]), [[stash]] and loadout, [[firing-range]], [[survival-kits]], [[bounty-leaderboard]], DMZ Progression ([[dmz-progression]]), Events and [[deploy]] [[src-activision-dmz-guide-part2-2026-10-09]].
 
-**Unlocked by playing:** [[3d-printer]], [[gunsmith]], the Vendor ([[weapon-vendor]]), [[bounty-leaderboard]], [[boss-board]], [[dog-tag-case]] and DMZ Progression ([[dmz-progression]]) [[src-activision-dmz-guide-part1-2026-10-05]] [[src-playstation-blog-dmz-2026-10-05]]. The [[wallet]] holds your DMZ Cash [[src-activision-dmz-deep-dive-2026-06]].
+**Unlocked by playing:** [[3d-printer]] at DMZ level 2, the [[boss-board]] after your second DMZ Order, the Vendor ([[weapon-vendor]]) at level 5, the [[gunsmith]] at level 10 and the [[dog-tag-case]] at level 20 [[src-activision-dmz-guide-part2-2026-10-09]]. Stations are upgraded at the 3D Printer.
 
-FOB upgrades and stash contents carry over between matches ([[what-carries-over]]). A full tour of every station was promised for the guide's Part 2, not published on 9 Oct.
+DMZ Cash in the Bank ([[wallet]]), the Stash, Resources and Ingredients are shared by all your Active Duty Operators [[src-activision-dmz-guide-part2-2026-10-09]]. What persists between matches: [[what-carries-over]].
 <!-- human:end -->

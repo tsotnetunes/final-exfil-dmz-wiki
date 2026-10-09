@@ -1,11 +1,11 @@
 ---
 type: glossary
 title: "DMZ (the mode)"
-description: "An overview of DMZ, an extraction shooter mode associated with Modern Warfare 4, detailing its release schedule and gameplay features."
+description: "Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5, clm_5e8135915868, clm_cc4819b844ec, clm_756ca3a1eee7, clm_ab07e6e3f11a, clm_4168264992cf, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-campaign-early-access-2026-06-12]
+sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5, clm_5e8135915868, clm_cc4819b844ec, clm_756ca3a1eee7, clm_ab07e6e3f11a, clm_4168264992cf, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-campaign-early-access-2026-06-12, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09]
 aliases: ["MW4 DMZ"]
 ---
 <!-- generated:start -->
@@ -22,5 +22,5 @@ _Generated from 2 confirmed and 4 reported claims across 6 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-DMZ launches with the full game on 23 Oct 2026, alongside Campaign and Multiplayer [[src-playstation-blog-dmz-2026-10-05]], on PS5, Xbox Series X|S, PC and Switch 2 [[src-activision-campaign-early-access-2026-06-12]]. Early access from 16 Oct is for the Campaign only (digital pre-orders) [[src-activision-campaign-early-access-2026-06-12]], so there is no DMZ before launch. Three ways to deploy: [[story-missions]], [[dynamic-operations]], [[free-roam]]. Its own level track: [[dmz-progression]].
+DMZ is the extraction mode of Call of Duty: Modern Warfare 4. Digital pre-orders and pre-purchases (Standard Digital or Vault Edition) get early access to all of DMZ from Tuesday 20 Oct 2026, four days after Campaign early access (16 Oct); the full game, DMZ included, launches on 23 Oct 2026 [[src-activision-dmz-guide-part2-2026-10-09]] [[src-xbox-wire-dmz-features-2026-10-09]], on PS5, Xbox Series X|S, PC and Switch 2 [[src-activision-campaign-early-access-2026-06-12]]. The story is set after the Campaign: a power vacuum in Hajin and a new threat to unmask [[src-xbox-wire-dmz-features-2026-10-09]]. Three ways to deploy: [[story-missions]], [[dynamic-operations]], [[free-roam]]. Its own level track: [[dmz-progression]].
 <!-- human:end -->

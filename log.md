@@ -138,3 +138,7 @@
 ## [2026-10-09 18:30 EDT] render | 3 pages rendered, 133 claims, 129 evidence
 - changed: wiki 3, claims 1, evidence 1, index.md 1
 - run: r-20261009-223027-dfce
+
+## [2026-10-09 19:54 EDT] ingest | Official DMZ guide Part 2 (9 Oct) and Xbox Wire: DMZ early access 20 Oct; FOB unlock levels, Operators, Traits, MIA, new Operator Prestige page, Bounties, recipes, Gunsmith, infil prices; Iskra unconfirmed; 4 golden questions
+- changed: .kac 1, evals 1, index 10, index.md 1, raw 1, wiki 41
+- run: r-20261009-195416-a7d4

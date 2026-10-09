@@ -65,3 +65,15 @@
 - id: g22
   question: What is the most dangerous area of Chang-san Air Base?
   must_retrieve: [chang-san-air-base]
+- id: g23
+  question: When does DMZ early access start?
+  must_retrieve: [dmz]
+- id: g24
+  question: How much does a helicopter or cargo plane infil cost?
+  must_retrieve: [paid-infil]
+- id: g25
+  question: How do I prestige an Operator and what does it cost?
+  must_retrieve: [operator-prestige]
+- id: g26
+  question: How do I get rid of my bounty?
+  must_retrieve: [bounty-system]

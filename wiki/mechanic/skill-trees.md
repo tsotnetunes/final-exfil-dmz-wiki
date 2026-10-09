@@ -16,4 +16,5 @@ _Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Skill trees are the Trait trees: Warfighter, Scout and Survivalist, per Operator. See [[trait-points]].
 <!-- human:end -->

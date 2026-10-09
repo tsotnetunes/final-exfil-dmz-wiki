@@ -16,4 +16,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+The same status as [[mia-system]]; see that page for recovery and costs.
 <!-- human:end -->

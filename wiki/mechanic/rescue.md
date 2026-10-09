@@ -5,7 +5,7 @@ description: "Rescue allows players to recover a dead Operator, retaining their 
 status: draft
 brain_status: draft
 sensitivity: public
-sources: [clm_bfbb935fbfc5, clm_ec258e1f0cc1, clm_bd9234fe0d96]
+sources: [clm_bfbb935fbfc5, clm_ec258e1f0cc1, clm_bd9234fe0d96, src-activision-dmz-guide-part2-2026-10-09]
 ---
 <!-- generated:start -->
 Rescue is a mechanic that allows players to recover a dead Operator by paying a rescue cost.
@@ -18,4 +18,5 @@ _Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Recovering an MIA Operator: see [[mia-system]]. Officially it costs DMZ Cash that rises with the Operator's Trait Points, and the Operator returns without gear [[src-activision-dmz-guide-part2-2026-10-09]]; the 50 in the generated text is a player report.
 <!-- human:end -->
