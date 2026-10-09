@@ -1,7 +1,7 @@
 ---
 type: fob_upgrade
 title: "Weapon Vendor"
-description: "The FOB Vendor sells weapons and other gear for DMZ Cash; its stock rotates every day, so buy what you need when you see it (official, unlocked by playing)."
+description: "An FOB station selling a rotating selection of pre-built weapons (official, pre-launch); prices and rotation cadence are not public."
 status: stable
 brain_status: published
 sensitivity: public

@@ -6,7 +6,6 @@ status: stable
 brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05]
-stale_after: 2026-11-23
 aliases: ["NK forces", "AI enemies", "Tier 1", "Tier 4", "K9", "drone swarm", "LMG drone", "convoy"]
 ---
 <!-- generated:start -->

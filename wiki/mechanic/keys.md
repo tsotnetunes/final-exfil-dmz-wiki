@@ -5,7 +5,6 @@ description: "Keys open special loot rooms; each key's description names its Tac
 status: stable
 brain_status: published
 sensitivity: public
-stale_after: 2026-11-23
 sources: [src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["key", "keys", "locked room", "loot room"]
 ---

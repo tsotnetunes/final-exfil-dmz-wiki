@@ -1,7 +1,7 @@
 ---
 type: exfil
 title: "Exfil: helicopters and skyhooks"
-description: "How to get out of Hajin: exfil sites marked by green smoke where you call the Twin Heli and hold, or a Fulton balloon or Flare instead (official, 5 Oct guide)."
+description: "Overview of extraction details in Modern Warfare 4's DMZ mode, including the Operation Critical Extraction mission."
 status: stable
 brain_status: published
 sensitivity: public

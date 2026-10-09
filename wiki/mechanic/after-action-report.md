@@ -5,7 +5,6 @@ description: "The end-of-deployment screen: loot and DMZ Cash banked, a rating f
 status: stable
 brain_status: published
 sensitivity: public
-stale_after: 2026-11-23
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05]
 aliases: ["AAR", "deployment rating", "S-Tier", "S++"]
 ---

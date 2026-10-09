@@ -5,7 +5,6 @@ description: "Radiation spreads across Hajin during a deployment; the Time Remai
 status: stable
 brain_status: published
 sensitivity: public
-stale_after: 2026-11-23
 sources: [src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["radiation", "Time Remaining", "storm", "radiation storm"]
 ---

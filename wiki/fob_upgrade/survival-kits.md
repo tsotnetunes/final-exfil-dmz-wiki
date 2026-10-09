@@ -6,7 +6,6 @@ status: stable
 brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05]
-stale_after: 2026-11-23
 aliases: ["Survival Kit"]
 station: survival-kits
 unlock: start

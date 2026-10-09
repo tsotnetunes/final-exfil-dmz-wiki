@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "14th Political Prison"
-description: "A walled NK prison in northwest Hajin around the Citadel, a Y-shaped fortress of walkways and cell blocks; Prison High, Citadel Critical (official, pre-launch)."
+description: "A fortified prison POI on Hajin, named by Activision among the key points of interest; details on enemies, loot and objectives are not public before launch."
 status: stable
 brain_status: published
 sensitivity: public
@@ -9,7 +9,6 @@ sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2
 region: Hajin
 danger: "high (the Citadel: critical)"
 loot_profile: unknown
-stale_after: 2026-11-23
 aliases: ["Prison complex", "the Citadel", "Political Prison", "Fortress Prison Yard"]
 ---
 <!-- generated:start -->

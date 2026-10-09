@@ -5,7 +5,6 @@ description: "DMZ vehicles on land, water and in the air need repair and fuel at
 status: stable
 brain_status: published
 sensitivity: public
-stale_after: 2026-11-23
 sources: [src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["vehicle", "Camper", "Sedan", "Grizzly", "Dreadnought", "Aston Martin Dreadnought", "Polaris Dagor A1", "LTV", "Cargo Truck", "D50 Radar Flatbed", "Train", "Tram", "RHIB", "Heli", "Heavy Chopper", "Monarch"]
 ---

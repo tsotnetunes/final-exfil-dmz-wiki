@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05]
 region: Hajin
-stale_after: 2026-11-23
 aliases: ["Cheongun", "Cheongun Outskirts", "Russian Border Crossing", "Russian Border"]
 danger: "low (casino: high)"
 loot_profile: mixed

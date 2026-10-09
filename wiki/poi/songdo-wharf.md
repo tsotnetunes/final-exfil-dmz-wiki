@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05]
 region: Hajin
-stale_after: 2026-11-23
 aliases: ["Songdo", "Oamsik Turtle Island", "Shoreline Station", "La Grande Vie"]
 danger: low
 loot_profile: mixed

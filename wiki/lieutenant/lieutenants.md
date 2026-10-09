@@ -1,7 +1,7 @@
 ---
 type: lieutenant
 title: "Lieutenants"
-description: "Lieutenants are named bosses with territories in Hajin: find them from Hunt towers or Boss Board intel; a kill pays XP, cash, their weapon, a Dog Tag Case and maybe a key (official)."
+description: "A summary of Lieutenants in DMZ, including player reports identifying Bale as a Lieutenant Boss."
 status: stable
 brain_status: published
 sensitivity: public

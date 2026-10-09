@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05]
 region: Hajin
-stale_after: 2026-11-23
 aliases: ["Chang-san", "Air Base", "air base bunker"]
 danger: "critical (bunker: extreme)"
 loot_profile: military

@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "Hajin City remains"
-description: "Hajin City, the ruined urban east of the map: NuriGO Mall, The Grid, Songdo Wharf, Wolves Stadium and Hajin River Heights (official districts, 5 Oct guide)."
+description: "The ruined city at the centre of the exclusion zone, one of the five named POIs; the official loot logic puts tactical gear in police stations and medical supplies in hospitals."
 status: stable
 brain_status: published
 sensitivity: public

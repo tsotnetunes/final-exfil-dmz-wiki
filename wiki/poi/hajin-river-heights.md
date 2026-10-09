@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05]
 region: Hajin
-stale_after: 2026-11-23
 aliases: ["River Heights", "South Island", "Jinseo Park Towers", "Compound Echo"]
 danger: medium
 loot_profile: mixed

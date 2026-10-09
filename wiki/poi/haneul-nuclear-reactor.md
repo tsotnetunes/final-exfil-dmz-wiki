@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "Haneul Nuclear Reactor"
-description: "The breached nuclear plant in northeast Hajin: severe radiation (suit and gas mask needed), Reactor High; reach it by water or a tunnel from Compound Delta (official, pre-launch)."
+description: "A nuclear reactor site reported by players to feature nearby secured bunkers."
 status: stable
 brain_status: published
 sensitivity: public
@@ -9,7 +9,6 @@ sources: [clm_9fe3feef9402, src-activision-dmz-guide-part1-2026-10-05]
 region: Hajin
 danger: high (radiation)
 loot_profile: unknown
-stale_after: 2026-11-23
 aliases: ["Fallout reactor", "Haneul", "Reactor 02", "South Korean Border Zone"]
 ---
 <!-- generated:start -->

@@ -5,7 +5,6 @@ description: "The recurring map markers in Hajin and what each is for: gas, fire
 status: stable
 brain_status: published
 sensitivity: public
-stale_after: 2026-11-23
 sources: [src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["Gas Station", "Marine Gas Station", "Fire Station", "Police Station", "Clinic", "Ammo & Armor Cache", "UAV Tower", "Compound", "Bounty Station", "SAM Site", "Lieutenant Hunt tower", "Armory"]
 ---

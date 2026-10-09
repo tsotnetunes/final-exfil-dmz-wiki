@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "LTV"
-description: "Retired: the LTV is a vehicle, not a weapon; it is described on the Vehicles page (official, 5 Oct guide)."
+description: "The LTV is reported to be an MW4 DMZ vehicle equipped with a mounted .50 Cal."
 status: deprecated
 brain_status: retired
 sensitivity: public

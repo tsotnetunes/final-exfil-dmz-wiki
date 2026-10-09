@@ -5,7 +5,6 @@ description: "DMZ has its own player level from 1 to 70 with an unlock at every 
 status: stable
 brain_status: published
 sensitivity: public
-stale_after: 2026-11-23
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05]
 aliases: ["DMZ Player Level", "Progression Track", "DMZ level", "level 70", "Dog Tag level", "Onyx III", "DMZ XP"]
 ---

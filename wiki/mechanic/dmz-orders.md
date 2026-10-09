@@ -1,12 +1,11 @@
 ---
 type: mechanic
 title: "DMZ Orders"
-description: "DMZ Orders are guided mission directives: onboarding, story and mastery objectives read at the FOB on an Orders Tablet or from the Tac-Map, and a top XP source (official)."
+description: "DMZ Orders are an objective mechanic featured in DMZ."
 status: stable
 brain_status: published
 sensitivity: public
 sources: [clm_2bfe53b8ed23, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05]
-stale_after: 2026-11-23
 aliases: ["Orders", "Orders Tablet", "Mission Directives"]
 ---
 <!-- generated:start -->

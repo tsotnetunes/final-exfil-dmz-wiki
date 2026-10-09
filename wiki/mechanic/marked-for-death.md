@@ -5,7 +5,6 @@ description: "Kill enough AI enemies in one deployment and the Hostiles Kill Cou
 status: stable
 brain_status: published
 sensitivity: public
-stale_after: 2026-11-23
 sources: [src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["Marked for Death", "Hunt Squad", "Hostiles Kill Count", "kill count"]
 ---

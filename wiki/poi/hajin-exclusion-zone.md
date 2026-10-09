@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "Hajin Exclusion Zone"
-description: "DMZ's launch map: a radiation-scarred zone on the former NK–SK border with over 60 named locations and 13 major POIs, from the 14th Political Prison to The Grid (official, 5 Oct)."
+description: "DMZ's launch map: a radiation-scarred exclusion zone after the campaign's reactor meltdown, with a fallout reactor, prison complex, Hajin City remains, a military base and a casino with a vault."
 status: stable
 brain_status: published
 sensitivity: public

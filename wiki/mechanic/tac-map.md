@@ -5,7 +5,6 @@ description: "The DMZ Tac-Map: objectives, POIs, threat areas, caches and spread
 status: stable
 brain_status: published
 sensitivity: public
-stale_after: 2026-11-23
 sources: [src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["map", "Tac Map", "grid", "coordinates", "HUD"]
 ---

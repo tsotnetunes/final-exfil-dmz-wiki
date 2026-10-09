@@ -1,7 +1,7 @@
 ---
 type: commander
 title: "Commander threats"
-description: "Commanders are roaming bosses — Colossus, Deathstalker, the Main NK Battle Tank — that resist standard weapons and drop prized 3D Printer ingredients (official, 5 Oct)."
+description: "Commander-tier enemies: tanks, drone swarms, Deathstalker helicopters, Juggernauts and Elite Strike Teams; attack and Deathstalker helicopters arrive as reinforcements at high threat (official)."
 status: stable
 brain_status: published
 sensitivity: public

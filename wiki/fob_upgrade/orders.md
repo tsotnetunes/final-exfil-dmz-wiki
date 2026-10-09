@@ -1,7 +1,7 @@
 ---
 type: fob_upgrade
 title: "Orders"
-description: "The FOB station where DMZ Orders are reviewed before a deployment; available from the start (official). How Orders work: see DMZ Orders."
+description: "The FOB station that tracks your objectives and missions between deployments (official, pre-launch)."
 status: stable
 brain_status: published
 sensitivity: public
