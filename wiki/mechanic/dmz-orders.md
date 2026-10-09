@@ -1,11 +1,13 @@
 ---
 type: mechanic
 title: "DMZ Orders"
-description: "DMZ Orders are an objective mechanic featured in DMZ."
-status: draft
-brain_status: draft
+description: "DMZ Orders are guided mission directives: onboarding, story and mastery objectives read at the FOB on an Orders Tablet or from the Tac-Map, and a top XP source (official)."
+status: stable
+brain_status: published
 sensitivity: public
-sources: [clm_2bfe53b8ed23]
+sources: [clm_2bfe53b8ed23, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05]
+stale_after: 2026-11-23
+aliases: ["Orders", "Orders Tablet", "Mission Directives"]
 ---
 <!-- generated:start -->
 DMZ Orders are a gameplay objective mechanic featured in DMZ.
@@ -16,4 +18,5 @@ _Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+DMZ Orders guide you through DMZ: they teach the core systems, tell the story, send you to different activities across Hajin and reward specific objectives; some need better gear or a full squad [[src-activision-dmz-guide-part1-2026-10-05]]. Read them at the FOB's DMZ Orders station on the Orders Tablet [[src-playstation-blog-dmz-2026-10-05]] or during a deployment from the [[tac-map]], where an order's location can be pinged; active orders also show on the right of the HUD. Completed orders appear in the [[after-action-report]]. Among the most reliable ways to level up ([[dmz-progression]]). The station: [[orders]].
 <!-- human:end -->

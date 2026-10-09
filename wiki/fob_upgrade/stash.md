@@ -5,9 +5,9 @@ description: "Learn about the DMZ Stash, its capacity, and reported options for 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_fe49071395d4, clm_52ae1fb94e2f, clm_972cffa0bd29, clm_cd43cdd0d14f, src-activision-dmz-deep-dive-2026-06]
+sources: [clm_fe49071395d4, clm_52ae1fb94e2f, clm_972cffa0bd29, clm_cd43cdd0d14f, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
 station: stash
-unlock: unknown
+unlock: start
 ---
 <!-- generated:start -->
 What players extract matters as they build up their Stash.
@@ -18,5 +18,5 @@ _Generated from 1 confirmed and 3 reported claims across 4 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Activision: “persistent inventory across deployments, expandable via ranking” [[src-activision-dmz-deep-dive-2026-06]]. See [[what-carries-over]].
+Persistent inventory across deployments, expandable via ranking [[src-activision-dmz-deep-dive-2026-06]]. Stores weapons, gear, 3D Printer ingredients and more; after every exfil, offload what you will need later, and set your loadout for the next infil here [[src-activision-dmz-guide-part1-2026-10-05]]. See [[what-carries-over]].
 <!-- human:end -->

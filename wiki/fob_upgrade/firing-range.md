@@ -5,9 +5,9 @@ description: "A forward operating base upgrade featuring a firing range reported
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_71239444e8f1, src-activision-dmz-deep-dive-2026-06]
+sources: [clm_71239444e8f1, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
 station: firing-range
-unlock: unknown
+unlock: start
 ---
 <!-- generated:start -->
 ### Overview
@@ -18,5 +18,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Listed among the FOB stations [[src-activision-dmz-deep-dive-2026-06]].
+Open from the start: test weapons, especially optics, in a wooded grove with targets from close range to more than 100 m [[src-activision-dmz-guide-part1-2026-10-05]].
 <!-- human:end -->

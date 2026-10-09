@@ -1,11 +1,11 @@
 ---
 type: weapon
 title: "LTV"
-description: "The LTV is reported to be an MW4 DMZ vehicle equipped with a mounted .50 Cal."
-status: draft
-brain_status: candidate
+description: "Retired: the LTV is a vehicle, not a weapon; it is described on the Vehicles page (official, 5 Oct guide)."
+status: deprecated
+brain_status: retired
 sensitivity: public
-sources: [clm_dd0f99a74b6d]
+sources: [clm_dd0f99a74b6d, src-activision-dmz-guide-part1-2026-10-05]
 ---
 <!-- generated:start -->
 ## Overview
@@ -20,4 +20,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 9 Oct 2026: the LTV is a vehicle; see [[vehicles]] [[src-activision-dmz-guide-part1-2026-10-05]].
 <!-- human:end -->

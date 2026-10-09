@@ -94,3 +94,7 @@
 ## [2026-10-08 20:00 EDT] render | 2 pages rendered, 106 claims, 102 evidence
 - changed: wiki 2, claims 1, evidence 1, index.md 1
 - run: r-20261009-000025-22fb
+
+## [2026-10-08 22:01 EDT] ingest | Official 5 Oct Hajin guide (Part 1), PlayStation Blog and Campaign early-access post: 13 POIs with threat levels, keys confirmed, vehicles, enemies, progression to 70, FOB stations; retire mistyped vehicle pages and the BO7 Void Claw page
+- changed: .kac 1, evals 1, index 17, index.md 1, raw 3, wiki 66
+- run: r-20261008-220151-1681

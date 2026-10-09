@@ -5,7 +5,7 @@ description: "The FOB (Forward Operating Base) serves as the starting point for 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_46243e27d86a, clm_fd90953238b0, clm_c5bec6dd520b, clm_dffa557cf032, clm_f08caeac8e56, clm_be702dd26814, clm_0601ee8f8cb8, clm_d9ca819a3519, src-activision-dmz-deep-dive-2026-06]
+sources: [clm_46243e27d86a, clm_fd90953238b0, clm_c5bec6dd520b, clm_dffa557cf032, clm_f08caeac8e56, clm_be702dd26814, clm_0601ee8f8cb8, clm_d9ca819a3519, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05]
 aliases: ["Forward Operating Base", "the base"]
 station: hub
 unlock: start
@@ -19,5 +19,11 @@ _Generated from 3 confirmed and 4 reported claims across 7 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-The central hub between deployments [[src-activision-dmz-deep-dive-2026-06]]. Stations: [[orders]], [[stash]], [[wallet]], [[3d-printer]], [[gunsmith]], [[weapon-vendor]], [[firing-range]], [[active-duty]], [[boss-board]], [[bounty-leaderboard]]. FOB upgrades and stash contents carry over between matches ([[what-carries-over]]).
+The command centre between deployments; it grows from a foothold into a base with over a dozen stations as you complete operations [[src-activision-dmz-guide-part1-2026-10-05]].
+
+**From the start:** Operators ([[active-duty]]), [[stash]] and loadout, DMZ Orders ([[orders]]), [[firing-range]], [[survival-kits]], and [[deploy]].
+
+**Unlocked by playing:** [[3d-printer]], [[gunsmith]], the Vendor ([[weapon-vendor]]), [[bounty-leaderboard]], [[boss-board]], [[dog-tag-case]] and DMZ Progression ([[dmz-progression]]) [[src-playstation-blog-dmz-2026-10-05]]. The [[wallet]] holds your DMZ Cash [[src-activision-dmz-deep-dive-2026-06]].
+
+FOB upgrades and stash contents carry over between matches ([[what-carries-over]]). A full tour of every station was promised for the guide's Part 2, not published on 9 Oct.
 <!-- human:end -->

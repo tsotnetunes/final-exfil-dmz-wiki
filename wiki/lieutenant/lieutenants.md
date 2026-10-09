@@ -1,12 +1,12 @@
 ---
 type: lieutenant
 title: "Lieutenants"
-description: "A summary of Lieutenants in DMZ, including player reports identifying Bale as a Lieutenant Boss."
+description: "Lieutenants are named bosses with territories in Hajin: find them from Hunt towers or Boss Board intel; a kill pays XP, cash, their weapon, a Dog Tag Case and maybe a key (official)."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_e9f8c69f2b20, clm_11c4521ef65f, clm_133be03ad563, src-activision-dmz-deep-dive-2026-06]
-aliases: ["bosses", "lieutenant"]
+sources: [clm_e9f8c69f2b20, clm_11c4521ef65f, clm_133be03ad563, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
+aliases: ["bosses", "lieutenant", "Lieutenant Hunt"]
 weapon: unique
 location: unknown
 drops: dog tags, weapon
@@ -28,5 +28,11 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Activision: Lieutenants are high-value targets with specialized units who carry “uniquely customized weapons featuring attachments and camouflage finishes”; the [[boss-board]] tracks them; their Dog Tags can be collected [[src-activision-dmz-deep-dive-2026-06]]. Each named Lieutenant gets its own `lieutenant` page once confirmed.
+**What they are.** High-value bosses with escorts, distinct fighting styles and more health, carrying customised weapons [[src-activision-dmz-deep-dive-2026-06]]. They are active in their territories whether you hunt them or not [[src-activision-dmz-guide-part1-2026-10-05]].
+
+**Finding one.** Buy intel at the [[boss-board]], climb a Lieutenant Hunt tower or a damaged radio tower and use the terminal at the top for a general location ([[side-ops]]).
+
+**The kill.** DMZ XP, DMZ Cash, their weapon, a Dog Tag Case and sometimes a Key to their own loot room ([[keys]]). Picking up the Case puts the tag on every Operator's map and broadcasts your position — a fast exfil is safest; leave it and you keep the XP and cash but the Boss Board does not advance ([[dog-tags]]).
+
+**Named so far.** [[gorani]] and [[the-warden]] (official field reports); [[roze]] (reported from posts). [[bale]] appears in the guide without a rank.
 <!-- human:end -->

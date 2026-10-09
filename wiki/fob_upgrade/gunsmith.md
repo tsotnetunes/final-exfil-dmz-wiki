@@ -5,9 +5,9 @@ description: "The Gunsmith is an FOB upgrade station reported to feature a vendo
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_7bd9889680ab, src-activision-dmz-deep-dive-2026-06]
+sources: [clm_7bd9889680ab, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05]
 station: gunsmith
-unlock: unknown
+unlock: progression
 ---
 <!-- generated:start -->
 ### Station
@@ -18,5 +18,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Activision: “up to 5 attachments plus 1 Apex Attachment per weapon” [[src-activision-dmz-deep-dive-2026-06]]. See [[apex-attachment]].
+Spend DMZ Cash on attachments for weapons you looted, or build new weapons from scratch; which weapons you can build grows with the [[weapon-manuals]] you extract, and the attachments on offer depend on the weapon's level and its shared unlocks [[src-activision-dmz-guide-part1-2026-10-05]] [[src-playstation-blog-dmz-2026-10-05]]. Up to 5 attachments plus 1 Apex Attachment per weapon [[src-activision-dmz-deep-dive-2026-06]] — see [[apex-attachment]]. Unlocked by playing ([[fob]]).
 <!-- human:end -->

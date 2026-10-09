@@ -1,11 +1,11 @@
 ---
 type: poi
 title: "Fallout reactor"
-description: "An irradiated POI around the reactor whose meltdown created the exclusion zone; expect radiation hazards and high-value military technology nearby (official description, pre-launch)."
-status: stable
-brain_status: published
+description: "Retired: the official name is Haneul Nuclear Reactor (guide of 5 Oct 2026); see that page."
+status: deprecated
+brain_status: retired
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06]
+sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
 region: Hajin
 danger: high
 loot_profile: unknown
@@ -15,5 +15,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Listed by Activision as an irradiated area [[src-activision-dmz-deep-dive-2026-06]]. Nothing official yet on protective gear, loot or enemies there; community reports after launch go in the generated zone.
+Retired on 9 Oct 2026: the 5 Oct guide names this place the [[haneul-nuclear-reactor]], which now holds its details [[src-activision-dmz-guide-part1-2026-10-05]].
 <!-- human:end -->

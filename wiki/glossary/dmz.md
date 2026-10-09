@@ -5,7 +5,7 @@ description: "DMZ (MW4 DMZ) is an extraction shooter game mode reported to be av
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5, clm_5e8135915868, src-activision-dmz-deep-dive-2026-06]
+sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5, clm_5e8135915868, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-campaign-early-access-2026-06-12]
 aliases: ["MW4 DMZ"]
 ---
 <!-- generated:start -->
@@ -18,5 +18,5 @@ _Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-DMZ ships day one with MW4 (early access 16 Oct, launch 23 Oct 2026) on PS5, Xbox Series X|S, PC and Switch 2 [[src-activision-dmz-deep-dive-2026-06]]. Three ways to play: [[story-missions]], [[dynamic-operations]], [[free-roam]].
+DMZ launches with the full game on 23 Oct 2026, alongside Campaign and Multiplayer [[src-playstation-blog-dmz-2026-10-05]], on PS5, Xbox Series X|S, PC and Switch 2. Early access from 16 Oct is for the Campaign only (digital pre-orders) [[src-activision-campaign-early-access-2026-06-12]] — no DMZ before launch. Three ways to deploy: [[story-missions]], [[dynamic-operations]], [[free-roam]]. Its own level track: [[dmz-progression]].
 <!-- human:end -->

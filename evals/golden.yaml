@@ -34,4 +34,34 @@
   must_retrieve: [dynamic-operations]
 - id: g12
   question: Are there keys in MW4 DMZ?
-  must_retrieve: [open-questions]
+  must_retrieve: [keys]
+- id: g13
+  question: What is the highest DMZ level?
+  must_retrieve: [dmz-progression]
+- id: g14
+  question: How do I pay off my own bounty?
+  must_retrieve: [bounty-system]
+- id: g15
+  question: Where do I repair and refuel a vehicle?
+  must_retrieve: [vehicles]
+- id: g16
+  question: What are the threat levels in Hajin?
+  must_retrieve: [threat-escalation]
+- id: g17
+  question: Can I play DMZ in early access?
+  must_retrieve: [dmz]
+- id: g18
+  question: What is the Citadel?
+  must_retrieve: [prison-complex]
+- id: g19
+  question: Where is the Heavenly Luck Casino?
+  must_retrieve: [casino]
+- id: g20
+  question: What happens when the Hostiles Kill Count fills up?
+  must_retrieve: [marked-for-death]
+- id: g21
+  question: Which commanders roam Hajin?
+  must_retrieve: [commander-threats]
+- id: g22
+  question: What is the most dangerous area of Chang-san Air Base?
+  must_retrieve: [chang-san-air-base]
