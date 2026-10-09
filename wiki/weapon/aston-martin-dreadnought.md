@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "Aston Martin Dreadnought"
-description: "The Aston Martin Dreadnought is reported by players to be an armored SUV vehicle in MW4 DMZ."
+description: "Retired: the Dreadnought is a vehicle, not a weapon; it is described on the Vehicles page (official, 5 Oct guide)."
 status: deprecated
 brain_status: retired
 sensitivity: public

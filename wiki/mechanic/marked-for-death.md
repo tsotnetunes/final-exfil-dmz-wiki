@@ -13,5 +13,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-A HUD meter counts the enemy combatants you eliminate in the current deployment. When it fills, an enemy Hunt Squad is dispatched to track you down and you are Marked for Death [[src-activision-dmz-guide-part1-2026-10-05]]. Not the same as a player [[bounty-system]] bounty or a [[threat-escalation]] response, which work per area. The kill number that fills the meter is not published.
+A HUD meter counts the enemy combatants you eliminate in the current deployment. Fill it and the enemy sends a Hunt Squad after you: you become Marked for Death [[src-activision-dmz-guide-part1-2026-10-05]]. Not the same as a player [[bounty-system]] bounty or a [[threat-escalation]] response, which work per area. The kill number that fills the meter is not published.
 <!-- human:end -->

@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "Heavenly Luck Casino"
-description: "A casino POI with a vault, named by Activision among Hajin's key points of interest; how the vault opens and what it holds is not public before launch."
+description: "A dark, multi-floor casino with an underground car park in Cheongun Village, northern Hajin; expected threat High, NVGs advised (official, pre-launch)."
 status: stable
 brain_status: published
 sensitivity: public

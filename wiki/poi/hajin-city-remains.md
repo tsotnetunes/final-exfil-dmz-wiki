@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "Hajin City remains"
-description: "The ruined city at the centre of the exclusion zone, one of the five named POIs; the official loot logic puts tactical gear in police stations and medical supplies in hospitals."
+description: "Hajin City, the ruined urban east of the map: NuriGO Mall, The Grid, Songdo Wharf and Wolves Stadium, with Hajin River Heights to the southeast (official, 5 Oct guide)."
 status: stable
 brain_status: published
 sensitivity: public
@@ -15,5 +15,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-The June intel's "Hajin City remains" [[src-activision-dmz-deep-dive-2026-06]] is, in the 5 Oct guide, the urban east of the map with five districts: [[nurigo-mall]], [[the-grid]], [[songdo-wharf]], [[wolves-stadium]] and [[hajin-river-heights]] [[src-activision-dmz-guide-part1-2026-10-05]]. An elevated monorail (the Tram) loops around the city and trains still run along the wharf ([[vehicles]]). Police stations hold tactical gear, hospitals medical supplies, residential districts crafting resources ([[loot-placement]]).
+The June intel's "Hajin City remains" [[src-activision-dmz-deep-dive-2026-06]] is, in the 5 Oct guide, the urban east of the map: [[nurigo-mall]], [[the-grid]], [[songdo-wharf]] and [[wolves-stadium]] are placed in Hajin City, with the residential [[hajin-river-heights]] to its southeast [[src-activision-dmz-guide-part1-2026-10-05]]. An elevated monorail (the Tram) loops around the city and trains still run along the wharf ([[vehicles]]). Police stations hold tactical gear, hospitals medical supplies, residential districts crafting resources ([[loot-placement]]).
 <!-- human:end -->

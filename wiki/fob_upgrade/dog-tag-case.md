@@ -1,7 +1,7 @@
 ---
 type: fob_upgrade
 title: "Dog Tag Case"
-description: "An FOB station unlocked by playing that displays the dog tags taken from defeated Operators; favourite the ones you do not want to lose (official, 5 Oct guide)."
+description: "An FOB station unlocked by playing: a trophy case for the dog tags you took from other players, where you can mark favourites to keep (official, 5 Oct guide)."
 status: stable
 brain_status: published
 sensitivity: public
@@ -15,5 +15,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Shows the Dog Tags you collected from defeated Operators — your trophies — and lets you favourite the ones you do not want to lose [[src-activision-dmz-guide-part1-2026-10-05]] [[src-playstation-blog-dmz-2026-10-05]]. Not to be confused with a Lieutenant's Dog Tag Case, the item that advances the [[boss-board]] ([[dog-tags]]).
+Your trophy case for dog tags taken from other players; mark favourites to keep them [[src-activision-dmz-guide-part1-2026-10-05]] [[src-playstation-blog-dmz-2026-10-05]]. Not to be confused with a Lieutenant's Dog Tag Case, the item that advances the [[boss-board]] ([[dog-tags]]).
 <!-- human:end -->

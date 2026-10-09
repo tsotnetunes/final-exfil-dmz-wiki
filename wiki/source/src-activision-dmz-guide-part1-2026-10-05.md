@@ -15,5 +15,5 @@ _Not rendered: source pages are written by people._
 <!-- generated:end -->
 
 <!-- human:start -->
-The strongest pre-launch source so far, published 5 Oct 2026 and read in a browser on 9 Oct; the raw file restates its facts in our words. Where it differs from the June initial intel [[src-activision-dmz-deep-dive-2026-06]] it wins: official place names, threat levels, keys. Part 2 (every FOB station in full, Bounties, Operator prestige) was announced for the same week and was not out on 9 Oct. Everything here is the developer's description before release and may change at launch (23 Oct 2026).
+The strongest pre-launch source so far, published 5 Oct 2026 and read in a browser on 9 Oct; the raw file restates its facts in our words. Where it differs from the June initial intel [[src-activision-dmz-deep-dive-2026-06]] it wins: official place names, threat levels, keys. Correction to the raw extract (evidence is not edited): after a Lieutenant kill the tag shows on every Operator's map, and picking up the Dog Tag Case also broadcasts your position. Part 2 (every FOB station in full, Bounties, Operator prestige) was announced for the same week and was not out on 9 Oct. Everything here is the developer's description before release and may change at launch (23 Oct 2026).
 <!-- human:end -->

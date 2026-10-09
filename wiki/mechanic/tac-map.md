@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-**What it shows.** Mission objectives, key POIs, critical threat areas, enemy Compounds, key buildings (police stations, clinics, gas and fire stations), Ammo and Armor Caches, the spreading radiation ([[radiation-storm]]), your position and heading, nearby enemies and pings. From it you can ping, cancel your current Op and read your [[dmz-orders]] [[src-activision-dmz-guide-part1-2026-10-05]].
+**What it shows.** Your objectives and the main places, dangerous zones and enemy Compounds, useful buildings and caches ([[locations-of-interest]]), where the radiation is spreading ([[radiation-storm]]), and you, nearby enemies and your squad's pings. From it you can ping, cancel your current Op and read your [[dmz-orders]] [[src-activision-dmz-guide-part1-2026-10-05]].
 
 **Grid.** Letters run west to east and numbers north to south; D7, for example, is [[imjin-farmland]]. Every key's description gives its grid square ([[keys]]).
 

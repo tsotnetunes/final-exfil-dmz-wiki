@@ -16,7 +16,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-**Where.** Eastern Hajin City, former South Korean side, from the edge of the nuclear site in the north to the south fork of the Hajin River [[src-activision-dmz-guide-part1-2026-10-05]].
+**Where.** Eastern Hajin City, former South Korean side, between the nuclear site to the north and the river's south fork [[src-activision-dmz-guide-part1-2026-10-05]].
 
 **Threat.** Songdo Wharf Low; Oamsik Turtle Island Low; Shoreline Station Low.
 

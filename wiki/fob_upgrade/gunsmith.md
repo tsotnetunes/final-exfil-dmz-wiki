@@ -1,7 +1,7 @@
 ---
 type: fob_upgrade
 title: "Gunsmith"
-description: "The Gunsmith is an FOB upgrade station reported to feature a vendor with daily rotating stock."
+description: "The FOB Gunsmith: spend DMZ Cash on attachments for looted weapons or build new ones; extracted Weapon Manuals widen what you can build (official, unlocked by playing)."
 status: stable
 brain_status: published
 sensitivity: public

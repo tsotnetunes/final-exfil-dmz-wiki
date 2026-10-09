@@ -1,7 +1,7 @@
 ---
 type: lieutenant
 title: "Lieutenants"
-description: "A summary of Lieutenants in DMZ, including player reports identifying Bale as a Lieutenant Boss."
+description: "Lieutenants are named bosses in Hajin: find them from Hunt towers or Boss Board intel; a kill pays XP, cash, their weapon, a Dog Tag Case and maybe a key (official)."
 status: stable
 brain_status: published
 sensitivity: public
@@ -28,11 +28,11 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-**What they are.** High-value bosses with escorts, distinct fighting styles and more health, carrying customised weapons [[src-activision-dmz-deep-dive-2026-06]]. They are active in their territories whether you hunt them or not [[src-activision-dmz-guide-part1-2026-10-05]].
+**What they are.** High-value bosses with escorts, distinct fighting styles and more health, carrying customised weapons [[src-activision-dmz-deep-dive-2026-06]]. They may be active whether you track them or not, so check their known territories [[src-activision-dmz-guide-part1-2026-10-05]].
 
 **Finding one.** Buy intel at the [[boss-board]], climb a Lieutenant Hunt tower or a damaged radio tower and use the terminal at the top for a general location ([[side-ops]]).
 
-**The kill.** DMZ XP, DMZ Cash, their weapon, a Dog Tag Case and sometimes a Key to their own loot room ([[keys]]). Picking up the Case puts the tag on every Operator's map and broadcasts your position — a fast exfil is safest; leave it and you keep the XP and cash but the Boss Board does not advance ([[dog-tags]]).
+**The kill.** DMZ XP, DMZ Cash, their weapon, a Dog Tag Case and sometimes a Key to their own loot room ([[keys]]). After the kill the tag shows on every Operator's Tac-Map, and picking up the Case also broadcasts your position — a fast exfil is safest; leave it and you keep the XP and cash but the Boss Board does not advance ([[dog-tags]]).
 
 **Named so far.** [[gorani]] and [[the-warden]] (official field reports); [[roze]] (reported from posts). [[bale]] appears in the guide without a rank.
 <!-- human:end -->

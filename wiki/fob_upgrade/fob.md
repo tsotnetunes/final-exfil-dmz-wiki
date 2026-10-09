@@ -23,7 +23,7 @@ The command centre between deployments; it grows from a foothold into a base wit
 
 **From the start:** Operators ([[active-duty]]), [[stash]] and loadout, DMZ Orders ([[orders]]), [[firing-range]], [[survival-kits]], and [[deploy]].
 
-**Unlocked by playing:** [[3d-printer]], [[gunsmith]], the Vendor ([[weapon-vendor]]), [[bounty-leaderboard]], [[boss-board]], [[dog-tag-case]] and DMZ Progression ([[dmz-progression]]) [[src-playstation-blog-dmz-2026-10-05]]. The [[wallet]] holds your DMZ Cash [[src-activision-dmz-deep-dive-2026-06]].
+**Unlocked by playing:** [[3d-printer]], [[gunsmith]], the Vendor ([[weapon-vendor]]), [[bounty-leaderboard]], [[boss-board]], [[dog-tag-case]] and DMZ Progression ([[dmz-progression]]) [[src-activision-dmz-guide-part1-2026-10-05]] [[src-playstation-blog-dmz-2026-10-05]]. The [[wallet]] holds your DMZ Cash [[src-activision-dmz-deep-dive-2026-06]].
 
 FOB upgrades and stash contents carry over between matches ([[what-carries-over]]). A full tour of every station was promised for the guide's Part 2, not published on 9 Oct.
 <!-- human:end -->

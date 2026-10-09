@@ -1,7 +1,7 @@
 ---
 type: fob_upgrade
 title: "Deploy"
-description: "The always-open FOB station that starts a deployment: through the razor wire to a heavy-lift transport helicopter bound for Hajin (official, 5 Oct guide)."
+description: "The always-open FOB station that starts a deployment: walk through the wire to the big transport helicopter that flies you into Hajin (official, 5 Oct guide)."
 status: stable
 brain_status: published
 sensitivity: public
@@ -15,5 +15,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-The last station, always available: a gap in the razor wire leads to a heavy-lift military transport helicopter where every DMZ deployment begins [[src-activision-dmz-guide-part1-2026-10-05]]. Choose a deployment first — [[story-missions]], [[dynamic-operations]] or [[free-roam]] [[src-playstation-blog-dmz-2026-10-05]]. Other ways in: [[paid-infil]].
+Always available: walk through the wire to the big transport helicopter that flies every deployment in [[src-activision-dmz-guide-part1-2026-10-05]]. Choose a deployment first — [[story-missions]], [[dynamic-operations]] or [[free-roam]] [[src-playstation-blog-dmz-2026-10-05]]. Other ways in: [[paid-infil]].
 <!-- human:end -->

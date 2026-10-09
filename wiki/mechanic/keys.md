@@ -17,5 +17,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 **Where keys come from.** A killed Lieutenant may drop a Key to their own special loot room ([[lieutenants]]); other sources are not described yet.
 
-**Finding the room.** Doors locked from the inside have another way in, and rural areas hide underground entrances. The guide's field report has a key from [[the-warden]] opening a sealed room beneath [[nurigo-mall]] that held a plate carrier recipe, rare components and a weapon manual.
+**Related looting tips** in the guide (not tied to keys there): a door locked from the inside has another way in, and rural areas hide underground entrances. The guide's field report has a key from [[the-warden]] opening a sealed room beneath [[nurigo-mall]] that held a plate carrier recipe, rare components and a weapon manual.
 <!-- human:end -->

@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "Polaris Dagor A1"
-description: "The Polaris Dagor A1 is reported by players to be a vehicle in MW4 DMZ that carries an entire squad."
+description: "Retired: the Polaris Dagor A1 is a vehicle, not a weapon; it is described on the Vehicles page (official, 5 Oct guide)."
 status: deprecated
 brain_status: retired
 sensitivity: public

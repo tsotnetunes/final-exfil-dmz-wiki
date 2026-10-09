@@ -1,7 +1,7 @@
 ---
 type: exfil
 title: "Exfil: helicopters and skyhooks"
-description: "Overview of extraction details in Modern Warfare 4's DMZ mode, including the Operation Critical Extraction mission."
+description: "How to get out of Hajin: exfil sites marked by green smoke where you call the Twin Heli and hold, or a Fulton balloon or Flare instead (official, 5 Oct guide)."
 status: stable
 brain_status: published
 sensitivity: public
@@ -20,5 +20,5 @@ _Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-**Exfil sites** are switched on from a pool of locations and marked by a plume of green smoke. Call the Twin Heli Exfil helicopter, hold the site while enemy pressure builds, and board to end the deployment [[src-activision-dmz-guide-part1-2026-10-05]]. **Alternatives:** a Fulton balloon (probably the skyhooks of the June intel [[src-activision-dmz-deep-dive-2026-06]]) or a Flare. **Risk:** other squads use exfil sites for ambushes, and exfil flares are loud and seen from far away. Watch the [[radiation-storm]] timer. Picking up a Lieutenant's Dog Tag Case broadcasts your position, making a quick exfil the safe choice ([[lieutenants]]). What happens when you do not get out: [[mia-system]], [[dog-tags]].
+**Exfil sites** change from match to match and show as green smoke. Call in the Twin Heli, defend the spot against the rising enemy response until it lands, then board to finish [[src-activision-dmz-guide-part1-2026-10-05]]. **Alternatives:** a Fulton balloon (probably the skyhooks of the June intel [[src-activision-dmz-deep-dive-2026-06]]) or a Flare. **Risk:** other squads use exfil sites for ambushes, and exfil flares are loud and seen from far away. Watch the [[radiation-storm]] timer. Picking up a Lieutenant's Dog Tag Case broadcasts your position, making a quick exfil the safe choice ([[lieutenants]]). What happens when you do not get out: [[mia-system]], [[dog-tags]].
 <!-- human:end -->

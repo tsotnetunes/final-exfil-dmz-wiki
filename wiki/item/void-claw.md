@@ -1,7 +1,7 @@
 ---
 type: item
 title: "Void Claw"
-description: "The Void Claw is an item previously affected by an issue causing players to lose it when picking up items."
+description: "Retired: the Void Claw belongs to Black Ops 7 Zombies, not MW4 DMZ; it came in from an official post about another game."
 status: deprecated
 brain_status: retired
 sensitivity: public

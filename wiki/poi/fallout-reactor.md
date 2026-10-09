@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "Fallout reactor"
-description: "An irradiated POI around the reactor whose meltdown created the exclusion zone; expect radiation hazards and high-value military technology nearby (official description, pre-launch)."
+description: "Retired: the official name is Haneul Nuclear Reactor (guide of 5 Oct 2026); see that page."
 status: deprecated
 brain_status: retired
 sensitivity: public

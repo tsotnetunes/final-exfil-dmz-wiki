@@ -16,5 +16,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Named in the 5 Oct guide's field report "Gone to the Dogs" [[src-activision-dmz-guide-part1-2026-10-05]]: after a long chase through the northern hills, the Warden is killed at long range and drops a Key stamped with the location of a sealed door beneath [[nurigo-mall]]; the room held a plate carrier recipe, rare components and a weapon manual, guarded by robotic K9 units ([[north-korean-forces]]). The report is the developer's fiction; it shows how Lieutenant keys work ([[keys]]).
+Named in the 5 Oct guide's field report "Gone to the Dogs" [[src-activision-dmz-guide-part1-2026-10-05]]: after a long chase through the northern hills, the Warden is killed at long range and drops a Key stamped with the location of a sealed door beneath [[nurigo-mall]]; the room held a plate carrier recipe, rare components and a weapon manual, guarded by robotic K9 units ([[north-korean-forces]]). The report is short fiction in Activision's guide; it shows how Lieutenant keys work ([[keys]]).
 <!-- human:end -->

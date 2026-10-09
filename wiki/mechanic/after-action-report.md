@@ -15,7 +15,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- human:start -->
 Shown after every deployment, whether you extracted or not [[src-activision-dmz-guide-part1-2026-10-05]]:
 
-- **Report** — items and resources gathered (valuables, 3D Printer ingredients, rare items) and DMZ Cash found or earned from operations; the cash total goes into your Bank; the Backpack and Loadout contents are listed.
+- **Report** — what you brought back — valuables, printer ingredients, rare finds — and the DMZ Cash you picked up or earned; the cash lands in your Bank; the Backpack and Loadout contents are listed.
 - **Rating** — F to S++, from your Objectives, Combat and Looting, with totals for AI kills, missions completed, loot containers opened and Side Ops completed, each with its XP. An S-tier rating or better earns the best rewards [[src-playstation-blog-dmz-2026-10-05]].
 - **Level** — XP goes to your DMZ Player Level ([[dmz-progression]]) and your Dog Tag level.
 - **Summary** — DMZ Orders completed and their rewards; weapon level-ups follow back at the [[fob]].

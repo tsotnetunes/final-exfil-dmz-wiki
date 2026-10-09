@@ -1,7 +1,7 @@
 ---
 type: mechanic
 title: "Radiation storm and Time Remaining"
-description: "Radiation spreads across Hajin during a deployment; the Time Remaining timer shows when the storm intensifies, so you need to reach an exfil before then (official, 5 Oct)."
+description: "Radiation spreads across Hajin during a deployment; the Time Remaining timer shows when the storm intensifies; as it worsens, head for an exfil (official, 5 Oct)."
 status: stable
 brain_status: published
 sensitivity: public

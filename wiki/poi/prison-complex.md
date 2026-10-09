@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "14th Political Prison"
-description: "A fortified prison POI on Hajin, named by Activision among the key points of interest; details on enemies, loot and objectives are not public before launch."
+description: "A walled NK prison in northwest Hajin around the Citadel, a Y-shaped fortress of walkways and cell blocks; Prison High, Citadel Critical (official, pre-launch)."
 status: stable
 brain_status: published
 sensitivity: public
