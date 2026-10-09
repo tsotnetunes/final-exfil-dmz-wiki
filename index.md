@@ -31,10 +31,10 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## glossary (2) in `wiki/glossary/<id>.md`
 - [[apex-attachment]] — A sixth attachment slot per weapon in the Gunsmith, on top of the usual five; what Apex Attachments do is not public before launch. · **published**
-- [[dmz]] — DMZ is an extraction shooter mode reported to be available on day 1 for Modern Warfare 4 owners. · **published**
+- [[dmz]] — DMZ (MW4 DMZ) is an extraction shooter game mode reported to be available on day 1 for Modern Warfare 4 owners. · **published**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Learn about reported advertising for Call of Duty's Modern Warfare 4 on the Joe Rogan Experience podcast. · **candidate**
+- [[modern-warfare-4]] — Learn about reported promotional advertisements for Modern Warfare 4 on the Joe Rogan Experience podcast. · **candidate**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ before launch: keys and locked spaces, squad size, wipes, map size, the Warzone relationship, seasonal roadmap. Answered items … · **published**
