@@ -1,15 +1,21 @@
 ---
 type: mechanic
 title: "DMZ progression: levels 1–70 and Dog Tag levels"
-description: "DMZ has its own player level from 1 to 70 with an unlock at every level, plus a Dog Tag level from Steel to Onyx III (18 levels) that awards a Trait each step (official, 5 Oct)."
+description: "DMZ progression spans 70 levels, granting FOB stations, upgrades, and crafting recipes, with DMZ XP awarded even if an exfiltration fails."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05]
+sources: [clm_ddf327b1e62d, clm_43eb9661dfec, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05]
 aliases: ["DMZ Player Level", "Progression Track", "DMZ level", "level 70", "Dog Tag level", "Onyx III", "DMZ XP"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+DMZ progression tracks player development across multiple levels, granting access to essential operational unlocks and upgrades through earned experience.
+
+* DMZ progression spans 70 levels.
+* Progression is used to unlock FOB stations, upgrades, and crafting recipes.
+* Players earn DMZ XP even if they fail to exfil.
+
+_Generated from 2 confirmed and 0 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-09._
 <!-- generated:end -->
 
 <!-- human:start -->

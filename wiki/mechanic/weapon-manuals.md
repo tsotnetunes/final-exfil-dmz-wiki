@@ -1,15 +1,19 @@
 ---
 type: mechanic
 title: "Weapon Manuals"
-description: "Items found in the zone that unlock weapons when you exfil with them; unlocks carry over (official, pre-launch)."
+description: "Weapon Manuals are items that unlock new weapons once located and successfully extracted."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06]
+sources: [clm_9ee7db0a613a, src-activision-dmz-deep-dive-2026-06]
 aliases: ["weapon manual"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Weapon Manuals are items required to expand an arsenal. Locating and successfully extracting with these items unlocks new weapons.
+
+* Finding and extracting Weapon Manuals unlocks new weapons.
+
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-09._
 <!-- generated:end -->
 
 <!-- human:start -->
