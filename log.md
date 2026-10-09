@@ -110,3 +110,7 @@
 ## [2026-10-08 22:24 EDT] edit | Fact-check of the 5 Oct guide pages (applied): soften overstated lines, fix the Gunsmith card, cite platforms, rephrase near-quotes; cards also set in the app (import keeps existing cards)
 - changed: index 8, wiki 37
 - run: r-20261008-222434-0ea3
+
+## [2026-10-08 23:18 EDT] render | 30 pages rendered, 106 claims, 102 evidence
+- changed: wiki 30, claims 1, evidence 1, index.md 1
+- run: r-20261009-031830-b9db

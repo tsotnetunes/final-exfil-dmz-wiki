@@ -1,7 +1,7 @@
 ---
 type: fob_upgrade
 title: "Firing Range"
-description: "A forward operating base upgrade featuring a firing range reported to include targets past 100 meters."
+description: "The Firing Range is reported by players to feature targets set beyond 100 meters."
 status: stable
 brain_status: published
 sensitivity: public
@@ -10,11 +10,9 @@ station: firing-range
 unlock: start
 ---
 <!-- generated:start -->
-### Overview
+The Firing Range is reported by players to contain targets located past 100 meters.
 
-The Firing Range is an upgrade station. Players report that the range features targets set past 100 meters.
-
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-07._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-09._
 <!-- generated:end -->
 
 <!-- human:start -->

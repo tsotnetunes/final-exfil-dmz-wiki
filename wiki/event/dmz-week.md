@@ -1,21 +1,19 @@
 ---
 type: event
 title: "DMZ Week"
-description: "DMZ Week is an event for Modern Warfare 4 starting October 4 that features information on the Hajin location."
+description: "DMZ Week is a Modern Warfare 4 event starting October 4 that includes details on the Hajin location."
 status: draft
 brain_status: draft
 sensitivity: public
 sources: [clm_a58e0e4d94d1, clm_3f7252837995]
 ---
 <!-- generated:start -->
-DMZ Week is an event for Modern Warfare 4 that highlights game details.
+DMZ Week is an event for Modern Warfare 4.
 
-## Details
+* The event starts on October 4.
+* It includes information on the Hajin location.
 
-- The event begins on October 4.
-- It includes information focusing on the Hajin location.
-
-_Generated from 2 confirmed and 0 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-08._
+_Generated from 2 confirmed and 0 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-09._
 <!-- generated:end -->
 
 <!-- human:start -->

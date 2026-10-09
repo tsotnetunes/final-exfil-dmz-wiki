@@ -1,7 +1,7 @@
 ---
 type: mechanic
 title: "Bounty system and notoriety"
-description: "Learn how bounties and notoriety work in DMZ, including the consequences of eliminating too many players."
+description: "Learn how the bounty system works in DMZ, including the conditions that cause a bounty to be placed on a player."
 status: stable
 brain_status: published
 sensitivity: public
@@ -9,14 +9,12 @@ sources: [clm_bb4b2157af60, clm_162bac1414e5, src-activision-dmz-deep-dive-2026-
 aliases: ["notoriety", "bounty", "Bounty Station", "pay off bounty"]
 ---
 <!-- generated:start -->
-DMZ includes mechanics that penalize players for excessive player kills by placing bounties on them.
+The bounty system is a mechanic that places a target on players who eliminate multiple opponents in DMZ.
 
-## Details
-
-* Killing too many players in DMZ results in a bounty being placed on your head.
+* In DMZ, killing too many players results in a bounty being placed on your head.
 * Players report that Modern Warfare 4 DMZ features a bounty system.
 
-_Generated from 1 confirmed and 1 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-08._
+_Generated from 1 confirmed and 1 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-09._
 <!-- generated:end -->
 
 <!-- human:start -->

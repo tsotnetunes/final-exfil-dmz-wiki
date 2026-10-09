@@ -1,16 +1,16 @@
 ---
 type: trait
 title: "Quick Fix"
-description: "Quick Fix is a DMZ trait reported by players to provide faster health regeneration."
+description: "Quick Fix is reported to grant faster health regeneration."
 status: draft
 brain_status: candidate
 sensitivity: public
 sources: [clm_a2e0e2cd58fd]
 ---
 <!-- generated:start -->
-According to player reports, the Quick Fix trait in DMZ provides faster health regeneration.
+Players report that the Quick Fix trait provides faster health regeneration.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-07._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-09._
 <!-- generated:end -->
 
 <!-- human:start -->

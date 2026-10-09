@@ -1,7 +1,7 @@
 ---
 type: fob_upgrade
 title: "Wallet"
-description: "Players report that the DMZ bank has a maximum capacity of 100K."
+description: "Players report that the DMZ bank caps at 100K."
 status: stable
 brain_status: published
 sensitivity: public
@@ -12,7 +12,7 @@ unlock: unknown
 <!-- generated:start -->
 Players report that the DMZ bank caps at 100K.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-08._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-09._
 <!-- generated:end -->
 
 <!-- human:start -->

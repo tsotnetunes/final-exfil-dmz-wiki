@@ -1,7 +1,7 @@
 ---
 type: fob_upgrade
 title: "Boss Board"
-description: "The Boss Board is an upgrade reported by players to allow the purchase of intel."
+description: "The Boss Board is an FOB upgrade reported to allow players to purchase intel."
 status: stable
 brain_status: published
 sensitivity: public
@@ -10,9 +10,9 @@ station: boss-board
 unlock: progression
 ---
 <!-- generated:start -->
-According to player reports, the Boss Board allows players to buy intel.
+Players report that the Boss Board allows players to buy intel.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-08._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-09._
 <!-- generated:end -->
 
 <!-- human:start -->

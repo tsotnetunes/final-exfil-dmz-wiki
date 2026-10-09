@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "Hajin"
-description: "Hajin is a combat map and deployment location for Operators in DMZ."
+description: "Hajin is a DMZ map featuring 14 named locations, dangerous Lieutenants, and roaming bosses."
 status: draft
 brain_status: draft
 sensitivity: public
@@ -10,19 +10,19 @@ sources: [clm_d4ac4388b3f9, clm_3018c5a912d7, clm_e5cdf259848d, clm_f10952a863af
 <!-- generated:start -->
 ### Overview
 
-Hajin is a confirmed map and location in DMZ where Operators deploy. Officially, Hajin does not yield its secrets without a fight.
-
-Players report that Hajin features 14 named locations, with its areas expected to expand in Season 2. Following the fall of the Supreme Leader, the power vacuum within DMZ is reportedly centered in Hajin.
+Hajin is a confirmed map and location in DMZ where operators deploy. It is confirmed that Hajin does not give up its secrets without a fight. Players report that Hajin contains 14 named locations, with its locations expected to expand in Season 2. Additionally, players report that a power vacuum exists in Hajin following the fall of the Supreme Leader.
 
 ### Loot
 
-Specific loot profiles for Hajin have not been confirmed.
+Specific loot profiles for Hajin are not currently documented.
 
 ### Threats
 
-Hajin features notable hostile leadership and encounters. Players report that Gorani (a ghillie sniper wearing a deer skull) and The Warden serve as Lieutenants within the map. Additionally, players report two roaming bosses active in Hajin: Colossus and Deathstalker.
+Players report several high-profile hostile threats operating in Hajin:
+* **Lieutenants:** Gorani and The Warden serve as Lieutenants within the area.
+* **Roaming Bosses:** Colossus and Deathstalker both operate as roaming bosses across the map.
 
-_Generated from 5 confirmed and 11 reported claims across 15 posts and 0 patch notes; last rendered 2026-10-08._
+_Generated from 5 confirmed and 11 reported claims across 15 posts and 0 patch notes; last rendered 2026-10-09._
 <!-- generated:end -->
 
 <!-- human:start -->
