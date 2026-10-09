@@ -17,5 +17,5 @@ _Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-The 5 Oct guide's field report "Not Without Him" [[src-activision-dmz-guide-part1-2026-10-05]] describes Bale as a Spetsnaz veteran embedded with North Korean forces as their combat trainer and enforcer, with an elite security detail, waiting for squads at [[chang-san-air-base]]. The guide names three Commanders (Colossus, Deathstalker, Main NK Battle Tank — [[commander-threats]]) and Bale is not among them; it does not call him a Lieutenant either. His rank is unconfirmed until launch.
+The 5 Oct guide's field report "Not Without Him" [[src-activision-dmz-guide-part1-2026-10-05]] describes Bale as a Spetsnaz veteran embedded with North Korean forces as their combat trainer and enforcer, with an elite security detail, waiting for squads at [[chang-san-air-base]]. The guide names three Commanders (Colossus, Deathstalker, Main NK Battle Tank; see [[commander-threats]]) and Bale is not among them; it does not call him a Lieutenant either. His rank is unconfirmed until launch.
 <!-- human:end -->

@@ -18,5 +18,5 @@ _Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-DMZ launches with the full game on 23 Oct 2026, alongside Campaign and Multiplayer [[src-playstation-blog-dmz-2026-10-05]], on PS5, Xbox Series X|S, PC and Switch 2 [[src-activision-campaign-early-access-2026-06-12]]. Early access from 16 Oct is for the Campaign only (digital pre-orders) [[src-activision-campaign-early-access-2026-06-12]] — no DMZ before launch. Three ways to deploy: [[story-missions]], [[dynamic-operations]], [[free-roam]]. Its own level track: [[dmz-progression]].
+DMZ launches with the full game on 23 Oct 2026, alongside Campaign and Multiplayer [[src-playstation-blog-dmz-2026-10-05]], on PS5, Xbox Series X|S, PC and Switch 2 [[src-activision-campaign-early-access-2026-06-12]]. Early access from 16 Oct is for the Campaign only (digital pre-orders) [[src-activision-campaign-early-access-2026-06-12]], so there is no DMZ before launch. Three ways to deploy: [[story-missions]], [[dynamic-operations]], [[free-roam]]. Its own level track: [[dmz-progression]].
 <!-- human:end -->

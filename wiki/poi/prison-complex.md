@@ -16,7 +16,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-**Official name.** 14th Political Prison — the June intel's "Prison complex" [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-deep-dive-2026-06]].
+**Official name.** 14th Political Prison, the June intel's "Prison complex" [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-deep-dive-2026-06]].
 
 **Where.** Northwest Hajin, former North Korean side, on a cleared plateau in the North Korean Wilderness, a polluted river to the west.
 

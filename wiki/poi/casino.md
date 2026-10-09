@@ -20,7 +20,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 **Where.** [[cheongun-village]], northern Hajin, former South Korean side.
 
-**Threat.** High — the only High area in an otherwise Low village.
+**Threat.** High, the only High area in an otherwise Low village.
 
 **What is there.** A once-lavish building with gambling halls over several floors and an underground car park. There is no mains power, so the floors of machines are dark and sightlines short; the guide advises NVGs. The 5 Oct guide does not mention the vault; [[keys]] open special loot rooms elsewhere, so a keyed vault is plausible but unconfirmed.
 <!-- human:end -->

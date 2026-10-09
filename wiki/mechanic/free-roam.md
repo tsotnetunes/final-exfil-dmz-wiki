@@ -12,5 +12,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Listed by Activision as “open exploration without structured objectives” [[src-activision-dmz-deep-dive-2026-06]]. One of three ways to deploy — with [[story-missions]] and [[dynamic-operations]]: Free Roam drops you in without a mission [[src-playstation-blog-dmz-2026-10-05]].
+Listed by Activision as “open exploration without structured objectives” [[src-activision-dmz-deep-dive-2026-06]]. One of three ways to deploy, alongside [[story-missions]] and [[dynamic-operations]]: Free Roam drops you in without a mission [[src-playstation-blog-dmz-2026-10-05]].
 <!-- human:end -->

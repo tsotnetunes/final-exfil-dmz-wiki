@@ -20,5 +20,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 **Threat.** Low.
 
-**What is there.** Triage tents and temporary barracks on the stepped grounds, a parking structure, and a gutted multi-level lobby leading to wards and emergency rooms colour-coded by floor — close-quarters fighting inside. Snipers are expected in the woods of Mujin Pass to the south. The June intel puts medical supplies in hospitals [[src-activision-dmz-deep-dive-2026-06]] ([[loot-placement]]).
+**What is there.** Triage tents and temporary barracks on the stepped grounds, a parking structure, and a gutted multi-level lobby leading to wards and emergency rooms colour-coded by floor, with close-quarters fighting inside. Snipers are expected in the woods of Mujin Pass to the south. The June intel puts medical supplies in hospitals [[src-activision-dmz-deep-dive-2026-06]] ([[loot-placement]]).
 <!-- human:end -->

@@ -34,5 +34,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 
 **Threat.** Reactor High, with radiation; South Korean Border Zone Medium.
 
-**What is there.** A breach centred on the containment block and spreading across Reactor 02 (Reactor 01 holds for now) has left a still cloud of radioactive vapour over the site. Radiation protection and a gas mask are needed — Fire Stations are where radiation gear is expected ([[locations-of-interest]]). Going in is strongly discouraged; an approach by water, or a tunnel from Compound Delta to the southwest, may be possible.
+**What is there.** A breach centred on the containment block and spreading across Reactor 02 (Reactor 01 holds for now) has left a still cloud of radioactive vapour over the site. Radiation protection and a gas mask are needed; Fire Stations are where radiation gear is expected ([[locations-of-interest]]). Going in is strongly discouraged; an approach by water, or a tunnel from Compound Delta to the southwest, may be possible.
 <!-- human:end -->

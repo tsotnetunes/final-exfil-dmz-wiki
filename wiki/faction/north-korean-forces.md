@@ -15,7 +15,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- human:start -->
 A secretive North Korean faction holds Hajin with fixed and roving patrols; depending on how much of a threat you are, they ignore you, search for you or attack [[src-activision-dmz-guide-part1-2026-10-05]].
 
-- **Soldiers:** Tier 1 grunts; Tier 2 armoured; Tier 3 armoured with gas masks; Tier 4 faceless armoured — of various ranks and equipment.
+- **Soldiers:** Tier 1 grunts; Tier 2 armoured; Tier 3 armoured with gas masks; Tier 4 faceless armoured. All come in various ranks and equipment.
 - **Machines:** autonomous drone swarms, autonomous LMG drones, robotic K9 quadrupeds (mostly underground).
 - **Patrols:** attack helicopters and road convoys.
 - **Bosses:** [[lieutenants]] and Commanders ([[commander-threats]]).

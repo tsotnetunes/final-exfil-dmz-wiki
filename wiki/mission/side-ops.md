@@ -1,7 +1,7 @@
 ---
 type: mission
 title: "Side Ops"
-description: "Small optional tasks in a match — truck repairs, finding a supply drop, scaling a radio tower — that give XP alongside the main objectives (official, pre-launch)."
+description: "Small optional tasks in a match (truck repairs, finding a supply drop, scaling a radio tower) that give XP alongside the main objectives (official, pre-launch)."
 status: stable
 brain_status: published
 sensitivity: public

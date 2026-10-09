@@ -1,7 +1,7 @@
 ---
 type: mechanic
 title: "Threat Escalation system"
-description: "Every area of Hajin has a threat level — Low, Medium, High, Critical or Extreme — shown under the compass; loud play raises the enemy response, stealth calms it (official)."
+description: "Every area of Hajin has a threat level (Low, Medium, High, Critical or Extreme) shown under the compass; loud play raises the enemy response, stealth calms it (official)."
 status: stable
 brain_status: published
 sensitivity: public

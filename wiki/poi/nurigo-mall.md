@@ -20,5 +20,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 **Threat.** NuriGO East Medium; NuriGO West High.
 
-**What is there.** Tenements on the west edge near the hospital, a police station, clinic, City Hall, a monorail station on the tram loop around the city, parking above and below ground, and a courtyard whose pavilion and two light wells (one with an elevator) lead down into a large unlit underground mall — NVGs advised. The guide's field report puts a sealed room under the mall, opened with a key taken from [[the-warden]].
+**What is there.** Tenements on the west edge near the hospital, a police station, clinic, City Hall, a monorail station on the tram loop around the city, parking above and below ground, and a courtyard whose pavilion and two light wells (one with an elevator) lead down into a large unlit underground mall, NVGs advised. The guide's field report puts a sealed room under the mall, opened with a key taken from [[the-warden]].
 <!-- human:end -->

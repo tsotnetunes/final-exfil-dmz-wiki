@@ -32,7 +32,7 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 
 **Finding one.** Buy intel at the [[boss-board]], climb a Lieutenant Hunt tower or a damaged radio tower and use the terminal at the top for a general location ([[side-ops]]).
 
-**The kill.** DMZ XP, DMZ Cash, their weapon, a Dog Tag Case and sometimes a Key to their own loot room ([[keys]]). After the kill the tag shows on every Operator's Tac-Map, and picking up the Case also broadcasts your position — a fast exfil is safest; leave it and you keep the XP and cash but the Boss Board does not advance ([[dog-tags]]).
+**The kill.** DMZ XP, DMZ Cash, their weapon, a Dog Tag Case and sometimes a Key to their own loot room ([[keys]]). After the kill the tag shows on every Operator's Tac-Map, and picking up the Case also broadcasts your position, so a fast exfil is safest; leave it and you keep the XP and cash but the Boss Board does not advance ([[dog-tags]]).
 
 **Named so far.** [[gorani]] and [[the-warden]] (official field reports); [[roze]] (reported from posts). [[bale]] appears in the guide without a rank.
 <!-- human:end -->

@@ -15,5 +15,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Always available: walk through the wire to the big transport helicopter that flies every deployment in [[src-activision-dmz-guide-part1-2026-10-05]]. Choose a deployment first — [[story-missions]], [[dynamic-operations]] or [[free-roam]] [[src-playstation-blog-dmz-2026-10-05]]. Other ways in: [[paid-infil]].
+Always available: walk through the wire to the big transport helicopter that flies every deployment in [[src-activision-dmz-guide-part1-2026-10-05]]. Choose a deployment first: [[story-missions]], [[dynamic-operations]] or [[free-roam]] [[src-playstation-blog-dmz-2026-10-05]]. Other ways in: [[paid-infil]].
 <!-- human:end -->

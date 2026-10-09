@@ -21,5 +21,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 **Water.** RHIB (fast inflatable boat).
 
-**Air.** Heli (twin-engine combat helicopter); Heavy Chopper (armoured transport with flares that hovers on autopilot if the pilot leaves; rarely player-flown); Monarch (twin-rotor transport for infil and exfil; not player-flown — see [[exfil]]).
+**Air.** Heli (twin-engine combat helicopter); Heavy Chopper (armoured transport with flares that hovers on autopilot if the pilot leaves; rarely player-flown); Monarch (twin-rotor transport for infil and exfil, not player-flown; see [[exfil]]).
 <!-- human:end -->

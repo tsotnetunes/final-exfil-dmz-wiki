@@ -20,5 +20,5 @@ _Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Multi-step objectives generated for each match [[src-activision-dmz-deep-dive-2026-06]]. Pick one before infil, deploy straight into one, or start one in the field at a Dynamic Ops phone [[src-activision-dmz-guide-part1-2026-10-05]] [[src-playstation-blog-dmz-2026-10-05]]. Completing an Op pays DMZ XP and DMZ Cash and brings a Supply Drop whose quality rises with each Op you finish in the same deployment — Common, then Uncommon, then Rare; contents vary. The **Hunt Operators** Op sets a full rival squad against you.
+Multi-step objectives generated for each match [[src-activision-dmz-deep-dive-2026-06]]. Pick one before infil, deploy straight into one, or start one in the field at a Dynamic Ops phone [[src-activision-dmz-guide-part1-2026-10-05]] [[src-playstation-blog-dmz-2026-10-05]]. Completing an Op pays DMZ XP and DMZ Cash and brings a Supply Drop whose quality rises with each Op you finish in the same deployment: Common, then Uncommon, then Rare; contents vary. The **Hunt Operators** Op sets a full rival squad against you.
 <!-- human:end -->

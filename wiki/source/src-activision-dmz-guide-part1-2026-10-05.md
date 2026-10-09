@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Activision blog: DMZ Deep Dive, Part 1 — Hajin guide (5 Oct 2026), extract"
+title: "Activision blog, DMZ Deep Dive Part 1: Hajin guide (5 Oct 2026), extract"
 description: "The publisher's full pre-launch guide: FOB stations, level 1–70, HUD, threat levels, enemies, vehicles, After Action Report, 13 major POIs with threat levels, keys. Captured 9 Oct 2026."
 status: stable
 brain_status: published

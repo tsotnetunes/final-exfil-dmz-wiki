@@ -13,9 +13,9 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-**Player level.** DMZ has its own Progression Track from level 1 to 70, separate from Multiplayer; every level unlocks something — key 3D Printer recipes, new [[fob]] stations and other content [[src-activision-dmz-guide-part1-2026-10-05]] [[src-playstation-blog-dmz-2026-10-05]].
+**Player level.** DMZ has its own Progression Track from level 1 to 70, separate from Multiplayer; every level unlocks something: key 3D Printer recipes, new [[fob]] stations and other content [[src-activision-dmz-guide-part1-2026-10-05]] [[src-playstation-blog-dmz-2026-10-05]].
 
 **Dog Tag level.** Your Dog Tag rises from Steel to Onyx III over 18 levels, and each step awards an Operator Trait ([[trait-points]]).
 
-**Where XP comes from.** Opening loot containers, [[dmz-orders]], [[story-missions]], [[dynamic-operations]], [[side-ops]], [[lieutenants]], Commanders ([[commander-threats]]) and combat — rival Operators pay more XP than AI. The [[after-action-report]] adds it up. Operator prestige and permanent prestige traits are promised in the guide's Part 2, not yet published on 9 Oct.
+**Where XP comes from.** Opening loot containers, [[dmz-orders]], [[story-missions]], [[dynamic-operations]], [[side-ops]], [[lieutenants]], Commanders ([[commander-threats]]) and combat; rival Operators pay more XP than AI. The [[after-action-report]] adds it up. Operator prestige and permanent prestige traits are promised in the guide's Part 2, not yet published on 9 Oct.
 <!-- human:end -->
