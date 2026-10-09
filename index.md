@@ -62,7 +62,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## mechanic (25) in `wiki/mechanic/<id>.md`
 - [[after-action-report]] — The end-of-deployment screen: loot and DMZ Cash banked, a rating from F to S++ for Objectives, Combat and Looting, XP to your DMZ level and Dog Tag level (offi… · **published**
-- [[bounty-system]] — Learn how the bounty system works in DMZ, including the conditions that cause a bounty to be placed on a player. · **published**
+- [[bounty-system]] — An overview of the DMZ bounty mechanic, where eliminating too many players places a target on your head. · **published**
 - [[dmz-orders]] — DMZ Orders are guided mission directives: onboarding, story and mastery objectives read at the FOB on an Orders Tablet or from the Tac-Map, and a top XP source… · **published**
 - [[dmz-progression]] — DMZ has its own player level from 1 to 70 with an unlock at every level, plus a Dog Tag level from Steel to Onyx III (18 levels) that awards a Trait each step … · **published**
 - [[dynamic-weather]] — Downpours cut visibility, fog changes routes, convoys move on roads, helicopters cross the sky and hostile forces reposition WMDs during a match (official, pre… · **published**
@@ -104,7 +104,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[fallout-reactor]] — Retired: the official name is Haneul Nuclear Reactor (guide of 5 Oct 2026); see that page. · **retired**
 - [[hajin]] — Hajin is a DMZ map featuring 14 named locations, dangerous Lieutenants, and roaming bosses. · **draft**
 - [[hajin-city-remains]] — Hajin City, the ruined urban east of the map: NuriGO Mall, The Grid, Songdo Wharf and Wolves Stadium, with Hajin River Heights to the southeast (official, 5 Oc… · **published**
-- [[hajin-exclusion-zone]] — DMZ's launch map: a radiation-scarred zone on the former NK–SK border with over 60 named locations and 13 major POIs, from the 14th Political Prison to The Gri… · **published**
+- [[hajin-exclusion-zone]] — Learn about the Hajin Exclusion Zone, where player reports note that Operators can be present. · **published**
 - [[hajin-river-heights]] — A battered residential district in southeast Hajin with Compound Echo and the Jinseo Park Towers; Medium threat throughout (official, pre-launch). · **published**
 - [[haneul-nuclear-reactor]] — The breached nuclear plant in northeast Hajin: severe radiation (suit and gas mask needed), Reactor High; going in is discouraged (official, pre-launch). · **published**
 - [[imjin-farmland]] — Open rice fields and waterways in south-southwest Hajin around a large Rice Mill; exterior Low, Jeong Loading Dock Low, Rice Mill Medium (official, pre-launch). · **published**

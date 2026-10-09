@@ -1,18 +1,30 @@
 ---
 type: poi
 title: "Hajin Exclusion Zone"
-description: "DMZ's launch map: a radiation-scarred zone on the former NK–SK border with over 60 named locations and 13 major POIs, from the 14th Political Prison to The Grid (official, 5 Oct)."
+description: "Learn about the Hajin Exclusion Zone, where player reports note that Operators can be present."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_8accaa3d7831, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["Hajin", "the Exclusion Zone"]
 region: Hajin
 danger: varies
 loot_profile: all
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+### Overview
+
+Players report that Operators can be present in Hajin, though not every Operator there is focused on the mission.
+
+### Loot
+
+Information on loot in this area has not been documented.
+
+### Threats
+
+Details regarding specific threats in the exclusion zone have not been confirmed.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-09._
 <!-- generated:end -->
 
 <!-- human:start -->
