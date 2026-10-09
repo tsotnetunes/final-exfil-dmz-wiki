@@ -1,21 +1,28 @@
 ---
 type: fob_upgrade
 title: "FOB (Forward Operating Base)"
-description: "The FOB (Forward Operating Base) serves as the starting point for preparation and deployments, with players reporting shared squad spaces, vendors, and crafting."
+description: "The Forward Operating Base (FOB) is the starting point for deployments, featuring stations like the Vendor and Gunsmith alongside squad social spaces."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_46243e27d86a, clm_fd90953238b0, clm_c5bec6dd520b, clm_dffa557cf032, clm_f08caeac8e56, clm_be702dd26814, clm_0601ee8f8cb8, clm_d9ca819a3519, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05]
+sources: [clm_46243e27d86a, clm_fd90953238b0, clm_c5bec6dd520b, clm_dffa557cf032, clm_f08caeac8e56, clm_be702dd26814, clm_0601ee8f8cb8, clm_d9ca819a3519, clm_b5908fa8c1b3, clm_311263850855, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05]
 aliases: ["Forward Operating Base", "the base"]
 station: hub
 unlock: start
 ---
 <!-- generated:start -->
-The Forward Operating Base (FOB) is the starting point for deployments and preparation.
+The Forward Operating Base, also known as the FOB or the base, is the confirmed starting point for deployments and preparation.
 
-Players report that the FOB is a walk-around base and social hub shared with your squad. According to player reports, the station includes a Firing Range, Vendors, and Crafting. Upgrading the base is also reported to level up player gear.
+Players report that the FOB is a walk-around base shared with your squad and functions as a social hub. According to player reports, upgrading the F.O.B. levels up player gear.
 
-_Generated from 3 confirmed and 4 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-08._
+### Stations and Features
+
+Player reports indicate that the FOB includes a Firing Range, Vendors, and Crafting. Specific stations reported by players include:
+
+* Vendor: Accessed within the FOB or through the left side blade menu. Players report that it unlocks at DMZ Level 5.
+* Gunsmith: Accessed within the FOB or through the left side blade menu. Players report that it unlocks at DMZ Level 10.
+
+_Generated from 3 confirmed and 6 reported claims across 9 posts and 0 patch notes; last rendered 2026-10-09._
 <!-- generated:end -->
 
 <!-- human:start -->

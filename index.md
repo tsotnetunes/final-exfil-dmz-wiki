@@ -18,14 +18,14 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[rogue-operators]] — Rival human squads in the zone; the PvP side of DMZ, with bounties, dog tags and proximity chat built around them (official, pre-launch). · **published**
 
 ## fob_upgrade (14) in `wiki/fob_upgrade/<id>.md`
-- [[3d-printer]] — The 3D Printer is a craftable DMZ station reported to produce armor and upgrade other stations. · **published**
+- [[3d-printer]] — A DMZ crafting station used to print armor and gear, as well as upgrade stations. · **published**
 - [[active-duty]] — Operator management at the FOB: several operators in Active Duty slots, each with a persistent backpack and loadout (official, pre-launch). · **published**
 - [[boss-board]] — The Boss Board is an FOB upgrade reported to allow players to purchase intel. · **published**
 - [[bounty-leaderboard]] — The FOB leaderboard for rival player monitoring; standing on it carries over between matches (official, pre-launch). · **published**
 - [[deploy]] — The always-open FOB station that starts a deployment: walk through the wire to the big transport helicopter that flies you into Hajin (official, 5 Oct guide). · **published**
 - [[dog-tag-case]] — An FOB station unlocked by playing: a trophy case for the dog tags you took from other players, where you can mark favourites to keep (official, 5 Oct guide). · **published**
 - [[firing-range]] — The Firing Range is reported by players to feature targets set beyond 100 meters. · **published**
-- [[fob]] — The FOB (Forward Operating Base) serves as the starting point for preparation and deployments, with players reporting shared squad spaces, vendors, and craftin… · **published**
+- [[fob]] — The Forward Operating Base (FOB) is the starting point for deployments, featuring stations like the Vendor and Gunsmith alongside squad social spaces. · **published**
 - [[gunsmith]] — The FOB Gunsmith: spend DMZ Cash on attachments for looted weapons or build new ones; extracted Weapon Manuals widen what you can build (official, unlocked by … · **published**
 - [[orders]] — The FOB station where DMZ Orders are reviewed before a deployment; available from the start (official). How Orders work: see DMZ Orders. · **published**
 - [[stash]] — Learn about the DMZ Stash, its capacity, and reported upgrade options. · **published**
@@ -53,7 +53,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## lieutenant (4) in `wiki/lieutenant/<id>.md`
 - [[gorani]] — A Lieutenant met in the high woodland above Hanrim Village: ghillie camouflage, a water-deer skull mask, an M4, camouflaged escorts, hard to track (official fi… · **published**
-- [[lieutenants]] — Lieutenants are named bosses in Hajin: find them from Hunt towers or Boss Board intel; a kill pays XP, cash, their weapon, a Dog Tag Case and maybe a key (offi… · **published**
+- [[lieutenants]] — Iskra is reported by players to be a hostile lieutenant boss encountered in DMZ. · **published**
 - [[roze]] — Roze is reported by players to be a lieutenant boss in DMZ who yields unique rewards, including the Kraken weapon. · **candidate**
 - [[the-warden]] — A Lieutenant met in Hajin's northern hills whose key, in the official field report, opens a sealed room beneath NuriGO Mall (5 Oct guide). · **published**
 

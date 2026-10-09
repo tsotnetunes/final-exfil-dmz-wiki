@@ -1,30 +1,27 @@
 ---
 type: lieutenant
 title: "Lieutenants"
-description: "Lieutenants are named bosses in Hajin: find them from Hunt towers or Boss Board intel; a kill pays XP, cash, their weapon, a Dog Tag Case and maybe a key (official)."
+description: "Iskra is reported by players to be a hostile lieutenant boss encountered in DMZ."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_e9f8c69f2b20, clm_11c4521ef65f, clm_133be03ad563, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_e9f8c69f2b20, clm_11c4521ef65f, clm_133be03ad563, clm_ac4a74fc6342, clm_0892055f6578, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["bosses", "lieutenant", "Lieutenant Hunt"]
 weapon: unique
 location: unknown
 drops: dog tags, weapon
 ---
 <!-- generated:start -->
-## Overview
+### Overview
+Players report that Iskra is a hostile lieutenant and Lieutenant Boss in DMZ.
 
-Players report that Bale serves as a Lieutenant Boss in DMZ.
+### Location
+Information about specific encounter locations has not been established.
 
-## Location
+### Drops
+Information about drops has not been established.
 
-Information on specific encounter locations has not been established.
-
-## Drops
-
-Details regarding drops have not been established.
-
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-06._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-09._
 <!-- generated:end -->
 
 <!-- human:start -->

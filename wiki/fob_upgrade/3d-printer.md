@@ -1,25 +1,27 @@
 ---
 type: fob_upgrade
 title: "3D Printer"
-description: "The 3D Printer is a craftable DMZ station reported to produce armor and upgrade other stations."
+description: "A DMZ crafting station used to print armor and gear, as well as upgrade stations."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_2347ef065fca, clm_bfc0061f6972, clm_50571f38d2ac, clm_93b0cd93b47c, clm_8b9dad98699a, clm_36e903b4cb4b, clm_fb602d7b6940, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05]
+sources: [clm_2347ef065fca, clm_bfc0061f6972, clm_50571f38d2ac, clm_93b0cd93b47c, clm_8b9dad98699a, clm_36e903b4cb4b, clm_fb602d7b6940, clm_7c40ac8ec97a, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05]
 station: 3d-printer
 unlock: progression
 ---
 <!-- generated:start -->
-The 3D Printer is a crafting station available in DMZ. Players report that it can be upgraded and used to print gear as well as upgrade stations.
+### Overview
+
+The 3D Printer is a crafting station available in DMZ. Players report that it can be used to print gear and upgrade other stations. It also features its own upgrade options, allowing the station itself to be upgraded.
 
 ### Crafting
 
-According to player reports, the 3D Printer is used to create DMZ armor. Known recipes and crafting mechanics include:
+According to player reports, DMZ armor is produced at the 3D Printer:
 
-* **1-Plate Armor Vest**: Requires 25 Synthetics and 25 Metals.
-* **Advanced Armor**: Advanced armor types remain locked until their corresponding recipes are unlocked.
+* Crafting a 1-Plate Armor Vest requires 25 Synthetics and 25 Metals.
+* Advanced armor types remain locked until their corresponding recipes are unlocked.
 
-_Generated from 0 confirmed and 6 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-09._
+_Generated from 0 confirmed and 7 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-09._
 <!-- generated:end -->
 
 <!-- human:start -->
