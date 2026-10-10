@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "Haneul Nuclear Reactor"
-description: "The breached nuclear plant in northeast Hajin: severe radiation (suit and gas mask needed), Reactor High; going in is discouraged (official, pre-launch)."
+description: "A nuclear reactor site reported by players to feature nearby secured bunkers."
 status: stable
 brain_status: published
 sensitivity: public
@@ -12,19 +12,19 @@ loot_profile: unknown
 aliases: ["Fallout reactor", "Haneul", "Reactor 02", "South Korean Border Zone"]
 ---
 <!-- generated:start -->
-## Overview
+### Overview
 
-Players report that secured bunkers are located by the Haneul Nuclear Reactor.
+Players report that secured bunkers are located by the Haneul Nuclear Reactor. Details regarding its broader geographic region remain unconfirmed.
 
-## Loot
+### Loot
 
-Information about loot at this location is currently unavailable.
+Information on the specific loot profile for the area has not yet been established.
 
-## Threats
+### Threats
 
-Information about specific threats at this location is currently unavailable.
+The precise danger level and hazards present at the site are currently undocumented.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-07._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-10._
 <!-- generated:end -->
 
 <!-- human:start -->

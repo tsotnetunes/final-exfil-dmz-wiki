@@ -12,16 +12,16 @@ location: unknown
 drops: dog tags, weapon
 ---
 <!-- generated:start -->
-### Overview
-Players report that Iskra is a hostile lieutenant and Lieutenant Boss in DMZ.
+## Overview
+Players report that Iskra is a hostile lieutenant and Lieutenant Boss encountered in DMZ.
 
-### Location
-Information about specific encounter locations has not been established.
+## Location
+Information regarding specific encounter locations within DMZ is not available.
 
-### Drops
-Information about drops has not been established.
+## Drops
+Details concerning dropped items have not been reported.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-09._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-10._
 <!-- generated:end -->
 
 <!-- human:start -->

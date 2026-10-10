@@ -1,7 +1,7 @@
 ---
 type: exfil
 title: "Exfil: helicopters and skyhooks"
-description: "How to get out of Hajin: exfil sites marked by green smoke where you call the Twin Heli and hold, or a Fulton balloon or Flare instead (official, 5 Oct guide)."
+description: "Learn about extraction in Modern Warfare 4's DMZ mode and the Operation Critical Extraction story mission reported by players."
 status: stable
 brain_status: published
 sensitivity: public
@@ -10,13 +10,12 @@ aliases: ["extraction", "skyhook", "Twin Heli", "Fulton balloon", "Flare", "gree
 method: helicopter|skyhook
 ---
 <!-- generated:start -->
-Exfil and extraction operations feature in Modern Warfare 4's DMZ game mode.
+This entry covers extraction details, missions, and related mechanics reported for Modern Warfare 4's DMZ mode.
 
-* Modern Warfare 4’s DMZ is reported by players to be an extraction shooter.
-* Operation Critical Extraction is reported by players to be a mission in DMZ.
-* As of October 8, 2026, Operation Critical Extraction is reported by players to be a story mission in DMZ.
+* Players report that Modern Warfare 4's DMZ is an extraction shooter.
+* Operation Critical Extraction is reported by players to be a mission in DMZ. On October 8, 2026, reports updated this mission to be a story mission in DMZ.
 
-_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-08._
+_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-10._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -11,9 +11,9 @@ tree: all
 tier: n/a
 ---
 <!-- generated:start -->
-Available operator traits include Warfighter, Scout, and Survivalist. Specific tree and tier assignments, as well as the effects of these traits, are not detailed.
+Available traits include Warfighter, Scout, and Survivalist.
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-09._
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-10._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -10,11 +10,11 @@ station: stash
 unlock: start
 ---
 <!-- generated:start -->
-What players extract matters as they build up their Stash.
+What you extract matters as you build up your Stash. 
 
-Players report that the DMZ stash holds 12 weapons and 58 items, and that the Stash UI can likely be updated for increased space. A first look at the Stash UI has also been reported in Modern Warfare 4 DMZ.
+Early looks at the Modern Warfare 4 DMZ Stash user interface indicate that it holds 12 weapons and 58 items, as reported by players. Players also report that the Stash interface can likely be upgraded to increase available space.
 
-_Generated from 1 confirmed and 3 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-09._
+_Generated from 1 confirmed and 3 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-10._
 <!-- generated:end -->
 
 <!-- human:start -->

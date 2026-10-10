@@ -10,9 +10,9 @@ station: firing-range
 unlock: start
 ---
 <!-- generated:start -->
-The Firing Range is reported by players to contain targets located past 100 meters.
+Players report that the Firing Range contains targets past 100m.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-09._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-10._
 <!-- generated:end -->
 
 <!-- human:start -->

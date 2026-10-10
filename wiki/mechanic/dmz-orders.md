@@ -1,7 +1,7 @@
 ---
 type: mechanic
 title: "DMZ Orders"
-description: "DMZ Orders are guided mission directives: onboarding, story and mastery objectives read at the FOB on an Orders Tablet or from the Tac-Map, and a top XP source (official)."
+description: "DMZ Orders are an objective type found in DMZ."
 status: stable
 brain_status: published
 sensitivity: public
@@ -9,11 +9,11 @@ sources: [clm_2bfe53b8ed23, src-activision-dmz-guide-part1-2026-10-05, src-plays
 aliases: ["Orders", "Orders Tablet", "Mission Directives"]
 ---
 <!-- generated:start -->
-DMZ Orders are a gameplay objective mechanic featured in DMZ.
+DMZ Orders are a gameplay mechanic found in DMZ.
 
 * DMZ Orders serve as a type of objective in DMZ.
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-08._
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-10._
 <!-- generated:end -->
 
 <!-- human:start -->
