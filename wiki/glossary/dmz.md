@@ -5,23 +5,26 @@ description: "Modern Warfare 4's extraction mode: early access from 20 Oct 2026 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5, clm_5e8135915868, clm_cc4819b844ec, clm_756ca3a1eee7, clm_ab07e6e3f11a, clm_4168264992cf, clm_074886fbd8a3, clm_06a18e0bc5dc, clm_34cf7998ef77, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-campaign-early-access-2026-06-12, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09]
+sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5, clm_5e8135915868, clm_cc4819b844ec, clm_756ca3a1eee7, clm_ab07e6e3f11a, clm_4168264992cf, clm_074886fbd8a3, clm_06a18e0bc5dc, clm_34cf7998ef77, clm_bdc81da0243a, clm_745f1b4c8236, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-campaign-early-access-2026-06-12, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09]
 aliases: ["MW4 DMZ"]
 ---
 <!-- generated:start -->
-DMZ is a mode set in Hajin, with Early Access opening on October 20 ahead of the MW4 launch on October 23. Players describe the mode as an extraction shooter experience.
+DMZ is a confirmed game mode set in Hajin, with Early Access opening on October 20 ahead of the launch of MW4 on October 23.
 
-* DMZ is confirmed to be located in Hajin.
-* Early Access for DMZ begins on October 20.
-* MW4 officially launches on October 23.
-* Players report that DMZ is an extraction shooter game.
-* Players report that the mode will be available on day 1 for Modern Warfare 4 owners.
+## Mode Overview and Details
+
+* Confirmed: The mode is located in Hajin.
+* Confirmed: Early Access for DMZ begins on October 20.
+* Confirmed: MW4 launches on October 23.
+* Players report that DMZ is described as an extraction shooter game.
+* Players report that the mode will be available day 1 for Modern Warfare 4 owners.
 * Players report that dying in DMZ no longer wipes your Operator.
-* Players report that lobbies will not be solo-only.
-* Players report that the matchmaking system will attempt to place solo players against other solos, with the same approach applied to duos.
+* Players report that DMZ lobbies will not be solo-only.
+* Players report that the queue system will attempt to match solo players against other solos, with the same matching approach applied to duos.
 * Players report that DMZ features its own weapon damage tuning, which is close to Warzone.
+* Players report that DMZ includes three Mastery Camos: Chiral, Ripple Tide, and Helio.
 
-_Generated from 3 confirmed and 6 reported claims across 9 posts and 0 patch notes; last rendered 2026-10-10._
+_Generated from 3 confirmed and 8 reported claims across 11 posts and 0 patch notes; last rendered 2026-10-10._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -78,7 +78,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[proximity-chat]] — Voice between nearby players with distance-based falloff, directionality and environmental reverb (official, pre-launch). · **published**
 - [[radiation-storm]] — Radiation spreads across Hajin during a deployment; the Time Remaining timer shows when the storm intensifies; as it worsens, head for an exfil (official, 5 Oc… · **published**
 - [[rescue]] — Rescue allows players to recover a dead Operator, retaining their Skill Tree progress and earned experience by paying a rescue cost. · **draft**
-- [[secure-slots]] — Secure Slots protect carried items from being lost when failing to exfil. · **published**
+- [[secure-slots]] — Secure Slots protect stored items if a player fails to exfil, and players report they are featured on the Medium Backpack. · **published**
 - [[server-culling]] — Server Culling is a mechanic introduced in Modern Warfare 4 as a new way to combat cheating. · **draft**
 - [[skill-trees]] — Learn about the Skill Tree mechanic, which is configured individually per Operator. · **draft**
 - [[stealth-meter]] — HUD indicator and audio cues (white → yellow → orange) that show how close you are to being detected, aimed at solo play (official, pre-launch). · **published**
