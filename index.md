@@ -140,4 +140,4 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 ## weapon (3) in `wiki/weapon/<id>.md`
 - [[aston-martin-dreadnought]] — The Aston Martin Dreadnought is an armored SUV vehicle in MW4 DMZ reported by players. · **retired**
 - [[ltv]] — The LTV is reported by players as a vehicle in MW4 DMZ fitted with a mounted .50 Cal. · **retired**
-- [[polaris-dagor-a1]] — Read about the Polaris Dagor A1, reported by players as a vehicle in MW4 DMZ capable of carrying an entire squad. · **retired**
+- [[polaris-dagor-a1]] — The Polaris Dagor A1 is an all-terrain squad vehicle featured in Modern Warfare 4 and DMZ at launch. · **retired**
