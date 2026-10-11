@@ -1,18 +1,18 @@
 ---
 type: mechanic
 title: "Skill Trees"
-description: "Learn about the Skill Tree mechanic, which is configured individually per Operator."
+description: "Skill Trees are per Operator character progression paths."
 status: draft
 brain_status: draft
 sensitivity: public
 sources: [clm_2ecafe15d1ab]
 ---
 <!-- generated:start -->
-Skill Trees are an Operator-specific progression mechanic.
+Skill Trees are character progression paths assigned to individual characters.
 
 * Skill Trees are per Operator.
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-09._
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-11._
 <!-- generated:end -->
 
 <!-- human:start -->

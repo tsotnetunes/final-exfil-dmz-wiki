@@ -12,9 +12,9 @@ unlock: progression
 <!-- generated:start -->
 The 3D Printer requires Resources, Ingredients, and Recipes to craft essentials, build loadouts, and upgrade the FOB.
 
-Players report that the 3D Printer is used for crafting gear, upgrading stations, and upgrading the printer itself. In DMZ, crafting is available through the 3D printer, including creating DMZ armor. According to player reports, crafting a 1-Plate Armor Vest requires 25 Synthetics and 25 Metals, while advanced armor types remain locked until their corresponding recipes are unlocked.
+Players report that the 3D Printer functions as a station for crafting gear and upgrading stations, and that the 3D printer itself can be upgraded. In DMZ, players report that 3D printer crafting is available and is used to create DMZ armor. According to player reports, crafting a 1-Plate Armor Vest requires 25 Synthetics and 25 Metals, while advanced armor types remain locked until their recipes are unlocked.
 
-_Generated from 1 confirmed and 6 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-10._
+_Generated from 1 confirmed and 6 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-11._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -11,13 +11,17 @@ station: hub
 unlock: start
 ---
 <!-- generated:start -->
-The Forward Operating Base, also known as the FOB or the base, is the starting point for deployments, and preparation begins here.
+The Forward Operating Base, also known as the FOB or the base, is the starting point for deployments. Preparation begins at the FOB.
 
-Players report that the FOB serves as a walk-around base and a social hub shared with your squad, where party leaders are displayed. Upgrading the base reportedly levels up player gear.
+Players report that the FOB is a walk-around base shared with the squad and acts as a social hub. It is also reported that the base displays party leaders. Furthermore, players state that upgrading the FOB levels up player gear.
 
-Facilities reported within the FOB include a Firing Range, Crafting, and Vendors. Players report that the Vendor can be accessed inside the FOB or through the left side blade menu, unlocking at DMZ Level 5. The Gunsmith is similarly reported to be accessible within the base or via the left side blade menu, unlocking at DMZ Level 10.
+The base contains several stations and features reported by players:
 
-_Generated from 3 confirmed and 7 reported claims across 10 posts and 0 patch notes; last rendered 2026-10-10._
+* Firing Range, Vendors, and Crafting are reported to be included in the FOB.
+* The Vendor can be accessed within the base or through the left side blade menu, unlocking at DMZ Level 5.
+* The Gunsmith can be accessed within the base or via the left side blade menu, unlocking at DMZ Level 10.
+
+_Generated from 3 confirmed and 7 reported claims across 10 posts and 0 patch notes; last rendered 2026-10-11._
 <!-- generated:end -->
 
 <!-- human:start -->

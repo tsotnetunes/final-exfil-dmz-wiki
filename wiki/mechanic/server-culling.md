@@ -12,7 +12,7 @@ Server Culling is an anti-cheat mechanic implemented in Modern Warfare 4.
 
 * Modern Warfare 4 introduces Server Culling as a new way to fight cheating.
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-10._
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-11._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -9,19 +9,17 @@ sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5
 aliases: ["MW4 DMZ"]
 ---
 <!-- generated:start -->
-DMZ is a game mode located in Hajin. Early Access begins on October 20, ahead of the launch of MW4 on October 23.
+DMZ is a game mode set in Hajin, featuring Early Access ahead of the full launch of Modern Warfare 4.
 
-## Overview
+## Key Facts
 
-* It is confirmed that DMZ is located in Hajin.
-* It is confirmed that DMZ Early Access begins on October 20.
-* It is confirmed that MW4 launches on October 23.
-* Players report that DMZ will be available day 1 for Modern Warfare 4 owners.
+* DMZ is confirmed to be located in Hajin.
+* Early Access for DMZ is confirmed to begin on October 20. Modern Warfare 4 launches on October 23.
+* Players report that DMZ will be available on day 1 for Modern Warfare 4 owners.
 * Players report that the mode currently features only PvPvE.
-* Players report that DMZ lobbies will not be solo-only.
-* Players report that solo players queuing will try to match against other solo players, and the same applies to duos.
-* Players report that Infinity Ward stated Single Squad Missions were intended for internal use and not for public release.
-* Players report that dying in the DMZ Beta update no longer wipes your Operator.
+* Players report that DMZ lobbies will not be solo-only. However, solo players queuing will attempt to match against other solos, and the same matching system applies to duos.
+* According to player reports, Infinity Ward stated that 'Single Squad Missions' were meant for internal use and were not intended for public release.
+* Players report that dying in DMZ no longer wipes your Operator, based on the DMZ Beta update.
 * Players report that DMZ has its own weapon damage tuning that is close to Warzone.
 * Players report that there are three Mastery Camos in DMZ: Chiral, Ripple Tide, and Helio.
 

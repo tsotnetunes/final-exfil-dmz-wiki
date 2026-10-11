@@ -1,7 +1,7 @@
 ---
 type: item
 title: "Dog Tags"
-description: "Learn about Dog Tags in DMZ, including cash rewards for extracting them from Wanted players and how to unlock the Dog Tag Case."
+description: "Overview of Dog Tags in DMZ, including rewards for extracting with Wanted players' tags and unlock requirements."
 status: stable
 brain_status: published
 sensitivity: public
@@ -9,12 +9,12 @@ sources: [clm_1dda32204130, clm_ac70379c09b8, src-activision-dmz-deep-dive-2026-
 aliases: ["dog tag", "Dog Tag Case"]
 ---
 <!-- generated:start -->
-Dog Tags are items that can be collected and extracted in DMZ, associated with player bounties and specialized storage.
+Dog Tags are items associated with Wanted players and DMZ progression.
 
 * Extracting with the Dog Tags of Wanted players rewards DMZ Cash.
 * Players report that the Dog Tag Case unlocks at DMZ Level 20.
 
-_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-09._
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-11._
 <!-- generated:end -->
 
 <!-- human:start -->

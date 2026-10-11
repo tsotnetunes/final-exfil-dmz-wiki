@@ -38,17 +38,17 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Learn about Modern Warfare 4, including confirmed Vault Edition contents, DMZ mode details, and campaign early access information. · **draft**
+- [[modern-warfare-4]] — A guide covering Modern Warfare 4 Vault Edition perks, DMZ mode features, and early access details. · **draft**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ before launch: match size, wipes, map size, the Warzone relationship, the unnamed hooded Lieutenant, prestige rewards, the seas… · **published**
 - [[overview]] — What this Codex covers (MW4 DMZ: places, mechanics, items, missions, enemies, patches, issues), who writes it (the Brain and people), and the pages to start fr… · **published**
 
 ## item (5) in `wiki/item/<id>.md`
-- [[dog-tags]] — Learn about Dog Tags in DMZ, including cash rewards for extracting them from Wanted players and how to unlock the Dog Tag Case. · **published**
+- [[dog-tags]] — Overview of Dog Tags in DMZ, including rewards for extracting with Wanted players' tags and unlock requirements. · **published**
 - [[gold-bars]] — Gold Bars are an item reported by players to be worth 25K. · **candidate**
 - [[legendary-dog-tag]] — The Legendary dog tag is an item reported by players to drop from The Scavenger and Bale. · **candidate**
-- [[tempered-armor-vest]] — The Tempered Armor Vest is an item reported by players to be one of eight armor vests. · **candidate**
+- [[tempered-armor-vest]] — The Tempered Armor Vest is reported by players to be one of eight armor vests. · **candidate**
 - [[void-claw]] — Retired: the Void Claw belongs to Black Ops 7 Zombies, not MW4 DMZ; it came in from an official post about another game. · **retired**
 
 ## lieutenant (4) in `wiki/lieutenant/<id>.md`
@@ -58,13 +58,13 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[the-warden]] — A Lieutenant met in Hajin's northern hills whose key, in the official field report, opens a sealed room beneath NuriGO Mall (5 Oct guide). · **published**
 
 ## material (1) in `wiki/material/<id>.md`
-- [[reactive-metals]] — Reactive Metals are a material reported by players to feed the 3D printer. · **candidate**
+- [[reactive-metals]] — Reactive Metals are reported by players to feed the 3D printer. · **candidate**
 
 ## mechanic (29) in `wiki/mechanic/<id>.md`
 - [[after-action-report]] — The end-of-deployment screen: loot and DMZ Cash banked, a rating from F to S++ for Objectives, Combat and Looting, XP to your DMZ level and Dog Tag level (offi… · **published**
 - [[bounty-system]] — Killing players earns a Bounty; four kills make you Wanted. Hunters buy intel at Bounty Stations and extract the target's Dog Tag to collect. · **published**
 - [[dmz-orders]] — DMZ Orders are an objective type found in DMZ. · **published**
-- [[dmz-progression]] — DMZ progression spans 70 levels used to unlock FOB stations, upgrades, and recipes, with XP earned even on failed exfils. · **published**
+- [[dmz-progression]] — Learn about DMZ progression across 70 levels, including unlocks for FOB stations, upgrades, recipes, and earning DMZ XP. · **published**
 - [[dynamic-weather]] — Downpours cut visibility, fog changes routes, convoys move on roads, helicopters cross the sky and hostile forces reposition WMDs during a match (official, pre… · **published**
 - [[free-roam]] — Open exploration of Hajin without structured objectives; the third way to play alongside Story Missions and Dynamic Operations (official, pre-launch). · **published**
 - [[keys]] — Keys open special loot rooms; each key's description names its Tac-Map grid square, and Lieutenants can drop the key to their own room (official, 5 Oct guide). · **published**
@@ -80,26 +80,26 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[rescue]] — Rescue allows players to recover a dead Operator, retaining their Skill Tree progress and earned experience by paying a rescue cost. · **draft**
 - [[secure-slots]] — Secure Slots protect stored items if a player fails to exfil, and players report they are featured on the Medium Backpack. · **published**
 - [[server-culling]] — Server Culling is a mechanic introduced in Modern Warfare 4 as a new way to combat cheating. · **draft**
-- [[skill-trees]] — Learn about the Skill Tree mechanic, which is configured individually per Operator. · **draft**
+- [[skill-trees]] — Skill Trees are per Operator character progression paths. · **draft**
 - [[stealth-meter]] — HUD indicator and audio cues (white → yellow → orange) that show how close you are to being detected, aimed at solo play (official, pre-launch). · **published**
 - [[tac-map]] — The DMZ Tac-Map: objectives, POIs, threat areas, caches and spreading radiation on a grid with letters west to east and numbers north to south (D7 is Imjin Far… · **published**
 - [[threat-escalation]] — Every area of Hajin has a threat level (Low, Medium, High, Critical or Extreme) shown under the compass; loud play raises the enemy response, stealth calms it … · **published**
 - [[tourniquet]] — Lets you heal to a wounded state when you have no self-revive equipped (official, pre-launch). · **published**
 - [[vehicles]] — DMZ vehicles on land, water and in the air need repair and fuel at Gas Stations; the guide lists 14, from the Camper to the Monarch exfil helicopter (official,… · **published**
 - [[wanted-status]] — Wanted status is a gameplay mechanic that players can receive by taking down rival Operators. · **published**
-- [[weapon-customization]] — Weapon customization allows players to attach modifications to their weapons using DMZ Cash. · **draft**
-- [[weapon-manuals]] — Weapon Manuals are items that unlock new weapons once located and successfully extracted. · **published**
+- [[weapon-customization]] — Customizing weapons with attachments requires DMZ Cash. · **draft**
+- [[weapon-manuals]] — Weapon Manuals are items that players locate and extract to unlock new weapons. · **published**
 - [[what-carries-over]] — Persistent across deployments: operator traits and skill trees, FOB upgrades and stash, weapon unlocks from Weapon Manuals, Bounty Leaderboard standing, XP and… · **published**
 
 ## mission (5) in `wiki/mission/<id>.md`
 - [[dynamic-operations]] — Dynamic Operations feature squad objectives across Hajin, with players reporting cash, XP, and escalating supply drops upon completion. · **published**
-- [[operation-shopping-hacks]] — Operation Shopping Hacks is a DMZ mission reported to reward the Night Vision Goggles crafting recipe. · **candidate**
-- [[operation-silent-ledger]] — Operation Silent Ledger is a reported story mission in DMZ. · **candidate**
+- [[operation-shopping-hacks]] — Operation Shopping Hacks is a DMZ mission reported to award the Night Vision Goggles crafting recipe. · **candidate**
+- [[operation-silent-ledger]] — Operation Silent Ledger is reported by players to be a story mission in DMZ. · **candidate**
 - [[side-ops]] — Small optional tasks in a match (truck repairs, finding a supply drop, scaling a radio tower) that give XP alongside the main objectives (official, pre-launch). · **published**
-- [[story-missions]] — Players report that Story Missions in Modern Warfare 4 DMZ unlock needed crafting recipes. · **published**
+- [[story-missions]] — Story Missions in Modern Warfare 4 DMZ are reported by players to unlock needed crafting recipes. · **published**
 
 ## poi (21) in `wiki/poi/<id>.md`
-- [[building-21]] — Building 21 is a map type reported by players to be receiving a new release in Season 1. · **candidate**
+- [[building-21]] — Building 21 is a map type that players report will see a new release in Season 1. · **candidate**
 - [[casino]] — A dark, multi-floor casino with an underground car park in Cheongun Village, northern Hajin; expected threat High, NVGs advised (official, pre-launch). · **published**
 - [[chang-san-air-base]] — An NK air base in western Hajin built into a granite hillside over a bunker complex larger than the base itself; exterior Critical, bunker Extreme (official, p… · **published**
 - [[cheongun-village]] — The northernmost South Korean area of Hajin, on the Russian border and the Hajin River, home of the Heavenly Luck Casino; mostly Low threat, casino High (offic… · **published**
@@ -108,14 +108,14 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[fallout-reactor]] — Retired: the official name is Haneul Nuclear Reactor (guide of 5 Oct 2026); see that page. · **retired**
 - [[hajin]] — Hajin is a combat map in DMZ featuring multiple named locations, lieutenants, and roaming bosses. · **draft**
 - [[hajin-city-remains]] — Hajin City, the ruined urban east of the map: NuriGO Mall, The Grid, Songdo Wharf and Wolves Stadium, with Hajin River Heights to the southeast (official, 5 Oc… · **published**
-- [[hajin-exclusion-zone]] — The Hajin Exclusion Zone is an operational area reported to hold up to 60 players across 20 squads. · **published**
+- [[hajin-exclusion-zone]] — The Hajin Exclusion Zone is an operational area reported to host 60 players across 20 squads. · **published**
 - [[hajin-river-heights]] — A battered residential district in southeast Hajin with Compound Echo and the Jinseo Park Towers; Medium threat throughout (official, pre-launch). · **published**
-- [[haneul-nuclear-reactor]] — A nuclear reactor site reported by players to feature nearby secured bunkers. · **published**
+- [[haneul-nuclear-reactor]] — A point of interest reported by players to feature nearby secured bunkers. · **published**
 - [[imjin-farmland]] — Open rice fields and waterways in south-southwest Hajin around a large Rice Mill; exterior Low, Jeong Loading Dock Low, Rice Mill Medium (official, pre-launch). · **published**
 - [[military-base]] — A military base POI on Hajin, named by Activision; likely source of the abandoned military technology the factions fight over, but no official detail before la… · **published**
 - [[mirae-general-hospital]] — Hajin's main hospital in the north centre, beside a train station near The Grid and NuriGO Mall; expected threat Low (official, pre-launch). · **published**
 - [[nurigo-mall]] — A shopping district in northeast Hajin City with a large underground mall (NVGs advised); NuriGO East Medium, NuriGO West High (official, pre-launch). · **published**
-- [[power-plant]] — The Power Plant is reported by players to be a location in the game. · **candidate**
+- [[power-plant]] — The Power Plant is reported by players to be an in-game location. · **candidate**
 - [[prison-complex]] — A walled NK prison in northwest Hajin around the Citadel, a Y-shaped fortress of walkways and cell blocks; Prison High, Citadel Critical (official, pre-launch). · **published**
 - [[songdo-wharf]] — The waterfront of eastern Hajin City, with the La Grande Vie tower, a market, pier and lighthouse; Low threat, train and monorail still running (official, pre-… · **published**
 - [[the-grid]] — The walled-off business district at the heart of Hajin City; Critical throughout, Nenshin Tech Complex Extreme; rooftop fights and few ground-level escape rout… · **published**
@@ -132,12 +132,12 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 ## trait (6) in `wiki/trait/<id>.md`
 - [[adrenaline-burst]] — Warfighter Trait: killing an enemy resets your tactical sprint (official, 9 Oct guide). · **published**
 - [[air-superiority]] — Survivalist Trait: UAV towers and SAM sites you activate last longer (official, 9 Oct guide). · **published**
-- [[auto-fill]] — Auto Fill is a trait reported by players to automatically replenish lethals and tacticals. · **candidate**
+- [[auto-fill]] — Players report that the Auto Fill trait causes lethals and tacticals to automatically replenish. · **candidate**
 - [[quick-fix]] — Warfighter Trait: killing an enemy Operator or AI shortens your health regeneration delay (official, 9 Oct guide). · **published**
 - [[trait-points]] — Operators earn Trait Points by levelling their Dog Tags (18 max) and spend them in three trees: Warfighter, Scout and Survivalist, 66 Traits in all. · **published**
 - [[viper-sense]] — Warfighter Trait: hides you from thermal optics and AI targeting systems (official, 9 Oct guide). · **published**
 
 ## weapon (3) in `wiki/weapon/<id>.md`
 - [[aston-martin-dreadnought]] — The Aston Martin Dreadnought is an armored SUV vehicle in MW4 DMZ reported by players. · **retired**
-- [[ltv]] — The LTV is reported by players as a vehicle in MW4 DMZ fitted with a mounted .50 Cal. · **retired**
-- [[polaris-dagor-a1]] — The Polaris Dagor A1 is an all-terrain squad vehicle featured in Modern Warfare 4 and DMZ at launch. · **retired**
+- [[ltv]] — The LTV is reported by players to be a vehicle in MW4 DMZ featuring a mounted .50 Cal. · **retired**
+- [[polaris-dagor-a1]] — The Polaris Dagor A1 is a vehicle built for the toughest terrain, appearing at launch in Modern Warfare 4 and DMZ. · **retired**

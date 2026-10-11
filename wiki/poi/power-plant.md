@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "Power Plant"
-description: "The Power Plant is reported by players to be a location in the game."
+description: "The Power Plant is reported by players to be an in-game location."
 status: draft
 brain_status: candidate
 sensitivity: public
@@ -9,18 +9,15 @@ sources: [clm_d480fcf3b0a2]
 ---
 <!-- generated:start -->
 ## Overview
-
-Players report that the Power Plant is an in-game location. Its specific region has not been detailed.
+Players report that the Power Plant is a location in the game.
 
 ## Loot
-
-Information regarding the loot profile of this location has not been reported.
+Information on loot for this location is not available.
 
 ## Threats
+Information on threats for this location is not available.
 
-The danger level and specific threats present at this site are currently unconfirmed.
-
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-10._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-11._
 <!-- generated:end -->
 
 <!-- human:start -->
