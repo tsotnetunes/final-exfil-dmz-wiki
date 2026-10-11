@@ -38,7 +38,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — A guide covering Modern Warfare 4 edition details, DMZ mode features, and early access scheduling. · **draft**
+- [[modern-warfare-4]] — A guide covering Modern Warfare 4 early access schedules, Vault Edition bonuses, and player-reported details regarding DMZ mode and promotions. · **draft**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, parachute uses, the unnamed hooded Lieutenant, prestige rewards, support after MW4. · **published**
