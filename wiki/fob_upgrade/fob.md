@@ -5,7 +5,7 @@ description: "Your home between deployments; stations open from the start or by 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_46243e27d86a, clm_fd90953238b0, clm_c5bec6dd520b, clm_dffa557cf032, clm_f08caeac8e56, clm_be702dd26814, clm_0601ee8f8cb8, clm_d9ca819a3519, clm_b5908fa8c1b3, clm_311263850855, clm_f5097de48b29, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_46243e27d86a, clm_fd90953238b0, clm_c5bec6dd520b, clm_dffa557cf032, clm_f08caeac8e56, clm_be702dd26814, clm_0601ee8f8cb8, clm_d9ca819a3519, clm_b5908fa8c1b3, clm_311263850855, clm_f5097de48b29, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["Forward Operating Base", "the base"]
 station: hub
 unlock: start
@@ -32,4 +32,6 @@ Your home between deployments: offload loot, gear up, take your next Orders; it 
 **Unlocked by playing:** [[3d-printer]] at DMZ level 2, the [[boss-board]] after your second DMZ Order, the Vendor ([[weapon-vendor]]) at level 5, the [[gunsmith]] at level 10 and the [[dog-tag-case]] at level 20 [[src-activision-dmz-guide-part2-2026-10-09]]. Stations are upgraded at the 3D Printer.
 
 DMZ Cash in the Bank ([[wallet]]), the Stash, Resources and Ingredients are shared by all your Active Duty Operators [[src-activision-dmz-guide-part2-2026-10-09]]. What persists between matches: [[what-carries-over]].
+
+In a party, the FOB looks like the party leader's progress, while each station's menu shows your own progress and items (the developers' Q&A, relayed by [[src-westie-dmz-ama-recap-2026-10-11]]).
 <!-- human:end -->

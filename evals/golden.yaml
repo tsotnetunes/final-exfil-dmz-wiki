@@ -77,3 +77,15 @@
 - id: g26
   question: How do I get rid of my bounty?
   must_retrieve: [bounty-system]
+- id: g27
+  question: How many players are in a DMZ match?
+  must_retrieve: [matchmaking]
+- id: g28
+  question: How does healing work in DMZ, and what does the tourniquet do?
+  must_retrieve: [health-and-healing]
+- id: g29
+  question: Are parachutes single use in DMZ?
+  must_retrieve: [parachute]
+- id: g30
+  question: Is tac sprint on by default in DMZ?
+  must_retrieve: [movement-and-tuning]
