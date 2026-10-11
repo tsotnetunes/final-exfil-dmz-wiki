@@ -64,7 +64,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[after-action-report]] — The end-of-deployment screen: loot and DMZ Cash banked, a rating from F to S++ for Objectives, Combat and Looting, XP to your DMZ level and Dog Tag level (offi… · **published**
 - [[bounty-system]] — Killing players earns a Bounty; four kills make you Wanted. Hunters buy intel at Bounty Stations and extract the target's Dog Tag to collect. · **published**
 - [[dmz-orders]] — DMZ Orders are an objective type found in DMZ. · **published**
-- [[dmz-progression]] — Learn about DMZ progression across 70 levels, including unlocks for FOB stations, upgrades, recipes, and earning DMZ XP. · **published**
+- [[dmz-progression]] — Overview of DMZ progression, covering the 1-70 level track, DMZ XP rewards, and unlocks for FOB stations, upgrades, and crafting recipes. · **published**
 - [[dynamic-weather]] — Downpours cut visibility, fog changes routes, convoys move on roads, helicopters cross the sky and hostile forces reposition WMDs during a match (official, pre… · **published**
 - [[free-roam]] — Open exploration of Hajin without structured objectives; the third way to play alongside Story Missions and Dynamic Operations (official, pre-launch). · **published**
 - [[keys]] — Keys open special loot rooms; each key's description names its Tac-Map grid square, and Lieutenants can drop the key to their own room (official, 5 Oct guide). · **published**
