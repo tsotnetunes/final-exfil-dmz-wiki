@@ -190,3 +190,7 @@
 ## [2026-10-11 11:49 EDT] ingest | Infinity Ward's 9 Oct r/DMZ Q&A as relayed by Westie (11 Oct): 60 players, matchmaking by squad size, health and tourniquet, parachutes, tuning, camos, X01 and the Season 2 Russian area; 5 new pages, 4 golden questions
 - changed: .kac 1, evals 1, index 13, index.md 1, raw 1, wiki 15
 - run: r-20261011-114944-f930
+
+## [2026-10-11 11:50 EDT] render | 0 pages rendered, 157 claims, 151 evidence
+- changed: wiki 0, claims 1, evidence 1, index.md 1
+- run: r-20261011-155003-8039
