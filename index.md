@@ -38,7 +38,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — A guide covering Modern Warfare 4 Vault Edition perks, DMZ mode features, and early access details. · **draft**
+- [[modern-warfare-4]] — A guide covering Modern Warfare 4 edition details, DMZ mode features, and early access scheduling. · **draft**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ before launch: match size, wipes, map size, the Warzone relationship, the unnamed hooded Lieutenant, prestige rewards, the seas… · **published**
@@ -108,7 +108,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[fallout-reactor]] — Retired: the official name is Haneul Nuclear Reactor (guide of 5 Oct 2026); see that page. · **retired**
 - [[hajin]] — Hajin is a combat map in DMZ featuring multiple named locations, lieutenants, and roaming bosses. · **draft**
 - [[hajin-city-remains]] — Hajin City, the ruined urban east of the map: NuriGO Mall, The Grid, Songdo Wharf and Wolves Stadium, with Hajin River Heights to the southeast (official, 5 Oc… · **published**
-- [[hajin-exclusion-zone]] — The Hajin Exclusion Zone is an operational area reported to host 60 players across 20 squads. · **published**
+- [[hajin-exclusion-zone]] — The Hajin Exclusion Zone is a massive area reported to host 60 players across 20 squads alongside various Operators. · **published**
 - [[hajin-river-heights]] — A battered residential district in southeast Hajin with Compound Echo and the Jinseo Park Towers; Medium threat throughout (official, pre-launch). · **published**
 - [[haneul-nuclear-reactor]] — A point of interest reported by players to feature nearby secured bunkers. · **published**
 - [[imjin-farmland]] — Open rice fields and waterways in south-southwest Hajin around a large Rice Mill; exterior Low, Jeong Loading Dock Low, Rice Mill Medium (official, pre-launch). · **published**
