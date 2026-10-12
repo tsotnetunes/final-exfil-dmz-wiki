@@ -1,7 +1,7 @@
 ---
 type: mechanic
 title: "Missing In Action"
-description: "Learn about the Missing In Action mechanic and what triggers it for your Operator."
+description: "The MIA status an Operator gets for not getting out of a deployment; recovery and what it costs are on the MIA system page."
 status: draft
 brain_status: candidate
 sensitivity: public

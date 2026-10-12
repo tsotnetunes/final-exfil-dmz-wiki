@@ -214,3 +214,7 @@
 ## [2026-10-11 23:18 EDT] render | 30 pages rendered, 165 claims, 158 evidence
 - changed: wiki 30, claims 1, evidence 1, index.md 1
 - run: r-20261012-031824-2866
+
+## [2026-10-12 00:32 EDT] edit | Citations read 'via a video recap [n]' instead of 'relayed by [n]' (footnotes on the site); plain-fact cards for exfil, progression, Haneul reactor, MIA; Medkit, Bandage, Self-revive kit as other names of the healing page
+- changed: index 8, index.md 1, wiki 17
+- run: r-20261012-003243-8292

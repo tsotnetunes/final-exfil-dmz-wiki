@@ -13,5 +13,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Per the developers' 9 Oct Q&A, relayed by [[src-westie-dmz-ama-recap-2026-10-11]]: after a year of testing with unlimited parachutes, exploring Hajin felt too safe, so base parachutes now have limited uses. They are easier to find, for example in Fire Stations ([[locations-of-interest]]). Infinite-use parachutes exist too. Both can be printed at the [[3d-printer]]. The official guide lists parachutes in the printer's Gear category and gives them their own loadout slot [[src-activision-dmz-guide-part2-2026-10-09]]. Rumours said "single use"; the relay says limited use, and how many uses is not stated.
+Per the developers' 9 Oct Q&A, via a video recap [[src-westie-dmz-ama-recap-2026-10-11]]: after a year of testing with unlimited parachutes, exploring Hajin felt too safe, so base parachutes now have limited uses. They are easier to find, for example in Fire Stations ([[locations-of-interest]]). Infinite-use parachutes exist too. Both can be printed at the [[3d-printer]]. The official guide lists parachutes in the printer's Gear category and gives them their own loadout slot [[src-activision-dmz-guide-part2-2026-10-09]]. Rumours said "single use"; the relay says limited use, and how many uses is not stated.
 <!-- human:end -->

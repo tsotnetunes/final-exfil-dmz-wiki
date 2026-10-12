@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "Haneul Nuclear Reactor"
-description: "Learn about the Haneul Nuclear Reactor, where players report finding secured bunkers."
+description: "Northeast Hajin, on the coast north of Songdo Wharf: a breached reactor under a still cloud of radioactive vapour; radiation protection and a gas mask are needed (official guide, 5 Oct)."
 status: stable
 brain_status: published
 sensitivity: public

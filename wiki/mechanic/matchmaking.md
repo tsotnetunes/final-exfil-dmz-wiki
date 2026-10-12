@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-**From the developers' 9 Oct Q&A, relayed by [[src-westie-dmz-ama-recap-2026-10-11]]; most points were also reported by other accounts on X.**
+**From the developers' 9 Oct Q&A, via a video recap [[src-westie-dmz-ama-recap-2026-10-11]]; most points were also reported by other accounts on X.**
 
 - **Players.** At launch a Hajin match holds up to 60 players: 20 squads of three ([[hajin-exclusion-zone]]).
 - **Queueing.** There is no separate party finder: you choose [[story-missions]], [[dynamic-operations]] or [[free-roam]] when you queue, and the matchmaker groups players who chose the same.

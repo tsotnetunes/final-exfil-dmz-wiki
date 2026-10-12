@@ -16,5 +16,5 @@ _Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Part of Ricochet, MW4's anti-cheat, which runs in DMZ with server culling, TPM 2.0, Secure Boot and stronger account security (the developers' Q&A, relayed by [[src-westie-dmz-ama-recap-2026-10-11]]). TPM 2.0 and Secure Boot are required on PC [[src-xbox-wire-dmz-features-2026-10-09]].
+Part of Ricochet, MW4's anti-cheat, which runs in DMZ with server culling, TPM 2.0, Secure Boot and stronger account security (the developers' Q&A, via a video recap [[src-westie-dmz-ama-recap-2026-10-11]]). TPM 2.0 and Secure Boot are required on PC [[src-xbox-wire-dmz-features-2026-10-09]].
 <!-- human:end -->

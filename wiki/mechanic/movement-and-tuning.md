@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-From the developers' 9 Oct Q&A, relayed by [[src-westie-dmz-ama-recap-2026-10-11]]:
+From the developers' 9 Oct Q&A, via a video recap [[src-westie-dmz-ama-recap-2026-10-11]]:
 
 - **Tac sprint** is on by default in DMZ, unlike Multiplayer (where, as reported on X, it comes with a perk).
 - **Weapon damage** has DMZ's own tuning, made with its armor and plate carriers in mind. A creator's quote of the same answer on X says it is close to Warzone's tuning (reported).

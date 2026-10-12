@@ -15,5 +15,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- human:start -->
 Activision: “Sudden downpours can reduce visibility,” dense fog transforms routes; vehicle convoys; air traffic; WMD repositioning [[src-activision-dmz-deep-dive-2026-06]].
 
-No night mode or day-night cycle at launch. Weather ranges from sun and cloud to rainstorms, fog and mist, possibly snow; darker interiors call for NVGs, which are in the loot pool (the developers' Q&A, relayed by [[src-westie-dmz-ama-recap-2026-10-11]]).
+No night mode or day-night cycle at launch. Weather ranges from sun and cloud to rainstorms, fog and mist, possibly snow; darker interiors call for NVGs, which are in the loot pool (the developers' Q&A, via a video recap [[src-westie-dmz-ama-recap-2026-10-11]]).
 <!-- human:end -->

@@ -1,7 +1,7 @@
 ---
 type: mechanic
 title: "DMZ progression: levels 1–70 and Dog Tag levels"
-description: "An overview of DMZ progression across 70 levels, detailing unlocks and how DMZ XP is earned."
+description: "DMZ has its own levels 1 to 70, apart from Multiplayer's 55; XP from missions, loot and fights counts even without an exfil, and each Operator's Dog Tag has 18 levels (official guide)."
 status: stable
 brain_status: published
 sensitivity: public

@@ -33,5 +33,5 @@ Your home between deployments: offload loot, gear up, take your next Orders; it 
 
 DMZ Cash in the Bank ([[wallet]]), the Stash, Resources and Ingredients are shared by all your Active Duty Operators [[src-activision-dmz-guide-part2-2026-10-09]]. What persists between matches: [[what-carries-over]].
 
-In a party, the FOB looks like the party leader's progress, while each station's menu shows your own progress and items (the developers' Q&A, relayed by [[src-westie-dmz-ama-recap-2026-10-11]]).
+In a party, the FOB looks like the party leader's progress, while each station's menu shows your own progress and items (the developers' Q&A, via a video recap [[src-westie-dmz-ama-recap-2026-10-11]]).
 <!-- human:end -->

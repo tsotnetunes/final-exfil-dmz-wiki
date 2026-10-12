@@ -1,7 +1,7 @@
 ---
 type: exfil
 title: "Exfil: helicopters and skyhooks"
-description: "Learn about extraction in Modern Warfare 4's DMZ mode and the Operation Critical Extraction story mission reported by players."
+description: "Exfil sites move every match and show as green smoke: call the Twin Heli and hold the spot until it lands, or leave by Fulton balloon or Flare (official guide, 5 Oct)."
 status: stable
 brain_status: published
 sensitivity: public

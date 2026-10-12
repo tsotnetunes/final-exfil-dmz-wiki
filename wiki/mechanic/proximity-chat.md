@@ -15,5 +15,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- human:start -->
 Activision: “Distance-Based Vocal Falloff,” directionality, environmental voice reverb [[src-activision-dmz-deep-dive-2026-06]]. Proximity chat is the fastest way to talk to nearby Operators; when voice is unavailable or best kept quiet, the **Ping Wheel** gives visual commands, including requesting a Truce or joining up with another squad [[src-activision-dmz-guide-part1-2026-10-05]].
 
-Confirmed to return in MW4's DMZ (the developers' Q&A, relayed by [[src-westie-dmz-ama-recap-2026-10-11]]).
+Confirmed to return in MW4's DMZ (the developers' Q&A, via a video recap [[src-westie-dmz-ama-recap-2026-10-11]]).
 <!-- human:end -->

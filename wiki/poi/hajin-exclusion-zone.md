@@ -33,5 +33,5 @@ The only map at launch: a contested exclusion zone left by the events of the MW4
 
 **Reading the map.** The [[tac-map]] grid runs letters west to east and numbers north to south. Every area shows a threat level from Low to Extreme ([[threat-escalation]]); radiation spreads during a deployment ([[radiation-storm]]). Dynamic weather, convoys and air traffic as in the June intel ([[dynamic-weather]]).
 
-**Players and size.** Up to 60 players per match, 20 squads of three, at launch ([[matchmaking]]). Developers say Hajin is larger than Al Mazrah; a Russian landmass, already part of the map but closed at launch, opens in Season 2 with its own story, missions and Dynamic Ops, and then Hajin becomes the largest Call of Duty map. More maps are planned, starting with X01 soon after launch (the developers' Q&A, relayed by [[src-westie-dmz-ama-recap-2026-10-11]]).
+**Players and size.** Up to 60 players per match, 20 squads of three, at launch ([[matchmaking]]). Developers say Hajin is larger than Al Mazrah; a Russian landmass, already part of the map but closed at launch, opens in Season 2 with its own story, missions and Dynamic Ops, and then Hajin becomes the largest Call of Duty map. More maps are planned, starting with X01 soon after launch (the developers' Q&A, via a video recap [[src-westie-dmz-ama-recap-2026-10-11]]).
 <!-- human:end -->
