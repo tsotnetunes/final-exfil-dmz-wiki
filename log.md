@@ -218,3 +218,7 @@
 ## [2026-10-12 00:32 EDT] edit | Citations read 'via a video recap [n]' instead of 'relayed by [n]' (footnotes on the site); plain-fact cards for exfil, progression, Haneul reactor, MIA; Medkit, Bandage, Self-revive kit as other names of the healing page
 - changed: index 8, index.md 1, wiki 17
 - run: r-20261012-003243-8292
+
+## [2026-10-12 00:59 EDT] edit | Threat Escalation: other names read 'Medium threat' and so on, not bare 'Medium' or 'High', so a site search for 'med' or 'high' is not answered with a threat level
+- changed: wiki 1
+- run: r-20261012-005922-83a0

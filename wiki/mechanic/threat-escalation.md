@@ -6,7 +6,7 @@ status: stable
 brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05]
-aliases: ["threat level", "Low", "Medium", "High", "Critical", "Extreme"]
+aliases: ["threat level", "Low threat", "Medium threat", "High threat", "Critical threat", "Extreme threat"]
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
