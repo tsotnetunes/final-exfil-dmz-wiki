@@ -1,7 +1,7 @@
 ---
 type: mechanic
 title: "DMZ progression: levels 1–70 and Dog Tag levels"
-description: "Overview of DMZ progression, covering the 1-70 level track, DMZ XP rewards, and unlocks for FOB stations, upgrades, and crafting recipes."
+description: "An overview of DMZ progression across 70 levels, detailing unlocks and how DMZ XP is earned."
 status: stable
 brain_status: published
 sensitivity: public
@@ -9,13 +9,13 @@ sources: [clm_ddf327b1e62d, clm_43eb9661dfec, clm_7395536c245c, src-activision-d
 aliases: ["DMZ Player Level", "Progression Track", "DMZ level", "level 70", "Dog Tag level", "Onyx III", "DMZ XP"]
 ---
 <!-- generated:start -->
-DMZ progression features a 70-level advancement track that allows players to earn experience and unlock key gameplay features.
+DMZ progression allows players to advance through 70 levels to earn rewards and access new features.
 
-* DMZ progression spans 70 levels and is used to unlock FOB stations, upgrades, and crafting recipes.
+* DMZ progression spans 70 levels and unlocks FOB stations, upgrades, and crafting recipes.
 * Players earn DMZ XP even if they fail to exfil.
-* Players report that DMZ includes a 1-70 level track for FOB stations.
+* Players report that DMZ features a 1-70 level track dedicated to FOB stations.
 
-_Generated from 2 confirmed and 1 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-11._
+_Generated from 2 confirmed and 1 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-12._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -9,11 +9,11 @@ sources: [clm_15b35293c60f, src-activision-dmz-deep-dive-2026-06, src-activision
 aliases: ["MIA", "rescue team", "missing in action", "lost operator"]
 ---
 <!-- generated:start -->
-The MIA system tracks the status of an Operator following death in combat.
+The MIA system governs what happens when an Operator dies during gameplay.
 
-* If you die, that Operator is MIA.
+* If you die, that Operator becomes MIA.
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-10._
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-12._
 <!-- generated:end -->
 
 <!-- human:start -->

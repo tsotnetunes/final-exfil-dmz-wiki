@@ -8,9 +8,9 @@ sensitivity: public
 sources: [clm_afc354a32ecf, clm_6aac9d9c7dc0, clm_d5a1dc3ae648, src-activision-dmz-guide-part2-2026-10-09]
 ---
 <!-- generated:start -->
-Players report that the Auto Fill trait causes lethals and tacticals to automatically replenish. The tree and tier for this trait are not specified.
+Players report that the Auto Fill trait causes lethals and tacticals to automatically replenish.
 
-_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-11._
+_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-12._
 <!-- generated:end -->
 
 <!-- human:start -->

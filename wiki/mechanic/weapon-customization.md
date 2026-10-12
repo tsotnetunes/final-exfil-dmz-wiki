@@ -1,18 +1,18 @@
 ---
 type: mechanic
 title: "Weapon customization"
-description: "Customizing weapons with attachments requires DMZ Cash."
+description: "Learn about the currency required for weapon customization attachments."
 status: draft
 brain_status: draft
 sensitivity: public
 sources: [clm_55b26f37e758]
 ---
 <!-- generated:start -->
-Weapon customization allows players to equip attachments to their weapons using currency.
+Weapon customization allows players to modify their weapons.
 
-* Customizing weapons with attachments requires DMZ Cash.
+* DMZ Cash is required to customize weapons with attachments.
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-11._
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-12._
 <!-- generated:end -->
 
 <!-- human:start -->

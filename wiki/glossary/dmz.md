@@ -9,20 +9,20 @@ sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5
 aliases: ["MW4 DMZ"]
 ---
 <!-- generated:start -->
-DMZ, also known as MW4 DMZ, is a game mode set in Hajin. DMZ Early Access begins on October 20, ahead of the launch of MW4 on October 23.
+DMZ is a game mode set in Hajin, with Early Access starting on October 20 ahead of the Modern Warfare 4 launch on October 23.
 
 ## Details
 
-* DMZ is confirmed to be located in Hajin.
-* DMZ Early Access begins on October 20, and MW4 launches on October 23.
-* Players report that DMZ will be available day 1 for Modern Warfare 4 owners.
-* Players report that DMZ mode currently features only PvPvE.
-* Lobbies will not be solo-only, according to player reports.
-* Players report that solo players queuing will attempt to match against other solo players, and duos will attempt to match against duos.
-* Player reports indicate that DMZ has its own weapon damage tuning, which is close to Warzone.
-* Players report three Mastery Camos in DMZ: Chiral, Ripple Tide, and Helio.
+* DMZ is located in Hajin.
+* Early Access for DMZ begins on October 20. Modern Warfare 4 officially launches on October 23.
+* Players report that DMZ will be available on day 1 for owners of Modern Warfare 4.
+* Players report that DMZ lobbies will not be solo-only.
+* Players report that matchmaking will attempt to place solo players against other solos, and the same system applies to duos.
+* Players report that the mode currently features only PvPvE.
+* Players report that Infinity Ward stated Single Squad Missions were intended for internal use and not meant for public release.
+* Players report that DMZ features its own weapon damage tuning, which is close to Warzone.
+* Players report that there are three Mastery Camos in DMZ: Chiral, Ripple Tide, and Helio.
 * Players report that DMZ levels cannot be leveled up while playing multiplayer.
-* Player reports state that Infinity Ward indicated "Single Squad Missions" were intended for internal use only and were not meant for public release.
 
 _Generated from 3 confirmed and 10 reported claims across 13 posts and 0 patch notes; last rendered 2026-10-12._
 <!-- generated:end -->

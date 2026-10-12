@@ -1,7 +1,7 @@
 ---
 type: mission
 title: "Story Missions"
-description: "Story Missions in Modern Warfare 4 DMZ are reported by players to unlock needed crafting recipes."
+description: "Story Missions are missions in Modern Warfare 4 DMZ reported by players to unlock needed crafting recipes."
 status: stable
 brain_status: published
 sensitivity: public
@@ -11,12 +11,14 @@ mission_kind: story
 ---
 <!-- generated:start -->
 ## Overview
-Story Missions are a type of mission in Modern Warfare 4 DMZ. Players report that completing Story Missions will unlock needed crafting recipes.
+
+Story missions are missions featured in Modern Warfare 4 DMZ. Players report that completing story missions unlocks needed crafting recipes.
 
 ## Steps
-Steps for Story Missions have not been reported.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-11._
+No steps have been reported for these missions.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-12._
 <!-- generated:end -->
 
 <!-- human:start -->

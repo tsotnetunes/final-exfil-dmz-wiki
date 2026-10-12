@@ -1,7 +1,7 @@
 ---
 type: item
 title: "Dog Tags"
-description: "Overview of Dog Tags in DMZ, including rewards for extracting with Wanted players' tags and unlock requirements."
+description: "Dog Tags reward DMZ Cash when extracted from Wanted players, and the Dog Tag Case is reported to unlock at DMZ Level 20."
 status: stable
 brain_status: published
 sensitivity: public
@@ -14,7 +14,7 @@ Dog Tags are items associated with Wanted players and DMZ progression.
 * Extracting with the Dog Tags of Wanted players rewards DMZ Cash.
 * Players report that the Dog Tag Case unlocks at DMZ Level 20.
 
-_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-11._
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-12._
 <!-- generated:end -->
 
 <!-- human:start -->

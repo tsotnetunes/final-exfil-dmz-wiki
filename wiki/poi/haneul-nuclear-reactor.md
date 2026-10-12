@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "Haneul Nuclear Reactor"
-description: "A point of interest reported by players to feature nearby secured bunkers."
+description: "Learn about the Haneul Nuclear Reactor, where players report finding secured bunkers."
 status: stable
 brain_status: published
 sensitivity: public
@@ -12,19 +12,16 @@ loot_profile: unknown
 aliases: ["Fallout reactor", "Haneul", "Reactor 02", "South Korean Border Zone"]
 ---
 <!-- generated:start -->
-### Overview
+## Overview
+Players report that secured bunkers are located near the Haneul Nuclear Reactor.
 
-The Haneul Nuclear Reactor is a location reported by players to feature nearby secured bunkers.
+## Loot
+No details about loot found at this location have been reported.
 
-### Loot
+## Threats
+Threat information for this area has not been documented.
 
-Information on loot at this location is currently undocumented.
-
-### Threats
-
-Information on specific threats at this location is currently undocumented.
-
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-11._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-12._
 <!-- generated:end -->
 
 <!-- human:start -->
