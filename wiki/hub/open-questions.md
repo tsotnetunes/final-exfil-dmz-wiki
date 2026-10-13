@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Open questions about MW4 DMZ"
-description: "What is not known yet about DMZ: wipes, map area, X01, the Warzone link, parachute uses, the unnamed hooded Lieutenant, prestige rewards, support after MW4."
+description: "What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards, support."
 status: stable
 brain_status: published
 sensitivity: public
@@ -17,6 +17,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 - **Map area.** Developers say Hajin is larger than Al Mazrah and becomes the largest Call of Duty map when its Russian area opens in Season 2 ([[src-westie-dmz-ama-recap-2026-10-11]]); no area figure yet.
 - **X01.** A map due soon after launch, like the beta's Building 21 ([[src-westie-dmz-ama-recap-2026-10-11]]); no date or details.
 - **Warzone.** Reports say Hajin arrives in Warzone with MW4 Season 1; unconfirmed. The 5 Oct guide notes that Warzone vehicles, unlike DMZ ones, need no repair or fuel [[src-activision-dmz-guide-part1-2026-10-05]].
+- **Hunters and their own Bounty.** The June intel said hunting bounty targets can lessen the target on your own back; the 9 Oct guide names who fired first and being outnumbered among the factors but does not say whether killing a Wanted player lowers your own Bounty ([[bounty-system]]).
 - **Parachute uses.** Base parachutes have limited uses ([[parachute]]); how many is not stated.
 - **The hooded Lieutenant.** The 9 Oct guide shows a hooded Lieutenant with a sniper rifle without naming her; community accounts call her Iskra from Modern Warfare (2019) ([[lieutenants]]).
 - **Bale's rank.** The guide shows him without saying whether he is a Lieutenant or a Commander ([[bale]]).

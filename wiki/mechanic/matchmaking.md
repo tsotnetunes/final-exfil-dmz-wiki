@@ -21,5 +21,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 - **Disconnects.** After a crash or disconnect you can rejoin while that match is still running.
 - **Parties.** In a party the [[fob]] looks like the party leader's progress, while each station's menu shows your own progress and items.
 - **Operators.** No skin toggle: DMZ lives in MW4, not Warzone, so Operators from older games do not appear.
-- **No solo-only or PvE playlist** has been announced; a "Single Squad Mission" seen in testing was reported to be a developer-only playlist (reported, unverified).
+- **No solo-only or PvE playlist** at launch: the "Single Squad Mission" option seen in a promotional screenshot was for internal testing, as the developers said in the Q&A (also relayed by [[src-thexclusiveace-bounty-video-2026-10-12]]).
 <!-- human:end -->

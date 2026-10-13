@@ -89,3 +89,9 @@
 - id: g30
   question: Is tac sprint on by default in DMZ?
   must_retrieve: [movement-and-tuning]
+- id: g31
+  question: What does it mean when vultures circle somewhere in Hajin?
+  must_retrieve: [bounty-system]
+- id: g32
+  question: Does each Active Duty Operator keep their own backpack and loadout?
+  must_retrieve: [active-duty]

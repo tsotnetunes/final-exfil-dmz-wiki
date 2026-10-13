@@ -1,7 +1,7 @@
 ---
 type: mechanic
 title: "Weapon Manuals"
-description: "Weapon Manuals are extractable items used to unlock new weapons."
+description: "Extract a weapon's Manual to buy that weapon in the Gunsmith as often as you like; a Manual is used up at exfil and pays 5,000 DMZ Cash (official guide, 9 Oct)."
 status: stable
 brain_status: published
 sensitivity: public
