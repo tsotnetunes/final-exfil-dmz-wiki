@@ -5,29 +5,26 @@ description: "Modern Warfare 4's extraction mode: early access from 20 Oct 2026 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5, clm_5e8135915868, clm_cc4819b844ec, clm_756ca3a1eee7, clm_ab07e6e3f11a, clm_4168264992cf, clm_074886fbd8a3, clm_06a18e0bc5dc, clm_34cf7998ef77, clm_bdc81da0243a, clm_745f1b4c8236, clm_cbd622c56df9, clm_cb80a507198b, clm_5925122b4bac, clm_6966a3db131a, clm_3b6f8853376b, clm_1e5e54fe39d9, clm_7171b643787f, clm_48027a6aac93, clm_546c93fb1360, clm_cd1d93a80a43, clm_f2698bfc853b, clm_0779921b8e43, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-campaign-early-access-2026-06-12, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09, src-westie-dmz-ama-recap-2026-10-11]
+sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5, clm_5e8135915868, clm_cc4819b844ec, clm_756ca3a1eee7, clm_ab07e6e3f11a, clm_4168264992cf, clm_074886fbd8a3, clm_06a18e0bc5dc, clm_34cf7998ef77, clm_bdc81da0243a, clm_745f1b4c8236, clm_cbd622c56df9, clm_cb80a507198b, clm_5925122b4bac, clm_6966a3db131a, clm_3b6f8853376b, clm_1e5e54fe39d9, clm_7171b643787f, clm_48027a6aac93, clm_546c93fb1360, clm_cd1d93a80a43, clm_f2698bfc853b, clm_0779921b8e43, clm_a1569c892677, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-campaign-early-access-2026-06-12, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["MW4 DMZ"]
 ---
 <!-- generated:start -->
-DMZ is a game mode set in Hajin, with Early Access starting on October 20 ahead of the Modern Warfare 4 launch on October 23.
+DMZ is a game mode located in Hajin. Early Access for DMZ begins on October 20, ahead of the full launch of MW4 on October 23.
 
-## Overview and Access
-* DMZ Early Access begins on October 20, and MW4 launches on October 23.
-* DMZ is confirmed to take place in Hajin.
+## Overview and Details
+
+* DMZ is confirmed to be located in Hajin.
+* Early Access is confirmed to start on October 20, leading into the launch of MW4 on October 23.
 * Players report that DMZ will be available day 1 for Modern Warfare 4 owners.
+* Players report that the mode currently features only PvPvE and supports squad play.
+* Lobbies will not be solo-only, according to player reports. However, solo players queuing will try to match against other solos, and duos will try to match against other duos.
+* Infinity Ward stated that Single Squad Missions were intended for internal use only and not for public release, as reported by players.
+* Players report that weapon damage tuning in DMZ is distinct and close to Warzone.
+* DMZ features three Mastery Camos: Chiral, Ripple Tide, and Helio, as reported by players.
+* Players report that DMZ levels cannot be increased while playing multiplayer.
+* Players suggest that if a PvE mode is introduced, it should exist as a separate mode with its own progression, stash, and operators.
 
-## Gameplay and Matchmaking
-* Players report that the mode currently features only PvPvE.
-* Players report that lobbies are not solo-only. Solo players queuing will try to match against other solo players, and duos will similarly attempt to match against duos.
-* According to player reports, Infinity Ward stated that "Single Squad Missions" were intended for internal use and not for public release.
-* Players report that if a PvE mode is introduced to DMZ, it should exist as a separate mode featuring its own progression, stash, and operators.
-* DMZ has its own weapon damage tuning that is close to Warzone, according to player reports.
-
-## Progression and Customization
-* Players report that DMZ levels cannot be leveled up while playing multiplayer.
-* Players report three Mastery Camos in DMZ: Chiral, Ripple Tide, and Helio.
-
-_Generated from 4 confirmed and 11 reported claims across 15 posts and 0 patch notes; last rendered 2026-10-13._
+_Generated from 4 confirmed and 12 reported claims across 16 posts and 0 patch notes; last rendered 2026-10-13._
 <!-- generated:end -->
 
 <!-- human:start -->

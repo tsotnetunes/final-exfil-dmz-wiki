@@ -96,6 +96,7 @@
 {"captured_at":"2026-10-12T15:00:10.568446+00:00","id":"evd_a24d1d1a8e07","locator":"text","sha256":"2b1f9f142bad13f08fe64d6ea97c595e85825a9574ef0570b784017bb984ce11","source_id":"2109658209979953425","source_kind":"x_post"}
 {"captured_at":"2026-10-07T22:30:17.72875+00:00","id":"evd_a2744a64b55f","locator":"text","sha256":"bcf7e3e75a5a52d82649ec6285e0e1c9a73d5e345cb70afa97b2af364bf4d47b","source_id":"2107957687627730971","source_kind":"x_post"}
 {"captured_at":"2026-10-05T21:00:14.76327+00:00","id":"evd_a4d110e04af5","locator":"text","sha256":"823a791f3d197ba92a8488bd7d3039ab27023e1b2eca33c3ef4c5232737acf94","source_id":"2107211823820976589","source_kind":"x_post"}
+{"captured_at":"2026-10-13T04:30:08.348687+00:00","id":"evd_a55748cc76a3","locator":"text","sha256":"669b1feb89a1952858ca737f4867152d50a3e44b0a179a3f4c3081efece449b5","source_id":"2109848080514208074","source_kind":"x_post"}
 {"captured_at":"2026-10-05T16:30:21.355928+00:00","id":"evd_a5ee75679dd8","locator":"text","sha256":"72cc9ab5ab22806210b0311faa3e27ddc5cea72754a847db418868b0fd8251b7","source_id":"2107128387714068962","source_kind":"x_post"}
 {"captured_at":"2026-10-05T22:30:10.286387+00:00","id":"evd_a63029c80186","locator":"text","sha256":"6f38408e145171b6ebae8e8ea37f7ce53865e563cd697439b43dfff3ae509828","source_id":"2107226673401749581","source_kind":"x_post"}
 {"captured_at":"2026-10-07T19:30:10.612863+00:00","id":"evd_a803c349d911","locator":"text","sha256":"13228f56cafb8062b5cf375ea06223ba3d26b5678bdd55d3be9ea0eeb10a4583","source_id":"2107894038498332696","source_kind":"x_post"}
