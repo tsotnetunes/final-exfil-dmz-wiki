@@ -9,20 +9,23 @@ sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5
 aliases: ["MW4 DMZ"]
 ---
 <!-- generated:start -->
-DMZ is a game mode set in Hajin, with Early Access starting on October 20 ahead of the launch of Modern Warfare 4 on October 23.
+DMZ is a game mode set in Hajin, with Early Access starting on October 20 ahead of the Modern Warfare 4 launch on October 23.
 
-## Mode Details
-
+## Overview and Access
+* DMZ Early Access begins on October 20, and MW4 launches on October 23.
 * DMZ is confirmed to take place in Hajin.
-* Early Access begins on October 20, while Modern Warfare 4 launches on October 23.
-* Players report that DMZ will be available on day 1 for owners of Modern Warfare 4.
-* DMZ currently features only PvPvE gameplay, according to player reports.
-* Players report that lobbies will not be solo-only. When matchmaking, the game will attempt to match solo players against other solos, and duos against duos.
-* Infinity Ward reportedly stated that Single Squad Missions were intended solely for internal use and were not meant for public release.
-* Players report that DMZ features its own weapon damage tuning, which is close to Warzone.
-* DMZ levels reportedly cannot be leveled up by playing multiplayer.
-* There are three reported Mastery Camos in DMZ: Chiral, Ripple Tide, and Helio.
-* Players suggest that if a PvE mode is added, it should exist as a separate mode with its own progression, stash, and operators.
+* Players report that DMZ will be available day 1 for Modern Warfare 4 owners.
+
+## Gameplay and Matchmaking
+* Players report that the mode currently features only PvPvE.
+* Players report that lobbies are not solo-only. Solo players queuing will try to match against other solo players, and duos will similarly attempt to match against duos.
+* According to player reports, Infinity Ward stated that "Single Squad Missions" were intended for internal use and not for public release.
+* Players report that if a PvE mode is introduced to DMZ, it should exist as a separate mode featuring its own progression, stash, and operators.
+* DMZ has its own weapon damage tuning that is close to Warzone, according to player reports.
+
+## Progression and Customization
+* Players report that DMZ levels cannot be leveled up while playing multiplayer.
+* Players report three Mastery Camos in DMZ: Chiral, Ripple Tide, and Helio.
 
 _Generated from 4 confirmed and 11 reported claims across 15 posts and 0 patch notes; last rendered 2026-10-13._
 <!-- generated:end -->

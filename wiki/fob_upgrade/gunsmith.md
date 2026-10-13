@@ -10,11 +10,9 @@ station: gunsmith
 unlock: progression
 ---
 <!-- generated:start -->
-### Station
+Players report that the Gunsmith station features a vendor whose stock rotates daily.
 
-Players report that the Gunsmith station features a vendor offering stock that rotates daily.
-
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-08._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-13._
 <!-- generated:end -->
 
 <!-- human:start -->

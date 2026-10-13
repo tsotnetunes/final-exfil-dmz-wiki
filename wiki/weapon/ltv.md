@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "LTV"
-description: "Learn about reports concerning the LTV vehicle and its mounted .50 Cal in MW4 DMZ."
+description: "Players report that the LTV is an MW4 DMZ vehicle equipped with a mounted .50 Cal."
 status: deprecated
 brain_status: retired
 sensitivity: public
@@ -14,9 +14,9 @@ Players report that the LTV is a vehicle in MW4 DMZ equipped with a mounted .50 
 
 ### How to get it
 
-Information on how to obtain its manual is not available.
+Information on how to obtain the manual has not been confirmed.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-12._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-13._
 <!-- generated:end -->
 
 <!-- human:start -->
