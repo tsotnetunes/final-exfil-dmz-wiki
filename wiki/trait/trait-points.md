@@ -5,15 +5,17 @@ description: "Operators earn Trait Points by levelling their Dog Tags (18 max) a
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9f492a24aab7, clm_e0f0b4c3d158, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_9f492a24aab7, clm_e0f0b4c3d158, clm_f607b6b9963b, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["traits", "trait tree"]
 tree: all
 tier: n/a
 ---
 <!-- generated:start -->
-Available traits include Warfighter, Scout, and Survivalist.
+Trait options for operator customization include Warfighter, Scout, and Survivalist. 
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-12._
+Players report that operators with traits farmed in a PvE mode should not be usable in regular DMZ.
+
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-13._
 <!-- generated:end -->
 
 <!-- human:start -->
