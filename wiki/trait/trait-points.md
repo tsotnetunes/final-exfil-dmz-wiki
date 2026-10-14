@@ -11,11 +11,11 @@ tree: all
 tier: n/a
 ---
 <!-- generated:start -->
-Trait options for operator customization include Warfighter, Scout, and Survivalist. 
+Available traits include Warfighter, Scout, and Survivalist for Operator customization.
 
-Players report that operators with traits farmed in a PvE mode should not be usable in regular DMZ.
+Players report that Operators with traits farmed in a PvE mode should not be usable in regular DMZ.
 
-_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-13._
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-14._
 <!-- generated:end -->
 
 <!-- human:start -->

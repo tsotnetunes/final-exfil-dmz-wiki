@@ -9,22 +9,24 @@ sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5
 aliases: ["MW4 DMZ"]
 ---
 <!-- generated:start -->
-DMZ is a game mode located in Hajin. Early Access for DMZ begins on October 20, ahead of the full launch of MW4 on October 23.
+DMZ is a game mode set in Hajin, with Early Access starting on October 20 and Modern Warfare 4 launching on October 23.
 
-## Overview and Details
+## Details
 
-* DMZ is confirmed to be located in Hajin.
-* Early Access is confirmed to start on October 20, leading into the launch of MW4 on October 23.
+* Early Access for DMZ begins on October 20.
+* Modern Warfare 4 launches on October 23.
+* DMZ is located in Hajin.
 * Players report that DMZ will be available day 1 for Modern Warfare 4 owners.
-* Players report that the mode currently features only PvPvE and supports squad play.
-* Lobbies will not be solo-only, according to player reports. However, solo players queuing will try to match against other solos, and duos will try to match against other duos.
-* Infinity Ward stated that Single Squad Missions were intended for internal use only and not for public release, as reported by players.
-* Players report that weapon damage tuning in DMZ is distinct and close to Warzone.
-* DMZ features three Mastery Camos: Chiral, Ripple Tide, and Helio, as reported by players.
-* Players report that DMZ levels cannot be increased while playing multiplayer.
-* Players suggest that if a PvE mode is introduced, it should exist as a separate mode with its own progression, stash, and operators.
+* The mode currently features only PvPvE, according to player reports.
+* Squad play is supported, but lobbies will not be solo-only, as reported by players.
+* Players report that matchmaking tries to place solo players against other solos, with the same matching logic applied to duos.
+* Infinity Ward stated that "Single Squad Missions" were intended solely for internal use and not for public release, as reported by players.
+* DMZ has its own weapon damage tuning that is close to Warzone, according to player reports.
+* Players report that there are three Mastery Camos in DMZ: Chiral, Ripple Tide, and Helio.
+* Players report that DMZ levels cannot be leveled up while playing multiplayer.
+* Players report that if a PvE mode is added to DMZ, it should be a separate mode featuring its own progression, stash, and operators.
 
-_Generated from 4 confirmed and 12 reported claims across 16 posts and 0 patch notes; last rendered 2026-10-13._
+_Generated from 4 confirmed and 12 reported claims across 16 posts and 0 patch notes; last rendered 2026-10-14._
 <!-- generated:end -->
 
 <!-- human:start -->

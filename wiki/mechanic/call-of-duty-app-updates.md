@@ -8,11 +8,11 @@ sensitivity: public
 sources: [clm_d86d1cec07d3]
 ---
 <!-- generated:start -->
-Call of Duty app updates are required maintenance downloads for the application.
+Updates to the Call of Duty application are required for certain game installations.
 
 * Players report that updates for the Call of Duty app are needed in order to install MW4.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-13._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-14._
 <!-- generated:end -->
 
 <!-- human:start -->

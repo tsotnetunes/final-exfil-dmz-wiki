@@ -1,20 +1,20 @@
 ---
 type: mechanic
 title: "Rescue"
-description: "Paying the rescue cost returns a dead Operator along with their progressed Skill Tree and any experience earned in the deployment before they died."
+description: "Paying the rescue cost recovers your Operator along with their progressed Skill Tree and deployment experience."
 status: draft
 brain_status: draft
 sensitivity: public
 sources: [clm_bfbb935fbfc5, clm_ec258e1f0cc1, clm_bd9234fe0d96, src-activision-dmz-guide-part2-2026-10-09]
 ---
 <!-- generated:start -->
-Rescue is a mechanic used to recover fallen Operators and retain their progress after a deployment.
+Rescue allows players to recover fallen Operators along with their earned progress and capabilities.
 
-* Paying the rescue cost returns that Operator along with their progressed Skill Tree and any experience earned during the deployment before they died.
-* Players report that rescuing an operator costs 50.
-* Players report that rescuing a dead Operator allows you to recover their Traits and equip them from your stash without having to enter the game again.
+* Paying the rescue cost returns that Operator, preserving their progressed Skill Tree and any experience earned during the deployment prior to their death.
+* Players report that rescuing an Operator costs 50.
+* Players report that rescuing a dead Operator restores their Traits and allows them to be equipped from stash inventory without re-entering a game.
 
-_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-13._
+_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-14._
 <!-- generated:end -->
 
 <!-- human:start -->

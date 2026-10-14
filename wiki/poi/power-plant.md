@@ -8,16 +8,19 @@ sensitivity: public
 sources: [clm_d480fcf3b0a2]
 ---
 <!-- generated:start -->
-## Overview
+### Overview
+
 Players report that the Power Plant is a location in the game.
 
-## Loot
-Information on loot for this location is not available.
+### Loot
 
-## Threats
-Information on threats for this location is not available.
+No details are known about the loot profile for this location.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-11._
+### Threats
+
+No details are known about threats or danger levels at this location.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-14._
 <!-- generated:end -->
 
 <!-- human:start -->
