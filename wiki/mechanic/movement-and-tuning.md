@@ -5,7 +5,7 @@ description: "Tac sprint is on by default; DMZ has its own weapon damage tuning 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-westie-dmz-ama-recap-2026-10-11]
+sources: [clm_c6c24118f956, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["Tac sprint", "Tactical sprint", "Damage tuning", "AP rounds"]
 ---
 <!-- generated:start -->

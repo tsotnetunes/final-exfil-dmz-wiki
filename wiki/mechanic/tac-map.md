@@ -5,11 +5,17 @@ description: "The DMZ Tac-Map: objectives, POIs, threat areas, caches and spread
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_1388e898e92b, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["map", "Tac Map", "grid", "coordinates", "HUD"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+The Heads-Up Display (HUD) in MW4 features several layout adjustments.
+
+* Players report that the HUD has been updated to remove squad operator portraits.
+* Players report that the interface uses more compact widgets.
+* Players report that the kill feed has been moved back to its original position.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-14._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -1,3 +1,4 @@
+{"captured_at":"2026-10-14T21:00:14.32432+00:00","id":"evd_0052370280e0","locator":"text","sha256":"199ddbf316e3dce5d69ffa962c3371e6c639658c1ffd9f397ec9099721bfb83a","source_id":"2110472322343960651","source_kind":"x_post"}
 {"captured_at":"2026-10-06T18:00:13.952546+00:00","id":"evd_008a0f4dacda","locator":"text","sha256":"431c3d9f29553f7b7824ba9fb09270dcde017b2bab5abb5c3c4171defd3c747e","source_id":"2107513065138737288","source_kind":"x_post"}
 {"captured_at":"2026-10-07T16:30:20.000832+00:00","id":"evd_022dd09a00d5","locator":"text","sha256":"5eec33ffa2395180ecf62fd6ced9b018b7bcc629cbcdd04b5b7257e60e281cc9","source_id":"2107860584351871464","source_kind":"x_post"}
 {"captured_at":"2026-10-09T18:00:25.926093+00:00","id":"evd_03a51d6d8474","locator":"text","sha256":"176fe715be52e8279fc09007cc758d80cb97f8a390cadfc69aaa950bbe4f9dac","source_id":"2108607744244883617","source_kind":"x_post"}
@@ -32,6 +33,7 @@
 {"captured_at":"2026-10-10T00:13:04.472106+00:00","id":"evd_30b4a839ddea","locator":"text","sha256":"3feed3847ceff762137719120243ad6c8c46cf12d2b14497c15156eb6d9b3f8b","source_id":"2108626119431790985","source_kind":"x_post"}
 {"captured_at":"2026-10-11T03:00:11.033986+00:00","id":"evd_322aec4f22d9","locator":"text","sha256":"08a6883c06bb51b1e5b38a6de8ef6dbdb1d49b0cf6bb4e8d7e79a9cb78fbd0be","source_id":"2109109486828867913","source_kind":"x_post"}
 {"captured_at":"2026-10-05T16:30:20.430406+00:00","id":"evd_3352a36cb43e","locator":"text","sha256":"33df0ff58be4e42b3aaea101443bd6372f9212b68a9bf57e3256999b941d5943","source_id":"2107138185608217030","source_kind":"x_post"}
+{"captured_at":"2026-10-14T21:00:14.133005+00:00","id":"evd_337cf21b13dc","locator":"text","sha256":"199ddbf316e3dce5d69ffa962c3371e6c639658c1ffd9f397ec9099721bfb83a","source_id":"2110472322343960651","source_kind":"x_post"}
 {"captured_at":"2026-10-08T19:30:13.631445+00:00","id":"evd_342c0a0033b6","locator":"text","sha256":"a1a91ae10c419086c69ff7bb18baedf37afa01ccb3717a9547dd01e55b7b1604","source_id":"2108256113649205589","source_kind":"x_post"}
 {"captured_at":"2026-10-09T22:30:15.298066+00:00","id":"evd_345884b42398","locator":"text","sha256":"da5072693ac0e53cfd8ad72fe53f7b3d86255226574137cc13a5034b9277cbd0","source_id":"2108666422532419913","source_kind":"x_post"}
 {"captured_at":"2026-10-05T21:00:15.000527+00:00","id":"evd_3461616a2e18","locator":"text","sha256":"83ac8d1e03a7f1837dc21702ad43f830c65a41d9c94df0a7fe209a99aaf89514","source_id":"2107195971650101659","source_kind":"x_post"}
@@ -124,6 +126,7 @@
 {"captured_at":"2026-10-10T18:00:14.074594+00:00","id":"evd_c05712a7fde8","locator":"text","sha256":"f97afc2b733cfb960e61577391955e54281661b41a9caa2e4d519f6fe9d9c3c5","source_id":"2108978529585037331","source_kind":"x_post"}
 {"captured_at":"2026-10-05T16:30:18.948738+00:00","id":"evd_c0d76e023a2f","locator":"text","sha256":"6901a17e1c85083743cf7c1d8821af5308b6d4bca2c607d0839729dd9aeb87df","source_id":"2107140791948997053","source_kind":"x_post"}
 {"captured_at":"2026-10-05T16:30:20.76144+00:00","id":"evd_c127a4898f4f","locator":"text","sha256":"33df0ff58be4e42b3aaea101443bd6372f9212b68a9bf57e3256999b941d5943","source_id":"2107138185608217030","source_kind":"x_post"}
+{"captured_at":"2026-10-14T21:00:13.702612+00:00","id":"evd_c2d33a2fba4d","locator":"text","sha256":"7e3b30762eaa823f2533548995e7fc07c7d8236b5ebb06f6a113855ffc98dd3a","source_id":"2110471961197351121","source_kind":"x_post"}
 {"captured_at":"2026-10-05T19:30:20.262338+00:00","id":"evd_c518bd79dd3b","locator":"text","sha256":"3c15a635d7a6c7e227b149a7713e74882cc4c457998d3b0599f41dffa422f159","source_id":"2107183335445565563","source_kind":"x_post"}
 {"captured_at":"2026-10-07T18:00:15.926803+00:00","id":"evd_c5765f3cfb25","locator":"text","sha256":"eb70d43ab8e5ff62a2801e9e83e51e280cc612af63184ee95cdcccf8e900cf80","source_id":"2107876378272039238","source_kind":"x_post"}
 {"captured_at":"2026-10-06T03:00:10.655527+00:00","id":"evd_c809ada739e3","locator":"text","sha256":"7934e4bb850eb983a36f4017c4c6674e02a06bbcab9101ac60a71f29beb17911","source_id":"2107282203163918669","source_kind":"x_post"}
