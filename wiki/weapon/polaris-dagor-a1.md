@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "Polaris Dagor A1"
-description: "The Polaris DAGOR is built for the toughest terrain and will be available in Modern Warfare 4 and DMZ at launch."
+description: "The Polaris DAGOR is built for the toughest terrain and is available in Modern Warfare 4 and DMZ at launch."
 status: deprecated
 brain_status: retired
 sensitivity: public
@@ -14,9 +14,9 @@ The Polaris DAGOR is built for the toughest terrain. Players report that the Pol
 
 ## How to get it
 
-The Polaris DAGOR will be available at launch in Modern Warfare 4 and DMZ. Information on obtaining a manual is not available.
+The Polaris DAGOR is available in Modern Warfare 4 and DMZ at launch.
 
-_Generated from 3 confirmed and 1 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-14._
+_Generated from 3 confirmed and 1 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-15._
 <!-- generated:end -->
 
 <!-- human:start -->

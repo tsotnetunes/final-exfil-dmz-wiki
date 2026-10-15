@@ -8,11 +8,11 @@ sensitivity: public
 sources: [clm_121f8118faaf]
 ---
 <!-- generated:start -->
-Gold Bars are an item reported by players to have significant value.
+Gold Bars are an item reported to carry significant value.
 
 * Players report that Gold Bars are worth 25K.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-14._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-15._
 <!-- generated:end -->
 
 <!-- human:start -->

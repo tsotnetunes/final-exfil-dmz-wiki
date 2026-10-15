@@ -1,26 +1,26 @@
 ---
 type: lieutenant
 title: "Roze"
-description: "Roze is reported to be a lieutenant boss in DMZ that drops the Kraken weapon and unique rewards."
+description: "Players report that the Roze lieutenant boss appears in DMZ and drops the Kraken weapon."
 status: draft
 brain_status: candidate
 sensitivity: public
 sources: [clm_4d48baeb6761, clm_3359237cd043, clm_6787462c0aac, clm_8c8cb1980072]
 ---
 <!-- generated:start -->
-### Overview
+## Overview
 
-Players report that Roze is a lieutenant boss encountered in DMZ. Defeating Roze is reported to yield unique rewards.
+Roze is reported by players to be a lieutenant boss in DMZ. Defeating Roze in DMZ is said to grant unique rewards.
 
-### Location
+## Location
 
-According to player reports, Roze is located in DMZ.
+Players report that Roze is located in DMZ.
 
-### Drops
+## Drops
 
-Players report that defeating the Roze lieutenant boss drops the Kraken weapon, along with unique rewards.
+Roze is reported by players to drop the Kraken weapon, along with unique rewards upon being killed.
 
-_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-12._
+_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-15._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -9,8 +9,8 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## event (3) in `wiki/event/<id>.md`
 - [[dmz-week]] — DMZ Week is a Modern Warfare 4 event beginning October 4 that includes information on the Hajin location. · **draft**
-- [[season-1]] — Players report Verdansk, Rebirth Island, and Zodiac will be available in Warzone at the launch of Season 1. · **candidate**
-- [[shipment]] — Shipment is reported by players to be coming on October 27th. · **candidate**
+- [[season-1]] — Verdansk, Rebirth Island, and Zodiac are reported to be available in Warzone at the launch of Season 1. · **candidate**
+- [[shipment]] — Shipment is reported to be coming on October 27th. · **candidate**
 
 ## exfil (1) in `wiki/exfil/<id>.md`
 - [[exfil]] — Exfil sites move every match and show as green smoke: call the Twin Heli and hold the spot until it lands, or leave by Fulton balloon or Flare (official guide,… · **published**
@@ -40,7 +40,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Modern Warfare 4 launches on October 23, with Campaign Early Access starting on October 16 and pre-installation opening October 14 at 9 PM PT. · **draft**
+- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launches on October 23, with Campaign Early Access beginning on October 16 and pre-installation starting on October 14 at 9 PM P… · **draft**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
@@ -49,17 +49,17 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 ## item (8) in `wiki/item/<id>.md`
 - [[dog-tags]] — Extracting with the Dog Tags of Wanted players rewards DMZ Cash. · **published**
 - [[gold-bars]] — Gold Bars are reported by players to be worth 25K. · **candidate**
-- [[grabber-drone]] — The Grabber Drone is a new tool available in Warzone. · **draft**
+- [[grabber-drone]] — The Grabber Drone is a new tool in Warzone. · **draft**
 - [[legendary-dog-tag]] — Players report that the Legendary dog tag drops from The Scavenger and Bale. · **candidate**
 - [[parachute]] — Base parachutes have limited uses (look in Fire Stations); infinite-use parachutes are rarer; both can be printed at the 3D Printer (developers' Q&A, 9 Oct). · **published**
 - [[tempered-armor-vest]] — Players report that the Tempered Armor Vest is one of 8 armor vests. · **candidate**
 - [[void-claw]] — Retired: the Void Claw belongs to Black Ops 7 Zombies, not MW4 DMZ; it came in from an official post about another game. · **retired**
-- [[zipline-launcher]] — The Zipline Launcher is a new tool in Warzone. · **draft**
+- [[zipline-launcher]] — The Zipline Launcher is a new tool available in Warzone. · **draft**
 
 ## lieutenant (4) in `wiki/lieutenant/<id>.md`
 - [[gorani]] — A Lieutenant met in the high woodland above Hanrim Village: ghillie camouflage, a water-deer skull mask, an M4, camouflaged escorts, hard to track (official fi… · **published**
 - [[lieutenants]] — Named bosses with escorts: buy intel at the Boss Board or climb a Hunt tower; a kill pays DMZ Cash and drops a Dog Tag Case, maybe their weapon or a key. · **published**
-- [[roze]] — Roze is reported to be a lieutenant boss in DMZ that drops the Kraken weapon and unique rewards. · **candidate**
+- [[roze]] — Players report that the Roze lieutenant boss appears in DMZ and drops the Kraken weapon. · **candidate**
 - [[the-warden]] — A Lieutenant met in Hajin's northern hills whose key, in the official field report, opens a sealed room beneath NuriGO Mall (5 Oct guide). · **published**
 
 ## material (1) in `wiki/material/<id>.md`
@@ -68,9 +68,9 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 ## mechanic (34) in `wiki/mechanic/<id>.md`
 - [[after-action-report]] — The end-of-deployment screen: loot and DMZ Cash banked, a rating from F to S++ for Objectives, Combat and Looting, XP to your DMZ level and Dog Tag level (offi… · **published**
 - [[bounty-system]] — Killing players earns a Bounty; four kills make you Wanted. Hunters buy intel at Bounty Stations and extract the target's Dog Tag to collect. · **published**
-- [[call-of-duty-app-updates]] — Players report that updates for the Call of Duty app are required to install MW4. · **candidate**
+- [[call-of-duty-app-updates]] — Players report that updates for the Call of Duty app are needed to install MW4. · **candidate**
 - [[dmz-camos]] — DMZ has its own camos and its camo grind starts with DMZ early access on 20 Oct; a successor to the 2022 Serpentine camo hunt is planned for later seasons. · **published**
-- [[dmz-orders]] — DMZ Orders are a type of gameplay objective in DMZ. · **published**
+- [[dmz-orders]] — DMZ Orders are an objective type in DMZ. · **published**
 - [[dmz-progression]] — DMZ has its own levels 1 to 70, apart from Multiplayer's 55; XP from missions, loot and fights counts even without an exfil, and each Operator's Dog Tag has 18… · **published**
 - [[dynamic-weather]] — Downpours cut visibility, fog changes routes, convoys move on roads, helicopters cross the sky and hostile forces reposition WMDs during a match (official, pre… · **published**
 - [[free-roam]] — Open exploration of Hajin without structured objectives; the third way to play alongside Story Missions and Dynamic Operations (official, pre-launch). · **published**
@@ -88,7 +88,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[proximity-chat]] — Voice between nearby players with distance-based falloff, directionality and environmental reverb (official, pre-launch). · **published**
 - [[radiation-storm]] — Radiation spreads across Hajin during a deployment; the Time Remaining timer shows when the storm intensifies; as it worsens, head for an exfil (official, 5 Oc… · **published**
 - [[rescue]] — Paying the rescue cost recovers your Operator along with their progressed Skill Tree and deployment experience. · **draft**
-- [[secure-slots]] — Items kept outside of Secure Slots are lost if a player fails to exfil. · **published**
+- [[secure-slots]] — Items outside of Secure Slots are lost if a player fails to exfil. · **published**
 - [[server-culling]] — Ricochet anti-cheat in DMZ: server culling, TPM 2.0 and Secure Boot on PC, stronger account security (developers' Q&A and Xbox Wire). · **published**
 - [[skill-trees]] — Skill Trees are per Operator character progression paths. · **draft**
 - [[stealth-meter]] — HUD indicator and audio cues (white → yellow → orange) that show how close you are to being detected, aimed at solo play (official, pre-launch). · **published**
@@ -116,7 +116,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[cheonwang-peak-array]] — Hajin's largest telecom array (the DBN TV site) on a central summit, now an enemy barracks with a rooftop helipad; expected threat Medium (official, pre-launch… · **published**
 - [[deadtown]] — An abandoned NK farming town in southwest Hajin with sewers and two Re-Education Centers; exterior Low, Re-Education Center Medium (official, pre-launch). · **published**
 - [[fallout-reactor]] — Retired: the official name is Haneul Nuclear Reactor (guide of 5 Oct 2026); see that page. · **retired**
-- [[hajin]] — Hajin is a DMZ and Battle Royale map reported by players to feature 14 named locations along with roaming bosses Colossus and Deathstalker. · **draft**
+- [[hajin]] — Hajin is a DMZ and Battle Royale map reported by players to contain 14 named locations along with Lieutenants Gorani and The Warden. · **draft**
 - [[hajin-city-remains]] — Hajin City, the ruined urban east of the map: NuriGO Mall, The Grid, Songdo Wharf and Wolves Stadium, with Hajin River Heights to the southeast (official, 5 Oc… · **published**
 - [[hajin-exclusion-zone]] — DMZ's launch map: a radiation-scarred zone on the former NK and SK border with 13 major POIs and over 60 locations, up to 60 players; a Russian area opens in S… · **published**
 - [[hajin-river-heights]] — A battered residential district in southeast Hajin with Compound Echo and the Jinseo Park Towers; Medium threat throughout (official, pre-launch). · **published**
@@ -155,4 +155,4 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 ## weapon (3) in `wiki/weapon/<id>.md`
 - [[aston-martin-dreadnought]] — Players report that the Aston Martin Dreadnought is an armored SUV vehicle in MW4 DMZ. · **retired**
 - [[ltv]] — Players report that the LTV in MW4 DMZ comes equipped with a mounted .50 Cal. · **retired**
-- [[polaris-dagor-a1]] — The Polaris DAGOR is built for the toughest terrain and will be available in Modern Warfare 4 and DMZ at launch. · **retired**
+- [[polaris-dagor-a1]] — The Polaris DAGOR is built for the toughest terrain and is available in Modern Warfare 4 and DMZ at launch. · **retired**

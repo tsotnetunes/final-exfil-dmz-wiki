@@ -9,31 +9,30 @@ sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5
 aliases: ["MW4 DMZ"]
 ---
 <!-- generated:start -->
-DMZ is a game mode set in Hajin that launches early ahead of the Modern Warfare 4 release.
+DMZ is a game mode located in Hajin. Early Access begins on October 20, making the mode playable ahead of the Modern Warfare 4 launch on October 23.
 
-## Overview and Access
+## Matchmaking and Squads
 
-* DMZ Early Access begins on October 20.
-* Modern Warfare 4 launches on October 23, making DMZ available to play ahead of the game's full launch.
-* Modern Warfare 4 owners will have access to DMZ on day 1, as reported by players.
-* Modern Warfare 4 Season 1 is reported by players to begin on November 6.
+* Players report that DMZ supports squad play and allows players to form squads.
+* Lobbies are reported by players not to be solo-only.
+* Players report that matchmaking attempts to pair solo queue players against other solos, and duos against duos.
+* Infinity Ward reportedly stated that Single Squad Missions were intended for internal use and were not meant for public release.
 
-## Gameplay and Matchmaking
+## Gameplay and Progression
 
-* DMZ is located in Hajin.
-* The mode currently features only PvPvE, according to player reports.
-* Players report that DMZ allows players to form squads and supports squad play.
-* Lobbies will not be solo-only, though matchmaking will try to group solo players against other solos and duos against duos, as reported by players.
-* Infinity Ward stated that "Single Squad Missions" were intended only for internal use and not for public release, according to player reports.
-* Players note that if a PvE mode is introduced, it should exist as a separate mode featuring its own operators, stash, and progression.
+* DMZ mode is reported by players to feature only PvPvE at present.
+* Players report that if a PvE mode is added, it should be a separate mode featuring its own progression, stash, and operators.
+* Players report that the mode has its own weapon damage tuning close to Warzone.
+* DMZ levels cannot be leveled up while playing multiplayer, according to player reports.
+* Players report three Mastery Camos in DMZ: Chiral, Ripple Tide, and Helio.
 
-## Weapons and Progression
+## Availability
 
-* DMZ uses its own weapon damage tuning, which players report is close to Warzone.
-* Players report there are three Mastery Camos in the mode: Chiral, Ripple Tide, and Helio.
-* DMZ levels cannot be raised while playing multiplayer, according to player reports.
+* Modern Warfare 4 launches on October 23.
+* Players report that DMZ will be available on day 1 for Modern Warfare 4 owners.
+* Modern Warfare 4 Season 1 reportedly begins on November 6.
 
-_Generated from 5 confirmed and 14 reported claims across 19 posts and 0 patch notes; last rendered 2026-10-14._
+_Generated from 5 confirmed and 14 reported claims across 19 posts and 0 patch notes; last rendered 2026-10-15._
 <!-- generated:end -->
 
 <!-- human:start -->

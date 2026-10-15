@@ -1,7 +1,7 @@
 ---
 type: event
 title: "Shipment"
-description: "Shipment is reported by players to be coming on October 27th."
+description: "Shipment is reported to be coming on October 27th."
 status: draft
 brain_status: candidate
 sensitivity: public
@@ -10,9 +10,9 @@ sources: [clm_cc0759ebe970]
 <!-- generated:start -->
 Shipment is an upcoming event.
 
-* Shipment is reported to be coming on October 27th.
+* Shipment is reported by players to be coming on October 27th.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-14._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-15._
 <!-- generated:end -->
 
 <!-- human:start -->
