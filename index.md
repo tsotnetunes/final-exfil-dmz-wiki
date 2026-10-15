@@ -68,7 +68,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 ## mechanic (34) in `wiki/mechanic/<id>.md`
 - [[after-action-report]] — The end-of-deployment screen: loot and DMZ Cash banked, a rating from F to S++ for Objectives, Combat and Looting, XP to your DMZ level and Dog Tag level (offi… · **published**
 - [[bounty-system]] — Killing players earns a Bounty; four kills make you Wanted. Hunters buy intel at Bounty Stations and extract the target's Dog Tag to collect. · **published**
-- [[call-of-duty-app-updates]] — Players report that updates for the Call of Duty app are needed to install MW4. · **candidate**
+- [[call-of-duty-app-updates]] — Updates for the Call of Duty app are reported to be required to install MW4. · **candidate**
 - [[dmz-camos]] — DMZ has its own camos and its camo grind starts with DMZ early access on 20 Oct; a successor to the 2022 Serpentine camo hunt is planned for later seasons. · **published**
 - [[dmz-orders]] — DMZ Orders are an objective type in DMZ. · **published**
 - [[dmz-progression]] — DMZ has its own levels 1 to 70, apart from Multiplayer's 55; XP from missions, loot and fights counts even without an exfil, and each Operator's Dog Tag has 18… · **published**
