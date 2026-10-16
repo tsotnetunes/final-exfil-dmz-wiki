@@ -12,16 +12,19 @@ loot_profile: unknown
 aliases: ["Fallout reactor", "Haneul", "Reactor 02", "South Korean Border Zone"]
 ---
 <!-- generated:start -->
-## Overview
-Players report that secured bunkers are located near the Haneul Nuclear Reactor.
+### Overview
 
-## Loot
-No details about loot found at this location have been reported.
+Players report that secured bunkers are situated by the Haneul Nuclear Reactor.
 
-## Threats
-Threat information for this area has not been documented.
+### Loot
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-12._
+Information on loot at this location is currently undocumented.
+
+### Threats
+
+Information on threats at this location is currently undocumented.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-16._
 <!-- generated:end -->
 
 <!-- human:start -->

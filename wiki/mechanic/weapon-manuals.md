@@ -9,11 +9,11 @@ sources: [clm_9ee7db0a613a, src-activision-dmz-deep-dive-2026-06, src-activision
 aliases: ["weapon manual"]
 ---
 <!-- generated:start -->
-Weapon Manuals are items required to expand an arsenal.
+Weapon Manuals are items used to expand an arsenal.
 
 * New weapons are unlocked by locating and extracting Weapon Manuals.
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-15._
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-16._
 <!-- generated:end -->
 
 <!-- human:start -->

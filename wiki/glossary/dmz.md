@@ -9,23 +9,21 @@ sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5
 aliases: ["MW4 DMZ"]
 ---
 <!-- generated:start -->
-DMZ is a game mode located in Hajin. Early Access for the mode begins on October 20, ahead of the launch of Modern Warfare 4 (MW4) on October 23.
+DMZ is a game mode located in Hajin. Early Access begins on October 20, making the mode playable ahead of the Modern Warfare 4 launch on October 23.
 
-## Details
+## Details and Mechanics
 
-* DMZ Early Access starts on October 20.
 * DMZ is confirmed to take place in Hajin.
-* Modern Warfare 4 launches on October 23.
-* DMZ mode currently features only PvPvE, according to player reports.
-* Players report that DMZ allows players to form squads, and lobbies will not be solo-only.
-* Solos queuing will attempt to match against other solo players, and duos will attempt to match against duos, as reported by players.
-* Players report that Infinity Ward stated "Single Squad Missions" were intended for internal use only and not meant for public release.
-* DMZ features its own weapon damage tuning that is close to Warzone, according to player reports.
-* Players report three Mastery Camos in DMZ: Chiral, Ripple Tide, and Helio.
-* DMZ levels cannot be leveled up while playing multiplayer, according to player reports.
-* Players report that if a PvE mode is added to DMZ, it should be a separate mode with its own progression, stash, and operators.
-* Modern Warfare 4 Season 1 reportedly begins on November 6.
-* A DMZ blog post reportedly contained spoilers for the Modern Warfare 4 campaign.
+* Early Access is confirmed to open on October 20, prior to the launch of MW4 on October 23.
+* Players report that Season 1 of Modern Warfare 4 begins on November 6.
+* The mode currently features only PvPvE, according to player reports.
+* Players report that DMZ permits players to form squads, and lobbies are not solo-only. Matchmaking reportedly attempts to match solo queue players against other solos, and does the same for duos.
+* Infinity Ward reportedly stated that Single Squad Missions were intended for internal use only and not for public release.
+* Players report that if a PvE mode is introduced, it should exist as a separate mode with its own progression, stash, and operators.
+* Players report that DMZ levels cannot be raised while playing multiplayer.
+* Players report that DMZ uses its own weapon damage tuning, which is close to Warzone.
+* Players report three Mastery Camos in the mode: Chiral, Ripple Tide, and Helio.
+* A DMZ blog post reportedly contained campaign spoilers for Modern Warfare 4.
 
 _Generated from 6 confirmed and 13 reported claims across 19 posts and 0 patch notes; last rendered 2026-10-16._
 <!-- generated:end -->

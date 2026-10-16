@@ -9,13 +9,13 @@ sources: [clm_ddf327b1e62d, clm_43eb9661dfec, clm_7395536c245c, src-activision-d
 aliases: ["DMZ Player Level", "Progression Track", "DMZ level", "level 70", "Dog Tag level", "Onyx III", "DMZ XP"]
 ---
 <!-- generated:start -->
-DMZ progression allows players to advance through 70 levels to earn rewards and access new features.
+DMZ progression covers a 70-level path that grants access to key features across the mode. Players earn experience toward this track throughout their matches regardless of their extraction outcome.
 
-* DMZ progression spans 70 levels and unlocks FOB stations, upgrades, and crafting recipes.
+* DMZ progression spans 70 levels and is used to unlock FOB stations, upgrades, and crafting recipes.
 * Players earn DMZ XP even if they fail to exfil.
-* Players report that DMZ features a 1-70 level track dedicated to FOB stations.
+* Players report that DMZ features its own 1-70 level track dedicated to FOB stations.
 
-_Generated from 2 confirmed and 1 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-12._
+_Generated from 2 confirmed and 1 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-16._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -10,12 +10,13 @@ aliases: ["extraction", "skyhook", "Twin Heli", "Fulton balloon", "Flare", "gree
 method: helicopter|skyhook
 ---
 <!-- generated:start -->
-This entry covers extraction details, missions, and related mechanics reported for Modern Warfare 4's DMZ mode.
+DMZ in Modern Warfare 4 features extraction-focused gameplay and related mission objectives.
 
-* Players report that Modern Warfare 4's DMZ is an extraction shooter.
-* Operation Critical Extraction is reported by players to be a mission in DMZ. On October 8, 2026, reports updated this mission to be a story mission in DMZ.
+* Modern Warfare 4's DMZ is reported by players to be an extraction shooter.
+* Operation Critical Extraction is reported by players to be a mission in DMZ.
+* As of October 8, 2026, Operation Critical Extraction is reported by players to be a story mission in DMZ, updating an earlier report from October 7, 2026, that classified it simply as a mission.
 
-_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-10._
+_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-16._
 <!-- generated:end -->
 
 <!-- human:start -->

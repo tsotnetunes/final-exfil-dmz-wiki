@@ -10,9 +10,9 @@ station: boss-board
 unlock: progression
 ---
 <!-- generated:start -->
-The Boss Board is an upgrade that players report allows them to buy intel.
+Players report that the Boss Board allows them to buy intel.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-14._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-16._
 <!-- generated:end -->
 
 <!-- human:start -->
