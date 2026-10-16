@@ -40,7 +40,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launches on October 23, with campaign early access beginning October 16 and pre-installation starting October 14 at 9 PM PT. · **draft**
+- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launches on October 23, with Campaign Early Access starting October 16 and pre-installation opening October 14 at 9 PM PT. · **draft**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
