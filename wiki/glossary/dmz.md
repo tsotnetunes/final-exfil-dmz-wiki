@@ -5,31 +5,38 @@ description: "Modern Warfare 4's extraction mode: early access from 20 Oct 2026 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5, clm_5e8135915868, clm_cc4819b844ec, clm_756ca3a1eee7, clm_ab07e6e3f11a, clm_4168264992cf, clm_074886fbd8a3, clm_06a18e0bc5dc, clm_34cf7998ef77, clm_bdc81da0243a, clm_745f1b4c8236, clm_cbd622c56df9, clm_cb80a507198b, clm_5925122b4bac, clm_6966a3db131a, clm_3b6f8853376b, clm_1e5e54fe39d9, clm_7171b643787f, clm_48027a6aac93, clm_546c93fb1360, clm_cd1d93a80a43, clm_f2698bfc853b, clm_0779921b8e43, clm_a1569c892677, clm_24e638975594, clm_79f25e8baac7, clm_89d9a4165394, clm_61d138b7e662, clm_6cbe9bae6192, clm_e84fc6c2e8a8, clm_5476f50b22b3, clm_9437128d416e, clm_80fcf3d9441a, clm_e201b18bb17c, clm_7d376be143d1, clm_914b67adcd2e, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-campaign-early-access-2026-06-12, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09, src-westie-dmz-ama-recap-2026-10-11]
+sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5, clm_5e8135915868, clm_cc4819b844ec, clm_756ca3a1eee7, clm_ab07e6e3f11a, clm_4168264992cf, clm_074886fbd8a3, clm_06a18e0bc5dc, clm_34cf7998ef77, clm_bdc81da0243a, clm_745f1b4c8236, clm_cbd622c56df9, clm_cb80a507198b, clm_5925122b4bac, clm_6966a3db131a, clm_3b6f8853376b, clm_1e5e54fe39d9, clm_7171b643787f, clm_48027a6aac93, clm_546c93fb1360, clm_cd1d93a80a43, clm_f2698bfc853b, clm_0779921b8e43, clm_a1569c892677, clm_24e638975594, clm_79f25e8baac7, clm_89d9a4165394, clm_61d138b7e662, clm_6cbe9bae6192, clm_e84fc6c2e8a8, clm_5476f50b22b3, clm_9437128d416e, clm_80fcf3d9441a, clm_e201b18bb17c, clm_7d376be143d1, clm_914b67adcd2e, clm_cd48a16154e8, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-campaign-early-access-2026-06-12, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["MW4 DMZ"]
 ---
 <!-- generated:start -->
-DMZ is a game mode located in Hajin, confirmed to launch in Early Access ahead of the full release of Modern Warfare 4.
+DMZ is a game mode located in Hajin, featured in Modern Warfare 4 alongside multiplayer and campaign. Early Access starts on October 20 for players who digitally pre-order, running ahead of the Modern Warfare 4 launch on October 23.
 
-## Key Facts
+## Access and Requirements
 
 * DMZ Early Access begins on October 20.
-* Modern Warfare 4 launches on October 23.
-* Accessing DMZ Early Access requires a digital pre-order.
-* The DMZ Early Access Launch requires TPM 2.0 and Secure Boot to be enabled.
-* The mode is set in the location of Hajin.
-* Players report that DMZ appears alongside multiplayer and the campaign in the main game menus.
-* Players report that the mode allows players to form squads, though lobbies will not be solo-only. Solo players queuing will try to match against other solo players, and duos will try to match against other duos.
-* Players report that DMZ currently features only PvPvE gameplay.
-* Infinity Ward reportedly stated that Single Squad Missions were intended only for internal use and not for public release.
-* Players report that if a PvE mode is added to DMZ, it should be a separate mode with its own progression, stash, and operators.
-* Players report that DMZ levels cannot be leveled up while playing multiplayer.
-* Players report that DMZ features its own weapon damage tuning close to Warzone.
-* Players report three Mastery Camos in DMZ: Chiral, Ripple Tide, and Helio.
-* A DMZ blog post reportedly included spoilers for the Modern Warfare 4 campaign.
-* Players report that Season 1 of Modern Warfare 4 begins on November 6.
+* Early Access requires a digital pre-order.
+* The Early Access launch requires TPM 2.0 and Secure Boot to be enabled.
+* The mode is available to play before Modern Warfare 4 launches on October 23.
+* Season 1 of Modern Warfare 4 is reported by players to begin on November 6.
 
-_Generated from 10 confirmed and 14 reported claims across 23 posts and 0 patch notes; last rendered 2026-10-17._
+## Gameplay and Matchmaking
+
+* DMZ is confirmed to be set in Hajin.
+* Players report that DMZ currently features only PvPvE and allows players to form squads.
+* Matchmaking lobbies are not solo-only, though players report that the system attempts to pair solo queue players against other solos, and similarly for duos.
+* Players report that Infinity Ward described Single Squad Missions as internal content not intended for public release.
+* Players report that DMZ has distinct weapon damage tuning comparable to Warzone.
+* DMZ levels cannot be raised while playing multiplayer, according to player reports.
+* Players report three Mastery Camos in DMZ: Chiral, Ripple Tide, and Helio.
+* A player suggestion states that if a PvE mode is added, it should operate separately with its own progression, stash, and operators.
+
+## Additional Details
+
+* Players report that DMZ appears alongside multiplayer and the campaign in the main game menu.
+* Players report that MW4 DMZ appears within a campaign mission.
+* An official DMZ blog post reportedly contained spoilers for the Modern Warfare 4 campaign.
+
+_Generated from 10 confirmed and 15 reported claims across 24 posts and 0 patch notes; last rendered 2026-10-17._
 <!-- generated:end -->
 
 <!-- human:start -->
