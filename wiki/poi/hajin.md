@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "Hajin"
-description: "Hajin is a map in DMZ and Battle Royale that players report features 14 named locations along with roaming bosses Colossus and Deathstalker."
+description: "Hajin is a DMZ and Battle Royale map reported by players to feature 14 named locations, two Lieutenants, and two roaming bosses."
 status: draft
 brain_status: draft
 sensitivity: public
@@ -9,15 +9,22 @@ sources: [clm_d4ac4388b3f9, clm_3018c5a912d7, clm_e5cdf259848d, clm_f10952a863af
 ---
 <!-- generated:start -->
 ### Overview
-Hajin is a map and location featured in DMZ, where Operators deploy. Battle Royale is also available on Hajin. It is officially described as not giving up its secrets without a fight. Players report that Hajin features 14 named locations, and that these locations will expand in Season 2.
+
+Hajin is a map and location in DMZ where operators are present. Battle Royale is also available on Hajin. Hajin is described as not giving up its secrets without a fight. Players report that Hajin contains 14 named locations, and that these locations will expand in Season 2.
 
 ### Loot
-No specific loot profiles or item drops are currently documented for Hajin.
+
+Specific loot information for Hajin has not been confirmed.
 
 ### Threats
-Players report multiple major hostile encounters across Hajin. Gorani and The Warden serve as Lieutenants on the map. Additionally, players report that Colossus and Deathstalker appear as roaming bosses.
 
-_Generated from 6 confirmed and 10 reported claims across 15 posts and 0 patch notes; last rendered 2026-10-16._
+Hajin poses substantial combat dangers. Players report several high-threat enemies active on the map:
+* Gorani, a Lieutenant who is a ghillie sniper wearing a deer skull.
+* The Warden, also a Lieutenant.
+* Colossus, a roaming boss.
+* Deathstalker, a roaming boss.
+
+_Generated from 6 confirmed and 10 reported claims across 15 posts and 0 patch notes; last rendered 2026-10-17._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -14,7 +14,7 @@ Players report that progress in the Stranded mission saves separately from the c
 
 ## Steps
 
-No mission steps are known.
+No steps have been confirmed for this mission.
 
 _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-17._
 <!-- generated:end -->
