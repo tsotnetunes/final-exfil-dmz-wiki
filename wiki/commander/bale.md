@@ -1,19 +1,21 @@
 ---
 type: commander
 title: "Bale"
-description: "Bale is reported by players as a Lieutenant and Commander in DMZ."
+description: "Bale is reported by players to be a Lieutenant and Commander in DMZ with a head that can be cut off."
 status: draft
 brain_status: candidate
 sensitivity: public
-sources: [clm_8232f069a06a, clm_f2a831ba9115, clm_20d29934633a, clm_e2417a18ffed, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_8232f069a06a, clm_f2a831ba9115, clm_20d29934633a, clm_e2417a18ffed, clm_bb52ef4108f8, src-activision-dmz-guide-part1-2026-10-05]
 ---
 <!-- generated:start -->
-Bale is a figure identified by players as holding leadership ranks within DMZ.
+Bale is an entity appearing in DMZ, holding rank as a Lieutenant and Commander.
 
-* Players initially reported that Bale holds the rank of Lieutenant or Commander (supported as of October 7, 2026).
-* Later that same day, on October 7, 2026, players reported that Bale is both a Lieutenant and Commander in DMZ.
+## Details
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-09._
+* Players report that Bale is a Lieutenant or Commander, with a later report on 2026-10-07 describing Bale as both a Lieutenant and Commander in DMZ.
+* Players report that Bale has a head that can be cut off in DMZ.
+
+_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-18._
 <!-- generated:end -->
 
 <!-- human:start -->
