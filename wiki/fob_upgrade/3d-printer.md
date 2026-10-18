@@ -5,16 +5,18 @@ description: "Unlocks at DMZ level 2: crafts gear from four Resources and extrac
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_2347ef065fca, clm_bfc0061f6972, clm_50571f38d2ac, clm_93b0cd93b47c, clm_8b9dad98699a, clm_36e903b4cb4b, clm_fb602d7b6940, clm_7c40ac8ec97a, clm_7b0306c946e3, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_2347ef065fca, clm_bfc0061f6972, clm_50571f38d2ac, clm_93b0cd93b47c, clm_8b9dad98699a, clm_36e903b4cb4b, clm_fb602d7b6940, clm_7c40ac8ec97a, clm_7b0306c946e3, clm_8bfe373628c3, clm_15a4679827ba, clm_218f7902ddd6, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 station: 3d-printer
 unlock: progression
 ---
 <!-- generated:start -->
 The 3D Printer requires Resources, Ingredients, and Recipes to craft essentials, build loadouts, and upgrade the FOB.
 
-Players report that the 3D Printer functions as a station for crafting gear and upgrading stations, and that the 3D printer itself can be upgraded. In DMZ, players report that 3D printer crafting is available and is used to create DMZ armor. According to player reports, crafting a 1-Plate Armor Vest requires 25 Synthetics and 25 Metals, while advanced armor types remain locked until their recipes are unlocked.
+Players report that the 3D Printer requires DMZ Level 2.
 
-_Generated from 1 confirmed and 6 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-11._
+Players also report that the station can be upgraded itself and used to print gear, craft equipment, and upgrade stations. According to player reports, 3D printer crafting is present in DMZ, where DMZ armor is created at the printer. Crafting a 1-Plate Armor Vest reportedly requires 25 Synthetics and 25 Metals. Advanced armor types are reported to remain locked until their recipes are unlocked.
+
+_Generated from 1 confirmed and 7 reported claims across 8 posts and 0 patch notes; last rendered 2026-10-18._
 <!-- generated:end -->
 
 <!-- human:start -->

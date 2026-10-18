@@ -5,14 +5,14 @@ description: "Opens after your second DMZ Order: buy one-deployment intel on Lie
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_f49cfc25d1c7, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_f49cfc25d1c7, clm_98e537e8f2e3, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 station: boss-board
 unlock: progression
 ---
 <!-- generated:start -->
-Players report that the Boss Board allows them to buy intel.
+The Boss Board is an upgrade reported by players to allow the purchase of intel. Unlocking the Boss Board is reported by players to require completing 1 DMZ Order.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-18._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-18._
 <!-- generated:end -->
 
 <!-- human:start -->

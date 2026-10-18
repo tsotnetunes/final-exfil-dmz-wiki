@@ -5,13 +5,17 @@ description: "Unlocks at DMZ level 20: shows the dog tags you extracted (rarity,
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_d156c7a1a567, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["tag case", "trophy case"]
 station: dog-tag-case
 unlock: progression
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+# Dog Tag Case
+
+Players report that the Dog Tag Case upgrade requires DMZ Level 20 to unlock.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-18._
 <!-- generated:end -->
 
 <!-- human:start -->

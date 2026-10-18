@@ -42,7 +42,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-fob-mastery-calling-card]] — The DMZ FOB Mastery Calling Card is reported by players to be an in-game calling card. · **candidate**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Modern Warfare 4 officially launches on October 23, 2026, with Campaign Early Access that opened on October 16. Pre-installation began on October 14 at 9 PM PT. · **draft**
+- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launches on October 23, 2026, with Vault Edition perks including a third Active Duty Operator slot and a Deployment Kit. · **draft**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
@@ -109,7 +109,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[operation-shopping-hacks]] — Operation Shopping Hacks is a DMZ mission reported to award the Night Vision Goggles crafting recipe. · **candidate**
 - [[operation-silent-ledger]] — Operation Silent Ledger is a story mission in DMZ. · **candidate**
 - [[side-ops]] — Small optional tasks in a match (truck repairs, finding a supply drop, scaling a radio tower) that give XP alongside the main objectives (official, pre-launch). · **published**
-- [[story-missions]] — Story Missions are missions in Modern Warfare 4 DMZ reported by players to unlock needed crafting recipes. · **published**
+- [[story-missions]] — Players report that Story Missions in Modern Warfare 4 DMZ unlock needed crafting recipes. · **published**
 - [[stranded]] — Progress in the Stranded mission is reported by players to save separately from the campaign checkpoint. · **candidate**
 
 ## poi (22) in `wiki/poi/<id>.md`
