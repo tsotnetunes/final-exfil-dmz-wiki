@@ -5,23 +5,24 @@ description: "Your home between deployments; stations open from the start or by 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_46243e27d86a, clm_fd90953238b0, clm_c5bec6dd520b, clm_dffa557cf032, clm_f08caeac8e56, clm_be702dd26814, clm_0601ee8f8cb8, clm_d9ca819a3519, clm_b5908fa8c1b3, clm_311263850855, clm_f5097de48b29, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11]
+sources: [clm_46243e27d86a, clm_fd90953238b0, clm_c5bec6dd520b, clm_dffa557cf032, clm_f08caeac8e56, clm_be702dd26814, clm_0601ee8f8cb8, clm_d9ca819a3519, clm_b5908fa8c1b3, clm_311263850855, clm_f5097de48b29, clm_111f7819c275, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["Forward Operating Base", "the base"]
 station: hub
 unlock: start
 ---
 <!-- generated:start -->
-The Forward Operating Base, also known as the FOB or the base, is the starting point for deployments. Preparation begins at the FOB.
+The FOB (Forward Operating Base) serves as the starting point for deployments and preparation.
 
-Players report that the FOB is a walk-around base shared with the squad and acts as a social hub. It is also reported that the base displays party leaders. Furthermore, players state that upgrading the FOB levels up player gear.
+Players report that the FOB is a feature in Modern Warfare 4 DMZ. According to player reports, it operates as a walk-around base and social hub shared with your squad, where party leaders are displayed. Upgrading the base reportedly levels up player gear.
 
-The base contains several stations and features reported by players:
+### Stations and Facilities
 
-* Firing Range, Vendors, and Crafting are reported to be included in the FOB.
-* The Vendor can be accessed within the base or through the left side blade menu, unlocking at DMZ Level 5.
-* The Gunsmith can be accessed within the base or via the left side blade menu, unlocking at DMZ Level 10.
+Players report that the FOB includes a Firing Range, Vendors, and Crafting. Specific facilities and their access methods include:
 
-_Generated from 3 confirmed and 7 reported claims across 10 posts and 0 patch notes; last rendered 2026-10-11._
+* **Vendor:** Players report this can be accessed inside the FOB or through the left side blade menu, unlocking at DMZ Level 5.
+* **Gunsmith:** Players report this is accessed within the FOB or through the left side blade menu, unlocking at DMZ Level 10.
+
+_Generated from 3 confirmed and 8 reported claims across 11 posts and 0 patch notes; last rendered 2026-10-18._
 <!-- generated:end -->
 
 <!-- human:start -->
