@@ -13,15 +13,15 @@ loot_profile: all
 ---
 <!-- generated:start -->
 ### Overview
-The Hajin Exclusion Zone, also known as Hajin or the Exclusion Zone, is reported by players to be massive. Players also report that it will host 60 players, structured as 20 squads.
+The Hajin Exclusion Zone, also known simply as Hajin or the Exclusion Zone, is reported by players to be massive in scale. It accommodates 60 players organized into 20 squads.
 
 ### Loot
-No loot profiles have been confirmed for this location.
+Specific loot details for this area have not been recorded.
 
 ### Threats
-Players report that Operators can be found within Hajin, though not every Operator present is focused on the mission.
+Players report that Operators enter Hajin, though not every Operator present in the zone remains focused on the mission.
 
-_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-17._
+_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-18._
 <!-- generated:end -->
 
 <!-- human:start -->

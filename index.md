@@ -10,7 +10,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 ## event (3) in `wiki/event/<id>.md`
 - [[dmz-week]] — DMZ Week is a Modern Warfare 4 event beginning October 4 that includes information on the Hajin location. · **draft**
 - [[season-1]] — Verdansk, Rebirth Island, and Zodiac are reported to be available in Warzone at the launch of Season 1. · **candidate**
-- [[shipment]] — Shipment is reported to be coming on October 27th. · **candidate**
+- [[shipment]] — Players report that Shipment is coming on October 27th. · **candidate**
 
 ## exfil (1) in `wiki/exfil/<id>.md`
 - [[exfil]] — Exfil sites move every match and show as green smoke: call the Twin Heli and hold the spot until it lands, or leave by Fulton balloon or Flare (official guide,… · **published**
@@ -49,13 +49,13 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## item (8) in `wiki/item/<id>.md`
 - [[dog-tags]] — Extracting with the Dog Tags of Wanted players rewards DMZ Cash. · **published**
-- [[gold-bars]] — Gold Bars are reported to be worth 25K. · **candidate**
+- [[gold-bars]] — Gold Bars are reported by players to be worth 25K. · **candidate**
 - [[grabber-drone]] — The Grabber Drone is a new tool in Warzone. · **draft**
 - [[legendary-dog-tag]] — Players report that the Legendary dog tag drops from both the Scavenger and Bale. · **candidate**
 - [[parachute]] — Base parachutes have limited uses (look in Fire Stations); infinite-use parachutes are rarer; both can be printed at the 3D Printer (developers' Q&A, 9 Oct). · **published**
 - [[tempered-armor-vest]] — The Tempered Armor Vest is reported by players to be one of 8 armor vests. · **candidate**
-- [[void-claw]] — Retired: the Void Claw belongs to Black Ops 7 Zombies, not MW4 DMZ; it came in from an official post about another game. · **retired**
-- [[zipline-launcher]] — The Zipline Launcher is a new tool available in Warzone. · **draft**
+- [[void-claw]] — An issue where players lost their Void Claw upon picking up any item has been resolved. · **retired**
+- [[zipline-launcher]] — The Zipline Launcher is a new tool in Warzone. · **draft**
 
 ## lieutenant (4) in `wiki/lieutenant/<id>.md`
 - [[gorani]] — A Lieutenant met in the high woodland above Hanrim Village: ghillie camouflage, a water-deer skull mask, an M4, camouflaged escorts, hard to track (official fi… · **published**
@@ -85,12 +85,12 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[missing-in-action]] — The MIA status an Operator gets for not getting out of a deployment; recovery and what it costs are on the MIA system page. · **candidate**
 - [[movement-and-tuning]] — Tac sprint is on by default; DMZ has its own weapon damage tuning around its armor; no armor-piercing or Stopping Power rounds for now (developers' Q&A, 9 Oct). · **published**
 - [[operator-prestige]] — Prestige a fully levelled Operator (18 Trait Points) by giving up rare gear and DMZ Cash; each Prestige adds a random permanent Trait, up to three. · **published**
-- [[operator-prestige-and-permanent-prestige-traits]] — Prestige Icons in MW4 are reported to feature the logos of all 10 Call of Duty titles developed by Infinity Ward. · **candidate**
+- [[operator-prestige-and-permanent-prestige-traits]] — MW4 Prestige Icons are reported to be based on the logos of all 10 Call of Duty titles developed by Infinity Ward, similar to BO6. · **candidate**
 - [[paid-infil]] — Infil options and prices: on foot free, Polaris Dagor A1 5,000, LTV 25,000, helicopter 50,000, cargo plane 100,000 DMZ Cash (choose your drop spot). · **published**
 - [[proximity-chat]] — Voice between nearby players with distance-based falloff, directionality and environmental reverb (official, pre-launch). · **published**
 - [[radiation-storm]] — Radiation spreads across Hajin during a deployment; the Time Remaining timer shows when the storm intensifies; as it worsens, head for an exfil (official, 5 Oc… · **published**
 - [[rescue]] — Paying the rescue cost recovers your Operator along with their progressed Skill Tree and deployment experience. · **draft**
-- [[secure-slots]] — Items placed outside of Secure Slots are lost if you fail to exfil. · **published**
+- [[secure-slots]] — Items outside of Secure Slots are lost if a player fails to exfil. · **published**
 - [[server-culling]] — Ricochet anti-cheat in DMZ: server culling, TPM 2.0 and Secure Boot on PC, stronger account security (developers' Q&A and Xbox Wire). · **published**
 - [[skill-trees]] — Skill Trees are per Operator character progression paths. · **draft**
 - [[stealth-meter]] — HUD indicator and audio cues (white → yellow → orange) that show how close you are to being detected, aimed at solo play (official, pre-launch). · **published**

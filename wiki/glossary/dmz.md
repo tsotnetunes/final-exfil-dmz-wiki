@@ -9,28 +9,23 @@ sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5
 aliases: ["MW4 DMZ"]
 ---
 <!-- generated:start -->
-DMZ is a game mode set in Hajin, launching in Early Access on October 20 ahead of the Modern Warfare 4 release on October 23.
+DMZ is a game mode located in Hajin. Early Access begins on October 20 ahead of the Modern Warfare 4 launch on October 23. Accessing Early Access requires a digital pre-order along with TPM 2.0 and Secure Boot enabled on PC.
 
-## Confirmed Details
+## Details and mechanics
 
-* DMZ is located in Hajin.
-* Early Access begins on October 20, ahead of the Modern Warfare 4 launch on October 23.
-* Accessing the Early Access launch requires a digital pre-order.
-* The Early Access launch requires TPM 2.0 and Secure Boot to be enabled.
-
-## Player Reports and Details
-
-* Players report that DMZ currently features only PvPvE gameplay where players can form squads and collect loot.
-* Lobbies are reported not to be solo-only, though matchmaking reportedly attempts to pair solo players against other solos, and duos against duos.
-* Players report that DMZ has its own weapon damage tuning close to Warzone.
-* Modern Warfare 4 multiplayer matches reportedly cannot be used to level up DMZ levels.
-* There are three reported Mastery Camos in the mode: Chiral, Ripple Tide, and Helio.
-* Infinity Ward reportedly stated that Single Squad Missions were intended only for internal use rather than public release.
-* A PvE option, if added, is suggested by players to require its own separate mode, stash, progression, and operators.
-* DMZ is reported to appear on the main menu alongside multiplayer and the campaign.
-* Modern Warfare 4 reportedly contains a one-off DMZ mission during the campaign, and MW4 DMZ appears in a campaign mission.
-* An official blog post regarding DMZ was reported to contain spoilers for the Modern Warfare 4 campaign.
-* Season 1 of Modern Warfare 4 is reported to start on November 6.
+* DMZ is confirmed to be set in Hajin.
+* Modern Warfare 4 launches on October 23, while DMZ Early Access starts on October 20.
+* Accessing DMZ Early Access requires a digital pre-order, as well as TPM 2.0 and Secure Boot enabled.
+* Players report that DMZ is listed alongside multiplayer and the campaign in the game menu.
+* Players report that DMZ currently features only PvPvE gameplay and allows players to form squads and collect loot.
+* Players report that DMZ lobbies are not solo-only, though matchmaking will try to pair solo queue players against other solos, with a similar system for duos.
+* Players report that DMZ levels cannot be raised while playing multiplayer.
+* Players report that weapon damage tuning in DMZ is close to Warzone.
+* Players report three Mastery Camos in DMZ: Chiral, Ripple Tide, and Helio.
+* Players report that Infinity Ward stated "Single Squad Missions" were intended for internal use rather than public release.
+* Players report suggestions that any future PvE addition should remain a separate mode with its own progression, stash, and operators.
+* Players report that Modern Warfare 4 contains a one-off DMZ campaign mission, and a DMZ blog post reportedly included campaign spoilers.
+* Players report that Season 1 of Modern Warfare 4 begins on November 6.
 
 _Generated from 11 confirmed and 16 reported claims across 26 posts and 0 patch notes; last rendered 2026-10-18._
 <!-- generated:end -->
