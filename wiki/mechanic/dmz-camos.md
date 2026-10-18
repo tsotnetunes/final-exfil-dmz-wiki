@@ -5,11 +5,15 @@ description: "DMZ has its own camos and its camo grind starts with DMZ early acc
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-westie-dmz-ama-recap-2026-10-11]
+sources: [clm_3a8e17bcc079, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["Camo grind", "Serpentine camo", "Mastery camos"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Players can progress weapon camo challenges while playing the game mode.
+
+* Camo grinding is available in DMZ Early Access.
+
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-18._
 <!-- generated:end -->
 
 <!-- human:start -->
