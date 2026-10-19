@@ -1,23 +1,44 @@
 ---
 type: guide
 title: "Modern Warfare 4"
-description: "Call of Duty: Modern Warfare 4 launches on October 23, 2026, following Campaign Early Access on October 16, with Vault Edition perks including a third Active Duty Operator slot."
+description: "Call of Duty: Modern Warfare 4 launches on October 23, 2026, featuring a Vault Edition that includes a third Active Duty Operator slot and a Vault Edition Deployment Kit."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_a7b8ec64314b, clm_2c1207e86666, clm_6ccf33dd6ed8, clm_37cdae5b1cba, clm_1672db379296, clm_b92ce0a1725f, clm_0a4e123cbed9, clm_10ff23a54522, clm_91a690b2cb72, clm_584ca9a28de8, clm_8b459e95dea1, clm_8b829cb0f2ac, clm_a7dd80539473, clm_dd0523f5efa5, clm_f15ea5124f94, clm_e7a8a6545bc8, clm_fdd956334b2e, clm_74ce7b19a954, clm_1c9b69b05639, clm_d527ad72b9b5, clm_081d4e3adf70, clm_ae8d58aff02f, clm_4661f1044a6a, clm_dec0b70e20e9, clm_caa9338fe244, clm_2337f44f0a15, clm_eebfca05d1c7, clm_5031daeb35f2, clm_bd3a6d3986d8, clm_0ea0fe7e8edb, clm_049f14ae6c49, clm_fe3ca925a3ca, clm_45631006abe4, clm_4ab2eca4cea2, clm_881990ecdfd3, clm_65c185ecca1d, clm_c95fc69cca11, clm_f7165ee63572, clm_7304fc35c0cb, clm_1a9c54d7c363, clm_142b3cf0d46e, clm_dd436cc73acb, clm_a26bd5fa1e80, clm_56e219d5abe7, clm_d13fea0ebe6f, clm_35b4a3f9d614, clm_af121b2f548e, clm_143a5374fc4d, clm_1a8b39bc4f78, clm_ee28d7e585e9, clm_2e5bf084b5cd, clm_df4dbb33489a, clm_9ae4d05360ab, clm_02271c4d0989, clm_4b51a70fcff5, clm_6cbee1b7076f, clm_78cf4b537687, clm_f5b268ff3f0f, clm_add3dc7040f5, clm_2940af82d97c, clm_67e13e459038, clm_175dbc8daebe, clm_c9601a7ecb16, clm_6bde8776e08d, clm_170a58447cfa, clm_65f3d3ecb871, clm_6a069493d0af, clm_d438aae69300, clm_287d78ea109b, clm_aae723fb28b8, clm_732c0a52706c, clm_e559e8c8ef34, clm_7ca023c2a771, clm_88d7776d5394, clm_f9cf816caa13, clm_aaff660d1047, clm_9f8e67a2a02c, src-activision-campaign-early-access-live-2026-10-16, src-activision-pc-specs-2026-09-29, src-insider-gaming-season-1-date-2026-10-14, src-iw-mw4-trello-2026-10-19, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_a7b8ec64314b, clm_2c1207e86666, clm_6ccf33dd6ed8, clm_37cdae5b1cba, clm_1672db379296, clm_b92ce0a1725f, clm_0a4e123cbed9, clm_10ff23a54522, clm_91a690b2cb72, clm_584ca9a28de8, clm_8b459e95dea1, clm_8b829cb0f2ac, clm_a7dd80539473, clm_dd0523f5efa5, clm_f15ea5124f94, clm_e7a8a6545bc8, clm_fdd956334b2e, clm_74ce7b19a954, clm_1c9b69b05639, clm_d527ad72b9b5, clm_081d4e3adf70, clm_ae8d58aff02f, clm_4661f1044a6a, clm_dec0b70e20e9, clm_caa9338fe244, clm_2337f44f0a15, clm_eebfca05d1c7, clm_5031daeb35f2, clm_bd3a6d3986d8, clm_0ea0fe7e8edb, clm_049f14ae6c49, clm_fe3ca925a3ca, clm_45631006abe4, clm_4ab2eca4cea2, clm_881990ecdfd3, clm_65c185ecca1d, clm_c95fc69cca11, clm_f7165ee63572, clm_7304fc35c0cb, clm_1a9c54d7c363, clm_142b3cf0d46e, clm_dd436cc73acb, clm_a26bd5fa1e80, clm_56e219d5abe7, clm_d13fea0ebe6f, clm_35b4a3f9d614, clm_af121b2f548e, clm_143a5374fc4d, clm_1a8b39bc4f78, clm_ee28d7e585e9, clm_2e5bf084b5cd, clm_df4dbb33489a, clm_9ae4d05360ab, clm_02271c4d0989, clm_4b51a70fcff5, clm_6cbee1b7076f, clm_78cf4b537687, clm_f5b268ff3f0f, clm_add3dc7040f5, clm_2940af82d97c, clm_67e13e459038, clm_175dbc8daebe, clm_c9601a7ecb16, clm_6bde8776e08d, clm_170a58447cfa, clm_65f3d3ecb871, clm_6a069493d0af, clm_d438aae69300, clm_287d78ea109b, clm_aae723fb28b8, clm_732c0a52706c, clm_e559e8c8ef34, clm_7ca023c2a771, clm_88d7776d5394, clm_f9cf816caa13, clm_aaff660d1047, clm_9f8e67a2a02c, clm_e54c1673140c, src-activision-campaign-early-access-live-2026-10-16, src-activision-pc-specs-2026-09-29, src-insider-gaming-season-1-date-2026-10-14, src-iw-mw4-trello-2026-10-19, src-activision-dmz-guide-part2-2026-10-09]
 ---
 <!-- generated:start -->
-Call of Duty: Modern Warfare 4 is an entry in the Call of Duty franchise scheduled for full launch on October 23, 2026. A season of the game is active, with the fight continuing into Season 1, which integrates Warzone. Campaign Early Access launched on October 16, 2026, and the game is available for pre-order on platforms including the Nintendo Switch 2.
+Modern Warfare 4 is a game in the Call of Duty series launching on October 23, 2026. A season is active, and the battle continues into Season 1, which brings Warzone integration.
 
-## Launch and Access Dates
+## Release and Pre-Load
+* Modern Warfare 4 launches on October 23, 2026.
+* Pre-installation opened on Wednesday, October 14 at 9 PM PT. A supported report on October 13 previously placed pre-loading at 9am PT.
+* During setup, players can decide whether to install Warzone alongside Modern Warfare 4.
+* Modern Warfare 4 is confirmed available for pre-order on the Nintendo Switch 2.
+* Players reported that the Vault Edition was the #2 pre-ordered game on the PS5 store behind GTA VI, and the title reached #1 on Steam ahead of campaign early access.
+* Players reported an advertisement for the game on the Joe Rogan Experience podcast.
 
-* Pre-installation began on Wednesday, October 14, 2026, at 9 PM PT. Players reported pre-loading starting at 9 AM PT on October 14, but official confirmation established the pre-installation time as 9 PM PT.
-* During the setup process, players can choose whether to install Warzone alongside Modern Warfare 4.
-* Campaign Early Access officially launched on October 16, 2026. Players reported the access start time as 10 AM PT / 1 PM ET / 6 PM UK.
-* DMZ Early Access received an update across all platforms on Monday, October 19, 2026, at 9 AM PT.
+## Editions and Technical Details
+* Modern Warfare 4 Vault Edition includes a Vault Edition Deployment Kit, a third Active Duty Operator slot, and one-time access to Signature Weapon Collection Blueprints.
+* AMD TPM software versions in the 3.x.0.x range are confirmed as the most common versions observed in attestation issues.
+* A minor update was released to address issues in the credits.
 
-_Generated from 25 confirmed and 31 reported claims across 54 posts and 0 patch notes; last rendered 2026-10-19._
+## Campaign and Early Access
+* Campaign Early Access officially launched on October 16, 2026, with player reports placing start times at 10:00 AM PT / 1:00 PM ET / 6:00 PM UK.
+* The campaign reloaded the song "C.R.E.A.M."
+* Players reported the campaign consists of 16 missions and takes about 6 hours to finish.
+* Players reported the campaign is brutal, intense, and one of the darkest entries in the franchise tonally, concluding the Modern Warfare story.
+* Players reported the campaign features an open world mission, a Makarov mission, and a fist fight between Price and Makarov.
+* Players reported the game received a 10/10 rating, and ending credits paid respects to Vince Zampella.
+* The Call of Duty app reportedly peaked at 108,500 concurrent players on Steam during the campaign early access release.
+
+## Multiplayer and DMZ
+* Players reported that multiplayer features prestige icons, a prestige master skin, and the Shoot House map.
+* Players reported that Tactical Sprint will be active by default in Warzone following the launch of Modern Warfare 4 Season 1 in November.
+* DMZ mode has an active countdown, with an update for DMZ Early Access scheduled on all platforms for October 19 at 9 AM PT.
+* Players reported that Infinity Ward developed DMZ, reveals occurred…
+
+_Generated from 26 confirmed and 31 reported claims across 55 posts and 0 patch notes; last rendered 2026-10-19._
 <!-- generated:end -->
 
 <!-- human:start -->
