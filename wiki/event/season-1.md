@@ -6,7 +6,6 @@ status: stable
 brain_status: published
 sensitivity: public
 sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16]
-stale_after: 2026-11-07
 ---
 <!-- generated:start -->
 Season 1 is an upcoming event featuring several maps reported for Warzone.
