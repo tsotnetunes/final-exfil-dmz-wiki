@@ -1,18 +1,18 @@
 ---
 type: item
 title: "Gold Bars"
-description: "Gold Bars are reported by players to be worth 25K."
+description: "Gold Bars are reported to be worth 25K."
 status: draft
 brain_status: candidate
 sensitivity: public
 sources: [clm_121f8118faaf]
 ---
 <!-- generated:start -->
-Gold Bars are an item reported to have high monetary value.
+Gold Bars are an item reported to hold significant value.
 
 * Players report that Gold Bars are worth 25K.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-18._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-19._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -8,8 +8,8 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[commander-threats]] — Commanders are roaming bosses (Colossus, Deathstalker, the Main NK Battle Tank) that resist standard weapons and drop prized 3D Printer ingredients (official, … · **published**
 
 ## event (3) in `wiki/event/<id>.md`
-- [[dmz-week]] — DMZ Week is a Modern Warfare 4 event beginning October 4 that includes information on the Hajin location. · **draft**
-- [[season-1]] — Verdansk, Rebirth Island, and Zodiac are reported to be available in Warzone at the launch of Season 1. · **published**
+- [[dmz-week]] — DMZ Week for Modern Warfare 4 starts October 4 and includes information on the Hajin location. · **draft**
+- [[season-1]] — Players report that Verdansk, Rebirth Island, and Zodiac will be available in Warzone at Season 1 launch. · **published**
 - [[shipment]] — Players report that Shipment is coming on October 27th. · **candidate**
 
 ## exfil (1) in `wiki/exfil/<id>.md`
@@ -42,7 +42,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-fob-mastery-calling-card]] — The DMZ FOB Mastery Calling Card is reported by players to be an in-game calling card. · **candidate**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launches on October 23, with Campaign Early Access having begun October 16 and a full release that includes optional installatio… · **published**
+- [[modern-warfare-4]] — Modern Warfare 4 launches October 23, 2026, featuring Vault Edition bonuses such as a third Active Duty Operator slot and Campaign Early Access that began Octo… · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
@@ -50,22 +50,22 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## item (8) in `wiki/item/<id>.md`
 - [[dog-tags]] — Extracting with the Dog Tags of Wanted players rewards DMZ Cash. · **published**
-- [[gold-bars]] — Gold Bars are reported by players to be worth 25K. · **candidate**
-- [[grabber-drone]] — The Grabber Drone is a new tool in Warzone. · **draft**
-- [[legendary-dog-tag]] — Players report that the Legendary dog tag drops from both the Scavenger and Bale. · **candidate**
+- [[gold-bars]] — Gold Bars are reported to be worth 25K. · **candidate**
+- [[grabber-drone]] — The Grabber Drone is a new tool available in Warzone. · **draft**
+- [[legendary-dog-tag]] — The Legendary dog tag is reported by players to drop from both The Scavenger and Bale. · **candidate**
 - [[parachute]] — Base parachutes have limited uses (look in Fire Stations); infinite-use parachutes are rarer; both can be printed at the 3D Printer (developers' Q&A, 9 Oct). · **published**
 - [[tempered-armor-vest]] — The Tempered Armor Vest is reported by players to be one of 8 armor vests. · **candidate**
-- [[void-claw]] — An issue where players lost their Void Claw upon picking up any item has been resolved. · **retired**
+- [[void-claw]] — An issue where players lost their Void Claw when picking up items has been resolved. · **retired**
 - [[zipline-launcher]] — The Zipline Launcher is a new tool in Warzone. · **draft**
 
 ## lieutenant (4) in `wiki/lieutenant/<id>.md`
 - [[gorani]] — A Lieutenant met in the high woodland above Hanrim Village: ghillie camouflage, a water-deer skull mask, an M4, camouflaged escorts, hard to track (official fi… · **published**
 - [[lieutenants]] — Named bosses with escorts: buy intel at the Boss Board or climb a Hunt tower; a kill pays DMZ Cash and drops a Dog Tag Case, maybe their weapon or a key. · **published**
-- [[roze]] — Roze is a lieutenant boss in DMZ reported to drop the Kraken weapon along with unique rewards upon defeat. · **candidate**
+- [[roze]] — Players report that Roze is a lieutenant boss in DMZ who drops the Kraken weapon and unique rewards when killed. · **candidate**
 - [[the-warden]] — A Lieutenant met in Hajin's northern hills whose key, in the official field report, opens a sealed room beneath NuriGO Mall (5 Oct guide). · **published**
 
 ## material (1) in `wiki/material/<id>.md`
-- [[reactive-metals]] — Reactive Metals are reported by players to feed the 3D printer. · **candidate**
+- [[reactive-metals]] — Players report that Reactive Metals feed the 3D printer. · **candidate**
 
 ## mechanic (35) in `wiki/mechanic/<id>.md`
 - [[after-action-report]] — The end-of-deployment screen: loot and DMZ Cash banked, a rating from F to S++ for Objectives, Combat and Looting, XP to your DMZ level and Dog Tag level (offi… · **published**
@@ -86,12 +86,12 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[missing-in-action]] — The MIA status an Operator gets for not getting out of a deployment; recovery and what it costs are on the MIA system page. · **candidate**
 - [[movement-and-tuning]] — Tac sprint is on by default; DMZ has its own weapon damage tuning around its armor; no armor-piercing or Stopping Power rounds for now (developers' Q&A, 9 Oct). · **published**
 - [[operator-prestige]] — Prestige a fully levelled Operator (18 Trait Points) by giving up rare gear and DMZ Cash; each Prestige adds a random permanent Trait, up to three. · **published**
-- [[operator-prestige-and-permanent-prestige-traits]] — MW4 Prestige Icons are reported to be based on the logos of all 10 Call of Duty titles developed by Infinity Ward, similar to BO6. · **candidate**
+- [[operator-prestige-and-permanent-prestige-traits]] — Prestige Icons in MW4 are reported to feature the logos of all 10 Call of Duty titles developed by Infinity Ward, similar to BO6. · **candidate**
 - [[paid-infil]] — Infil options and prices: on foot free, Polaris Dagor A1 5,000, LTV 25,000, helicopter 50,000, cargo plane 100,000 DMZ Cash (choose your drop spot). · **published**
 - [[proximity-chat]] — Voice between nearby players with distance-based falloff, directionality and environmental reverb (official, pre-launch). · **published**
 - [[radiation-storm]] — Radiation spreads across Hajin during a deployment; the Time Remaining timer shows when the storm intensifies; as it worsens, head for an exfil (official, 5 Oc… · **published**
 - [[rescue]] — Paying the rescue cost recovers your Operator along with their progressed Skill Tree and deployment experience. · **draft**
-- [[secure-slots]] — Items outside of Secure Slots are lost if a player fails to exfil. · **published**
+- [[secure-slots]] — Items kept outside of Secure Slots are lost if a player fails to exfil. · **published**
 - [[server-culling]] — Ricochet anti-cheat in DMZ: server culling, TPM 2.0 and Secure Boot on PC, stronger account security (developers' Q&A and Xbox Wire). · **published**
 - [[skill-trees]] — Skill Trees are per Operator character progression paths. · **draft**
 - [[stealth-meter]] — HUD indicator and audio cues (white → yellow → orange) that show how close you are to being detected, aimed at solo play (official, pre-launch). · **published**
@@ -109,8 +109,8 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[operation-shopping-hacks]] — Operation Shopping Hacks is a DMZ mission reported to award the Night Vision Goggles crafting recipe. · **candidate**
 - [[operation-silent-ledger]] — Operation Silent Ledger is a story mission in DMZ. · **candidate**
 - [[side-ops]] — Small optional tasks in a match (truck repairs, finding a supply drop, scaling a radio tower) that give XP alongside the main objectives (official, pre-launch). · **published**
-- [[story-missions]] — Players report that Story Missions in Modern Warfare 4 DMZ unlock needed crafting recipes. · **published**
-- [[stranded]] — Progress in the Stranded mission is reported by players to save separately from the campaign checkpoint. · **candidate**
+- [[story-missions]] — Story Missions in Modern Warfare 4 DMZ are reported to unlock needed crafting recipes. · **published**
+- [[stranded]] — Players report that progress in the Stranded mission saves separately from the campaign checkpoint. · **candidate**
 
 ## poi (22) in `wiki/poi/<id>.md`
 - [[building-21]] — Players report that a new Building 21-type map will be released in Season 1. · **candidate**

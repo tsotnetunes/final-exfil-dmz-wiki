@@ -1,22 +1,24 @@
 ---
 type: mission
 title: "Story Missions"
-description: "Players report that Story Missions in Modern Warfare 4 DMZ unlock needed crafting recipes."
+description: "Story Missions in Modern Warfare 4 DMZ are reported to unlock needed crafting recipes."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_1373d27208f1, clm_85301b83d56c, clm_f0a271907aa3, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09, src-fpsjp-story-missions-trailer-2026-10-09, src-gamespark-tokyo-media-event-2026-10-01]
+sources: [clm_1373d27208f1, clm_85301b83d56c, clm_f0a271907aa3, clm_7983ec847f7e, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09, src-fpsjp-story-missions-trailer-2026-10-09, src-gamespark-tokyo-media-event-2026-10-01]
 aliases: ["story mission"]
 mission_kind: story
 ---
 <!-- generated:start -->
 ## Overview
-Players report that Story Missions in Modern Warfare 4 DMZ unlock needed crafting recipes.
+
+Story Missions in Modern Warfare 4 DMZ are reported by players to unlock needed crafting recipes. Additionally, players report that a mini DMZ mission is featured in the Modern Warfare 4 campaign.
 
 ## Steps
-The steps for these missions are currently unrecorded.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-18._
+No specific mission steps have been documented.
+
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-19._
 <!-- generated:end -->
 
 <!-- human:start -->

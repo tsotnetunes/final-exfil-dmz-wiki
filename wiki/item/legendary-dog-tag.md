@@ -1,19 +1,19 @@
 ---
 type: item
 title: "Legendary dog tag"
-description: "Players report that the Legendary dog tag drops from both the Scavenger and Bale."
+description: "The Legendary dog tag is reported by players to drop from both The Scavenger and Bale."
 status: draft
 brain_status: candidate
 sensitivity: public
 sources: [clm_1b11a0105ecd, clm_a31a217f5b49]
 ---
 <!-- generated:start -->
-The Legendary dog tag is a dropped item.
+The Legendary dog tag is a dropped item obtained from specific targets.
 
-* Players report that killing the Scavenger drops a Legendary dog tag.
+* Players report that defeating The Scavenger yields a Legendary dog tag.
 * Players report that Bale drops a Legendary Dog Tag.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-17._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-19._
 <!-- generated:end -->
 
 <!-- human:start -->

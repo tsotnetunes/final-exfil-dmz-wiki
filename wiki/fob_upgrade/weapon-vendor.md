@@ -11,9 +11,11 @@ unlock: progression
 aliases: ["Vendor"]
 ---
 <!-- generated:start -->
-Players report that the Weapon Vendor upgrade requires DMZ Level 10 to unlock.
+The Weapon Vendor, also known simply as the Vendor, is a forward operating base station.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-18._
+Players report that unlocking the Vendor requires DMZ Level 10.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-19._
 <!-- generated:end -->
 
 <!-- human:start -->
