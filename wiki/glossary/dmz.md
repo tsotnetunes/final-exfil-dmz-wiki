@@ -5,38 +5,40 @@ description: "Modern Warfare 4's extraction mode: early access from 20 Oct 2026 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5, clm_5e8135915868, clm_cc4819b844ec, clm_756ca3a1eee7, clm_ab07e6e3f11a, clm_4168264992cf, clm_074886fbd8a3, clm_06a18e0bc5dc, clm_34cf7998ef77, clm_bdc81da0243a, clm_745f1b4c8236, clm_cbd622c56df9, clm_cb80a507198b, clm_5925122b4bac, clm_6966a3db131a, clm_3b6f8853376b, clm_1e5e54fe39d9, clm_7171b643787f, clm_48027a6aac93, clm_546c93fb1360, clm_cd1d93a80a43, clm_f2698bfc853b, clm_0779921b8e43, clm_a1569c892677, clm_24e638975594, clm_79f25e8baac7, clm_89d9a4165394, clm_61d138b7e662, clm_6cbe9bae6192, clm_e84fc6c2e8a8, clm_5476f50b22b3, clm_9437128d416e, clm_80fcf3d9441a, clm_e201b18bb17c, clm_7d376be143d1, clm_914b67adcd2e, clm_cd48a16154e8, clm_c0f63fd6262c, clm_9fc95675de5a, clm_aa44b9a2fc0b, clm_f67325b8d3a7, clm_0b1cfae517d2, clm_99bd938b85d6, clm_e4887ea5853a, clm_07230118bc32, clm_ec94f605295a, clm_6f670e4e8c0a, clm_a71aa0446ee5, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-campaign-early-access-2026-06-12, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09, src-westie-dmz-ama-recap-2026-10-11]
+sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5, clm_5e8135915868, clm_cc4819b844ec, clm_756ca3a1eee7, clm_ab07e6e3f11a, clm_4168264992cf, clm_074886fbd8a3, clm_06a18e0bc5dc, clm_34cf7998ef77, clm_bdc81da0243a, clm_745f1b4c8236, clm_cbd622c56df9, clm_cb80a507198b, clm_5925122b4bac, clm_6966a3db131a, clm_3b6f8853376b, clm_1e5e54fe39d9, clm_7171b643787f, clm_48027a6aac93, clm_546c93fb1360, clm_cd1d93a80a43, clm_f2698bfc853b, clm_0779921b8e43, clm_a1569c892677, clm_24e638975594, clm_79f25e8baac7, clm_89d9a4165394, clm_61d138b7e662, clm_6cbe9bae6192, clm_e84fc6c2e8a8, clm_5476f50b22b3, clm_9437128d416e, clm_80fcf3d9441a, clm_e201b18bb17c, clm_7d376be143d1, clm_914b67adcd2e, clm_cd48a16154e8, clm_c0f63fd6262c, clm_9fc95675de5a, clm_aa44b9a2fc0b, clm_f67325b8d3a7, clm_0b1cfae517d2, clm_99bd938b85d6, clm_e4887ea5853a, clm_07230118bc32, clm_ec94f605295a, clm_6f670e4e8c0a, clm_a71aa0446ee5, clm_4d430fdb0672, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-campaign-early-access-2026-06-12, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["MW4 DMZ", "DMZ early access", "play DMZ early"]
 ---
 <!-- generated:start -->
-DMZ is a game mode located in Hajin that is accessible ahead of the full Modern Warfare 4 release.
+DMZ is a game mode set in Hajin, featured in Modern Warfare 4 alongside multiplayer and the campaign. The mode is available ahead of the full Modern Warfare 4 launch on October 23, with DMZ Early Access beginning on October 20 for players with a digital pre-order.
 
-## Confirmed details
+## Early Access and Launch Details
 
-* Early Access for DMZ begins on October 20, ahead of the Modern Warfare 4 launch on October 23.
-* Accessing DMZ Early Access requires a digital pre-order.
-* The Early Access launch requires TPM 2.0 and Secure Boot to be enabled.
-* DMZ takes place in the location of Hajin.
-* The mode features a progression system offering 70 levels of rewards.
+* DMZ Early Access begins on October 20, ahead of the Modern Warfare 4 launch on October 23.
+* Accessing the Early Access launch requires a digital pre-order, as well as TPM 2.0 and Secure Boot enabled on the system.
+* Players report that Early Access starts at 10am PT / 1pm ET / 6pm UK.
+* Season 1 of Modern Warfare 4 begins on November 6, according to player reports.
+
+## Mode Features and Gameplay
+
+* DMZ is located in Hajin.
+* The mode features a progression system with 70 levels of rewards.
 * DMZ includes three Mastery Camos: Chiral, Ripple Tide, and Helio.
-* Players who participated in the MWII DMZ Beta receive the Beta On Record emblem and the Beta Squad calling card.
+* Players who took part in the MWII DMZ Beta receive the Beta On Record emblem and the Beta Squad calling card.
+* Players report that DMZ currently features only PvPvE gameplay and allows players to form squads.
+* Player reports indicate that lobbies are not solo-only, though solos queuing will attempt to match against other solo players, and duos will attempt to match against duos.
+* DMZ has its own weapon damage tuning that is close to Warzone, according to player reports.
+* Players report that DMZ levels cannot be leveled up while playing multiplayer.
+* A player suggestion notes that if a PvE mode is introduced, it should exist as a separate mode with its own progression, stash, and operators.
+* Infinity Ward stated that "Single Squad Missions" were intended for internal use and were not meant for public release, as reported by players.
 
-## Player reports
+## Campaign Connections
 
-* Players report that DMZ Early Access starts at 10am PT / 1pm ET / 6pm UK.
-* Players report that the mode currently only features PvPvE.
-* Lobbies are reported not to be solo-only. However, match matchmaking reportedly attempts to match solo queue players against other solos, and does the same for duos.
-* Players report that DMZ allows players to form squads.
-* Infinity Ward reportedly stated that Single Squad Missions were intended for internal use only and not for public release.
-* Players report that DMZ levels cannot be leveled up by playing multiplayer.
-* DMZ reportedly uses its own weapon damage tuning, which players describe as close to Warzone.
-* Modern Warfare 4 reportedly includes a one-off DMZ mission, with the mode appearing during a campaign mission.
-* An official DMZ blog post reportedly included spoilers for the Modern Warfare 4 campaign.
-* DMZ is reported to appear on the main game menu alongside multiplayer and the campaign.
-* Players report that a DMZ map will eventually be released.
-* Season 1 of Modern Warfare 4 is reported to begin on November 6.
+* Players report that DMZ is listed alongside multiplayer and the campaign in the game menu.
+* Modern Warfare 4 reportedly includes a one-off DMZ mission within its campaign.
+* A DMZ blog post reportedly contained spoilers for the Modern Warfare 4 campaign.
+* Players also report that a DMZ map is planned to arrive eventually.
 
-_Generated from 16 confirmed and 18 reported claims across 33 posts and 0 patch notes; last rendered 2026-10-19._
+_Generated from 17 confirmed and 17 reported claims across 33 posts and 0 patch notes; last rendered 2026-10-19._
 <!-- generated:end -->
 
 <!-- human:start -->
