@@ -5,7 +5,7 @@ description: "Unlocks at DMZ level 2: crafts gear from four Resources and extrac
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_2347ef065fca, clm_bfc0061f6972, clm_50571f38d2ac, clm_93b0cd93b47c, clm_8b9dad98699a, clm_36e903b4cb4b, clm_fb602d7b6940, clm_7c40ac8ec97a, clm_7b0306c946e3, clm_8bfe373628c3, clm_15a4679827ba, clm_218f7902ddd6, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_2347ef065fca, clm_bfc0061f6972, clm_50571f38d2ac, clm_93b0cd93b47c, clm_8b9dad98699a, clm_36e903b4cb4b, clm_fb602d7b6940, clm_7c40ac8ec97a, clm_7b0306c946e3, clm_8bfe373628c3, clm_15a4679827ba, clm_218f7902ddd6, clm_424acf7011f1, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 station: 3d-printer
 unlock: progression
 ---
@@ -14,9 +14,13 @@ The 3D Printer requires Resources, Ingredients, and Recipes to craft essentials,
 
 Players report that the 3D Printer requires DMZ Level 2.
 
-Players also report that the station can be upgraded itself and used to print gear, craft equipment, and upgrade stations. According to player reports, 3D printer crafting is present in DMZ, where DMZ armor is created at the printer. Crafting a 1-Plate Armor Vest reportedly requires 25 Synthetics and 25 Metals. Advanced armor types are reported to remain locked until their recipes are unlocked.
+### Station Functions and Crafting
 
-_Generated from 1 confirmed and 7 reported claims across 8 posts and 0 patch notes; last rendered 2026-10-18._
+Players report that the 3D printer can be upgraded and used to print gear, as well as upgrade stations. In DMZ, 3D printer crafting is used to create armor. For example, players report that crafting a 1-Plate Armor Vest requires 25 Synthetics and 25 Metals. Advanced armor types remain locked until their corresponding recipes are unlocked.
+
+Players also report that the DMZ Crafting Calculator displays available 3D Printer recipes based on the resources currently held by the player.
+
+_Generated from 1 confirmed and 8 reported claims across 9 posts and 0 patch notes; last rendered 2026-10-19._
 <!-- generated:end -->
 
 <!-- human:start -->
