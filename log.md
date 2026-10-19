@@ -474,3 +474,7 @@
 ## [2026-10-18 20:00 EDT] render | 1 pages rendered, 280 claims, 268 evidence
 - changed: wiki 1, claims 1, evidence 1, index.md 1
 - run: r-20261019-000027-b545
+
+## [2026-10-18 21:59 EDT] ingest | 19 Oct: sources outside the automations: official Campaign early-access post (crossplay squads, 8 base Operators for DMZ), PC specs (TPM 2.0 and Secure Boot, 115 GB SSD, ray tracing in DMZ, barrel-based shots), Infinity Ward's MW4 Trello (DMZ Known Issues list); press on official trailers (Bale labelled Lieutenant, Critical Extraction, Dead Man's Cache, Chemical Denial), Hundred Spirits, Season 1 on 6 Nov, Hajin in Warzone Season 1; launch guide page; Bale retype proposal; 6 golden questions
+- changed: .kac 1, evals 1, index 12, index.md 1, proposals 1, raw 4, wiki 23
+- run: r-20261018-215953-cc47

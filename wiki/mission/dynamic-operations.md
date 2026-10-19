@@ -5,7 +5,7 @@ description: "Dynamic Operations send squads on objectives across Hajin, with pl
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_cacbc287b445, clm_809579d8a58f, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05]
+sources: [clm_cacbc287b445, clm_809579d8a58f, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-fpsjp-dynamic-ops-trailer-2026-10-07]
 aliases: ["dynamic operation", "dynamic ops", "Dynamic Ops phone", "Hunt Operators", "Supply Drop"]
 mission_kind: dynamic
 ---
@@ -23,4 +23,6 @@ _Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch not
 
 <!-- human:start -->
 Multi-step objectives generated for each match [[src-activision-dmz-deep-dive-2026-06]]. Pick one before infil, deploy straight into one, or start one in the field at a Dynamic Ops phone [[src-activision-dmz-guide-part1-2026-10-05]] [[src-playstation-blog-dmz-2026-10-05]]. Completing an Op pays DMZ XP and DMZ Cash and brings a Supply Drop whose quality rises with each Op you finish in the same deployment: Common, then Uncommon, then Rare; contents vary. The **Hunt Operators** Op sets a full rival squad against you.
+
+**Named Ops.** The official Dynamic Ops trailer (6 Oct) shows Dead Man's Cache (recover an encrypted drive) and Chemical Denial (look into a blackout), with a Side-Op to hunt [[bale]]; in that pre-release footage a completed Op paid 10,000 to 20,000 DMZ Cash into the Bank [[src-fpsjp-dynamic-ops-trailer-2026-10-07]].
 <!-- human:end -->

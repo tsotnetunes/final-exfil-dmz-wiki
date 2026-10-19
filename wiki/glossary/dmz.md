@@ -6,7 +6,7 @@ status: stable
 brain_status: published
 sensitivity: public
 sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5, clm_5e8135915868, clm_cc4819b844ec, clm_756ca3a1eee7, clm_ab07e6e3f11a, clm_4168264992cf, clm_074886fbd8a3, clm_06a18e0bc5dc, clm_34cf7998ef77, clm_bdc81da0243a, clm_745f1b4c8236, clm_cbd622c56df9, clm_cb80a507198b, clm_5925122b4bac, clm_6966a3db131a, clm_3b6f8853376b, clm_1e5e54fe39d9, clm_7171b643787f, clm_48027a6aac93, clm_546c93fb1360, clm_cd1d93a80a43, clm_f2698bfc853b, clm_0779921b8e43, clm_a1569c892677, clm_24e638975594, clm_79f25e8baac7, clm_89d9a4165394, clm_61d138b7e662, clm_6cbe9bae6192, clm_e84fc6c2e8a8, clm_5476f50b22b3, clm_9437128d416e, clm_80fcf3d9441a, clm_e201b18bb17c, clm_7d376be143d1, clm_914b67adcd2e, clm_cd48a16154e8, clm_c0f63fd6262c, clm_9fc95675de5a, clm_aa44b9a2fc0b, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-campaign-early-access-2026-06-12, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09, src-westie-dmz-ama-recap-2026-10-11]
-aliases: ["MW4 DMZ"]
+aliases: ["MW4 DMZ", "DMZ early access", "play DMZ early"]
 ---
 <!-- generated:start -->
 DMZ is a game mode located in Hajin. Early Access begins on October 20 ahead of the Modern Warfare 4 launch on October 23. Accessing Early Access requires a digital pre-order along with TPM 2.0 and Secure Boot enabled on PC.

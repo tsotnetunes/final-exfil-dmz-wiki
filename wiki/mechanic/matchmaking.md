@@ -5,7 +5,7 @@ description: "Queue by deployment type; up to 60 players in 20 squads of three; 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_5b76bd4676ec, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_5b76bd4676ec, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-activision-campaign-early-access-live-2026-10-16]
 aliases: ["Lobbies", "Squad size", "Player count", "Assimilation", "Reconnect"]
 ---
 <!-- generated:start -->
@@ -26,4 +26,6 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 - **Parties.** In a party the [[fob]] looks like the party leader's progress, while each station's menu shows your own progress and items.
 - **Operators.** No skin toggle: DMZ lives in MW4, not Warzone, so Operators from older games do not appear.
 - **No solo-only or PvE playlist** at launch: the "Single Squad Mission" option seen in a promotional screenshot was for internal testing, as the developers said in the Q&A (also relayed by [[src-thexclusiveace-bounty-video-2026-10-12]]).
+
+**Crossplay.** Squads can party up across platforms, and friends are added in game by their Activision ID (official, 16 Oct) [[src-activision-campaign-early-access-live-2026-10-16]].
 <!-- human:end -->

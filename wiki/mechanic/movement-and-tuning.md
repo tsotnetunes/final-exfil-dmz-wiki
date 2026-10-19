@@ -5,7 +5,7 @@ description: "Tac sprint is on by default; DMZ has its own weapon damage tuning 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_c6c24118f956, src-westie-dmz-ama-recap-2026-10-11]
+sources: [clm_c6c24118f956, src-westie-dmz-ama-recap-2026-10-11, src-activision-pc-specs-2026-09-29]
 aliases: ["Tac sprint", "Tactical sprint", "Damage tuning", "AP rounds"]
 ---
 <!-- generated:start -->
@@ -21,4 +21,6 @@ From the developers' 9 Oct Q&A, via a video recap [[src-westie-dmz-ama-recap-202
 - **Stamina:** energy drinks, stim shots and smelling salts refill or extend it ([[health-and-healing]]).
 
 The Adrenaline Burst Trait resets tactical sprint after a kill ([[adrenaline-burst]]).
+
+**Where shots go.** In Modern Warfare 4 a shot leaves from the weapon's barrel position instead of landing at random inside a spread, in ADS and hipfire; a laser attachment shows where shots travel (official, 29 Sep, for the whole game) [[src-activision-pc-specs-2026-09-29]].
 <!-- human:end -->

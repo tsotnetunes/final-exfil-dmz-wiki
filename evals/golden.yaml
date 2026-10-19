@@ -95,3 +95,21 @@
 - id: g32
   question: Does each Active Duty Operator keep their own backpack and loadout?
   must_retrieve: [active-duty]
+- id: g33
+  question: Is Bale a Lieutenant or a Commander?
+  must_retrieve: [bale]
+- id: g34
+  question: When does Season 1 start and what does it bring to DMZ?
+  must_retrieve: [season-1]
+- id: g35
+  question: Does DMZ have crossplay with friends on other platforms?
+  must_retrieve: [matchmaking]
+- id: g36
+  question: What do I need to play Modern Warfare 4 DMZ on PC (TPM, Secure Boot, storage)?
+  must_retrieve: [modern-warfare-4]
+- id: g37
+  question: Which Operators does finishing the Campaign unlock for DMZ?
+  must_retrieve: [active-duty]
+- id: g38
+  question: What is the name of the enemy group in Hajin?
+  must_retrieve: [north-korean-forces]

@@ -6,7 +6,7 @@ status: stable
 brain_status: published
 sensitivity: public
 sources: [clm_15b35293c60f, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09]
-aliases: ["MIA", "rescue team", "missing in action", "lost operator"]
+aliases: ["MIA", "rescue team", "missing in action", "lost operator", "operator does not exfil", "died without exfil"]
 ---
 <!-- generated:start -->
 The MIA system handles operator loss upon death during missions.

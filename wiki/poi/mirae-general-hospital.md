@@ -5,7 +5,7 @@ description: "Hajin's main hospital in the north centre, beside a train station 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-fpsjp-story-missions-trailer-2026-10-09]
 region: Hajin
 aliases: ["Mirae", "hospital", "Mujin Pass"]
 danger: low
@@ -21,4 +21,6 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 **Threat.** Low.
 
 **What is there.** Triage tents and temporary barracks on the stepped grounds, a parking structure, and a gutted multi-level lobby leading to wards and emergency rooms colour-coded by floor, with close-quarters fighting inside. Snipers are expected in the woods of Mujin Pass to the south. The June intel puts medical supplies in hospitals [[src-activision-dmz-deep-dive-2026-06]] ([[loot-placement]]).
+
+**Story Mission.** Operation Critical Extraction sends squads here for a high-value target recovering in the hospital (official Story Missions trailer, as described by [[src-fpsjp-story-missions-trailer-2026-10-09]]; see [[story-missions]]).
 <!-- human:end -->
