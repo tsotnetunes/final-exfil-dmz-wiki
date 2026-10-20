@@ -5,11 +5,15 @@ description: "DMZ vehicles on land, water and in the air need repair and fuel at
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_9ccc2ae5bb3c, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["vehicle", "Camper", "Sedan", "Grizzly", "Dreadnought", "Aston Martin Dreadnought", "Polaris Dagor A1", "LTV", "Cargo Truck", "D50 Radar Flatbed", "Train", "Tram", "RHIB", "Heli", "Heavy Chopper", "Monarch"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Vehicles serve as drivable transportation options in DMZ.
+
+* In DMZ, players report that hitting another player with a car can cause them to become a hood ornament.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-20._
 <!-- generated:end -->
 
 <!-- human:start -->
