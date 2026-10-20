@@ -5,18 +5,18 @@ description: "Exfil sites move every match and show as green smoke: call the Twi
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_00d9ca66573a, clm_502f1885f07b, clm_19763d29ca5b, clm_907d1988e248, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_00d9ca66573a, clm_502f1885f07b, clm_19763d29ca5b, clm_907d1988e248, clm_0654da754a95, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["extraction", "skyhook", "Twin Heli", "Fulton balloon", "Flare", "green smoke", "Monarch"]
 method: helicopter|skyhook
 ---
 <!-- generated:start -->
-DMZ in Modern Warfare 4 features extraction-focused gameplay and related mission objectives.
+Modern Warfare 4 features an extraction shooter mode known as DMZ, which includes dedicated extraction mechanics and missions.
 
 * Modern Warfare 4's DMZ is reported by players to be an extraction shooter.
-* Operation Critical Extraction is reported by players to be a mission in DMZ.
-* As of October 8, 2026, Operation Critical Extraction is reported by players to be a story mission in DMZ, updating an earlier report from October 7, 2026, that classified it simply as a mission.
+* Operation Critical Extraction is reported by players as a mission in DMZ, and as of October 8, 2026, it is reported specifically as a story mission.
+* Players report that the exfil process takes about 90 seconds from calling it in until the chopper is down.
 
-_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-16._
+_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-20._
 <!-- generated:end -->
 
 <!-- human:start -->

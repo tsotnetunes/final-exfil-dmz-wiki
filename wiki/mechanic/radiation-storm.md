@@ -5,11 +5,15 @@ description: "Radiation spreads across Hajin during a deployment; the Time Remai
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_a15e34798a66, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["radiation", "Time Remaining", "storm", "radiation storm"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+The radiation storm is tied to the Time Remaining timer.
+
+* Players report that once the timer hits zero, there is just under 15 minutes before the radiation fully spreads.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-20._
 <!-- generated:end -->
 
 <!-- human:start -->

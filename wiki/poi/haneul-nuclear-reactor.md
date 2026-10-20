@@ -5,7 +5,7 @@ description: "Northeast Hajin, on the coast north of Songdo Wharf: a breached re
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9fe3feef9402, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_9fe3feef9402, clm_d13ac5614025, src-activision-dmz-guide-part1-2026-10-05]
 region: Hajin
 danger: high (radiation)
 loot_profile: unknown
@@ -18,13 +18,13 @@ Players report that secured bunkers are situated by the Haneul Nuclear Reactor.
 
 ### Loot
 
-Information on loot at this location is currently undocumented.
+Information on specific loot profiles for this location has not been detailed.
 
 ### Threats
 
-Information on threats at this location is currently undocumented.
+The reactor area of the DMZ is reported by players to be difficult.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-16._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-20._
 <!-- generated:end -->
 
 <!-- human:start -->
