@@ -5,7 +5,7 @@ description: "Named bosses with escorts: buy intel at the Boss Board or climb a 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_e9f8c69f2b20, clm_11c4521ef65f, clm_133be03ad563, clm_ac4a74fc6342, clm_0892055f6578, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-fpsjp-dynamic-ops-trailer-2026-10-07]
+sources: [clm_e9f8c69f2b20, clm_11c4521ef65f, clm_133be03ad563, clm_ac4a74fc6342, clm_0892055f6578, clm_010cca1f3297, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-fpsjp-dynamic-ops-trailer-2026-10-07]
 aliases: ["bosses", "lieutenant", "Lieutenant Hunt"]
 weapon: unique
 location: unknown
@@ -14,17 +14,17 @@ drops: dog tags, weapon
 <!-- generated:start -->
 ## Overview
 
-Players report that Iskra is a hostile lieutenant and Lieutenant Boss in DMZ.
+Players report that Lieutenants appear as bosses in DMZ. According to player reports, known hostile Lieutenant bosses include Iskra and Jang-Ui.
 
 ## Location
 
-Information on specific encounter locations has not been confirmed.
+Players report that Lieutenants are located in DMZ.
 
 ## Drops
 
-Information on item drops has not been confirmed.
+No drops are currently reported for these bosses.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-16._
+_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-20._
 <!-- generated:end -->
 
 <!-- human:start -->

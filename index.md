@@ -42,7 +42,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-fob-mastery-calling-card]] — The DMZ FOB Mastery Calling Card is reported by players to be an in-game calling card. · **candidate**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launches on October 23, 2026, following Campaign Early Access on October 16, with pre-orders open on platforms including Nintend… · **published**
+- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launches on October 23, with pre-installation starting on October 14 at 9 PM PT and Campaign Early Access opening on October 16. · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
@@ -56,7 +56,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dog-tags]] — Extracting with the Dog Tags of Wanted players rewards DMZ Cash. · **published**
 - [[gold-bars]] — Gold Bars are reported to be worth 25K. · **candidate**
 - [[grabber-drone]] — The Grabber Drone is a new tool in Warzone. · **draft**
-- [[legendary-dog-tag]] — The Legendary dog tag is reported by players to drop from both the Scavenger and Bale. · **candidate**
+- [[legendary-dog-tag]] — Players report that The Scavenger, Bale, and Jang-Ui drop the Legendary dog tag. · **candidate**
 - [[parachute]] — Base parachutes have limited uses (look in Fire Stations); infinite-use parachutes are rarer; both can be printed at the 3D Printer (developers' Q&A, 9 Oct). · **published**
 - [[tempered-armor-vest]] — The Tempered Armor Vest is reported by players to be one of 8 armor vests. · **candidate**
 - [[void-claw]] — An issue where players lost their Void Claw when picking up items has been resolved. · **retired**
