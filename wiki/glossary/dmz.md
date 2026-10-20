@@ -9,32 +9,34 @@ sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5
 aliases: ["MW4 DMZ", "DMZ early access", "play DMZ early"]
 ---
 <!-- generated:start -->
-DMZ is a game mode set in Hajin, launching in Early Access ahead of the Modern Warfare 4 release. It features its own progression tracks, dedicated rewards, and specific hardware and access requirements.
+DMZ is a game mode located in Hajin, available in Early Access ahead of the Modern Warfare 4 launch on October 23. Early Access launched on October 20, 2026, at 10 AM PT.
 
-## Schedule and Access
+## Access and Requirements
 
-* DMZ Early Access begins on October 20, 2026, ahead of the full Modern Warfare 4 launch on October 23.
-* Early Access goes live globally at 10 AM PT. Players have also reported the regional rollout times as 1pm ET and 6pm UK.
-* DMZ preloads are available.
-* Accessing DMZ Early Access requires a digital pre-order.
-* Playing the Early Access launch requires TPM 2.0 and Secure Boot to be enabled.
-* Players report that Season 1 of Modern Warfare 4 begins on November 6.
+* DMZ Early Access began on October 20, 2026, ahead of the full MW4 launch on October 23.
+* Confirmed release timing was set for 10 AM PT globally, with players reporting corresponding launch times of 1 PM ET and 6 PM UK.
+* Playing Early Access requires a digital pre-order.
+* Preloads were made available prior to release.
+* Launching Early Access requires TPM 2.0 and Secure Boot to be enabled.
 
-## Mode Features and Gameplay
+## Gameplay and Features
 
-* DMZ is confirmed to be located in Hajin, where Early Access begins.
+* DMZ is located in Hajin, where Early Access begins.
 * The mode features a progression system with 70 levels of rewards.
+* DMZ Mastery Camos are Chiral, Ripple Tide, and Helio.
+* Players who took part in the MWII DMZ Beta receive the Beta On Record emblem and Beta Squad calling card.
+* DMZ currently features only PvPvE, as reported by players.
+* Players report that DMZ allows players to form squads, though lobbies are not solo-only. Solo players queuing up will attempt to match against other solos, and duos will attempt to match against duos.
+* Weapon damage tuning in DMZ is reported to be close to Warzone.
 * Players report that DMZ levels cannot be leveled up while playing multiplayer.
-* Chiral, Ripple Tide, and Helio are confirmed Mastery Camos for the mode.
-* Players who previously played the MWII DMZ Beta receive the Beta On Record emblem and Beta Squad calling card.
-* Players report that DMZ mode currently features only PvPvE and allows players to form squads.
-* Players report that lobbies will not be solo-only, though solos queuing will attempt to match against other solo players, with the same matching behavior applying to duos.
-* Weapon damage tuning in DMZ is reported by players to be close to Warzone.
-* Players report that if a dedicated PvE mode is introduced, it should exist as a separate mode with its own progression, stash, and operators.
-* Infinity Ward stated that "Single Squad Missions" were designed strictly for internal use and were not intended for public release, according to player reports.
-* Players report that DMZ is listed alongside multiplayer and the campaign in the main game menus.
-* Modern Warfare 4 also reportedly contains a one-off DMZ mission or appears in a campaign mission, and an official blog post for DMZ was reported by players to have contained campaign spoilers.
-* Players also report that a DMZ map is coming eventually.
+* Single Squad Missions were stated by Infinity Ward to be for internal use and not intended for public release, according to player reports.
+
+## Related Modern Warfare 4 Details
+
+* DMZ is listed alongside multiplayer and campaign in the game menu, according to player reports.
+* Players report that a one-off DMZ mission or appearance occurs in the Modern Warfare 4 campaign, and an official DMZ blog post reportedly contained spoilers for the campaign.
+* Players report that another DMZ map is planned eventually, and argue that any potential future PvE mode should be separated with its own progression, stash, and operators.
+* Season 1 of Modern Warfare 4 is reported by players to begin on November 6.
 
 _Generated from 21 confirmed and 19 reported claims across 39 posts and 0 patch notes; last rendered 2026-10-20._
 <!-- generated:end -->

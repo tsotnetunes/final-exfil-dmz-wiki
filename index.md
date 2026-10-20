@@ -9,7 +9,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## event (3) in `wiki/event/<id>.md`
 - [[dmz-week]] — DMZ Week for Modern Warfare 4 starts October 4 and includes information on the Hajin location. · **draft**
-- [[season-1]] — Players report that Verdansk, Rebirth Island, and Zodiac will be available in Warzone at Season 1 launch. · **published**
+- [[season-1]] — Players report that Verdansk, Rebirth Island, and Zodiac will be available in Warzone at the launch of Season 1. · **published**
 - [[shipment]] — Players report that Shipment is coming on October 27th. · **candidate**
 
 ## exfil (1) in `wiki/exfil/<id>.md`
@@ -42,7 +42,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-fob-mastery-calling-card]] — The DMZ FOB Mastery Calling Card is reported by players to be an in-game calling card. · **candidate**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 officially launches on October 23, with pre-installation starting October 14 at 9:00 PM PT and Campaign Early Access beginning O… · **published**
+- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launches on October 23, 2026, following Campaign Early Access on October 16, with pre-orders open on platforms including Nintend… · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
@@ -55,8 +55,8 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-beta-50-hours-emblem]] — DMZ Beta 50 Hours Emblem: awaiting confirmed details. · **candidate**
 - [[dog-tags]] — Extracting with the Dog Tags of Wanted players rewards DMZ Cash. · **published**
 - [[gold-bars]] — Gold Bars are reported to be worth 25K. · **candidate**
-- [[grabber-drone]] — The Grabber Drone is a new tool available in Warzone. · **draft**
-- [[legendary-dog-tag]] — The Legendary dog tag is reported by players to drop from both The Scavenger and Bale. · **candidate**
+- [[grabber-drone]] — The Grabber Drone is a new tool in Warzone. · **draft**
+- [[legendary-dog-tag]] — The Legendary dog tag is reported by players to drop from both the Scavenger and Bale. · **candidate**
 - [[parachute]] — Base parachutes have limited uses (look in Fire Stations); infinite-use parachutes are rarer; both can be printed at the 3D Printer (developers' Q&A, 9 Oct). · **published**
 - [[tempered-armor-vest]] — The Tempered Armor Vest is reported by players to be one of 8 armor vests. · **candidate**
 - [[void-claw]] — An issue where players lost their Void Claw when picking up items has been resolved. · **retired**
@@ -69,7 +69,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[the-warden]] — A Lieutenant met in Hajin's northern hills whose key, in the official field report, opens a sealed room beneath NuriGO Mall (5 Oct guide). · **published**
 
 ## material (1) in `wiki/material/<id>.md`
-- [[reactive-metals]] — Players report that Reactive Metals feed the 3D printer. · **candidate**
+- [[reactive-metals]] — Reactive Metals are reported to feed the 3D printer. · **candidate**
 
 ## mechanic (35) in `wiki/mechanic/<id>.md`
 - [[after-action-report]] — The end-of-deployment screen: loot and DMZ Cash banked, a rating from F to S++ for Objectives, Combat and Looting, XP to your DMZ level and Dog Tag level (offi… · **published**
@@ -95,7 +95,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[proximity-chat]] — Voice between nearby players with distance-based falloff, directionality and environmental reverb (official, pre-launch). · **published**
 - [[radiation-storm]] — Radiation spreads across Hajin during a deployment; the Time Remaining timer shows when the storm intensifies; as it worsens, head for an exfil (official, 5 Oc… · **published**
 - [[rescue]] — Paying the rescue cost recovers your Operator along with their progressed Skill Tree and deployment experience. · **draft**
-- [[secure-slots]] — Items kept outside of Secure Slots are lost if a player fails to exfil. · **published**
+- [[secure-slots]] — Items placed outside of Secure Slots are lost if a player fails to exfil. · **published**
 - [[server-culling]] — Ricochet anti-cheat in DMZ: server culling, TPM 2.0 and Secure Boot on PC, stronger account security (developers' Q&A and Xbox Wire). · **published**
 - [[skill-trees]] — Skill Trees are per Operator character progression paths. · **draft**
 - [[stealth-meter]] — HUD indicator and audio cues (white → yellow → orange) that show how close you are to being detected, aimed at solo play (official, pre-launch). · **published**
@@ -103,14 +103,14 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[threat-escalation]] — Every area of Hajin has a threat level (Low, Medium, High, Critical or Extreme) shown under the compass; loud play raises the enemy response, stealth calms it … · **published**
 - [[tourniquet]] — Everyone deploys with it: from Last Stand it gets you up at 100 health with a wound; it works again only at full health (official guide and developers' Q&A). · **published**
 - [[vehicles]] — DMZ vehicles on land, water and in the air need repair and fuel at Gas Stations; the guide lists 14, from the Camper to the Monarch exfil helicopter (official,… · **published**
-- [[wanted-status]] — Players can become Wanted by taking down rival Operators. · **published**
+- [[wanted-status]] — Players can acquire Wanted status by taking down rival Operators. · **published**
 - [[weapon-customization]] — Customizing weapons with attachments requires DMZ Cash. · **draft**
 - [[weapon-manuals]] — Extract a weapon's Manual to buy that weapon in the Gunsmith as often as you like; a Manual is used up at exfil and pays 5,000 DMZ Cash (official guide, 9 Oct). · **published**
 - [[what-carries-over]] — Persistent across deployments: operator traits and skill trees, FOB upgrades and stash, weapon unlocks from Weapon Manuals, Bounty Leaderboard standing, XP and… · **published**
 
 ## mission (6) in `wiki/mission/<id>.md`
 - [[dynamic-operations]] — Dynamic Operations send squads on objectives across Hajin, with players reporting cash, XP, and supply drops of increasing rarity after every completed op. · **published**
-- [[operation-shopping-hacks]] — Operation Shopping Hacks is a DMZ mission reported to award the Night Vision Goggles crafting recipe. · **candidate**
+- [[operation-shopping-hacks]] — Players report that completing the DMZ mission Operation Shopping Hacks rewards the Night Vision Goggles crafting recipe. · **candidate**
 - [[operation-silent-ledger]] — Operation Silent Ledger is a story mission in DMZ. · **candidate**
 - [[side-ops]] — Small optional tasks in a match (truck repairs, finding a supply drop, scaling a radio tower) that give XP alongside the main objectives (official, pre-launch). · **published**
 - [[story-missions]] — Story Missions in Modern Warfare 4 DMZ are reported to unlock needed crafting recipes. · **published**
@@ -171,5 +171,5 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## weapon (3) in `wiki/weapon/<id>.md`
 - [[aston-martin-dreadnought]] — Players report that the Aston Martin Dreadnought is an armored SUV vehicle in MW4 DMZ. · **retired**
-- [[ltv]] — The LTV is reported by players to be a vehicle in MW4 DMZ equipped with a mounted .50 Cal. · **retired**
+- [[ltv]] — Players report that the LTV is a vehicle in MW4 DMZ equipped with a mounted .50 Cal. · **retired**
 - [[polaris-dagor-a1]] — The Polaris DAGOR is built for the toughest terrain and is available in Modern Warfare 4 and DMZ at launch. · **retired**

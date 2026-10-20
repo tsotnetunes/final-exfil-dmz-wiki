@@ -9,17 +9,15 @@ sources: [clm_3a8e17bcc079, clm_a9fba1b8bb2f, clm_23d4f9bb7b2b, clm_f1b717014ef6
 aliases: ["Camo grind", "Serpentine camo", "Mastery camos"]
 ---
 <!-- generated:start -->
-Players are able to undertake camo grinding within DMZ, which is confirmed for DMZ Early Access. Progressing through specific camo categories involves achieving distinct match objectives and kill milestones.
+Players can pursue weapon camos directly within DMZ, including during Early Access. Camo hunting involves completing specific combat and extraction criteria during matches.
 
-## Camo Hunt Details
-
-* Camo grinding is confirmed to be available in DMZ Early Access, and players also report that camo grinding can be done in DMZ.
-* Players report that DMZ Mastery Camos require 2500 tier 3+ kills.
+* Camo grinding is available in DMZ Early Access, and players report being able to grind camos in DMZ.
+* Players report that DMZ Mastery Camos require 2,500 tier 3+ kills.
 * Players report that DMZ Mastery Camos require extracting 2 Lieutenant Dog Tags in a single match 50 times.
 * Players report that DMZ Mastery Camos require 25,000 kills using legendary weapons.
-* Players report that special camos require 125 Silenced kills in DMZ.
+* Players report that Special camos require 125 Silenced kills in DMZ.
 
-_Generated from 1 confirmed and 5 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-19._
+_Generated from 1 confirmed and 5 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-20._
 <!-- generated:end -->
 
 <!-- human:start -->

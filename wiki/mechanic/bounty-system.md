@@ -9,13 +9,13 @@ sources: [clm_bb4b2157af60, clm_162bac1414e5, clm_8ed714d7c354, src-activision-d
 aliases: ["notoriety", "bounty", "Bounty Station", "pay off bounty", "Most Wanted", "bounty hunter", "Killer", "vultures"]
 ---
 <!-- generated:start -->
-The bounty system is a gameplay mechanic in DMZ that penalises players for eliminating other operators.
+The bounty system is a gameplay mechanic in DMZ that penalizes players who eliminate excessive numbers of opponents.
 
-* Killing too many players places a bounty on your head.
-* Players report that Modern Warfare 4 DMZ includes a bounty system.
-* Players report that bounties are an active mechanic in DMZ.
+* In DMZ, killing too many players results in a bounty being placed on your head.
+* Players report that Modern Warfare 4 DMZ features a bounty system.
+* Players report that bounties are an active mechanic within DMZ.
 
-_Generated from 1 confirmed and 2 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-19._
+_Generated from 1 confirmed and 2 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-20._
 <!-- generated:end -->
 
 <!-- human:start -->
