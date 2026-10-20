@@ -42,7 +42,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-fob-mastery-calling-card]] — The DMZ FOB Mastery Calling Card is reported by players to be an in-game calling card. · **candidate**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launches on October 23, 2026, with the Vault Edition offering a third Active Duty Operator slot and a Vault Edition Deployment K… · **published**
+- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launches on October 23, with Campaign Early Access opening on October 16 and pre-orders available on platforms including Nintend… · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
