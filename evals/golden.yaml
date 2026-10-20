@@ -113,3 +113,6 @@
 - id: g38
   question: What is the name of the enemy group in Hajin?
   must_retrieve: [north-korean-forces]
+- id: g39
+  question: What time does DMZ early access go live on 20 October?
+  must_retrieve: [dmz, src-iw-dmz-early-access-time-2026-10-19]

@@ -542,3 +542,7 @@
 ## [2026-10-19 23:47 EDT] render | 25 pages rendered, 313 claims, 299 evidence
 - changed: wiki 25, claims 1, evidence 1, index.md 1
 - run: r-20261020-034701-271d
+
+## [2026-10-20 01:14 EDT] ingest | DMZ early access unlock time: live worldwide by 10 AM PT on 20 Oct (Infinity Ward, 19 Oct), with source page and golden question
+- changed: evals 1, index 9, index.md 1, wiki 2
+- run: r-20261020-011437-d3b8
