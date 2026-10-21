@@ -10,7 +10,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 ## event (3) in `wiki/event/<id>.md`
 - [[dmz-week]] — DMZ Week for Modern Warfare 4 starts October 4 and includes information on the Hajin location. · **draft**
 - [[season-1]] — Players report that Verdansk, Rebirth Island, and Zodiac will be available in Warzone at the launch of Season 1. · **published**
-- [[shipment]] — Shipment is reported to be coming on October 27th. · **candidate**
+- [[shipment]] — Shipment returns to Modern Warfare 4 on October 27 with a new look. · **draft**
 
 ## exfil (1) in `wiki/exfil/<id>.md`
 - [[exfil]] — Exfil sites move every match and show as green smoke: call the Twin Heli and hold the spot until it lands, or leave by Fulton balloon or Flare (official guide,… · **published**
@@ -42,7 +42,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-fob-mastery-calling-card]] — The DMZ FOB Mastery Calling Card is reported by players to be an in-game calling card. · **candidate**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Modern Warfare 4 officially launches on October 23, with pre-orders granting early access to both the Campaign and DMZ modes. · **published**
+- [[modern-warfare-4]] — Modern Warfare 4 launches on October 23, featuring Campaign and DMZ early access for pre-orders, Vault Edition bonuses, and a reloaded version of the song C.R.… · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
