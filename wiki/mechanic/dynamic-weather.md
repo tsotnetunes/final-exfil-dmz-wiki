@@ -5,11 +5,15 @@ description: "Downpours cut visibility, fog changes routes, convoys move on road
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-westie-dmz-ama-recap-2026-10-11]
+sources: [clm_5716a58c7e46, src-activision-dmz-deep-dive-2026-06, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["weather", "convoys"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Dynamic weather and world systems alter the conditions players encounter in the game environment.
+
+* Players report that dynamic weather makes maps feel different each time a player loads in.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-21._
 <!-- generated:end -->
 
 <!-- human:start -->
