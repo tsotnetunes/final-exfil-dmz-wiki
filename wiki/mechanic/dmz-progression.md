@@ -5,18 +5,19 @@ description: "DMZ has its own levels 1 to 70, apart from Multiplayer's 55; XP fr
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_ddf327b1e62d, clm_43eb9661dfec, clm_7395536c245c, clm_bd9383775a93, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_ddf327b1e62d, clm_43eb9661dfec, clm_7395536c245c, clm_bd9383775a93, clm_5153b4480340, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["DMZ Player Level", "Progression Track", "DMZ level", "level 70", "Dog Tag level", "Onyx III", "DMZ XP"]
 ---
 <!-- generated:start -->
-DMZ progression allows players to advance through a dedicated level track to unlock upgrades, crafting recipes, and FOB stations.
+DMZ progression covers a dedicated 70-level advancement track that allows players to earn rewards and access new capabilities.
 
-* DMZ progression covers 70 levels and unlocks FOB stations, upgrades, and crafting recipes.
-* Players earn DMZ XP even if they do not successfully exfil.
-* Players report that DMZ features a 1-70 level track specifically for FOB stations.
-* Players report that DMZ permits leveling up Player XP, Weapon XP, and Rank XP.
+* DMZ progression spans 70 levels and unlocks FOB stations, upgrades, and crafting recipes.
+* Players earn DMZ XP even if they fail to exfil.
+* Players report that DMZ has a 1-70 level track for FOB stations.
+* Players report that DMZ allows leveling up Player XP, Weapon XP, and Rank XP.
+* Players report that playing DMZ awards levels for multiplayer and guns.
 
-_Generated from 2 confirmed and 2 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-20._
+_Generated from 2 confirmed and 3 reported claims across 5 posts and 0 patch notes; last rendered 2026-10-21._
 <!-- generated:end -->
 
 <!-- human:start -->

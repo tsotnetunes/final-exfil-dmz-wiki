@@ -5,14 +5,26 @@ description: "An NK air base in western Hajin built into a granite hillside over
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_f2db5e2ff141, src-activision-dmz-guide-part1-2026-10-05]
 region: Hajin
 aliases: ["Chang-san", "Air Base", "air base bunker"]
 danger: "critical (bunker: extreme)"
 loot_profile: military
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+## Overview
+
+Chang-san Air Base features an underground area in MW4 DMZ mode.
+
+## Loot
+
+Players report that a Hazmat Suit can be found under the air base in MW4 DMZ mode.
+
+## Threats
+
+No specific threats have been reported for this location.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-21._
 <!-- generated:end -->
 
 <!-- human:start -->

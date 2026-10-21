@@ -5,11 +5,15 @@ description: "The AI enemy in Hajin: four tiers of NK soldiers, drone swarms, LM
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-gamespark-tokyo-media-event-2026-10-01]
+sources: [clm_580e04417c3f, src-activision-dmz-guide-part1-2026-10-05, src-gamespark-tokyo-media-event-2026-10-01]
 aliases: ["NK forces", "AI enemies", "Tier 1", "Tier 4", "K9", "drone swarm", "LMG drone", "convoy", "Hundred Spirits"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+North Korean forces operate as AI enemies encountered within the DMZ.
+
+* Low tier AI enemies in the DMZ are reported by players to be easy to kill.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-21._
 <!-- generated:end -->
 
 <!-- human:start -->

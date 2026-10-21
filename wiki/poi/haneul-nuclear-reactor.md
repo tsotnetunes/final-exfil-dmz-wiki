@@ -5,7 +5,7 @@ description: "Northeast Hajin, on the coast north of Songdo Wharf: a breached re
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9fe3feef9402, clm_d13ac5614025, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_9fe3feef9402, clm_d13ac5614025, clm_f655e133d8dd, src-activision-dmz-guide-part1-2026-10-05]
 region: Hajin
 danger: high (radiation)
 loot_profile: unknown
@@ -14,17 +14,17 @@ aliases: ["Fallout reactor", "Haneul", "Reactor 02", "South Korean Border Zone"]
 <!-- generated:start -->
 ### Overview
 
-Players report that secured bunkers are situated by the Haneul Nuclear Reactor.
+The Haneul Nuclear Reactor is situated within the reactor area of the DMZ, with players reporting that secured bunkers can be found nearby.
 
 ### Loot
 
-Information on specific loot profiles for this location has not been detailed.
+Players report that secured bunkers are located by the facility.
 
 ### Threats
 
-The reactor area of the DMZ is reported by players to be difficult.
+The reactor area of the DMZ is reported by players to be difficult. Additionally, players report that wearing a Hazmat Suit allows exploration of the Nuclear Reactor area without taking damage.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-20._
+_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-21._
 <!-- generated:end -->
 
 <!-- human:start -->
