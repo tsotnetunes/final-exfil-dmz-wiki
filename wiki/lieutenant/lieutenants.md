@@ -5,26 +5,26 @@ description: "Named bosses with escorts: buy intel at the Boss Board or climb a 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_e9f8c69f2b20, clm_11c4521ef65f, clm_133be03ad563, clm_ac4a74fc6342, clm_0892055f6578, clm_010cca1f3297, clm_8e41bf518b21, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-fpsjp-dynamic-ops-trailer-2026-10-07]
+sources: [clm_e9f8c69f2b20, clm_11c4521ef65f, clm_133be03ad563, clm_ac4a74fc6342, clm_0892055f6578, clm_010cca1f3297, clm_8e41bf518b21, clm_5743b50c7983, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-fpsjp-dynamic-ops-trailer-2026-10-07]
 aliases: ["bosses", "lieutenant", "Lieutenant Hunt"]
 weapon: unique
 location: unknown
 drops: dog tags, weapon
 ---
 <!-- generated:start -->
-## Overview
+### Overview
 
-Players report that Lieutenants are bosses found in DMZ. Hostile lieutenant bosses identified by players include Iskra, Jang-Ui, and Jin Tae.
+Players report that the game features lieutenants, which appear as hostile lieutenant bosses. Identified lieutenants include Iskra, Jang-Ui and Jin Tae.
 
-## Location
+### Location
 
-Lieutenants are reported by players to appear in DMZ.
+Players report that the lieutenants Iskra, Jang-Ui and Jin Tae are found in DMZ. Specific encounter locations within DMZ are not confirmed.
 
-## Drops
+### Drops
 
-Specific drops for these lieutenant bosses have not been reported.
+Specific drops for these lieutenant bosses are not confirmed.
 
-_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-21._
+_Generated from 0 confirmed and 5 reported claims across 5 posts and 0 patch notes; last rendered 2026-10-21._
 <!-- generated:end -->
 
 <!-- human:start -->
