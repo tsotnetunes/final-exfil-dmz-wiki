@@ -56,7 +56,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dog-tags]] — Extracting with the Dog Tags of Wanted players rewards DMZ Cash, and the Dog Tag Case station is located in the FOB. · **published**
 - [[gold-bars]] — Gold Bars are reported to be worth 25K. · **candidate**
 - [[grabber-drone]] — The Grabber Drone is a new tool in Warzone. · **draft**
-- [[hazmat-suit]] — Players report that the Hazmat Suit is discarded upon exfil. · **candidate**
+- [[hazmat-suit]] — Players report that the Hazmat Suit makes farming rare materials easier and is discarded upon exfil. · **candidate**
 - [[legendary-dog-tag]] — The Legendary dog tag is reported by players to drop from The Scavenger, Bale, and Jang-Ui. · **candidate**
 - [[parachute]] — Base parachutes have limited uses (look in Fire Stations); infinite-use parachutes are rarer; both can be printed at the 3D Printer (developers' Q&A, 9 Oct). · **published**
 - [[tempered-armor-vest]] — The Tempered Armor Vest is reported by players to be one of 8 armor vests. · **candidate**

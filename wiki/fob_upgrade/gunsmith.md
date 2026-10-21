@@ -5,14 +5,14 @@ description: "Unlocks at DMZ level 10: buy base weapons (after extracting their 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_7bd9889680ab, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_7bd9889680ab, clm_6ecd75a4da6f, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 station: gunsmith
 unlock: progression
 ---
 <!-- generated:start -->
-The Gunsmith is reported by players to feature a vendor whose stock rotates daily.
+Applying some weapon camos or reticles in the DMZ Gunsmith can result in a deduction of DMZ cash. Players also report that the Gunsmith features a vendor with a daily rotating stock.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-14._
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-21._
 <!-- generated:end -->
 
 <!-- human:start -->
