@@ -53,7 +53,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[beta-squad-calling-card]] — Beta Squad Calling Card: awaiting confirmed details. · **candidate**
 - [[dmz-beta-50-hours-calling-card]] — DMZ Beta 50 Hours Calling Card: awaiting confirmed details. · **candidate**
 - [[dmz-beta-50-hours-emblem]] — DMZ Beta 50 Hours Emblem: awaiting confirmed details. · **candidate**
-- [[dog-tags]] — Extracting with the Dog Tags of Wanted players rewards DMZ Cash. · **published**
+- [[dog-tags]] — Extracting with the Dog Tags of Wanted players rewards DMZ Cash, and the Dog Tag Case station is located in the FOB. · **published**
 - [[gold-bars]] — Gold Bars are reported to be worth 25K. · **candidate**
 - [[grabber-drone]] — The Grabber Drone is a new tool in Warzone. · **draft**
 - [[hazmat-suit]] — Players report that the Hazmat Suit is discarded upon exfil. · **candidate**
