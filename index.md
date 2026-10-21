@@ -28,7 +28,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dog-tag-case]] — Unlocks at DMZ level 20: shows the dog tags you extracted (rarity, victim, killer, time); upgrades raise bounty payouts and add slots. · **published**
 - [[firing-range]] — The FOB's Firing Range: a wooded grove between the Gunsmith and the Vendor, with targets from under 10 m to over 100 m (official, 9 Oct guide). · **published**
 - [[fob]] — Your home between deployments; stations open from the start or by DMZ level: 3D Printer 2, Vendor 5, Gunsmith 10, Dog Tag Case 20, Boss Board after two Orders. · **published**
-- [[fob-forward-operating-base]] — Players report that the store is located in the Forward Operating Base. · **candidate**
+- [[fob-forward-operating-base]] — The store is located in the Forward Operating Base (FOB) within DMZ. · **candidate**
 - [[gunsmith]] — Unlocks at DMZ level 10: buy base weapons (after extracting their Weapon Manual), attachment slots and attachments with DMZ Cash; weapon levels shared with MP. · **published**
 - [[orders]] — The FOB station where DMZ Orders are reviewed before a deployment; available from the start (official). How Orders work: see DMZ Orders. · **published**
 - [[stash]] — FOB storage shared by all your Operators: 40 items and 12 weapons at first, more with upgrades; Resources take no slots (official, 9 Oct guide). · **published**

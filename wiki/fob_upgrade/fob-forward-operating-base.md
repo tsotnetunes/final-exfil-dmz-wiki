@@ -1,16 +1,16 @@
 ---
 type: fob_upgrade
 title: "FOB (Forward Operating Base)"
-description: "Players report that the store is located in the Forward Operating Base."
+description: "The store is located in the Forward Operating Base (FOB) within DMZ."
 status: draft
 brain_status: candidate
 sensitivity: public
-sources: [clm_e1ad4728086d, clm_7656b4c1eeda]
+sources: [clm_e1ad4728086d, clm_7656b4c1eeda, clm_f3daecc9ec1a]
 ---
 <!-- generated:start -->
-Players report that the store is located in the Forward Operating Base (FOB).
+Players report that the FOB (Forward Operating Base) system is featured in DMZ and describe it as cool. The store is also reported by players to be located in the FOB.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-20._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-21._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -5,7 +5,7 @@ description: "A dark, multi-floor casino with an underground car park in Cheongu
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_c049aff19a6e, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_c049aff19a6e, clm_27cf8e87cc3c, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
 region: Hajin
 danger: high
 loot_profile: high-value
