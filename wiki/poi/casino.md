@@ -5,14 +5,26 @@ description: "A dark, multi-floor casino with an underground car park in Cheongu
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_c049aff19a6e, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
 region: Hajin
 danger: high
 loot_profile: high-value
 aliases: ["Casino (with vault)", "casino", "Heavenly Luck"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+## Overview
+
+The Heavenly Luck Casino is located in the DMZ. Players report that it features a vault that can be robbed.
+
+## Loot
+
+Players report that the casino houses a vault available for robbing.
+
+## Threats
+
+No specific threats have been reported for this location.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-20._
 <!-- generated:end -->
 
 <!-- human:start -->
