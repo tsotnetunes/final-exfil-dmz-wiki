@@ -8,9 +8,9 @@ sensitivity: public
 sources: [clm_e2ec787039a1, src-activision-dmz-guide-part2-2026-10-09]
 ---
 <!-- generated:start -->
-Players report that the Viper Sense trait alerts them when enemy operators are nearby.
+Players report that the Viper Sense trait alerts the player when enemy operators are nearby.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-17._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-21._
 <!-- generated:end -->
 
 <!-- human:start -->

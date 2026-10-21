@@ -12,16 +12,19 @@ location: unknown
 drops: dog tags, weapon
 ---
 <!-- generated:start -->
-### Overview
-Lieutenants are hostile bosses found in DMZ. Players report that known lieutenant bosses include Iskra, Jang-Ui, and Jin Tae.
+## Overview
 
-### Location
-Lieutenants appear in DMZ, as reported by players.
+Players report that Lieutenants are bosses found in DMZ. Hostile lieutenant bosses identified by players include Iskra, Jang-Ui, and Jin Tae.
 
-### Drops
-No drops have been reported.
+## Location
 
-_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-20._
+Lieutenants are reported by players to appear in DMZ.
+
+## Drops
+
+Specific drops for these lieutenant bosses have not been reported.
+
+_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-21._
 <!-- generated:end -->
 
 <!-- human:start -->

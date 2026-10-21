@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "Hajin"
-description: "Hajin is a DMZ and Battle Royale map reported by players to feature 14 named locations along with roaming bosses Colossus and Deathstalker."
+description: "Hajin is a map in DMZ and Battle Royale reported by players to feature 14 named locations along with roaming bosses Colossus and Deathstalker."
 status: draft
 brain_status: draft
 sensitivity: public
@@ -10,17 +10,15 @@ sources: [clm_d4ac4388b3f9, clm_3018c5a912d7, clm_e5cdf259848d, clm_f10952a863af
 <!-- generated:start -->
 ### Overview
 
-Hajin is a map and location featured in DMZ, where Operators deploy. It is confirmed that Battle Royale is also available on Hajin. The map is described as not giving up its secrets without a fight. 
-
-Players report that Hajin features 14 named locations, is great to explore, and will expand its locations in Season 2. In DMZ, vehicles burn fuel and take damage, and players report that Gas Stations can be used to refuel and repair them. DMZ progression is also reported to reach Level 70.
+Hajin is a confirmed map and location featured in DMZ, where operators deploy, and it is also available for Battle Royale. Players report that it has 14 named locations, is great to explore, and will see its locations expand in Season 2.
 
 ### Loot
 
-There are no confirmed details regarding Hajin's loot profile.
+There are no confirmed details regarding the loot profile or specific items found in Hajin.
 
 ### Threats
 
-Hostile encounters on Hajin include several major targets. Players report that Gorani and The Warden serve as Lieutenants in Hajin. Additionally, players report two roaming bosses operating in Hajin: Colossus and Deathstalker.
+Hajin is officially described as not giving up its secrets without a fight. In DMZ deployments, players report facing several specific hostile leaders. Gorani, a ghillie sniper wearing a deer skull, and The Warden are reported as Lieutenants in Hajin. Additionally, players report two roaming bosses operating across the map: Colossus and Deathstalker.
 
 _Generated from 6 confirmed and 11 reported claims across 16 posts and 0 patch notes; last rendered 2026-10-21._
 <!-- generated:end -->

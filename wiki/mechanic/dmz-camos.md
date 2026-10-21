@@ -9,17 +9,20 @@ sources: [clm_3a8e17bcc079, clm_a9fba1b8bb2f, clm_23d4f9bb7b2b, clm_f1b717014ef6
 aliases: ["Camo grind", "Serpentine camo", "Mastery camos"]
 ---
 <!-- generated:start -->
-Players can pursue camo grinding in DMZ Early Access. Progress toward various weapon skins and mastery tiers involves completing in-game combat and extraction milestones.
+Players can grind camos in DMZ Early Access, with various weapon objectives and external promotional unlocks reported for the mode.
 
-* Camo grinding is confirmed to be available in DMZ Early Access, and players report being able to camo grind in DMZ.
-* Players report that DMZ Mastery Camos require 2500 tier 3+ kills.
-* Players report that DMZ Mastery Camos require extracting 2 Lieutenant Dog Tags in a single match 50 times.
-* Players report that DMZ Mastery Camos require 25,000 kills using legendary weapons.
+## Camo Grinds and Unlocks
+
+* It is confirmed that players can camo grind in DMZ Early Access.
+* Players report that camo grinding is available in DMZ.
+* DMZ Mastery Camos are reported by players to require 2500 tier 3+ kills.
+* DMZ Mastery Camos are reported by players to require extracting 2 Lieutenant Dog Tags in a single match 50 times.
+* DMZ Mastery Camos are reported by players to require 25,000 kills using legendary weapons.
 * Special camos are reported by players to require 125 Silenced kills in DMZ.
-* Players report that Monster Energy skins can be used in DMZ if unlocked by redeeming codes from Modern Warfare 4 themed cans.
-* Players report that 2XP tokens unlocked through Monster Energy codes are available in DMZ.
+* Monster Energy skins are reported by players to be available for use in DMZ if unlocked by redeeming codes from Modern Warfare 4 themed cans.
+* 2XP tokens can be unlocked through Monster Energy codes and are reported by players to be available in DMZ.
 
-_Generated from 1 confirmed and 7 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-20._
+_Generated from 1 confirmed and 7 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-21._
 <!-- generated:end -->
 
 <!-- human:start -->

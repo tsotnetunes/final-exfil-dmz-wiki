@@ -1,33 +1,31 @@
 ---
 type: guide
 title: "Modern Warfare 4"
-description: "Call of Duty: Modern Warfare 4 officially launches on October 23, 2026, following pre-installation on October 14 and Campaign Early Access on October 16."
+description: "Modern Warfare 4 officially launches on October 23, with pre-orders granting early access to the campaign and DMZ mode."
 status: stable
 brain_status: published
 sensitivity: public
 sources: [clm_a7b8ec64314b, clm_2c1207e86666, clm_6ccf33dd6ed8, clm_37cdae5b1cba, clm_1672db379296, clm_b92ce0a1725f, clm_0a4e123cbed9, clm_10ff23a54522, clm_91a690b2cb72, clm_584ca9a28de8, clm_8b459e95dea1, clm_8b829cb0f2ac, clm_a7dd80539473, clm_dd0523f5efa5, clm_f15ea5124f94, clm_e7a8a6545bc8, clm_fdd956334b2e, clm_74ce7b19a954, clm_1c9b69b05639, clm_d527ad72b9b5, clm_081d4e3adf70, clm_ae8d58aff02f, clm_4661f1044a6a, clm_dec0b70e20e9, clm_caa9338fe244, clm_2337f44f0a15, clm_eebfca05d1c7, clm_5031daeb35f2, clm_bd3a6d3986d8, clm_0ea0fe7e8edb, clm_049f14ae6c49, clm_fe3ca925a3ca, clm_45631006abe4, clm_4ab2eca4cea2, clm_881990ecdfd3, clm_65c185ecca1d, clm_c95fc69cca11, clm_f7165ee63572, clm_7304fc35c0cb, clm_1a9c54d7c363, clm_142b3cf0d46e, clm_dd436cc73acb, clm_a26bd5fa1e80, clm_56e219d5abe7, clm_d13fea0ebe6f, clm_35b4a3f9d614, clm_af121b2f548e, clm_143a5374fc4d, clm_1a8b39bc4f78, clm_ee28d7e585e9, clm_2e5bf084b5cd, clm_df4dbb33489a, clm_9ae4d05360ab, clm_02271c4d0989, clm_4b51a70fcff5, clm_6cbee1b7076f, clm_78cf4b537687, clm_f5b268ff3f0f, clm_add3dc7040f5, clm_2940af82d97c, clm_67e13e459038, clm_175dbc8daebe, clm_c9601a7ecb16, clm_6bde8776e08d, clm_170a58447cfa, clm_65f3d3ecb871, clm_6a069493d0af, clm_d438aae69300, clm_287d78ea109b, clm_aae723fb28b8, clm_732c0a52706c, clm_e559e8c8ef34, clm_7ca023c2a771, clm_88d7776d5394, clm_f9cf816caa13, clm_aaff660d1047, clm_9f8e67a2a02c, clm_e54c1673140c, clm_28d96f038011, clm_419fdf23b680, clm_9ba18817f5d1, clm_deb1f7d7e584, clm_d0c80f9a2fe1, clm_c4781e55f521, clm_1aa17c26a060, clm_154f63af0f1c, clm_462919778b08, clm_6da597785f56, src-activision-campaign-early-access-live-2026-10-16, src-activision-pc-specs-2026-09-29, src-insider-gaming-season-1-date-2026-10-14, src-iw-mw4-trello-2026-10-19, src-activision-dmz-guide-part2-2026-10-09]
 ---
 <!-- generated:start -->
-Call of Duty: Modern Warfare 4 is an entry in the Call of Duty series. Pre-ordering the game grants early access to both its Campaign and DMZ modes, leading up to its full launch on October 23, 2026.
+Call of Duty: Modern Warfare 4 is a game scheduled to launch on October 23, with pre-orders available on platforms including the Nintendo Switch 2. A season of Modern Warfare 4 is currently active, and the story continues into Season 1, which players report launches in November alongside Warzone integration.
 
-## Release Schedule and Installations
-* Modern Warfare 4 is confirmed to launch fully on October 23, 2026, and is available for pre-order on Nintendo Switch 2.
-* Modern Warfare 4 Vault Edition was reported by players as the #2 pre-ordered game on the PlayStation 5 store behind GTA VI, and the game was reported as the #1 pre-ordered title on Steam leading up to Campaign Early Access.
-* Pre-installation confirmed opening on Wednesday, October 14 at 9 PM PT. A player report on October 13 had alternatively cited pre-loading starting at 9 AM PT on October 14.
-* During the setup process, players can choose whether to install Warzone alongside Modern Warfare 4.
-* On October 16, 2026, AMD TPM software versions in the 3.x.0.x range were confirmed to be the most common versions associated with attestation issues.
-* A minor update was officially released on October 17, 2026, to fix errors in the credits.
-* Players report that promotional material included an advertisement for the game on the Joe Rogan Experience podcast. The song "C.R.E.A.M." was officially reloaded for the game.
+## Release and Pre-Order Information
+
+* Modern Warfare 4 launches on October 23.
+* Pre-ordering Modern Warfare 4 grants access to both Campaign Early Access and DMZ Early Access.
+* Pre-orders are available on Nintendo Switch 2.
+* Modern Warfare 4 Vault Edition includes a third Active Duty Operator slot, a Vault Edition Deployment Kit, and one-time access to Signature Weapon Collection Blueprints.
+* Players report that Modern Warfare 4 Vault Edition ranked as the #2 pre-ordered game on the PS5 store behind GTA VI, and the title reached #1 on Steam ahead of Campaign Early Access.
+* Pre-installation for Modern Warfare 4 was confirmed to begin on Wednesday, October 14 at 9 PM PT, superseding a player-reported pre-load time of 9 AM PT on the same date.
+* During setup, players can choose which content to download, including whether to install Warzone alongside Modern Warfare 4.
+* Promotional material for the game includes an advertisement on the Joe Rogan Experience podcast, according to player reports.
+* The song "C.R.E.A.M." was reloaded for Call of Duty: Modern Warfare 4.
+* AMD TPM software versions in the 3.x.0.x range are the most common versions observed in attestation issues.
 
 ## Campaign
-* Campaign Early Access officially launched on October 16, 2026, including on Steam. Player reports placed the unlock time at 10 AM PT (1 PM ET / 6 PM UK).
-* Player reports describe the campaign as having 16 missions, lasting around 6 hours, featuring a brutal, intense, and dark tone, and earning a 10/10 rating.
-* Players report that the campaign features an open world mission, a Makarov mission, a fist fight between Price and Makarov, a mini DMZ mission, and concludes the Modern Warfare story.
-* The ending credits pay respects to Vince Zampella, according to player reports.
-* The Call of Duty app was reported to reach a peak of 108,500 concurrent players on Steam during the campaign early access release.
 
-## DMZ Mode
-* An update for DMZ Early Access officially released across all platforms on October 19 at 9 AM PT, accompanied by an active countdown in the mode.
+* Campaign Early Access officially started on October 16, launching on Steam and other platforms.
 
 _Generated from 28 confirmed and 38 reported claims across 64 posts and 0 patch notes; last rendered 2026-10-21._
 <!-- generated:end -->

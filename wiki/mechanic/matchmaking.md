@@ -9,11 +9,11 @@ sources: [clm_5b76bd4676ec, src-westie-dmz-ama-recap-2026-10-11, src-activision-
 aliases: ["Lobbies", "Squad size", "Player count", "Assimilation", "Reconnect"]
 ---
 <!-- generated:start -->
-Players in DMZ can interact with squad mechanics during an active match.
+DMZ includes mechanics for squad interaction during a match.
 
 * Players report that DMZ features a squad joining mechanic allowing players to join other squads after spawning into a match.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-17._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-21._
 <!-- generated:end -->
 
 <!-- human:start -->
