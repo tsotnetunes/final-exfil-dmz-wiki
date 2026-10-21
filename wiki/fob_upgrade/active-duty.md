@@ -5,12 +5,14 @@ description: "The Operators station: two Active Duty slots to start, a third by 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-progression-video-2026-10-07, src-activision-campaign-early-access-live-2026-10-16]
+sources: [clm_eee0a1ff7205, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-progression-video-2026-10-07, src-activision-campaign-early-access-live-2026-10-16]
 station: active-duty
 unlock: start
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+DMZ players have Active Duty Operators.
+
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-21._
 <!-- generated:end -->
 
 <!-- human:start -->
