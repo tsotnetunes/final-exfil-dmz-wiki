@@ -1,19 +1,18 @@
 ---
 type: item
 title: "Hazmat Suit"
-description: "Players report that the Hazmat Suit makes farming rare materials easier and is discarded upon exfil."
+description: "Players report that the Hazmat Suit is discarded upon exfil."
 status: draft
 brain_status: candidate
 sensitivity: public
-sources: [clm_f28fa8554173, clm_b5db07dcfcba]
+sources: [clm_f28fa8554173, clm_b5db07dcfcba, clm_324a4cc7c490, clm_c7d324fb5557, clm_731aa7db3d8e]
 ---
 <!-- generated:start -->
-The Hazmat Suit is an item used during excursions.
+The Hazmat Suit is an item.
 
 * Players report that the Hazmat Suit is discarded upon exfil.
-* Players report that it makes farming rare materials easier.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-22._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-22._
 <!-- generated:end -->
 
 <!-- human:start -->

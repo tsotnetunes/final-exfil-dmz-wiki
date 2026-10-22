@@ -57,7 +57,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[gold-bar]] — The Gold Bar is reported to be a red tier item. · **candidate**
 - [[gold-bars]] — Gold Bars are reported to be worth 25K. · **candidate**
 - [[grabber-drone]] — The Grabber Drone is a new tool in Warzone. · **draft**
-- [[hazmat-suit]] — Players report that the Hazmat Suit makes farming rare materials easier and is discarded upon exfil. · **candidate**
+- [[hazmat-suit]] — Players report that the Hazmat Suit is discarded upon exfil. · **candidate**
 - [[legendary-dog-tag]] — Players report that the Legendary dog tag drops from the Scavenger, Bale, and Jang-Ui. · **candidate**
 - [[parachute]] — Base parachutes have limited uses (look in Fire Stations); infinite-use parachutes are rarer; both can be printed at the 3D Printer (developers' Q&A, 9 Oct). · **published**
 - [[red-tier-3-plate-vest]] — Players report that the Red Tier 3 Plate Vest is a red tier item. · **candidate**
