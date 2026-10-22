@@ -1,40 +1,40 @@
 ---
 type: guide
 title: "Modern Warfare 4"
-description: "Call of Duty: Modern Warfare 4 launches worldwide on October 23, featuring 12 multiplayer maps with dynamic intros, Campaign and DMZ early access, and setup options for Warzone."
+description: "Modern Warfare 4 launches worldwide on October 23, featuring 12 multiplayer maps with dynamic intros, campaign and DMZ early access, and a Vault Edition."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_a7b8ec64314b, clm_2c1207e86666, clm_6ccf33dd6ed8, clm_37cdae5b1cba, clm_1672db379296, clm_b92ce0a1725f, clm_0a4e123cbed9, clm_10ff23a54522, clm_91a690b2cb72, clm_584ca9a28de8, clm_8b459e95dea1, clm_8b829cb0f2ac, clm_a7dd80539473, clm_dd0523f5efa5, clm_f15ea5124f94, clm_e7a8a6545bc8, clm_fdd956334b2e, clm_74ce7b19a954, clm_1c9b69b05639, clm_d527ad72b9b5, clm_081d4e3adf70, clm_ae8d58aff02f, clm_4661f1044a6a, clm_dec0b70e20e9, clm_caa9338fe244, clm_2337f44f0a15, clm_eebfca05d1c7, clm_5031daeb35f2, clm_bd3a6d3986d8, clm_0ea0fe7e8edb, clm_049f14ae6c49, clm_fe3ca925a3ca, clm_45631006abe4, clm_4ab2eca4cea2, clm_881990ecdfd3, clm_65c185ecca1d, clm_c95fc69cca11, clm_f7165ee63572, clm_7304fc35c0cb, clm_1a9c54d7c363, clm_142b3cf0d46e, clm_dd436cc73acb, clm_a26bd5fa1e80, clm_56e219d5abe7, clm_d13fea0ebe6f, clm_35b4a3f9d614, clm_af121b2f548e, clm_143a5374fc4d, clm_1a8b39bc4f78, clm_ee28d7e585e9, clm_2e5bf084b5cd, clm_df4dbb33489a, clm_9ae4d05360ab, clm_02271c4d0989, clm_4b51a70fcff5, clm_6cbee1b7076f, clm_78cf4b537687, clm_f5b268ff3f0f, clm_add3dc7040f5, clm_2940af82d97c, clm_67e13e459038, clm_175dbc8daebe, clm_c9601a7ecb16, clm_6bde8776e08d, clm_170a58447cfa, clm_65f3d3ecb871, clm_6a069493d0af, clm_d438aae69300, clm_287d78ea109b, clm_aae723fb28b8, clm_732c0a52706c, clm_e559e8c8ef34, clm_7ca023c2a771, clm_88d7776d5394, clm_f9cf816caa13, clm_aaff660d1047, clm_9f8e67a2a02c, clm_e54c1673140c, clm_28d96f038011, clm_419fdf23b680, clm_9ba18817f5d1, clm_deb1f7d7e584, clm_d0c80f9a2fe1, clm_c4781e55f521, clm_1aa17c26a060, clm_154f63af0f1c, clm_462919778b08, clm_6da597785f56, clm_19faff07e91b, clm_f929357984ab, clm_f37478319709, clm_47f01179c025, clm_d0167e5f71f9, clm_44f8dc0125e2, clm_ccfae152bab3, clm_930f6eae7c68, clm_f265aaaaf38d, clm_e36c7bae651a, clm_360860e1cfa3, clm_be78ae6a3532, clm_007904d5f3ae, clm_cbb8ed429805, clm_00288a66035c, clm_61ee2d961159, clm_2c531af21701, clm_44a0dbcab66a, src-activision-campaign-early-access-live-2026-10-16, src-activision-pc-specs-2026-09-29, src-insider-gaming-season-1-date-2026-10-14, src-iw-mw4-trello-2026-10-19, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_a7b8ec64314b, clm_2c1207e86666, clm_6ccf33dd6ed8, clm_37cdae5b1cba, clm_1672db379296, clm_b92ce0a1725f, clm_0a4e123cbed9, clm_10ff23a54522, clm_91a690b2cb72, clm_584ca9a28de8, clm_8b459e95dea1, clm_8b829cb0f2ac, clm_a7dd80539473, clm_dd0523f5efa5, clm_f15ea5124f94, clm_e7a8a6545bc8, clm_fdd956334b2e, clm_74ce7b19a954, clm_1c9b69b05639, clm_d527ad72b9b5, clm_081d4e3adf70, clm_ae8d58aff02f, clm_4661f1044a6a, clm_dec0b70e20e9, clm_caa9338fe244, clm_2337f44f0a15, clm_eebfca05d1c7, clm_5031daeb35f2, clm_bd3a6d3986d8, clm_0ea0fe7e8edb, clm_049f14ae6c49, clm_fe3ca925a3ca, clm_45631006abe4, clm_4ab2eca4cea2, clm_881990ecdfd3, clm_65c185ecca1d, clm_c95fc69cca11, clm_f7165ee63572, clm_7304fc35c0cb, clm_1a9c54d7c363, clm_142b3cf0d46e, clm_dd436cc73acb, clm_a26bd5fa1e80, clm_56e219d5abe7, clm_d13fea0ebe6f, clm_35b4a3f9d614, clm_af121b2f548e, clm_143a5374fc4d, clm_1a8b39bc4f78, clm_ee28d7e585e9, clm_2e5bf084b5cd, clm_df4dbb33489a, clm_9ae4d05360ab, clm_02271c4d0989, clm_4b51a70fcff5, clm_6cbee1b7076f, clm_78cf4b537687, clm_f5b268ff3f0f, clm_add3dc7040f5, clm_2940af82d97c, clm_67e13e459038, clm_175dbc8daebe, clm_c9601a7ecb16, clm_6bde8776e08d, clm_170a58447cfa, clm_65f3d3ecb871, clm_6a069493d0af, clm_d438aae69300, clm_287d78ea109b, clm_aae723fb28b8, clm_732c0a52706c, clm_e559e8c8ef34, clm_7ca023c2a771, clm_88d7776d5394, clm_f9cf816caa13, clm_aaff660d1047, clm_9f8e67a2a02c, clm_e54c1673140c, clm_28d96f038011, clm_419fdf23b680, clm_9ba18817f5d1, clm_deb1f7d7e584, clm_d0c80f9a2fe1, clm_c4781e55f521, clm_1aa17c26a060, clm_154f63af0f1c, clm_462919778b08, clm_6da597785f56, clm_19faff07e91b, clm_f929357984ab, clm_f37478319709, clm_47f01179c025, clm_d0167e5f71f9, clm_44f8dc0125e2, clm_ccfae152bab3, clm_930f6eae7c68, clm_f265aaaaf38d, clm_e36c7bae651a, clm_360860e1cfa3, clm_be78ae6a3532, clm_007904d5f3ae, clm_cbb8ed429805, clm_00288a66035c, clm_61ee2d961159, clm_2c531af21701, clm_44a0dbcab66a, clm_9234c18268be, src-activision-campaign-early-access-live-2026-10-16, src-activision-pc-specs-2026-09-29, src-insider-gaming-season-1-date-2026-10-14, src-iw-mw4-trello-2026-10-19, src-activision-dmz-guide-part2-2026-10-09]
 ---
 <!-- generated:start -->
-Call of Duty: Modern Warfare 4 is a first-person shooter featuring a single-player campaign, multiplayer modes, and an extraction-based DMZ mode.
+Call of Duty: Modern Warfare 4 is a first-person shooter featuring a story campaign, multiplayer, and a dedicated DMZ mode.
 
 ## Release and Access Schedule
-* Modern Warfare 4 launches worldwide on October 23.
-* Pre-installation began on Wednesday, October 14 at 9 PM PT. Players reported pre-loading starting at 9 AM PT on October 14.
-* Campaign Early Access opened on October 16, launching on Steam and other platforms. Players reported an unlock time of 10 AM PT (1 PM ET / 6 PM UK).
-* Pre-ordering provides access to both Campaign Early Access and DMZ Early Access.
-* Pre-orders are available on the Nintendo Switch 2. Players reported the Vault Edition as the second most pre-ordered title on the PS5 store behind GTA VI, and the top pre-ordered game on Steam leading into campaign early access.
-* DMZ Early Access received a multi-platform update on October 19 at 9 AM PT and is active, with players reporting early access opening on October 20 at 10 AM PT.
-* Players reported multiplayer going live early in New Zealand on October 22.
+* Modern Warfare 4 pre-installation opened on October 14 at 9 PM PT, with early pre-loading reported at 9 AM PT on that date.
+* Campaign Early Access opened on October 16, with players reporting a start time of 10 AM PT (1 PM ET / 6 PM UK). The campaign is also available on Steam.
+* DMZ Early Access opened with a platform update on October 19 at 9 AM PT, though players reported early access unlocking on October 20 at 10 AM PT.
+* The game launches worldwide on October 23.
+* Pre-ordering provides access to both Campaign Early Access and DMZ Early Access, with pre-orders confirmed on Nintendo Switch 2. Players report the Vault Edition reached the #2 preorder spot on the PS5 store behind GTA VI, and the game reached #1 on Steam prior to early access.
+* Players can choose whether to install Warzone alongside Modern Warfare 4 during initial setup.
+* A Global Twitch Badge is offered to subscribers of participating streamers between October 23 and November 13.
 
 ## Editions and Content
 * The Vault Edition includes a third Active Duty Operator slot, a Vault Edition Deployment Kit, and one-time access to Signature Weapon Collection Blueprints.
-* During setup, players can choose whether to install Warzone alongside Modern Warfare 4.
-* The game reloads the song "C.R.E.A.M.", and the DMZ mode includes Wu-Tang Clan content.
-* Promotional advertisements aired on the Joe Rogan Experience podcast.
+* Modern Warfare 4 includes the reloaded track "C.R.E.A.M."
+* The DMZ mode features content related to the Wu-Tang Clan.
+* Modern Warfare 4 received a minor update to address issues in its credits sequence.
 
-## Campaign
-* The campaign contains 16 missions, including an open-world style mission and a mission featuring Makarov, according to player reports.
-* Players report the campaign run time is roughly 6 hours, describing the tone as brutal, intense, and among the darkest in the series, with a story concluding the Modern Warfare arc.
-* Players reported a fist fight between Price and Makarov, a mini DMZ-style mission, and end credits paying respects to Vince Zampella.
-* A minor update was released to address issues in the credits.
+## Multiplayer and Post-Launch
+* Modern Warfare 4 features 12 multiplayer maps at launch, each with dynamic intros. Players also report four Gunfight maps at launch.
+* Players report that multiplayer went live early in New Zealand.
+* Players report that Shoot House appears in multiplayer based on game files and playlists.
+* Multiplayer playlists use the Standard matchmaking system from the beta, with no Open Matchmaking playlists reported.
+* AMD TPM software versions in the 3.x.0.x range are the most common versions causing attestation issues.
+* Players can bypass a prestige bug by equipping rare (blue) weapons that have only 3 attachments.
+* Season 1 continues the fight.
 
-## Multiplayer and DMZ
-* Multiplayer features 12 core maps at launch with 12 dynamic intros.
-
-_Generated from 37 confirmed and 43 reported claims across 79 posts and 0 patch notes; last rendered 2026-10-22._
+_Generated from 38 confirmed and 43 reported claims across 80 posts and 0 patch notes; last rendered 2026-10-22._
 <!-- generated:end -->
 
 <!-- human:start -->
