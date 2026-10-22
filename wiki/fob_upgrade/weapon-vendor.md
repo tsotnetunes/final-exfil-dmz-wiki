@@ -5,15 +5,21 @@ description: "The FOB Vendor (DMZ level 5) sells weapons and gear for DMZ Cash; 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_2388562c52bf, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_2388562c52bf, clm_13dd447ee402, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 station: weapon-vendor
 unlock: progression
 aliases: ["Vendor"]
 ---
 <!-- generated:start -->
-Players report that the Weapon Vendor requires DMZ Level 10 to unlock.
+### Overview
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-22._
+Players report that the Vendor requires DMZ Level 10 to unlock.
+
+### Inventory
+
+According to player reports, the Door Breacher Charge can sometimes be purchased from the Vendor for 50K.
+
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-22._
 <!-- generated:end -->
 
 <!-- human:start -->
