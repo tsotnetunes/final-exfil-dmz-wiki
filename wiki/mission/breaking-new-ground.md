@@ -1,7 +1,7 @@
 ---
 type: mission
 title: "Breaking New Ground"
-description: "Breaking New Ground is a mission in DMZ."
+description: "Breaking New Ground is a mission available in DMZ."
 status: draft
 brain_status: draft
 sensitivity: public
@@ -16,7 +16,7 @@ Breaking New Ground is a mission in DMZ.
 
 No steps are known for this mission.
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-21._
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-22._
 <!-- generated:end -->
 
 <!-- human:start -->

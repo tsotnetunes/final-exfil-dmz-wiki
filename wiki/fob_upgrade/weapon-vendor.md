@@ -11,9 +11,9 @@ unlock: progression
 aliases: ["Vendor"]
 ---
 <!-- generated:start -->
-Players report that the Weapon Vendor upgrade requires reaching DMZ Level 10 to unlock.
+Players report that the Weapon Vendor requires DMZ Level 10 to unlock.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-21._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-22._
 <!-- generated:end -->
 
 <!-- human:start -->

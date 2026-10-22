@@ -1,18 +1,18 @@
 ---
 type: mechanic
 title: "What carries over between matches"
-description: "Players report that weapon levels, attachments, and camos earned in DMZ carry over to the game launch on October 23rd."
+description: "Players report that weapon levels, attachments, and camos from DMZ carry over to the game launch on October 23rd."
 status: draft
 brain_status: candidate
 sensitivity: public
 sources: [clm_ab8878f43ec0]
 ---
 <!-- generated:start -->
-Certain progression elements persist across sessions and into the game's full release.
+Certain weapon progression elements transfer across matches and into the full release.
 
-* Players report that weapon levels, attachments, and camos unlocked in DMZ carry over to the game launch on October 23rd.
+* Players report that weapon levels, attachments, and camos earned in DMZ carry over to the game launch on October 23rd.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-21._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-22._
 <!-- generated:end -->
 
 <!-- human:start -->

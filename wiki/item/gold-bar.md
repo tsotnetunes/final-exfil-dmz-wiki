@@ -1,16 +1,16 @@
 ---
 type: item
 title: "Gold Bar"
-description: "Gold Bar is reported by players to be a red tier item."
+description: "The Gold Bar is reported to be a red tier item."
 status: draft
 brain_status: candidate
 sensitivity: public
 sources: [clm_2140d9f4cd1c]
 ---
 <!-- generated:start -->
-Gold Bar is an item in the game.
+The Gold Bar is an item.
 
-* Players report that Gold Bar is a red tier item.
+* Players report that it is a red tier item.
 
 _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-22._
 <!-- generated:end -->

@@ -8,7 +8,7 @@ sensitivity: public
 sources: [clm_6cdd88af06b9]
 ---
 <!-- generated:start -->
-The Red Tier 3 Plate Vest is an item categorized within the red tier.
+The Red Tier 3 Plate Vest is an item.
 
 * Players report that the Red Tier 3 Plate Vest is a red tier item.
 

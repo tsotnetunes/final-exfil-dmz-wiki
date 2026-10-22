@@ -9,14 +9,15 @@ sources: [clm_1dda32204130, clm_ac70379c09b8, clm_f8c43f6e8da8, clm_60f9fe17bb96
 aliases: ["dog tag", "Dog Tag Case"]
 ---
 <!-- generated:start -->
-Dog Tags are items associated with Wanted players and the Dog Tag Case station in DMZ. Extracting with them yields monetary rewards, and players can manage them through a dedicated case station located in the FOB.
+Dog Tags are items associated with the Dog Tag Case station located in the FOB. Players can obtain DMZ Cash by extracting with the tags of specific targets.
 
 * Extracting with the Dog Tags of Wanted players rewards DMZ Cash.
-* The Dog Tag Case station is located in the FOB, where players can access it.
+* The Dog Tag Case station is located in the FOB.
+* Players can access the Dog Tag Case in the FOB, superseding an earlier confirmed issue on 2026-10-21 where an error when opening the station made it inaccessible for some players.
 * Players report that the Dog Tag Case unlocks at DMZ Level 20.
-* An error when opening the Dog Tag Case station in the FOB previously made it inaccessible for some players, though players report the issue was fixed in an update to Modern Warfare 4 on October 21, 2026.
+* Players report that the dog tag case in DMZ was fixed in the latest update to Modern Warfare 4.
 
-_Generated from 4 confirmed and 2 reported claims across 5 posts and 0 patch notes; last rendered 2026-10-21._
+_Generated from 4 confirmed and 2 reported claims across 5 posts and 0 patch notes; last rendered 2026-10-22._
 <!-- generated:end -->
 
 <!-- human:start -->
