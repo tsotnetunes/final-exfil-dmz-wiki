@@ -5,7 +5,7 @@ description: "DMZ's launch map: a radiation-scarred zone on the former NK and SK
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_8accaa3d7831, clm_30653443233a, clm_60ec641390e2, clm_d81ecfda94de, clm_ebf7085229f9, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-westie-dmz-ama-recap-2026-10-11]
+sources: [clm_8accaa3d7831, clm_30653443233a, clm_60ec641390e2, clm_d81ecfda94de, clm_ebf7085229f9, clm_3816e02ae781, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["Hajin", "the Exclusion Zone"]
 region: Hajin
 danger: varies
@@ -14,17 +14,17 @@ loot_profile: all
 <!-- generated:start -->
 ### Overview
 
-Hajin is an active Exclusion Zone. Players report that Hajin will host 60 players across 20 squads.
+Hajin is an active Exclusion Zone. Players report that DMZ takes place in Hajin, featuring 60 players across 20 squads.
 
 ### Loot
 
-No loot details are currently available.
+No details regarding loot in Hajin have been reported.
 
 ### Threats
 
-Operators can be present in Hajin, though players report that not every Operator there is focused on the mission.
+Operators can be present in Hajin, and players report that not every Operator in the area is focused on the mission.
 
-_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-20._
+_Generated from 1 confirmed and 3 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-23._
 <!-- generated:end -->
 
 <!-- human:start -->
