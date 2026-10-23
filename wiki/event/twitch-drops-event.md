@@ -8,11 +8,11 @@ sensitivity: public
 sources: [clm_7427d4485522]
 ---
 <!-- generated:start -->
-The Twitch Drops Event provides players with opportunities to receive in-game items by viewing streams.
+The Twitch Drops Event allows viewers to receive rewards by tuning into MW4 streams on Twitch.
 
 * Players can earn in-game rewards by watching MW4 on Twitch starting October 23 at 10am PT.
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-22._
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-23._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -10,9 +10,9 @@ station: firing-range
 unlock: start
 ---
 <!-- generated:start -->
-Players report that the Firing Range station features targets positioned past 100m. How the upgrade unlocks is currently unrecorded.
+Players report that the Firing Range station features targets positioned past 100m. Details on unlocking this upgrade are currently unconfirmed.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-22._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-23._
 <!-- generated:end -->
 
 <!-- human:start -->

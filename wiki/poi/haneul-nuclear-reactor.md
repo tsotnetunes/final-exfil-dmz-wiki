@@ -14,17 +14,17 @@ aliases: ["Fallout reactor", "Haneul", "Reactor 02", "South Korean Border Zone"]
 <!-- generated:start -->
 ### Overview
 
-The Haneul Nuclear Reactor is situated in the DMZ. Players report that secured bunkers are located nearby.
+The Haneul Nuclear Reactor is situated in the DMZ. Players report that secured bunkers can be found nearby.
 
 ### Loot
 
-Information regarding specific loot profiles is currently unrecorded.
+Details on specific loot profiles have not been established.
 
 ### Threats
 
-The reactor area of the DMZ is reported by players to be difficult. According to player reports, wearing a Hazmat Suit allows players to explore the Nuclear Reactor area without taking damage.
+The reactor area is reported by players to be difficult. According to player accounts, wearing a Hazmat Suit allows exploration of the Nuclear Reactor area without taking damage.
 
-_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-22._
+_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-23._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -9,12 +9,12 @@ sources: [clm_b9d5f0d9bab7, clm_7e1b19e52f1e, src-westie-dmz-ama-recap-2026-10-1
 aliases: ["Parachute", "Infinite parachute"]
 ---
 <!-- generated:start -->
-Parachutes are gear items used in DMZ mode to navigate drops safely.
+Parachutes are items used in DMZ mode to safely descend from heights.
 
 * Players must find or craft a parachute in DMZ mode.
-* Players report that you need a parachute equipped in Modern Warfare 4 DMZ to avoid falling to your death.
+* Players report that having a parachute equipped in Modern Warfare 4 DMZ is necessary to avoid falling to your death.
 
-_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-22._
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-23._
 <!-- generated:end -->
 
 <!-- human:start -->
