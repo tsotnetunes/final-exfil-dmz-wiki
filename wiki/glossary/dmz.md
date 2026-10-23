@@ -9,38 +9,29 @@ sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5
 aliases: ["MW4 DMZ", "DMZ early access", "play DMZ early"]
 ---
 <!-- generated:start -->
-DMZ is a game mode in Modern Warfare 4 located in Hajin. Early Access launched on October 20, 2026, ahead of the full Modern Warfare 4 release on October 23, 2026.
+DMZ is a game mode in Modern Warfare 4 set in Hajin. The mode opened in Early Access on October 20 ahead of the full Modern Warfare 4 launch on October 23, with preloads available prior to launch and access granted to digital pre-orders.
 
-## Access and Requirements
+## Features and Access
 
-* DMZ Early Access began on October 20, 2026, going live globally at 10 AM PT, with preloads made available beforehand. Players report the launch time corresponded to 1pm ET and 6pm UK.
-* Early Access requires a digital pre-order of Call of Duty: Modern Warfare 4.
-* The Early Access launch requires TPM 2.0 and Secure Boot to be enabled on PC.
-* On PlayStation 5 and Xbox Series X|S, Variable Refresh Rate (VRR) is required for Performance Mode support. Players report that enabling 120FPS requires a monitor supporting both 120Hz and VRR.
-* RICOCHET Anti-Cheat includes DMA detection for Modern Warfare 4.
-
-## Progression and Rewards
-
-* DMZ features a progression system with 70 levels of rewards.
-* Chiral, Ripple Tide, and Helio are confirmed as DMZ Mastery Camos.
-* Players who participated in the MWII DMZ Beta receive the Beta On Record emblem and the Beta Squad calling card.
-* Infinity Ward confirmed a collaboration with Monster Gaming in DMZ.
-* Players report that DMZ levels cannot be raised while playing standard multiplayer.
+* DMZ Early Access launched globally on October 20 at 10 AM PT (reported by players as 1 PM ET / 6 PM UK) for players with digital pre-orders.
+* Playing the DMZ Early Access launch requires TPM 2.0 and Secure Boot to be enabled.
+* Console support for Performance Mode on PS5 and Xbox Series X|S requires Variable Refresh Rate (VRR). Players report that running 120 FPS on these consoles requires a display that supports both 120Hz and VRR.
+* DMZ features a progression track with 70 levels of rewards. Players report that DMZ levels cannot be leveled up while playing standard multiplayer.
+* Mastery Camos available in DMZ include Chiral, Ripple Tide, and Helio.
+* Players who participated in the MWII DMZ Beta receive the Beta On Record emblem and Beta Squad calling card.
+* Infinity Ward confirmed a promotional collaboration with Monster Gaming in DMZ.
+* Anti-cheat coverage for Modern Warfare 4 through RICOCHET Anti-Cheat includes detections targeting Direct Memory Access (DMA) cheats.
 
 ## Gameplay and Setting
 
-* DMZ deployments take place in Hajin.
-* Players describe DMZ as a looter and extraction shooter featuring PvPvE gameplay where players can form squads.
-* Players report that matchmaking tries to place solo players against solos and duos against duos, though lobbies are not solo-only.
-* Players report that weapon damage tuning in DMZ is close to Warzone.
-* Players report that movement mechanics are custom-made for the mode, that dynamic weather is present, and that the map is huge with significant room for exploration.
-* Players report the mode features grindable orders, an unskippable opening mission, and the ability to use a gun drone against enemy squads.
-* Players report Infinity Ward noted that Single Squad Missions were designed for internal use and were not intended for public release.
-* Players report that an official DMZ blogpost contained campaign spoilers for Modern Warfare 4, and that DMZ appears in a campaign mission.
-* During early access, players reported server crashes that led to lost loot, as well as an increase in microphone usage and PvP encounters around high-tier loot and extraction zones by day three.
-* Players report that Season 1 of Modern Warfare 4 begins on November 6.
+* DMZ takes place in the location of Hajin. Players report that the map is huge with significant room for exploration, and features dynamic weather.
+* The mode is an extraction shooter format. Players report it is currently PvPvE only, featuring squad formation rather than solo-only lobbies. Matchmaking reportedly attempts to pair solo players with other solos, and duos with duos.
+* Players report that DMZ uses dedicated, smooth movement mechanics and has its own weapon damage tuning close to Warzone.
+* Players report that DMZ includes orders that can be ground, an unskippable opening mission, and deployable equipment such as a gun drone to attack enemy squads.
+* Infinity Ward stated that "Single Squad Missions" were designed for internal use and were not intended for public release.
+* Players report that DMZ was the only available multiplayer option for the first few days ahead of the October 23 game launch, with Season 1 reported to begin on November 6. Players also noted server crashes on October 21 that caused lost loot, as well as an increase in PvP encounters around high-tier loot and extraction points by day three.
 
-_Generated from 29 confirmed and 43 reported claims across 71 posts and 0 patch notes; last rendered 2026-10-23._
+_Generated from 29 confirmed and 42 reported claims across 70 posts and 0 patch notes; last rendered 2026-10-23._
 <!-- generated:end -->
 
 <!-- human:start -->
