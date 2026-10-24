@@ -116,3 +116,6 @@
 - id: g39
   question: What time does DMZ early access go live on 20 October?
   must_retrieve: [dmz, src-iw-dmz-early-access-time-2026-10-19]
+- id: g40
+  question: How do Double XP tokens count down in MW4 and how much can be used a day?
+  must_retrieve: [double-xp-tokens]

@@ -774,3 +774,7 @@
 ## [2026-10-24 19:15 EDT] render | 3 pages rendered, 509 claims, 489 evidence
 - changed: wiki 3, claims 1, evidence 1, index.md 1
 - run: r-20261024-231523-0fd6
+
+## [2026-10-24 19:20 EDT] ingest | Double XP tokens page: count down in game time (Call of Duty, 28 Sep), Activision's caps of 1 hour a day per token type and 40 hours an account, the launch post-your-ID giveaway (deadline 26 Oct, 10 AM PT, amount and delivery not stated); three source pages and a golden question
+- changed: evals 1, index 13, index.md 1, wiki 4
+- run: r-20261024-192043-352f
