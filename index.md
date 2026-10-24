@@ -83,7 +83,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[bounty-system]] — Killing players earns a Bounty; four kills make you Wanted. Hunters buy intel at Bounty Stations and extract the target's Dog Tag to collect. · **published**
 - [[call-of-duty-app-updates]] — Players report that Call of Duty app updates are required to install MW4 and that the app was updated for Modern Warfare 4 ahead of Campaign Early Access. · **candidate**
 - [[dmz-camos]] — DMZ has its own camos and its camo grind starts with DMZ early access on 20 Oct; a successor to the 2022 Serpentine camo hunt is planned for later seasons. · **published**
-- [[dmz-orders]] — DMZ Orders are gameplay objectives in DMZ, with players reporting Lost Supply drops located on PG 10. · **published**
+- [[dmz-orders]] — DMZ Orders are a type of objective in DMZ, with players reporting Lost Supply drops located on PG 10. · **published**
 - [[dmz-progression]] — DMZ has its own levels 1 to 70, apart from Multiplayer's 55; XP from missions, loot and fights counts even without an exfil, and each Operator's Dog Tag has 18… · **published**
 - [[dynamic-weather]] — Downpours cut visibility, fog changes routes, convoys move on roads, helicopters cross the sky and hostile forces reposition WMDs during a match (official, pre… · **published**
 - [[free-roam]] — Open exploration of Hajin without structured objectives; the third way to play alongside Story Missions and Dynamic Operations (official, pre-launch). · **published**
