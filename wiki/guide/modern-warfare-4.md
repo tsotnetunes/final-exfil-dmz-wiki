@@ -1,44 +1,41 @@
 ---
 type: guide
 title: "Modern Warfare 4"
-description: "Call of Duty: Modern Warfare 4 launched worldwide on October 23, 2026, featuring 12 multiplayer maps with dynamic intros at launch and Campaign early access starting October 16."
+description: "Call of Duty: Modern Warfare 4 launched worldwide on October 23, featuring 12 multiplayer maps with dynamic intros, campaign early access on October 16, and early access for DMZ."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_a7b8ec64314b, clm_2c1207e86666, clm_6ccf33dd6ed8, clm_37cdae5b1cba, clm_1672db379296, clm_b92ce0a1725f, clm_0a4e123cbed9, clm_10ff23a54522, clm_91a690b2cb72, clm_584ca9a28de8, clm_8b459e95dea1, clm_8b829cb0f2ac, clm_a7dd80539473, clm_dd0523f5efa5, clm_f15ea5124f94, clm_e7a8a6545bc8, clm_fdd956334b2e, clm_74ce7b19a954, clm_1c9b69b05639, clm_d527ad72b9b5, clm_081d4e3adf70, clm_ae8d58aff02f, clm_4661f1044a6a, clm_dec0b70e20e9, clm_caa9338fe244, clm_2337f44f0a15, clm_eebfca05d1c7, clm_5031daeb35f2, clm_bd3a6d3986d8, clm_0ea0fe7e8edb, clm_049f14ae6c49, clm_fe3ca925a3ca, clm_45631006abe4, clm_4ab2eca4cea2, clm_881990ecdfd3, clm_65c185ecca1d, clm_c95fc69cca11, clm_f7165ee63572, clm_7304fc35c0cb, clm_1a9c54d7c363, clm_142b3cf0d46e, clm_dd436cc73acb, clm_a26bd5fa1e80, clm_56e219d5abe7, clm_d13fea0ebe6f, clm_35b4a3f9d614, clm_af121b2f548e, clm_143a5374fc4d, clm_1a8b39bc4f78, clm_ee28d7e585e9, clm_2e5bf084b5cd, clm_df4dbb33489a, clm_9ae4d05360ab, clm_02271c4d0989, clm_4b51a70fcff5, clm_6cbee1b7076f, clm_78cf4b537687, clm_f5b268ff3f0f, clm_add3dc7040f5, clm_2940af82d97c, clm_67e13e459038, clm_175dbc8daebe, clm_c9601a7ecb16, clm_6bde8776e08d, clm_170a58447cfa, clm_65f3d3ecb871, clm_6a069493d0af, clm_d438aae69300, clm_287d78ea109b, clm_aae723fb28b8, clm_732c0a52706c, clm_e559e8c8ef34, clm_7ca023c2a771, clm_88d7776d5394, clm_f9cf816caa13, clm_aaff660d1047, clm_9f8e67a2a02c, clm_e54c1673140c, clm_28d96f038011, clm_419fdf23b680, clm_9ba18817f5d1, clm_deb1f7d7e584, clm_d0c80f9a2fe1, clm_c4781e55f521, clm_1aa17c26a060, clm_154f63af0f1c, clm_462919778b08, clm_6da597785f56, clm_19faff07e91b, clm_f929357984ab, clm_f37478319709, clm_47f01179c025, clm_d0167e5f71f9, clm_44f8dc0125e2, clm_ccfae152bab3, clm_930f6eae7c68, clm_f265aaaaf38d, clm_e36c7bae651a, clm_360860e1cfa3, clm_be78ae6a3532, clm_007904d5f3ae, clm_cbb8ed429805, clm_00288a66035c, clm_61ee2d961159, clm_2c531af21701, clm_44a0dbcab66a, clm_9234c18268be, clm_b8b27b243b75, clm_6ffd68abac56, clm_4d20f0b86b2d, clm_2c6c16aaf193, clm_d0dc72372f48, clm_045b7fa3bc78, clm_e3a605a706f6, clm_521fb47cb48b, clm_5008f68f4e01, clm_5e8511971c12, clm_ead5737c259d, clm_e59a34a527cb, clm_322f02b4e89e, clm_916e618e99c2, src-activision-campaign-early-access-live-2026-10-16, src-activision-pc-specs-2026-09-29, src-insider-gaming-season-1-date-2026-10-14, src-iw-mw4-trello-2026-10-19, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_a7b8ec64314b, clm_2c1207e86666, clm_6ccf33dd6ed8, clm_37cdae5b1cba, clm_1672db379296, clm_b92ce0a1725f, clm_0a4e123cbed9, clm_10ff23a54522, clm_91a690b2cb72, clm_584ca9a28de8, clm_8b459e95dea1, clm_8b829cb0f2ac, clm_a7dd80539473, clm_dd0523f5efa5, clm_f15ea5124f94, clm_e7a8a6545bc8, clm_fdd956334b2e, clm_74ce7b19a954, clm_1c9b69b05639, clm_d527ad72b9b5, clm_081d4e3adf70, clm_ae8d58aff02f, clm_4661f1044a6a, clm_dec0b70e20e9, clm_caa9338fe244, clm_2337f44f0a15, clm_eebfca05d1c7, clm_5031daeb35f2, clm_bd3a6d3986d8, clm_0ea0fe7e8edb, clm_049f14ae6c49, clm_fe3ca925a3ca, clm_45631006abe4, clm_4ab2eca4cea2, clm_881990ecdfd3, clm_65c185ecca1d, clm_c95fc69cca11, clm_f7165ee63572, clm_7304fc35c0cb, clm_1a9c54d7c363, clm_142b3cf0d46e, clm_dd436cc73acb, clm_a26bd5fa1e80, clm_56e219d5abe7, clm_d13fea0ebe6f, clm_35b4a3f9d614, clm_af121b2f548e, clm_143a5374fc4d, clm_1a8b39bc4f78, clm_ee28d7e585e9, clm_2e5bf084b5cd, clm_df4dbb33489a, clm_9ae4d05360ab, clm_02271c4d0989, clm_4b51a70fcff5, clm_6cbee1b7076f, clm_78cf4b537687, clm_f5b268ff3f0f, clm_add3dc7040f5, clm_2940af82d97c, clm_67e13e459038, clm_175dbc8daebe, clm_c9601a7ecb16, clm_6bde8776e08d, clm_170a58447cfa, clm_65f3d3ecb871, clm_6a069493d0af, clm_d438aae69300, clm_287d78ea109b, clm_aae723fb28b8, clm_732c0a52706c, clm_e559e8c8ef34, clm_7ca023c2a771, clm_88d7776d5394, clm_f9cf816caa13, clm_aaff660d1047, clm_9f8e67a2a02c, clm_e54c1673140c, clm_28d96f038011, clm_419fdf23b680, clm_9ba18817f5d1, clm_deb1f7d7e584, clm_d0c80f9a2fe1, clm_c4781e55f521, clm_1aa17c26a060, clm_154f63af0f1c, clm_462919778b08, clm_6da597785f56, clm_19faff07e91b, clm_f929357984ab, clm_f37478319709, clm_47f01179c025, clm_d0167e5f71f9, clm_44f8dc0125e2, clm_ccfae152bab3, clm_930f6eae7c68, clm_f265aaaaf38d, clm_e36c7bae651a, clm_360860e1cfa3, clm_be78ae6a3532, clm_007904d5f3ae, clm_cbb8ed429805, clm_00288a66035c, clm_61ee2d961159, clm_2c531af21701, clm_44a0dbcab66a, clm_9234c18268be, clm_b8b27b243b75, clm_6ffd68abac56, clm_4d20f0b86b2d, clm_2c6c16aaf193, clm_d0dc72372f48, clm_045b7fa3bc78, clm_e3a605a706f6, clm_521fb47cb48b, clm_5008f68f4e01, clm_5e8511971c12, clm_ead5737c259d, clm_e59a34a527cb, clm_322f02b4e89e, clm_916e618e99c2, clm_2eb849ea96ad, clm_649f8f302241, clm_517e1fd9f5b2, src-activision-campaign-early-access-live-2026-10-16, src-activision-pc-specs-2026-09-29, src-insider-gaming-season-1-date-2026-10-14, src-iw-mw4-trello-2026-10-19, src-activision-dmz-guide-part2-2026-10-09]
 ---
 <!-- generated:start -->
-Call of Duty: Modern Warfare 4 is an entry in the Call of Duty series, launched worldwide on October 23, 2026. The game features Campaign, Multiplayer, and DMZ modes, along with ongoing seasonal content.
+Call of Duty: Modern Warfare 4 is an entry in the Call of Duty series. Pre-installation opened on Wednesday, October 14 at 9 PM PT, Campaign Early Access began on October 16, and the game launched worldwide on October 23. During installation, players can choose whether to download Warzone alongside the title. The fight carries forward into Season 1.
 
-## Launch and Availability
-
-* Modern Warfare 4 launched worldwide on October 23, 2026, and is currently live.
-* The game was made available for pre-order on the Nintendo Switch 2. Players report that it is playable on Nintendo Switch 2.
-* Pre-installation began on Wednesday, October 14 at 9 PM PT. Players report pre-loading began earlier that day at 9 AM PT on October 13.
-* During setup, players can select which content to download, including whether to install Warzone alongside Modern Warfare 4.
-* Campaign early access launched on October 16, 2026, and was also made available on Steam. Players report it began at 10 AM PT (1 PM ET / 6 PM UK).
-* Pre-ordering provided access to both Campaign and DMZ early access.
-* DMZ early access received an update on all platforms on October 19 at 9 AM PT. Players report DMZ early access went live on October 20 at 10 AM PT.
-* A minor update was released to correct credits issues, and a minor PC update addressed stability and crash fixes.
-* AMD TPM software versions in the 3.x.0.x range represent the most common versions observed in attestation issues.
-* A Global Twitch Badge is available for subscribers of creators streaming the game between October 23 and November 13.
-* Players report that Modern Warfare 4 was the #1 pre-ordered game on Steam ahead of Campaign early access, and the Vault Edition was the #2 pre-ordered game on the PS5 store behind GTA VI.
-* An advertisement for the game appeared on the Joe Rogan Experience podcast, according to promotional reports.
-* The song "C.R.E.A.M." was reloaded for the game.
+## Editions and Release Details
+* The Vault Edition includes a third Active Duty Operator slot, a Vault Edition Deployment Kit, and one-time access to Signature Weapon Collection Blueprints.
+* Pre-ordering provided early access to both the Campaign and DMZ modes.
+* The title was made available for pre-order on Nintendo Switch 2.
+* Modern Warfare 4 launched globally on October 23.
+* Pre-loading was reported by players to begin on October 14 at 9am PT, superseding earlier reports of pre-order rankings where the Vault Edition was reported as the #2 pre-ordered game on the PS5 store behind GTA VI.
+* Players reported Modern Warfare 4 as the #1 pre-ordered game on Steam leading up to Campaign Early Access, with a reported peak of 215,000 players on Steam following launch.
+* Players report the game is available on Nintendo Switch 2 and is not available on Game Pass.
+* A minor update was released on PC providing stability and crash fixes, and an update was issued to correct issues in the credits.
+* AMD TPM software versions in the 3.x.0.x range are the most common versions observed in attestation issues.
+* A Global Twitch Badge is offered to subscribers of creators streaming the game between October 23 and November 13.
+* A promotional advertisement appeared on the Joe Rogan Experience podcast, according to player reports.
 
 ## Campaign
-
-* Modern Warfare 4 Campaign early access started on October 16.
-* Players report the campaign includes 16 missions, takes around 6 hours to complete, and concludes the Modern Warfare story.
-* Players report that the campaign features an open world mission, a mini DMZ mission, a Makarov mission, and a fist fight between Price and Makarov.
-* Tone-wise, players describe the campaign as brutal, intense, and one of the darkest Call of Duty games, with some awarding it a 10/10 rating.
+* The campaign officially serves as an included game mode, which launched on Steam with early access starting October 16.
+* The song "C.R.E.A.M." was reloaded for the game.
+* Players report the campaign includes 16 missions, takes roughly 6 hours to complete, features an open-world mission, contains a Makarov mission, and features a fist fight between Price and Makrov.
+* Players describe the campaign tone as brutal, intense, and one of the darkest in the franchise, reporting a 10/10 rating.
 * Players report the ending credits pay respects to Vince Zampella.
 
 ## Multiplayer
+* The game includes 12 multiplayer maps at launch, along with 12 dynamic intros for multiplayer maps.
+* Players report the maps include 12 all-new Core 6v6 maps, 4 Gunfight maps at launch, and the map Shoot House.
+*…
 
-* The game features 12 multiplayer maps at launch with 12 dynamic intros.
-
-_Generated from 43 confirmed and 50 reported claims across 95 posts and 0 patch notes; last rendered 2026-10-24._
+_Generated from 44 confirmed and 51 reported claims across 96 posts and 0 patch notes; last rendered 2026-10-24._
 <!-- generated:end -->
 
 <!-- human:start -->
