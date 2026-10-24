@@ -7,7 +7,7 @@ brain_status: published
 sensitivity: public
 origin: "https://support.activision.com/modern-warfare-4/articles/modern-warfare-4-bonus-content"
 captured: 2026-10-24
-raw: raw/inbox/2026-10-24-activision-mw4-bonus-content-notes.md
+raw: raw/sources/2026-10-23-activision-mw4-bonus-content-notes.md
 trust: third-party
 ---
 <!-- generated:start -->
