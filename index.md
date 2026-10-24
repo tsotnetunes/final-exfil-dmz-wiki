@@ -44,7 +44,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-fob-mastery-calling-card]] — Players report that the DMZ FOB Mastery Calling Card is a calling card in DMZ. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Modern Warfare 4 launched worldwide on October 23, 2026, featuring 12 core multiplayer maps with dynamic intros, campaign early access, and DMZ mode. · **published**
+- [[modern-warfare-4]] — Modern Warfare 4 launched worldwide on October 23, 2026, featuring 12 multiplayer maps with dynamic intros, Campaign and DMZ modes, and pre-orders on Nintendo … · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
@@ -113,7 +113,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[uav-towers]] — In DMZ, players can steal back UAV Towers from enemy control. · **draft**
 - [[vehicles]] — DMZ vehicles on land, water and in the air need repair and fuel at Gas Stations; the guide lists 14, from the Camper to the Monarch exfil helicopter (official,… · **published**
 - [[wanted-status]] — Players can acquire Wanted status by taking down rival Operators. · **published**
-- [[weapon-customization]] — Customizing weapons with attachments requires DMZ Cash. · **draft**
+- [[weapon-customization]] — DMZ Cash is required to customize weapons with attachments in DMZ. · **draft**
 - [[weapon-manuals]] — Extract a weapon's Manual to buy that weapon in the Gunsmith as often as you like; a Manual is used up at exfil and pays 5,000 DMZ Cash (official guide, 9 Oct). · **published**
 - [[what-carries-over]] — Persistent across deployments: operator traits and skill trees, FOB upgrades and stash, weapon unlocks from Weapon Manuals, Bounty Leaderboard standing, XP and… · **published**
 - [[what-carries-over-between-matches]] — Players report that weapon levels, attachments, and camos unlocked in DMZ carry over to the game launch on October 23rd. · **candidate**
