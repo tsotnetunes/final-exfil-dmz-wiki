@@ -5,11 +5,15 @@ description: "Keys open special loot rooms; each key's description names its Tac
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_2faa69935f53, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["key", "keys", "locked room", "loot room"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Keys allow players to access secured storage containers across the game world.
+
+* Players report that three gun lockers are located at a specific location, which can be opened using keys.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-24._
 <!-- generated:end -->
 
 <!-- human:start -->
