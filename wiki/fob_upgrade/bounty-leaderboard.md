@@ -5,14 +5,17 @@ description: "The FOB board of the top 50 Most Wanted players and top 50 Bounty 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_84fd4d1811bc, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_84fd4d1811bc, clm_0a8db7cc19eb, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 station: bounty-leaderboard
 unlock: progression
 ---
 <!-- generated:start -->
-Players report that the Bounty Board upgrade requires DMZ Level 17 to unlock.
+There is a target located at the top of the Bounty Leaderboards.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-18._
+### Unlock Requirements
+Players report that the Bounty Board requires DMZ Level 17.
+
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-24._
 <!-- generated:end -->
 
 <!-- human:start -->
