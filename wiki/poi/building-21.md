@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "Building 21"
-description: "Players report that a new Building 21-type map will be released in Season 1."
+description: "Players report that a new Building 21-type map is scheduled to be released in Season 1."
 status: draft
 brain_status: candidate
 sensitivity: public
@@ -14,13 +14,13 @@ Players report that a new Building 21-type map will be released in Season 1.
 
 ## Loot
 
-Specific loot details for this location are currently unknown.
+No loot details are currently available.
 
 ## Threats
 
-Specific threats and danger levels for this location are currently unknown.
+No threat details are currently available.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-23._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-24._
 <!-- generated:end -->
 
 <!-- human:start -->

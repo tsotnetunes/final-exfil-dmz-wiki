@@ -8,11 +8,11 @@ sensitivity: public
 sources: [clm_ab8878f43ec0]
 ---
 <!-- generated:start -->
-Progression elements unlocked during DMZ carry forward into the full release of the game.
+Certain weapon progression elements transfer across matches and into the game's release.
 
-* Players report that weapon levels, attachments, and camos earned in DMZ carry over to the game launch on October 23rd.
+* Players report that weapon levels, attachments, and camos unlocked in DMZ carry over to the game launch on October 23rd.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-23._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-24._
 <!-- generated:end -->
 
 <!-- human:start -->

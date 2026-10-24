@@ -9,11 +9,11 @@ sources: [clm_9ccc2ae5bb3c, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["vehicle", "Camper", "Sedan", "Grizzly", "Dreadnought", "Aston Martin Dreadnought", "Polaris Dagor A1", "LTV", "Cargo Truck", "D50 Radar Flatbed", "Train", "Tram", "RHIB", "Heli", "Heavy Chopper", "Monarch"]
 ---
 <!-- generated:start -->
-Vehicles serve as drivable transportation options in DMZ.
+Vehicles in DMZ interact with players upon collision.
 
-* In DMZ, players report that hitting another player with a car can cause them to become a hood ornament.
+* Hitting a player with a car can cause them to become a hood ornament, as reported by players.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-20._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-24._
 <!-- generated:end -->
 
 <!-- human:start -->

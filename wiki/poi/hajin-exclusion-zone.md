@@ -12,19 +12,19 @@ danger: varies
 loot_profile: all
 ---
 <!-- generated:start -->
-### Overview
+## Overview
 
-Hajin is an active Exclusion Zone. Players report that DMZ takes place in Hajin, featuring 60 players across 20 squads.
+Hajin is confirmed to be an active Exclusion Zone. Players report that DMZ takes place in Hajin, and that the zone will feature 60 players organized into 20 squads.
 
-### Loot
+## Loot
 
-No details regarding loot in Hajin have been reported.
+Specific loot profiles for the Exclusion Zone are not currently detailed.
 
-### Threats
+## Threats
 
-Operators can be present in Hajin, and players report that not every Operator in the area is focused on the mission.
+Operators can be present in Hajin. Players report that not every Operator in the area is focused on the mission.
 
-_Generated from 1 confirmed and 3 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-23._
+_Generated from 1 confirmed and 3 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-24._
 <!-- generated:end -->
 
 <!-- human:start -->

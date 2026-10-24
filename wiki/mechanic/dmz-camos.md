@@ -9,20 +9,19 @@ sources: [clm_3a8e17bcc079, clm_a9fba1b8bb2f, clm_23d4f9bb7b2b, clm_f1b717014ef6
 aliases: ["Camo grind", "Serpentine camo", "Mastery camos"]
 ---
 <!-- generated:start -->
-Players can participate in camo grinding in DMZ Early Access. Additional criteria and promotional unlocks have also been reported by players for DMZ camos and progression items.
+Players can take part in the camo grind in DMZ Early Access. Several unlock requirements for DMZ Mastery Camos, Special camos, and promotional rewards have been reported.
 
-## Camo Hunt Details
+## Requirements and Unlocks
 
-* Camo grinding is confirmed to be available in DMZ Early Access.
-* Players report being able to camo grind in DMZ.
-* DMZ Mastery Camos require 2500 tier 3+ kills, according to player reports.
+* It is confirmed that players can camo grind in DMZ Early Access.
+* Players report that DMZ Mastery Camos require 2,500 tier 3+ kills.
 * Players report that DMZ Mastery Camos require extracting 2 Lieutenant Dog Tags in a single match 50 times.
-* Player reports indicate that DMZ Mastery Camos require 25,000 kills using legendary weapons.
-* Special camos reportedly require 125 Silenced kills in DMZ.
+* Players report that DMZ Mastery Camos require 25,000 kills using legendary weapons.
+* Special camos are reported to require 125 Silenced kills in DMZ.
 * Players report that Monster Energy skins can be used in DMZ if unlocked by redeeming codes from Modern Warfare 4 themed cans.
-* Players report that 2XP tokens can be unlocked through Monster Energy codes and are available to use in DMZ.
+* Players report that 2XP tokens unlocked through Monster Energy codes are also available in DMZ.
 
-_Generated from 1 confirmed and 7 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-23._
+_Generated from 1 confirmed and 7 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-24._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -5,17 +5,19 @@ description: "Killing players earns a Bounty; four kills make you Wanted. Hunter
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_bb4b2157af60, clm_162bac1414e5, clm_8ed714d7c354, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-bounty-systems-video-2026-10-08]
+sources: [clm_bb4b2157af60, clm_162bac1414e5, clm_8ed714d7c354, clm_fc75f811681c, clm_25cf22beb910, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-bounty-systems-video-2026-10-08]
 aliases: ["notoriety", "bounty", "Bounty Station", "pay off bounty", "Most Wanted", "bounty hunter", "Killer", "vultures"]
 ---
 <!-- generated:start -->
-The bounty system is a gameplay mechanic in DMZ that penalizes players who eliminate excessive numbers of opponents.
+The bounty system is a gameplay mechanic in DMZ that places bounties on players who eliminate too many opponents.
 
 * In DMZ, killing too many players results in a bounty being placed on your head.
-* Players report that Modern Warfare 4 DMZ features a bounty system.
-* Players report that bounties are an active mechanic within DMZ.
+* Players report that Modern Warfare 4 DMZ includes a bounty system.
+* Players report that bounties are an active mechanic raising the stakes in DMZ.
+* According to player reports, DMZ bounty leaderboards capture a snapshot of the top 100 players and bounty hunters on Thursday mornings.
+* Players report that the bounty leaderboards require a manual review of the list and accounts before they are published.
 
-_Generated from 1 confirmed and 2 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-20._
+_Generated from 1 confirmed and 4 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-24._
 <!-- generated:end -->
 
 <!-- human:start -->
