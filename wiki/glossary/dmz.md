@@ -9,41 +9,35 @@ sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5
 aliases: ["MW4 DMZ", "DMZ early access", "play DMZ early"]
 ---
 <!-- generated:start -->
-DMZ is a game mode in Call of Duty: Modern Warfare 4 set in Hajin. The mode opened in early access on October 20, 2026, ahead of the full Modern Warfare 4 release on October 23, 2026.
+DMZ is a looter and extraction game mode in Call of Duty: Modern Warfare 4, taking place in Hajin. Early access opened on October 20, 2026, at 10 AM PT ahead of the full launch of Modern Warfare 4 on October 23, 2026.
 
-## Release and Access
-* Early access began on October 20, 2026, going live globally at 10 AM PT.
-* Preloads were offered ahead of the launch.
-* Accessing early access requires a digital pre-order.
-* Running the early access launch requires TPM 2.0 and Secure Boot to be enabled.
-* Modern Warfare 4 fully launched on October 23, 2026.
+## Confirmed Details
 
-## Settings and Platform Requirements
-* The mode takes place in Hajin.
-* Performance Mode on PlayStation 5 and Xbox Series X|S requires Variable Refresh Rate (VRR).
-* An animation was disabled across all platforms as a potential fix for a PlayStation issue.
+* DMZ Early Access launched globally on October 20, 2026, at 10 AM PT, with preloads available prior to release.
+* Gaining access to early access required a digital pre-order.
+* On PC, the early access release requires TPM 2.0 and Secure Boot to be enabled.
+* Performance Mode support on PlayStation 5 and Xbox Series X|S requires Variable Refresh Rate (VRR).
+* The mode features a dedicated progression path offering 70 levels of rewards.
+* DMZ Mastery Camos include Chiral, Ripple Tide, and Helio.
+* Players who participated in the MWII DMZ Beta receive the Beta On Record emblem and the Beta Squad calling card.
+* Infinity Ward partnered with Monster Gaming for an official collaboration in DMZ.
+* An animation was disabled across all platforms as a potential resolution for a PlayStation issue.
 * RICOCHET Anti-Cheat includes DMA detection for Modern Warfare 4.
-* Infinity Ward confirmed a collaboration with Monster Gaming in DMZ.
 
-## Progression and Rewards
-* DMZ features a progression system with 70 levels of rewards.
-* DMZ includes three Mastery Camos: Chiral, Ripple Tide, and Helio.
-* Players who took part in the MWII DMZ Beta receive the Beta On Record emblem and Beta Squad calling card.
+## Player Reports and Gameplay Features
 
-## Gameplay and Player Reports
-* Players describe DMZ as an extraction shooter featuring PvPvE gameplay and squad play.
-* Players report that lobbies are not solo-only, but the matchmaking system attempts to match solo players against other solos and duos against duos.
-* Weapon damage tuning is reported to be close to Warzone.
-* Players report that DMZ levels cannot be raised while playing standard multiplayer.
-* Reports describe smooth movement mechanics made specifically for the mode, dynamic weather, and a large map.
-* Players report that Modern Warfare 4 includes a DMZ mission or campaign appearance, and that an earlier blog post contained campaign spoilers.
-* Infinity Ward stated that "Single Squad Missions" were intended for internal use rather than public release, as reported by players.
-* Players report the presence of orders, gun drones used to attack squads, and two to three streaks not found in multiplayer.
-* Players report that exfilling the same weapon manual three additional times per weapon unlocks a hidden camo.
-* Players reported server crashes and loot loss during early access, as well as errors occurring after exfil.
-* Season 1 of Modern Warfare 4 is reported to start on November 6.
+* Players report that DMZ functions as a PvPvE extraction shooter where users can deploy in squads.
+* Matchmaking reportedly avoids solo-only lobbies, attempting instead to match solo players against other solos and duos against duos.
+* Weapon damage tuning in DMZ is reported to be close to Warzone values.
+* Players note that DMZ progression levels cannot be increased while playing standard multiplayer matches.
+* In-game tasks include repeatable orders, with some players describing missions as feeling similar to a co-op campaign.
+* Players report tools such as gun drones available to attack enemy teams, alongside two to three streaks not found in multiplayer.
+* According to player reports, extracting the same weapon manual three additional times per weapon unlocks a hidden camo.
+* Players reported early server crashes that resulted in lost inventory, as well as an error screen appearing after extraction.
+* Additional reports describe dynamic weather, polished movement mechanics, a very large map, and increased PvP activity at high-tier loot locations and exfil points over time.
+* Infinity Ward stated that Single Squad Missions were intended solely for internal use and were not meant for public release.
 
-_Generated from 31 confirmed and 46 reported claims across 76 posts and 0 patch notes; last rendered 2026-10-25._
+_Generated from 31 confirmed and 45 reported claims across 75 posts and 0 patch notes; last rendered 2026-10-25._
 <!-- generated:end -->
 
 <!-- human:start -->
