@@ -2,12 +2,11 @@
 type: mechanic
 title: "Double XP tokens (2XP)"
 description: "2XP tokens in MW4, DMZ included: you switch one on when you choose and it counts down only in matches; use is capped at one hour per token type a day and 40 hours an account."
-status: stable
+status: draft
 brain_status: draft
 sensitivity: public
-sources: [src-cod-2xp-game-time-2026-09-28, src-activision-mw4-bonus-content-2026-10-23, src-cod-x-mw4-2xp-giveaway-2026-10-23, clm_7be12d197052]
+sources: [src-cod-2xp-game-time-2026-09-28, src-activision-mw4-bonus-content-2026-10-23, src-cod-x-mw4-2xp-giveaway-2026-10-23]
 aliases: ["2XP", "2XP tokens", "Double XP", "Weapon 2XP", "MW4 2XP"]
-stale_after: 2027-01-01
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
