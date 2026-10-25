@@ -12,7 +12,7 @@ unlock: start
 <!-- generated:start -->
 DMZ players have Active Duty Operators.
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-21._
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-25._
 <!-- generated:end -->
 
 <!-- human:start -->

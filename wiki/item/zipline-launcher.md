@@ -1,18 +1,18 @@
 ---
 type: item
 title: "Zipline Launcher"
-description: "The Zipline Launcher is a new tool in Warzone."
+description: "The Zipline Launcher is a new tool available in Warzone."
 status: draft
 brain_status: draft
 sensitivity: public
 sources: [clm_32419a677fe7]
 ---
 <!-- generated:start -->
-The Zipline Launcher is an item in Warzone.
+The Zipline Launcher is an item available in Warzone.
 
 * It is a new tool in Warzone.
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-22._
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-25._
 <!-- generated:end -->
 
 <!-- human:start -->

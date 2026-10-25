@@ -10,10 +10,10 @@ sources: [clm_b83a508a7fac, clm_0a8ddc7fe171, src-activision-dmz-guide-part2-202
 <!-- generated:start -->
 Secure Slots protect stored items during extraction attempts.
 
-* Items kept outside of Secure Slots are lost whenever a player fails to exfil.
+* Items kept outside of Secure Slots are lost if a player fails to exfil.
 * Players report that the Medium Backpack features Secure Slots.
 
-_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-24._
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-25._
 <!-- generated:end -->
 
 <!-- human:start -->
