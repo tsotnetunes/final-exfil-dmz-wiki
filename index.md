@@ -99,7 +99,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[mia-system]] — Killed Operators go MIA: pay DMZ Cash to recover them with their Traits (the price rises with Traits, gear is lost) or dismiss them. · **published**
 - [[missing-in-action]] — The MIA status an Operator gets for not getting out of a deployment; recovery and what it costs are on the MIA system page. · **candidate**
 - [[movement-and-tuning]] — Tac sprint is on by default; DMZ has its own weapon damage tuning around its armor; no armor-piercing or Stopping Power rounds for now (developers' Q&A, 9 Oct). · **published**
-- [[multiplayer]] — Multiplayer is live, but entering Classic Prestige through DMZ menus instead of Multiplayer menus prevents players from creating new Multiplayer classes. · **draft**
+- [[multiplayer]] — Multiplayer is live as of 23 October 2026, featuring Search and Destroy, Classic Prestige progression, and active balance and stability fixes. · **draft**
 - [[operator-prestige]] — Prestige a fully levelled Operator (18 Trait Points) by giving up rare gear and DMZ Cash; each Prestige adds a random permanent Trait, up to three. · **published**
 - [[operator-prestige-and-permanent-prestige-traits]] — MW4 features an operator prestige system with Prestige Icons reported to be based on the logos of all 10 Call of Duty titles developed by Infinity Ward. · **candidate**
 - [[paid-infil]] — Infil options and prices: on foot free, Polaris Dagor A1 5,000, LTV 25,000, helicopter 50,000, cargo plane 100,000 DMZ Cash (choose your drop spot). · **published**
