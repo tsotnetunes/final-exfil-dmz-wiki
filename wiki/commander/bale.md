@@ -5,15 +5,15 @@ description: "Spetsnaz veteran who trains and enforces for the North Korean forc
 status: draft
 brain_status: candidate
 sensitivity: public
-sources: [clm_8232f069a06a, clm_f2a831ba9115, clm_20d29934633a, clm_e2417a18ffed, clm_bb52ef4108f8, src-activision-dmz-guide-part1-2026-10-05, src-fpsjp-dynamic-ops-trailer-2026-10-07]
+sources: [clm_8232f069a06a, clm_f2a831ba9115, clm_20d29934633a, clm_e2417a18ffed, clm_bb52ef4108f8, clm_fee8ddd106b1, src-activision-dmz-guide-part1-2026-10-05, src-fpsjp-dynamic-ops-trailer-2026-10-07]
 ---
 <!-- generated:start -->
-Bale is a figure encountered in DMZ. Players report that Bale serves as both a Lieutenant and Commander, and possesses a head that can be cut off.
+Bale is an entity associated with the ranks of Lieutenant and Commander.
 
-* Players report that Bale is a Lieutenant or Commander, with reports on 2026-10-07 superseding this to state that Bale is both a Lieutenant and Commander in DMZ.
-* Players report that Bale has a head that can be cut off in DMZ.
+* Players report Bale holds the role of Lieutenant or Commander.
+* On 7 October 2026, players reported Bale is both a Lieutenant and Commander in DMZ.
 
-_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-19._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-26._
 <!-- generated:end -->
 
 <!-- human:start -->
