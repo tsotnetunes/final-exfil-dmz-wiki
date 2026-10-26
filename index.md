@@ -10,7 +10,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 ## event (4) in `wiki/event/<id>.md`
 - [[dmz-week]] — DMZ Week for Modern Warfare 4 starts October 4 and includes information on the Hajin location. · **draft**
 - [[season-1]] — Verdansk, Rebirth Island, and Zodiac are reported to be available in Warzone at the launch of Season 1. · **published**
-- [[shipment]] — Shipment returns to Modern Warfare 4 with a new look on October 27. · **draft**
+- [[shipment]] — Shipment returns to Modern Warfare 4 on October 27 with a new look. · **draft**
 - [[twitch-drops-event]] — Players can earn in-game rewards by watching MW4 on Twitch starting October 23 at 10am PT. · **draft**
 
 ## exfil (1) in `wiki/exfil/<id>.md`
@@ -42,7 +42,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[content-updates]] — content updates: awaiting confirmed details. · **candidate**
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
 - [[dmz-fob-mastery-calling-card]] — Players report that the DMZ FOB Mastery Calling Card is a calling card in DMZ. · **draft**
-- [[dmz-the-mode]] — The latest update introduces fixes for DMZ, where squads reportedly use vehicles. · **draft**
+- [[dmz-the-mode]] — The latest update includes fixes for the DMZ mode, where squads use vehicles. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
 - [[modern-warfare-4]] — Modern Warfare 4 launched worldwide on October 23, 2026, featuring 12 multiplayer maps with dynamic intros, campaign early access on October 16, and an early a… · **published**
