@@ -186,7 +186,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[adrenaline-burst]] — Warfighter Trait: killing an enemy resets your tactical sprint (official, 9 Oct guide). · **published**
 - [[air-superiority]] — Survivalist Trait: UAV towers and SAM sites you activate last longer (official, 9 Oct guide). · **published**
 - [[auto-fill]] — The Auto Fill trait is reported to automatically replenish lethals and tacticals. · **candidate**
-- [[possum]] — In DMZ, the Possum trait lets a player stay dead for an unlimited amount of time before self-reviving once per match. · **candidate**
+- [[possum]] — Possum is currently in DMZ, where players report discussions around a suggested 30 second wait timer for its use. · **candidate**
 - [[quick-fix]] — Warfighter Trait: killing an enemy Operator or AI shortens your health regeneration delay (official, 9 Oct guide). · **published**
 - [[trait-points]] — Operators earn Trait Points by levelling their Dog Tags (18 max) and spend them in three trees: Warfighter, Scout and Survivalist, 66 Traits in all. · **published**
 - [[viper-sense]] — Warfighter Trait: hides you from thermal optics and AI targeting systems (official, 9 Oct guide). · **published**

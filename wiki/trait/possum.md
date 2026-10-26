@@ -1,18 +1,16 @@
 ---
 type: trait
 title: "Possum"
-description: "In DMZ, the Possum trait lets a player stay dead for an unlimited amount of time before self-reviving once per match."
+description: "Possum is currently in DMZ, where players report discussions around a suggested 30 second wait timer for its use."
 status: draft
 brain_status: candidate
 sensitivity: public
-sources: [clm_b4248fd85709, clm_6cd27932726d]
+sources: [clm_b4248fd85709, clm_6cd27932726d, clm_902fc3081685, clm_4d662dbb6a40]
 ---
 <!-- generated:start -->
-Players report that the Possum trait is present in DMZ. According to player reports, it allows a player to remain dead for an unlimited amount of time before reviving themselves once per match.
+Players report that Possum is currently in DMZ, where it is considered one of the most controversial elements. Players also suggest that there should be a 30 second wait timer to use Possum.
 
-No tree or tier information has been confirmed.
-
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-24._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-26._
 <!-- generated:end -->
 
 <!-- human:start -->
