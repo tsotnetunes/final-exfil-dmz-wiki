@@ -9,34 +9,36 @@ sources: [clm_0b8eb81a0d2b, clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5
 aliases: ["MW4 DMZ", "DMZ early access", "play DMZ early"]
 ---
 <!-- generated:start -->
-DMZ is a game mode in Modern Warfare 4 located in Hajin. Early access opened on October 20 ahead of the full game launch on October 23, with global deployment beginning at 10 AM PT.
+DMZ is a game mode included with Modern Warfare 4 that features deployment to Hajin. Ahead of the full launch of Modern Warfare 4 on October 23, DMZ Early Access launched globally on October 20 at 10 AM PT for digital pre-orders, preceded by available preloads. On October 24, Modern Warfare 4 went fully live.
 
 ## Access and Requirements
 
-* DMZ Early Access required a digital pre-order, with preloads available ahead of launch.
-* On PC, the early access launch required TPM 2.0 and Secure Boot enabled.
-* Performance Mode on PS5 and Xbox Series X|S requires Variable Refresh Rate (VRR). Players report that running 120FPS requires a monitor supporting both 120Hz and VRR.
-* Infinity Ward collaborated with Monster Gaming for DMZ.
-* RICOCHET Anti-Cheat includes DMA detection for Modern Warfare 4.
+* DMZ Early Access began deployment on October 20, requiring a digital pre-order along with TPM 2.0 and Secure Boot enabled.
+* Performance Mode support for DMZ on PS5 and Xbox Series X|S requires Variable Refresh Rate (VRR).
+* RICOCHET Anti-Cheat covers Modern Warfare 4 with detections targeting DMA cheats.
+* Infinity Ward confirmed a collaboration with Monster Gaming in DMZ.
+* An animation was disabled across all platforms as a potential fix for a PlayStation issue.
 
-## Progression and Rewards
+## Features and Rewards
 
-* DMZ features an independent progression system with 70 levels of rewards. Players report DMZ levels cannot be raised in regular multiplayer.
-* The mastery camos in DMZ are Chiral, Ripple Tide, and Helio.
-* Players who took part in the MWII DMZ Beta receive the Beta On Record emblem and Beta Squad calling card.
-* Players report that extracting the same weapon manual three additional times per weapon unlocks a hidden camo.
-* Players report that starting after the third prestige, each subsequent prestige unlocks a new trait and allows swapping out a previously held trait.
-* Players report that finishing all 24 pages of orders triggers an ending cutscene.
+* DMZ includes a progression track offering 70 levels of rewards.
+* DMZ features three Mastery Camos: Chiral, Ripple Tide, and Helio.
+* Players who played the MWII DMZ Beta receive the Beta On Record emblem and Beta Squad calling card.
 
-## Gameplay and Matchmaking
+## Gameplay and Player Reports
 
-* Matchmaking does not create solo-only lobbies, according to player reports, though solo and duo queues attempt to match against matching squad sizes.
-* Players report that the mode currently operates entirely as PvPvE, with smooth mode-specific movement and dynamic weather.
-* Infinity Ward noted that Single Squad Missions were an internal feature not intended for release.
-* Weapon damage tuning is reported by players to be calibrated close to Warzone.
-* Players report encountering two to three killstreaks exclusive to DMZ that do not appear in multiplayer, alongside gear like a gun drone.
-* Players report an upcoming Russia expansion planned for Season 2.
-* An animation was disabled across all platforms as a potential fix for an issue on PlayStation.
+* Players report that DMZ is a looter extraction shooter centered on PvPvE extractions where squads can form.
+* Players note that lobbies are not solo-only, though matchmaking attempts to pair solo players against other solos, and similarly for duos.
+* DMZ weapon damage tuning is reported to be close to Warzone, alongside custom smooth movement mechanics and dynamic weather.
+* The map set in Hajin is reported to be huge with extensive exploration areas.
+* Players report that DMZ levels cannot be earned while playing standard multiplayer.
+* According to player reports, Infinity Ward stated that Single Squad Missions were intended only for internal testing and not for public release.
+* Players report completing 24 pages of orders to view an ending cutscene, as well as grinding orders and using equipment like gun drones.
+* Reports indicate that exfilling the same weapon manual three additional times per weapon unlocks a hidden camo.
+* Players note that starting after the 3rd prestige, each subsequent prestige unlocks a new trait and allows swapping a previously selected trait.
+* Players reported experiencing server crashes and errors after exfil that caused loss of acquired loot during early access days.
+* Players report that 2 to 3 streaks exist in DMZ that are absent from Multiplayer.
+* Players report rumors of a Russia expansion arriving in Season 2.
 
 _Generated from 31 confirmed and 48 reported claims across 77 posts and 0 patch notes; last rendered 2026-10-26._
 <!-- generated:end -->

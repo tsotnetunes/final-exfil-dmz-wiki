@@ -9,7 +9,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## event (4) in `wiki/event/<id>.md`
 - [[dmz-week]] — DMZ Week for Modern Warfare 4 starts October 4 and includes information on the Hajin location. · **draft**
-- [[season-1]] — Players report that Verdansk, Rebirth Island, and Zodiac will be available in Warzone at the launch of Season 1. · **published**
+- [[season-1]] — Verdansk, Rebirth Island, and Zodiac are reported to be available in Warzone at the launch of Season 1. · **published**
 - [[shipment]] — Shipment returns to Modern Warfare 4 with a new look on October 27. · **draft**
 - [[twitch-drops-event]] — Players can earn in-game rewards by watching MW4 on Twitch starting October 23 at 10am PT. · **draft**
 
@@ -42,10 +42,10 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[content-updates]] — content updates: awaiting confirmed details. · **candidate**
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
 - [[dmz-fob-mastery-calling-card]] — Players report that the DMZ FOB Mastery Calling Card is a calling card in DMZ. · **draft**
-- [[dmz-the-mode]] — The latest update includes fixes across DMZ. · **draft**
+- [[dmz-the-mode]] — The latest update includes fixes for DMZ. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Modern Warfare 4 launched worldwide on October 23, 2026, featuring 12 multiplayer maps with dynamic intros, campaign early access, and a DMZ extraction mode. · **published**
+- [[modern-warfare-4]] — Modern Warfare 4 launched worldwide on October 23, 2026, featuring 12 multiplayer maps with dynamic intros, campaign early access on October 16, and an early a… · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
@@ -59,7 +59,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dog-tags]] — Extracting with the Dog Tags of Wanted players rewards DMZ Cash, and the Dog Tag Case station is accessed in the FOB. · **published**
 - [[gold-bar]] — Players report that five Gold Bars, a red tier item, are required for end game FOB upgrades. · **candidate**
 - [[gold-bars]] — Players report that Gold Bars are worth 25K. · **candidate**
-- [[gold-skull]] — Players report that five Gold Skulls are required for end game FOB upgrades. · **candidate**
+- [[gold-skull]] — Five Gold Skulls are required for end game FOB upgrades. · **candidate**
 - [[grabber-drone]] — The Grabber Drone is a new tool available in Warzone. · **draft**
 - [[hazmat-suit]] — Players report that the Hazmat Suit is discarded upon exfil. · **candidate**
 - [[in-game-rewards]] — Watching MW4 on Twitch starting October 23 at 10am PT unlocks an Emblem, Weapon Charm, and Calling Card. · **draft**
@@ -86,7 +86,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[bounty-system]] — Killing players earns a Bounty; four kills make you Wanted. Hunters buy intel at Bounty Stations and extract the target's Dog Tag to collect. · **published**
 - [[call-of-duty-app-updates]] — Players report that Call of Duty app updates are required to install MW4 and that the app was updated for Modern Warfare 4 ahead of Campaign Early Access. · **candidate**
 - [[dmz-camos]] — DMZ has its own camos and its camo grind starts with DMZ early access on 20 Oct; a successor to the 2022 Serpentine camo hunt is planned for later seasons. · **published**
-- [[dmz-orders]] — DMZ Orders are a type of objective in DMZ, with players reporting Lost Supply drops located on PG 10. · **published**
+- [[dmz-orders]] — DMZ Orders serve as objectives in DMZ, with players reporting that Lost Supply drops appear on PG 10. · **published**
 - [[dmz-progression]] — DMZ has its own levels 1 to 70, apart from Multiplayer's 55; XP from missions, loot and fights counts even without an exfil, and each Operator's Dog Tag has 18… · **published**
 - [[double-xp-tokens]] — 2XP tokens in MW4, DMZ included: you switch one on when you choose and it counts down only in matches; use is capped at one hour per token type a day and 40 ho… · **draft**
 - [[dynamic-weather]] — Downpours cut visibility, fog changes routes, convoys move on roads, helicopters cross the sky and hostile forces reposition WMDs during a match (official, pre… · **published**
@@ -100,9 +100,9 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[mia-system]] — Killed Operators go MIA: pay DMZ Cash to recover them with their Traits (the price rises with Traits, gear is lost) or dismiss them. · **published**
 - [[missing-in-action]] — The MIA status an Operator gets for not getting out of a deployment; recovery and what it costs are on the MIA system page. · **candidate**
 - [[movement-and-tuning]] — Tac sprint is on by default; DMZ has its own weapon damage tuning around its armor; no armor-piercing or Stopping Power rounds for now (developers' Q&A, 9 Oct). · **published**
-- [[multiplayer]] — Multiplayer went live on 2026-10-23, featuring boosted XP in Search & Destroy and Collateral alongside ongoing mode fixes. · **draft**
+- [[multiplayer]] — Multiplayer went live on 23 October 2026, featuring boosted XP in Search & Destroy and Collateral alongside temporary matchmaking adjustments on XBOX. · **draft**
 - [[operator-prestige]] — Prestige a fully levelled Operator (18 Trait Points) by giving up rare gear and DMZ Cash; each Prestige adds a random permanent Trait, up to three. · **published**
-- [[operator-prestige-and-permanent-prestige-traits]] — MW4 features an operator prestige system with Prestige Icons reported to be based on the logos of all 10 Call of Duty titles developed by Infinity Ward. · **candidate**
+- [[operator-prestige-and-permanent-prestige-traits]] — A prestige system exists for operators, and MW4 Prestige Icons appear to feature the logos of all 10 Infinity Ward Call of Duty titles. · **candidate**
 - [[paid-infil]] — Infil options and prices: on foot free, Polaris Dagor A1 5,000, LTV 25,000, helicopter 50,000, cargo plane 100,000 DMZ Cash (choose your drop spot). · **published**
 - [[proximity-chat]] — Voice between nearby players with distance-based falloff, directionality and environmental reverb (official, pre-launch). · **published**
 - [[radiation-storm]] — Radiation spreads across Hajin during a deployment; the Time Remaining timer shows when the storm intensifies; as it worsens, head for an exfil (official, 5 Oc… · **published**
@@ -124,24 +124,24 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## mission (9) in `wiki/mission/<id>.md`
 - [[breaking-new-ground]] — Breaking New Ground is a mission featured in DMZ. · **draft**
-- [[dmz-mission-involving-a-cart]] — Players report that the game features a DMZ mission requiring a cart to be pushed around. · **candidate**
+- [[dmz-mission-involving-a-cart]] — Players report that the game includes a DMZ mission that involves pushing around a cart. · **candidate**
 - [[dynamic-operations]] — Dynamic Operations involve squad objectives across Hajin, with players reporting a supply drop of increasing rarity after every op. · **published**
-- [[operation-shopping-hacks]] — Completing the Operation Shopping Hacks mission in DMZ is reported to award the Night Vision Goggles crafting recipe. · **candidate**
+- [[operation-shopping-hacks]] — Players report that completing the DMZ mission Operation Shopping Hacks awards the Night Vision Goggles crafting recipe. · **candidate**
 - [[operation-silent-ledger]] — Operation Silent Ledger is reported by players to be a story mission in DMZ. · **candidate**
 - [[side-ops]] — Small optional tasks in a match (truck repairs, finding a supply drop, scaling a radio tower) that give XP alongside the main objectives (official, pre-launch). · **published**
 - [[story-missions]] — Story Missions in Modern Warfare 4 DMZ have designated spawn locations and unlock needed crafting recipes, according to player reports. · **published**
 - [[stranded]] — Progress in the Stranded mission is reported by players to save separately from the campaign checkpoint. · **candidate**
-- [[toxic-intercept-op]] — The Toxic Intercept Op was fixed to resolve a bug where it could incorrectly fail after players completed the Defend the mission. · **draft**
+- [[toxic-intercept-op]] — Toxic Intercept Op had an issue resolved where it could incorrectly fail after completing the Defend the mission. · **draft**
 
 ## poi (22) in `wiki/poi/<id>.md`
-- [[building-21]] — Players report that a new Building 21-type map will be released in Season 1. · **candidate**
+- [[building-21]] — Players report that a new Building 21-type map is scheduled for release in Season 1. · **candidate**
 - [[casino]] — A dark, multi-floor casino with an underground car park in Cheongun Village, northern Hajin; expected threat High, NVGs advised (official, pre-launch). · **published**
 - [[chang-san-air-base]] — An NK air base in western Hajin built into a granite hillside over a bunker complex larger than the base itself; exterior Critical, bunker Extreme (official, p… · **published**
 - [[cheongun-village]] — The northernmost South Korean area of Hajin, on the Russian border and the Hajin River, home of the Heavenly Luck Casino; mostly Low threat, casino High (offic… · **published**
 - [[cheonwang-peak-array]] — Hajin's largest telecom array (the DBN TV site) on a central summit, now an enemy barracks with a rooftop helipad; expected threat Medium (official, pre-launch… · **published**
 - [[deadtown]] — An abandoned NK farming town in southwest Hajin with sewers and two Re-Education Centers; exterior Low, Re-Education Center Medium (official, pre-launch). · **published**
 - [[fallout-reactor]] — Retired: the official name is Haneul Nuclear Reactor (guide of 5 Oct 2026); see that page. · **retired**
-- [[hajin]] — Hajin is a DMZ and Battle Royale map reported by players to feature 14 named locations, roaming bosses Colossus and Deathstalker, and Lieutenants Gorani and th… · **draft**
+- [[hajin]] — Hajin is a DMZ and Battle Royale map reported by players to feature 14 named locations along with roaming bosses Colossus and Deathstalker. · **draft**
 - [[hajin-city-remains]] — Hajin City, the ruined urban east of the map: NuriGO Mall, The Grid, Songdo Wharf and Wolves Stadium, with Hajin River Heights to the southeast (official, 5 Oc… · **published**
 - [[hajin-exclusion-zone]] — DMZ's launch map: a radiation-scarred zone on the former NK and SK border with 13 major POIs and over 60 locations, up to 60 players; a Russian area opens in S… · **published**
 - [[hajin-river-heights]] — A battered residential district in southeast Hajin with Compound Echo and the Jinseo Park Towers; Medium threat throughout (official, pre-launch). · **published**
@@ -185,7 +185,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 ## trait (7) in `wiki/trait/<id>.md`
 - [[adrenaline-burst]] — Warfighter Trait: killing an enemy resets your tactical sprint (official, 9 Oct guide). · **published**
 - [[air-superiority]] — Survivalist Trait: UAV towers and SAM sites you activate last longer (official, 9 Oct guide). · **published**
-- [[auto-fill]] — Players report that the Auto Fill trait causes lethals and tacticals to automatically replenish. · **candidate**
+- [[auto-fill]] — The Auto Fill trait is reported to automatically replenish lethals and tacticals. · **candidate**
 - [[possum]] — In DMZ, the Possum trait lets a player stay dead for an unlimited amount of time before self-reviving once per match. · **candidate**
 - [[quick-fix]] — Warfighter Trait: killing an enemy Operator or AI shortens your health regeneration delay (official, 9 Oct guide). · **published**
 - [[trait-points]] — Operators earn Trait Points by levelling their Dog Tags (18 max) and spend them in three trees: Warfighter, Scout and Survivalist, 66 Traits in all. · **published**

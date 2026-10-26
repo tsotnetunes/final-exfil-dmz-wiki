@@ -1,7 +1,7 @@
 ---
 type: poi
 title: "Hajin"
-description: "Hajin is a DMZ and Battle Royale map reported by players to feature 14 named locations, roaming bosses Colossus and Deathstalker, and Lieutenants Gorani and the Warden."
+description: "Hajin is a DMZ and Battle Royale map reported by players to feature 14 named locations along with roaming bosses Colossus and Deathstalker."
 status: draft
 brain_status: draft
 sensitivity: public
@@ -10,17 +10,21 @@ sources: [clm_d4ac4388b3f9, clm_3018c5a912d7, clm_e5cdf259848d, clm_f10952a863af
 <!-- generated:start -->
 ### Overview
 
-Hajin is a map and location featured in DMZ and DMZ Early Access, where operators deploy, as well as in Battle Royale. Players report that it is a Warzone-sized map containing 14 named locations, and that these locations will expand in Season 2. Players also report that the map is great to explore.
+Hajin is a map and deployment location featured in DMZ, including DMZ Early Access, where operators are present. Battle Royale is also confirmed to be available on Hajin.
+
+Players report that Hajin is a Warzone-sized map that features 14 named locations, and players report that these locations will expand in Season 2. Players also report that the map is great to explore.
 
 ### Loot
 
-Confirmed details on standard loot profiles have not been established. Players report a potential Easter egg or loot puzzle located under the water at Hajin's Nuclear Reactor in DMZ.
+A potential Easter egg or loot puzzle is reported by players to be located underwater at Hajin's Nuclear Reactor in DMZ.
 
 ### Threats
 
-Hajin is described as not giving up its secrets without a fight. Players report multiple high-level hostiles across the map, including the Warden and Gorani, who serve as Lieutenants. In addition, players report that Colossus and Deathstalker appear as roaming bosses within Hajin.
+Hajin is officially described as not giving up its secrets without a fight. Multiple specific threats operate across the map. Players report that Gorani and The Warden serve as Lieutenants in Hajin, with Gorani noted as a ghillie sniper with a deer skull. Additionally, players report that Colossus and Deathstalker operate as roaming bosses in Hajin.
 
-_Generated from 8 confirmed and 13 reported claims across 19 posts and 0 patch notes; last rendered 2026-10-25._
+Players also report that vehicles in DMZ burn fuel and take damage, though Gas Stations allow them to refuel and repair.
+
+_Generated from 8 confirmed and 13 reported claims across 19 posts and 0 patch notes; last rendered 2026-10-26._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -11,22 +11,20 @@ station: hub
 unlock: start
 ---
 <!-- generated:start -->
-The Forward Operating Base (FOB) is the confirmed starting point for preparation and deployments.
+The FOB (Forward Operating Base) is the confirmed starting point for preparation and deployments.
 
-Players report that the FOB is a walk-around base and social hub shared with your squad in Modern Warfare 4 DMZ, and that it shows party leaders. Upgrading the base levels up player gear, according to player reports.
+### Station Features and Upgrades
 
-### Stations and Facilities
+Players report that upgrading the FOB levels up player gear. According to player reports, the base serves as a walk-around social hub shared with your squad, displays party leaders, and acts as a starting point for bringing back Headquarters within Modern Warfare 4 DMZ.
 
-Players report that the FOB includes several stations:
+Facilities reported by players within the base include:
 
-* **Firing Range**: Available inside the base.
-* **Crafting**: Available inside the base.
-* **Vendor**: Reported to be accessible within the FOB or through the left side blade menu, unlocking at DMZ Level 5.
-* **Gunsmith**: Reported to be accessible within the FOB or through the left side blade menu, unlocking at DMZ Level 10.
+* **Firing Range**
+* **Crafting**
+* **Vendors**: Reported to be accessible within the FOB or through the left side blade menu, unlocking at DMZ Level 5.
+* **Gunsmith**: Reported to be accessible inside the FOB or through the left side blade menu, unlocking at DMZ Level 10.
 
-Players also view the FOB in DMZ as a starting point for bringing back Headquarters.
-
-_Generated from 3 confirmed and 9 reported claims across 12 posts and 0 patch notes; last rendered 2026-10-25._
+_Generated from 3 confirmed and 9 reported claims across 12 posts and 0 patch notes; last rendered 2026-10-26._
 <!-- generated:end -->
 
 <!-- human:start -->

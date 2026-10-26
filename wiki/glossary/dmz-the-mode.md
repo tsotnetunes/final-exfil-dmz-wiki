@@ -1,14 +1,14 @@
 ---
 type: glossary
 title: "DMZ (the mode)"
-description: "The latest update includes fixes across DMZ."
+description: "The latest update includes fixes for DMZ."
 status: draft
 brain_status: draft
 sensitivity: public
 sources: [clm_5f814a9c8007]
 ---
 <!-- generated:start -->
-DMZ is a game mode that receives updates and fixes.
+DMZ is a game mode that receives targeted maintenance and adjustments in game updates.
 
 * The latest update includes fixes across DMZ.
 

@@ -1,7 +1,7 @@
 ---
 type: item
 title: "Gold Skull"
-description: "Players report that five Gold Skulls are required for end game FOB upgrades."
+description: "Five Gold Skulls are required for end game FOB upgrades."
 status: draft
 brain_status: candidate
 sensitivity: public
@@ -12,7 +12,7 @@ The Gold Skull is an item used for late-game base improvements.
 
 * Players report that five Gold Skulls are required for end game FOB upgrades.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-25._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-26._
 <!-- generated:end -->
 
 <!-- human:start -->

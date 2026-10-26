@@ -13,18 +13,15 @@ loot_profile: military
 ---
 <!-- generated:start -->
 ### Overview
-
-Chang-san Air Base features a nearby locked bunker. Players report that accessing this bunker requires a red rarity breathing charge to open the locked door.
+Players report that a hidden nuke is located inside a bunker near the Chang-san Air Base. Accessing this bunker requires opening a locked door, which players report requires a red rarity breathing charge.
 
 ### Loot
-
-Players report that a hidden nuke is located inside the bunker near the air base.
+A hidden nuke is reportedly housed within the bunker near the air base.
 
 ### Threats
+No specific enemy threats or environmental hazards have been confirmed for this location.
 
-No specific threats have been confirmed.
-
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-25._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-26._
 <!-- generated:end -->
 
 <!-- human:start -->
