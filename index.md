@@ -42,7 +42,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[content-updates]] — content updates: awaiting confirmed details. · **candidate**
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
 - [[dmz-fob-mastery-calling-card]] — Players report that the DMZ FOB Mastery Calling Card is a calling card in DMZ. · **draft**
-- [[dmz-the-mode]] — The latest update includes fixes for DMZ. · **draft**
+- [[dmz-the-mode]] — The latest update includes fixes for DMZ, where squads are reported to use vehicles. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
 - [[modern-warfare-4]] — Modern Warfare 4 launched worldwide on October 23, 2026, featuring 12 multiplayer maps with dynamic intros, campaign early access on October 16, and an early a… · **published**
