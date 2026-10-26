@@ -5,11 +5,15 @@ description: "Prestige a fully levelled Operator (18 Trait Points) by giving up 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_cb769aa684e4, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["DMZ Operator Prestige", "Prestige Traits"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Operator Prestige features permanent Prestige Traits in Modern Warfare 4 DMZ.
+
+* Players report that there are 12 total possible prestige traits in Modern Warfare 4 DMZ.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-26._
 <!-- generated:end -->
 
 <!-- human:start -->
