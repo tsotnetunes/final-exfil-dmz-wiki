@@ -5,23 +5,29 @@ description: "Operators earn Trait Points by levelling their Dog Tags (18 max) a
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9f492a24aab7, clm_e0f0b4c3d158, clm_f607b6b9963b, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_9f492a24aab7, clm_e0f0b4c3d158, clm_f607b6b9963b, clm_51f7e1c5f386, clm_f1f95e1b6f10, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["traits", "trait tree"]
 tree: all
 tier: n/a
 ---
 <!-- generated:start -->
-Traits include Warfighter, Scout, and Survivalist for Operator customization. These options were confirmed on 9 Oct 2026.
+Trait Points and trait trees allow operator customization through options such as Warfighter, Scout, and Survivalist. Available traits confirmed on 9 Oct 2026 include Warfighter, Scout, and Survivalist.
 
 ## Which traits are available?
 
-Available options include Warfighter, Scout, and Survivalist.
+| Trait | Status |
+| --- | --- |
+| Warfighter | Confirmed |
+| Scout | Confirmed |
+| Survivalist | Confirmed |
 
-## Can traits farmed in PvE be used in regular DMZ?
+Players report that Final Intel is also a trait. Players report that Final Intel marks an additional exfil point on the map. Players report that Final Intel gives a free additional exfil to use for the entire game, allowing an operator to summon a helicopter at any point.
 
-Players report that Operators with traits farmed in a PvE mode should not be usable in regular DMZ.
+## How do game modes affect traits?
 
-_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-27._
+Players report that operators with traits farmed in a PvE mode should not be usable in regular DMZ.
+
+_Generated from 1 confirmed and 3 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->
