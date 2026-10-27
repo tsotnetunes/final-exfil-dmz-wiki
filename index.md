@@ -45,7 +45,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-the-mode]] — The latest update includes fixes for the DMZ mode, where squads use vehicles. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launched worldwide on October 23, 2026, featuring 12 launch multiplayer maps with dynamic intros, Campaign early access, and DMZ… · **published**
+- [[modern-warfare-4]] — Modern Warfare 4 launched worldwide on October 23, 2026, featuring 12 multiplayer maps with dynamic intros, campaign early access, and a DMZ mode with Wu-Tang … · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
@@ -102,7 +102,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[mia-system]] — Killed Operators go MIA: pay DMZ Cash to recover them with their Traits (the price rises with Traits, gear is lost) or dismiss them. · **published**
 - [[missing-in-action]] — The MIA status an Operator gets for not getting out of a deployment; recovery and what it costs are on the MIA system page. · **candidate**
 - [[movement-and-tuning]] — Tac sprint is on by default; DMZ has its own weapon damage tuning around its armor; no armor-piercing or Stopping Power rounds for now (developers' Q&A, 9 Oct). · **published**
-- [[multiplayer]] — Multiplayer went live on 23 October 2026, featuring boosted XP in Search & Destroy and Collateral alongside temporary matchmaking adjustments on XBOX. · **draft**
+- [[multiplayer]] — Multiplayer is live in Call of Duty: Modern Warfare 4, featuring XP boosts in Search & Destroy and Collateral alongside ongoing bug fixes. · **draft**
 - [[operator-prestige]] — Prestige a fully levelled Operator (18 Trait Points) by giving up rare gear and DMZ Cash; each Prestige adds a random permanent Trait, up to three. · **published**
 - [[operator-prestige-and-permanent-prestige-traits]] — A prestige system exists for operators, and MW4 Prestige Icons appear to feature the logos of all 10 Infinity Ward Call of Duty titles. · **candidate**
 - [[paid-infil]] — Infil options and prices: on foot free, Polaris Dagor A1 5,000, LTV 25,000, helicopter 50,000, cargo plane 100,000 DMZ Cash (choose your drop spot). · **published**
