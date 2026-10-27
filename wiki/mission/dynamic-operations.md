@@ -5,16 +5,16 @@ description: "Dynamic Operations involve squad objectives across Hajin and rewar
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_cacbc287b445, clm_809579d8a58f, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-fpsjp-dynamic-ops-trailer-2026-10-07]
+sources: [clm_cacbc287b445, clm_809579d8a58f, clm_1bf2a7b7a270, clm_6692ae50b2d4, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-fpsjp-dynamic-ops-trailer-2026-10-07]
 aliases: ["dynamic operation", "dynamic ops", "Dynamic Ops phone", "Hunt Operators", "Supply Drop"]
 mission_kind: dynamic
 ---
 <!-- generated:start -->
-Dynamic Operations involve squad objectives across Hajin, confirmed on 6 Oct 2026.
+Dynamic Operations ask squads to complete objectives across Hajin. This was confirmed on 6 Oct 2026.
 
-## What rewards do Dynamic Operations grant?
+## What are the rewards?
 
-Players report that Dynamic Operations award cash and XP. Players also report that Dynamic Operations grant a supply drop of increasing rarity after every op.
+Dynamic Operations award cash and XP, according to player reports. Players also report that Dynamic Operations provide a supply drop of increasing rarity after every completed operation.
 
 _Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
