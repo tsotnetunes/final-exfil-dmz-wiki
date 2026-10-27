@@ -45,7 +45,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-the-mode]] — DMZ is a mode where players can kill other operators and squads use vehicles, with update fixes confirmed on 26 Oct 2026. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launched worldwide on 23 Oct 2026, featuring a campaign, 12 core multiplayer maps, and the DMZ extraction mode. · **published**
+- [[modern-warfare-4]] — Modern Warfare 4 launched globally on 23 Oct 2026 with Campaign, 12 core multiplayer maps, and DMZ early access. · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
