@@ -56,7 +56,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[beta-squad-calling-card]] — Beta Squad Calling Card: awaiting confirmed details. · **candidate**
 - [[dmz-beta-50-hours-calling-card]] — DMZ Beta 50 Hours Calling Card: awaiting confirmed details. · **candidate**
 - [[dmz-beta-50-hours-emblem]] — DMZ Beta 50 Hours Emblem: awaiting confirmed details. · **candidate**
-- [[dog-tags]] — Extracting with the Dog Tags of Wanted players rewards DMZ Cash in Modern Warfare 4 DMZ. · **published**
+- [[dog-tags]] — Dog Tags can be extracted from Wanted players in Modern Warfare 4 DMZ to earn DMZ Cash, and store at the Dog Tag Case in the FOB. · **published**
 - [[gold-bar]] — Players report that five Gold Bars, a red tier item, are required for end game FOB upgrades. · **candidate**
 - [[gold-bars]] — Players report that Gold Bars are worth 25K. · **candidate**
 - [[gold-skull]] — Gold Skull is an item that players report needing in a quantity of five for end game FOB upgrades. · **candidate**

@@ -1,7 +1,7 @@
 ---
 type: item
 title: "Dog Tags"
-description: "Extracting with the Dog Tags of Wanted players rewards DMZ Cash in Modern Warfare 4 DMZ."
+description: "Dog Tags can be extracted from Wanted players in Modern Warfare 4 DMZ to earn DMZ Cash, and store at the Dog Tag Case in the FOB."
 status: stable
 brain_status: published
 sensitivity: public
@@ -9,20 +9,19 @@ sources: [clm_1dda32204130, clm_ac70379c09b8, clm_f8c43f6e8da8, clm_60f9fe17bb96
 aliases: ["dog tag", "Dog Tag Case"]
 ---
 <!-- generated:start -->
-Dog Tags are items in Modern Warfare 4 DMZ that can be collected from other players and turned into rewards or stored in the FOB. Extracting with the Dog Tags of Wanted players provides DMZ Cash.
+Dog Tags are collectible items in Modern Warfare 4 DMZ that can be extracted for currency. Extracting with the Dog Tags of Wanted players rewards DMZ Cash.
 
 ## What is the Dog Tag Case?
 
-* The Dog Tag Case station is located in the FOB.
-* Players reported that the Dog Tag Case unlocks at DMZ Level 20.
-* On October 21, 2026, it was confirmed that an error when opening the Dog Tag Case station in the FOB made it inaccessible for some players.
-* Players reported on October 21, 2026, that the Dog Tag Case in DMZ was fixed in an update to Modern Warfare 4.
-* It was confirmed on October 21, 2026, that players can access the Dog Tag Case in the FOB.
+* The Dog Tag Case station is located in the FOB, confirmed on 21 Oct 2026.
+* Players report that the Dog Tag Case unlocks at DMZ Level 20.
+* An error when opening the Dog Tag Case station in the FOB made it inaccessible for some players, confirmed on 21 Oct 2026.
+* Players reported on 21 Oct 2026 that the Dog Tag Case in DMZ was fixed in the latest update to Modern Warfare 4.
+* It was confirmed on 21 Oct 2026 that players can access the Dog Tag Case in the FOB, superseding the earlier issue.
 
-## How do Dog Tags work in DMZ?
+## Which Dog Tags can players carry?
 
-* Extracting with the Dog Tags of Wanted players rewards DMZ Cash.
-* Players reported that players can carry lieutenant tags in DMZ.
+* Players report that they can carry lieutenant tags in DMZ.
 
 _Generated from 4 confirmed and 3 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
