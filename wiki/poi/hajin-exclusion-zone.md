@@ -12,19 +12,21 @@ danger: varies
 loot_profile: all
 ---
 <!-- generated:start -->
-### Overview
+The Hajin Exclusion Zone is an active Exclusion Zone location where DMZ matches take place.
 
-Hajin is a confirmed in-game location and an active Exclusion Zone. Players report that the DMZ mode takes place in Hajin, with 60 players across 20 squads.
+## Where is it?
 
-### Loot
+The Hajin Exclusion Zone is confirmed to be an in-game location as of 26 October 2026. Players report that DMZ takes place in Hajin.
 
-There is currently no information available regarding the loot profile of Hajin.
+## What loot is there?
 
-### Threats
+No loot details are currently known for the Hajin Exclusion Zone.
 
-Operators can be present in Hajin, though players report that not every Operator in the area is focused on the mission.
+## How dangerous is it?
 
-_Generated from 2 confirmed and 3 reported claims across 5 posts and 0 patch notes; last rendered 2026-10-26._
+The Hajin Exclusion Zone was confirmed as an active Exclusion Zone on 20 October 2026. Players report that Operators can be present in Hajin. Players report that Hajin will host 60 players across 20 squads.
+
+_Generated from 2 confirmed and 3 reported claims across 5 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

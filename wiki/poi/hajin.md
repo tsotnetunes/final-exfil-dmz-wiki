@@ -1,30 +1,35 @@
 ---
 type: poi
 title: "Hajin"
-description: "Hajin is a DMZ and Battle Royale map reported by players to feature 14 named locations along with roaming bosses Colossus and Deathstalker."
+description: "Hajin is a confirmed DMZ and Battle Royale map featuring 14 reported named locations along with roaming bosses and lieutenants."
 status: draft
 brain_status: draft
 sensitivity: public
 sources: [clm_d4ac4388b3f9, clm_3018c5a912d7, clm_e5cdf259848d, clm_f10952a863af, clm_9052aee4589c, clm_6fe4d7f67b63, clm_6c1e332f9e0e, clm_9304e80661fe, clm_853ded1dacfe, clm_a9bf2b35b2b6, clm_f97289c2b6d2, clm_eb59bacf5fc0, clm_d8792d42a945, clm_376bdc074f7d, clm_ea09008c6672, clm_b2d161ad4e5c, clm_70b12e01c268, clm_4659d7e0e209, clm_b6a8cab67074, clm_dadf29a9e7fb, clm_baedcae70f93, clm_6197ac391a99, clm_e4ed233e717f, clm_8dd54951f94d, clm_4fdf55d2ee6c, clm_f7645e20196d, clm_9f00f469c9d0, src-activision-dmz-guide-part1-2026-10-05]
 ---
 <!-- generated:start -->
-### Overview
+Hajin is a map and location in DMZ where Operators deploy to explore and fight.
 
-Hajin is a map and deployment location featured in DMZ, including DMZ Early Access, where operators are present. Battle Royale is also confirmed to be available on Hajin.
+## Where is it?
 
-Players report that Hajin is a Warzone-sized map that features 14 named locations, and players report that these locations will expand in Season 2. Players also report that the map is great to explore.
+Hajin was confirmed as a DMZ location on 4 October 2026. On 5 October 2026, Hajin was confirmed as a map in DMZ. Players report that Hajin is a Warzone-sized map. Players report that Hajin contains 14 named locations. Players report that Hajin locations will expand in Season 2. Hajin was confirmed as a location available during DMZ Early Access on 21 October 2026. Battle Royale was confirmed to be available on Hajin on 14 October 2026.
 
-### Loot
+## What loot is there?
 
-A potential Easter egg or loot puzzle is reported by players to be located underwater at Hajin's Nuclear Reactor in DMZ.
+Players report that a potential Easter egg or loot puzzle is located under the water at Hajin's Nuclear Reactor in DMZ.
 
-### Threats
+## How dangerous is it?
 
-Hajin is officially described as not giving up its secrets without a fight. Multiple specific threats operate across the map. Players report that Gorani and The Warden serve as Lieutenants in Hajin, with Gorani noted as a ghillie sniper with a deer skull. Additionally, players report that Colossus and Deathstalker operate as roaming bosses in Hajin.
+Hajin was officially described on 8 October 2026 as not giving up its secrets without a fight. Multiple hostile threats are reported by players across the map.
 
-Players also report that vehicles in DMZ burn fuel and take damage, though Gas Stations allow them to refuel and repair.
+| Threat | Role |
+| --- | --- |
+| Gorani | Lieutenant |
+| The Warden | Lieutenant |
+| Colossus | Roaming boss |
+| Deathstalker | Roaming boss |
 
-_Generated from 8 confirmed and 13 reported claims across 19 posts and 0 patch notes; last rendered 2026-10-26._
+_Generated from 8 confirmed and 13 reported claims across 19 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

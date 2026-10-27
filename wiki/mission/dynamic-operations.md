@@ -1,7 +1,7 @@
 ---
 type: mission
 title: "Dynamic Operations"
-description: "Dynamic Operations involve squad objectives across Hajin, with players reporting a supply drop of increasing rarity after every op."
+description: "Dynamic Operations are missions involving squad objectives across Hajin that award cash, XP, and supply drops of increasing rarity."
 status: stable
 brain_status: published
 sensitivity: public
@@ -10,15 +10,13 @@ aliases: ["dynamic operation", "dynamic ops", "Dynamic Ops phone", "Hunt Operato
 mission_kind: dynamic
 ---
 <!-- generated:start -->
-### Overview
+Dynamic Operations are missions that involve squad objectives across Hajin.
 
-Dynamic Operations involve squad objectives across Hajin. Players report that completing every op awards cash, XP, and a supply drop of increasing rarity.
+## What rewards do Dynamic Operations grant?
 
-### Steps
+Players report that Dynamic Operations reward cash and XP. Players also report that Dynamic Operations provide a supply drop of increasing rarity after every op.
 
-No specific mission steps have been documented.
-
-_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-24._
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -1,23 +1,28 @@
 ---
 type: poi
 title: "Building 21"
-description: "Players report that a new Building 21-type map is scheduled for release in Season 1."
+description: "Players report that a new Building 21-type map will be released in Season 1."
 status: draft
 brain_status: candidate
 sensitivity: public
 sources: [clm_c063b7d057fd]
 ---
 <!-- generated:start -->
-### Overview
-Players report that a new Building 21-type map is planned for release in Season 1. Details regarding its exact location and region have not been established.
+Building 21 serves as the basis for a new map type reported by players to release in Season 1.
 
-### Loot
-Loot information for this area is not currently known.
+## Where is it?
 
-### Threats
-Specific threats and danger levels for this location have not been confirmed.
+Players report that a new Building 21-type map will be released in Season 1.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-26._
+## What loot is there?
+
+No loot details have been reported for Building 21.
+
+## How dangerous is it?
+
+No danger information has been reported for Building 21.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

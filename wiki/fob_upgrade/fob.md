@@ -11,20 +11,22 @@ station: hub
 unlock: start
 ---
 <!-- generated:start -->
-The FOB (Forward Operating Base) is the confirmed starting point for preparation and deployments.
+The FOB (Forward Operating Base) upgrade levels up player gear, as reported by players. The base was confirmed on October 5, 2026, as the starting point for deployments. It was confirmed on October 7, 2026, that preparation starts at the Forward Operating Base.
 
-### Station Features and Upgrades
+## What is the Forward Operating Base?
 
-Players report that upgrading the FOB levels up player gear. According to player reports, the base serves as a walk-around social hub shared with your squad, displays party leaders, and acts as a starting point for bringing back Headquarters within Modern Warfare 4 DMZ.
+The FOB (Forward Operating Base) is a feature in Modern Warfare 4 DMZ, according to player reports. Players report that the Forward Operating Base is a walk-around base shared with the squad. Players also report that the base acts as a social hub for your squad. According to player reports, the Forward Operating Base shows party leaders. Players report that the base in DMZ serves as a starting point for bringing back Headquarters.
 
-Facilities reported by players within the base include:
+## What stations are in the Forward Operating Base?
 
-* **Firing Range**
-* **Crafting**
-* **Vendors**: Reported to be accessible within the FOB or through the left side blade menu, unlocking at DMZ Level 5.
-* **Gunsmith**: Reported to be accessible inside the FOB or through the left side blade menu, unlocking at DMZ Level 10.
+Players report that the FOB (Forward Operating Base) includes a Firing Range, Vendors, and Crafting. Certain stations within the base can also be opened through the left side blade menu.
 
-_Generated from 3 confirmed and 9 reported claims across 12 posts and 0 patch notes; last rendered 2026-10-26._
+| Station | Access Location | Unlock Requirement |
+| :--- | :--- | :--- |
+| Vendor | FOB or left side blade menu | DMZ Level 5 |
+| Gunsmith | FOB or left side blade menu | DMZ Level 10 |
+
+_Generated from 3 confirmed and 9 reported claims across 12 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

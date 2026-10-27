@@ -1,44 +1,46 @@
 ---
 type: guide
 title: "Modern Warfare 4"
-description: "Modern Warfare 4 launched worldwide on October 23, 2026, featuring 12 multiplayer maps with dynamic intros, campaign early access, and a DMZ mode with Wu-Tang Clan content."
+description: "Modern Warfare 4 launched worldwide on October 23, 2026, featuring 12 multiplayer maps, dynamic map intros, and dedicated DMZ and Campaign modes."
 status: stable
 brain_status: published
 sensitivity: public
 sources: [clm_a7b8ec64314b, clm_2c1207e86666, clm_6ccf33dd6ed8, clm_37cdae5b1cba, clm_1672db379296, clm_b92ce0a1725f, clm_0a4e123cbed9, clm_10ff23a54522, clm_91a690b2cb72, clm_584ca9a28de8, clm_8b459e95dea1, clm_8b829cb0f2ac, clm_a7dd80539473, clm_dd0523f5efa5, clm_f15ea5124f94, clm_e7a8a6545bc8, clm_fdd956334b2e, clm_74ce7b19a954, clm_1c9b69b05639, clm_d527ad72b9b5, clm_081d4e3adf70, clm_ae8d58aff02f, clm_4661f1044a6a, clm_dec0b70e20e9, clm_caa9338fe244, clm_2337f44f0a15, clm_eebfca05d1c7, clm_5031daeb35f2, clm_bd3a6d3986d8, clm_0ea0fe7e8edb, clm_049f14ae6c49, clm_fe3ca925a3ca, clm_45631006abe4, clm_4ab2eca4cea2, clm_881990ecdfd3, clm_65c185ecca1d, clm_c95fc69cca11, clm_f7165ee63572, clm_7304fc35c0cb, clm_1a9c54d7c363, clm_142b3cf0d46e, clm_dd436cc73acb, clm_a26bd5fa1e80, clm_56e219d5abe7, clm_d13fea0ebe6f, clm_35b4a3f9d614, clm_af121b2f548e, clm_143a5374fc4d, clm_1a8b39bc4f78, clm_ee28d7e585e9, clm_2e5bf084b5cd, clm_df4dbb33489a, clm_9ae4d05360ab, clm_02271c4d0989, clm_4b51a70fcff5, clm_6cbee1b7076f, clm_78cf4b537687, clm_f5b268ff3f0f, clm_add3dc7040f5, clm_2940af82d97c, clm_67e13e459038, clm_175dbc8daebe, clm_c9601a7ecb16, clm_6bde8776e08d, clm_170a58447cfa, clm_65f3d3ecb871, clm_6a069493d0af, clm_d438aae69300, clm_287d78ea109b, clm_aae723fb28b8, clm_732c0a52706c, clm_e559e8c8ef34, clm_7ca023c2a771, clm_88d7776d5394, clm_f9cf816caa13, clm_aaff660d1047, clm_9f8e67a2a02c, clm_e54c1673140c, clm_28d96f038011, clm_419fdf23b680, clm_9ba18817f5d1, clm_deb1f7d7e584, clm_d0c80f9a2fe1, clm_c4781e55f521, clm_1aa17c26a060, clm_154f63af0f1c, clm_462919778b08, clm_6da597785f56, clm_19faff07e91b, clm_f929357984ab, clm_f37478319709, clm_47f01179c025, clm_d0167e5f71f9, clm_44f8dc0125e2, clm_ccfae152bab3, clm_930f6eae7c68, clm_f265aaaaf38d, clm_e36c7bae651a, clm_360860e1cfa3, clm_be78ae6a3532, clm_007904d5f3ae, clm_cbb8ed429805, clm_00288a66035c, clm_61ee2d961159, clm_2c531af21701, clm_44a0dbcab66a, clm_9234c18268be, clm_b8b27b243b75, clm_6ffd68abac56, clm_4d20f0b86b2d, clm_2c6c16aaf193, clm_d0dc72372f48, clm_045b7fa3bc78, clm_e3a605a706f6, clm_521fb47cb48b, clm_5008f68f4e01, clm_5e8511971c12, clm_ead5737c259d, clm_e59a34a527cb, clm_322f02b4e89e, clm_916e618e99c2, clm_2eb849ea96ad, clm_649f8f302241, clm_517e1fd9f5b2, clm_cbf876c39cb5, clm_55748c5c8180, clm_97bd12878bd8, clm_63fa011fe10d, clm_70618c5686b4, clm_cccb2b8adebf, clm_0b518449786e, clm_b64fd3ed2b8a, clm_264023a02bf8, clm_1c82b2dd5121, clm_ce1226cd63e7, clm_88824963257e, clm_fc532d336a46, clm_af40e4fb6b9d, clm_b3dd7a6da197, src-activision-campaign-early-access-live-2026-10-16, src-activision-pc-specs-2026-09-29, src-insider-gaming-season-1-date-2026-10-14, src-iw-mw4-trello-2026-10-19, src-activision-dmz-guide-part2-2026-10-09]
 ---
 <!-- generated:start -->
-Modern Warfare 4 is a first-person shooter in the Call of Duty series, launched worldwide on October 23, 2026. Pre-orders granted early access to both its narrative campaign and the DMZ mode ahead of launch.
+Modern Warfare 4 is a first-person shooter in the Call of Duty series that launched worldwide on October 23, 2026. The game introduces updated campaign, multiplayer, and DMZ modes alongside integration with Call of Duty: Warzone.
 
-## Release and Platforms
-* Modern Warfare 4 launched worldwide on October 23, 2026, and is live across platforms.
-* Pre-installation began on Wednesday, October 14 at 9 PM PT. Players reported pre-loading starting October 14 at 9am PT.
-* During setup, players can decide whether to install Warzone alongside Modern Warfare 4.
-* The game is available for pre-order on Nintendo Switch 2 and is being brought to the platform, with players reporting it as available on Nintendo Switch 2.
-* Players reported that Modern Warfare 4 is not available on Game Pass.
-* A 2XP event concluded on October 26 at 10 AM PT.
-* The game holds a Metacritic score of 89 on PlayStation and 86 on PC.
-* Modern Warfare 4 received a minor PC patch addressing stability and crashes, as well as an update to correct issues in the ending credits.
-* AMD TPM software versions in the 3.x.0.x range are the most common versions observed in attestation issues.
+## When did Modern Warfare 4 release?
 
-## Editions and Promotions
-* The Vault Edition includes a third Active Duty Operator slot, a Vault Edition Deployment Kit, and one-time access to Signature Weapon Collection Blueprints.
-* Players reported the Vault Edition ranked as the #2 preordered game on the PS5 store behind GTA VI.
-* Players reported Modern Warfare 4 reached #1 in preorders on Steam prior to Campaign Early Access.
-* Pre-ordering provided early access to both the Campaign and the DMZ mode.
-* A Global Twitch Badge was offered for subscribers of creators streaming the game between October 23 and November 13.
-* Players reported an advertisement for the game on the Joe Rogan Experience podcast.
-* Players reported that connecting an Activision account with Discord allows viewing Discord friends directly in the game on PC, and that Discord Nitro subscribers receive an exclusive weapon blueprint.
-* A custom PC build was inspired by the Modern Warfare 4 Claymore.
-* The song "C.R.E.A.M." was reloaded for the game.
+* Pre-installation began on Wednesday, October 14 at 9 PM PT, though players reported pre-loading starting October 14 at 9 AM PT.
+* Campaign early access launched on October 16, with players reporting an unlock time of 10 AM PT (1 PM ET / 6 PM UK).
+* An update for DMZ Early Access arrived across all platforms on October 19 at 9 AM PT, and players reported the mode went live on October 20 at 10 AM PT.
+* Modern Warfare 4 launched worldwide on October 23, 2026.
+* Modern Warfare 4 is confirmed available on PC, PlayStation, and Nintendo Switch 2, while players report it is not available on Game Pass.
+* Modern Warfare 4 holds a confirmed Metacritic score of 89 on PlayStation and 86 on PC.
 
-## Campaign
-* Campaign Early Access opened on October 16, 2026, with the campaign also launching on Steam.
-* Players reported early access began at 10am PT (1pm ET / 6pm UK).
-* Players reported the campaign includes 16 missions, takes about 6 hours to finish, and features an open world mission, a mini DMZ mission, and a mission featuring Makarov.
-* Players reported…
+## What is included in the Modern Warfare 4 campaign?
 
-_Generated from 54 confirmed and 56 reported claims across 110 posts and 0 patch notes; last rendered 2026-10-26._
+* Modern Warfare 4 Campaign is an official game mode that launched early on Steam and other platforms.
+* Players report the campaign consists of 16 missions and takes about 6 hours to finish.
+* Players report the campaign includes an open-world mission, a mini DMZ mission, and a mission featuring Makarov.
+* Players report a fist fight occurs between Price and Makarov.
+* The ending credits received an update to correct credits issues, where players report the credits pay respects to Vince Zampella.
+* The song "C.R.E.A.M." was reloaded for Call of Duty: Modern Warfare 4.
+
+## How does multiplayer and DMZ work in Modern Warfare 4?
+
+* Modern Warfare 4 launched with 12 multiplayer maps and 12 dynamic intros for multiplayer maps.
+* Players report the launch roster includes 12 core 6v6 maps and 4 Gunfight maps.
+* Players report the map Shoot House is present in Modern Warfare 4 multiplayer.
+* Players report all multiplayer playlists rely on the Standard matchmaking system from the beta, with no Open Matchmaking playlists available.
+* Players report the Popular modes category features reduced or open skill-based matchmaking.
+* Modern Warfare 4 DMZ mode includes content related to the Wu-Tang Clan.
+* Infinity Ward developed the DMZ mode, which players report functions as an extraction shooter.
+* Modern Warfare 4 DMZ mode lacks a prestige system for DMZ levels, according to player reports.
+* Players can bypass a prestige issue by equipping rare (blue) weapons with…
+
+_Generated from 54 confirmed and 56 reported claims across 110 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

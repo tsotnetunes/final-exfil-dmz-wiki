@@ -1,16 +1,24 @@
 ---
 type: trait
 title: "Auto Fill"
-description: "The Auto Fill trait is reported to automatically replenish lethals and tacticals."
+description: "The Auto Fill trait causes lethals and tacticals to automatically replenish, according to player reports."
 status: draft
 brain_status: candidate
 sensitivity: public
 sources: [clm_afc354a32ecf, clm_6aac9d9c7dc0, clm_d5a1dc3ae648, src-activision-dmz-guide-part2-2026-10-09]
 ---
 <!-- generated:start -->
-Players report that the Auto Fill trait causes lethals and tacticals to automatically replenish.
+The Auto Fill trait causes lethals and tacticals to automatically replenish, as reported by players.
 
-_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-26._
+## What does Auto Fill do?
+
+Auto Fill causes lethals and tacticals to replenish automatically, according to player reports.
+
+## How do you play DMZ solo?
+
+Players report that to play DMZ solo, you must turn off squad fill.
+
+_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->
