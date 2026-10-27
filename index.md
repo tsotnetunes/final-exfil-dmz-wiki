@@ -42,10 +42,10 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[content-updates]] — content updates: awaiting confirmed details. · **candidate**
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
 - [[dmz-fob-mastery-calling-card]] — The DMZ FOB Mastery Calling Card is a calling card reported by players in DMZ. · **draft**
-- [[dmz-the-mode]] — DMZ is a mode where players can kill other operators and squads use vehicles, with update fixes confirmed on 26 Oct 2026. · **draft**
+- [[dmz-the-mode]] — DMZ is a combat mode where players can kill other operators and squads use vehicles. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Modern Warfare 4 launched globally on 23 Oct 2026 with Campaign, 12 core multiplayer maps, and DMZ early access. · **published**
+- [[modern-warfare-4]] — Modern Warfare 4 launched worldwide on 23 Oct 2026, bringing 12 multiplayer maps, early campaign access, and the DMZ extraction mode. · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
@@ -56,7 +56,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[beta-squad-calling-card]] — Beta Squad Calling Card: awaiting confirmed details. · **candidate**
 - [[dmz-beta-50-hours-calling-card]] — DMZ Beta 50 Hours Calling Card: awaiting confirmed details. · **candidate**
 - [[dmz-beta-50-hours-emblem]] — DMZ Beta 50 Hours Emblem: awaiting confirmed details. · **candidate**
-- [[dog-tags]] — Dog Tags reward DMZ Cash when extracted from Wanted players and are managed at the Dog Tag Case station in the FOB. · **published**
+- [[dog-tags]] — In Modern Warfare 4 DMZ, extracting with the Dog Tags of Wanted players rewards DMZ Cash, and the Dog Tag Case station is located in the FOB. · **published**
 - [[gold-bar]] — Gold Bar is a red tier item, with five Gold Bars reported by players as required for end game FOB upgrades. · **candidate**
 - [[gold-bars]] — Gold Bars are an item worth 25K according to player reports. · **candidate**
 - [[gold-skull]] — Players report that five Gold Skulls are required for end game FOB upgrades. · **candidate**
