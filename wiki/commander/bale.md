@@ -8,12 +8,14 @@ sensitivity: public
 sources: [clm_8232f069a06a, clm_f2a831ba9115, clm_20d29934633a, clm_e2417a18ffed, clm_bb52ef4108f8, clm_fee8ddd106b1, src-activision-dmz-guide-part1-2026-10-05, src-fpsjp-dynamic-ops-trailer-2026-10-07]
 ---
 <!-- generated:start -->
-Bale is an entity associated with the ranks of Lieutenant and Commander.
+Bale is a commander in DMZ. Players report this role for encounters within the mode.
 
-* Players report Bale holds the role of Lieutenant or Commander.
-* On 7 October 2026, players reported Bale is both a Lieutenant and Commander in DMZ.
+## What is Bale's rank in DMZ?
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-26._
+* Players report that Bale is a Lieutenant or Commander, according to reports from 7 Oct 2026.
+* A later report on 7 Oct 2026 stated that Bale serves as both a Lieutenant and Commander in DMZ.
+
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

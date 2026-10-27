@@ -1,18 +1,22 @@
 ---
 type: item
 title: "In-game rewards"
-description: "Watching MW4 on Twitch starting October 23 at 10am PT unlocks an Emblem, Weapon Charm, and Calling Card."
+description: "In-game rewards including an Emblem, Weapon Charm, and Calling Card unlock by watching MW4 on Twitch starting 23 Oct at 10am PT."
 status: draft
 brain_status: draft
 sensitivity: public
 sources: [clm_479eed447e3e]
 ---
 <!-- generated:start -->
-In-game rewards can be earned through external viewing events.
+In-game rewards can be earned by watching MW4 on Twitch beginning 23 Oct at 10am PT. These drops provide viewers with specific cosmetic items for their account.
 
-* Watching MW4 on Twitch starting October 23 at 10am PT unlocks an Emblem, a Weapon Charm, and a Calling Card.
+## How are in-game rewards unlocked?
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-23._
+* Watching MW4 on Twitch starting 23 Oct at 10am PT earns an Emblem.
+* Watching MW4 on Twitch starting 23 Oct at 10am PT earns a Weapon Charm.
+* Watching MW4 on Twitch starting 23 Oct at 10am PT earns a Calling Card.
+
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

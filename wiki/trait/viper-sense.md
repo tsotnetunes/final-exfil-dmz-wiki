@@ -8,9 +8,13 @@ sensitivity: public
 sources: [clm_e2ec787039a1, src-activision-dmz-guide-part2-2026-10-09]
 ---
 <!-- generated:start -->
-Viper Sense is a DMZ trait. Players report that this trait alerts the player when enemy operators are nearby.
+The Viper Sense trait is reported by players to alert the player when enemy operators are nearby.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-22._
+## What does Viper Sense do?
+
+Viper Sense alerts the player when enemy operators are nearby, according to player reports.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

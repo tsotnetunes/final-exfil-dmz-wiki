@@ -9,15 +9,19 @@ sources: [clm_bb4b2157af60, clm_162bac1414e5, clm_8ed714d7c354, clm_fc75f811681c
 aliases: ["notoriety", "bounty", "Bounty Station", "pay off bounty", "Most Wanted", "bounty hunter", "Killer", "vultures"]
 ---
 <!-- generated:start -->
-The bounty system is a gameplay mechanic in DMZ that places bounties on players who eliminate too many opponents.
+The bounty system and notoriety mechanic in Modern Warfare 4 DMZ marks aggressive operators and tracks competitive standings across matches. It affects player survival by drawing attention to targets who eliminate other participants.
 
-* In DMZ, killing too many players results in a bounty being placed on your head.
-* Players report that Modern Warfare 4 DMZ includes a bounty system.
-* Players report that bounties are an active mechanic raising the stakes in DMZ.
-* According to player reports, DMZ bounty leaderboards capture a snapshot of the top 100 players and bounty hunters on Thursday mornings.
-* Players report that the bounty leaderboards require a manual review of the list and accounts before they are published.
+## How does the bounty system work?
 
-_Generated from 1 confirmed and 4 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-24._
+* Players report that Modern Warfare 4 DMZ features a bounty mechanic.
+* It is confirmed that killing too many players in DMZ results in a bounty being placed on your head.
+
+## How do bounty leaderboards operate?
+
+* Players report that DMZ bounty leaderboards take a snapshot of the top 100 players and bounty hunters on Thursday mornings.
+* Players report that DMZ bounty leaderboards require a manual review of the list and accounts before they are published.
+
+_Generated from 1 confirmed and 4 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -9,11 +9,13 @@ sources: [clm_580e04417c3f, src-activision-dmz-guide-part1-2026-10-05, src-games
 aliases: ["NK forces", "AI enemies", "Tier 1", "Tier 4", "K9", "drone swarm", "LMG drone", "convoy", "Hundred Spirits"]
 ---
 <!-- generated:start -->
-North Korean forces operate as AI enemies encountered within the DMZ.
+North Korean forces appear as AI enemies in DMZ. Players encounter these combatants during deployments.
 
-* Low tier AI enemies in the DMZ are reported by players to be easy to kill.
+## How difficult are North Korean forces?
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-21._
+* Players report that low tier AI enemies in DMZ are easy to kill.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -9,11 +9,13 @@ sources: [clm_d162a2f6766a, src-activision-dmz-deep-dive-2026-06, src-activision
 aliases: ["Deathstalker", "Juggernaut", "Elite Strike Team", "drone swarm", "Colossus", "Main NK Battle Tank", "Commander"]
 ---
 <!-- generated:start -->
-Commander threats are hostile encounters faced in the field.
+Commander threats are hostile encounters that provide valuable rewards upon defeat. Defeating these commanders allows players to collect special loot drops.
 
-* The Deathstalker commander is reported by players to drop 3 lootable parts.
+## What loot does the Deathstalker drop?
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-26._
+* Players report that the Deathstalker commander drops 3 lootable parts.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

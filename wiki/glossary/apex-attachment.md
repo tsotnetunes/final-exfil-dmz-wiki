@@ -8,11 +8,13 @@ sensitivity: public
 sources: [clm_53d761688e7f, src-activision-dmz-deep-dive-2026-06]
 ---
 <!-- generated:start -->
-Apex Attachments are a category of equipment previously seen in testing.
+An Apex Attachment is a weapon modification item that was present during the beta. Players tracking these items consider them notable due to their availability status after the beta phase.
 
-* Apex Attachments that were available during the beta are reported by players to be missing.
+## Are Apex Attachments available?
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-25._
+* Apex Attachments from the beta are missing, as reported by players.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -9,11 +9,13 @@ sources: [clm_9ee7db0a613a, clm_829158fd0af8, src-activision-dmz-deep-dive-2026-
 aliases: ["weapon manual"]
 ---
 <!-- generated:start -->
-Weapon Manuals are items required to expand your arsenal.
+Weapon Manuals are items that unlock new weapons when players locate and extract them. They serve as a progression mechanic for expanding the available weapon arsenal.
+
+## How do Weapon Manuals work?
 
 * New weapons are unlocked by locating and extracting Weapon Manuals.
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-26._
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

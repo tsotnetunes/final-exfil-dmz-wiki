@@ -9,15 +9,22 @@ sources: [clm_ddf327b1e62d, clm_43eb9661dfec, clm_7395536c245c, clm_bd9383775a93
 aliases: ["DMZ Player Level", "Progression Track", "DMZ level", "level 70", "Dog Tag level", "Onyx III", "DMZ XP"]
 ---
 <!-- generated:start -->
-DMZ progression covers a dedicated 70-level advancement track that allows players to earn rewards and access new capabilities.
+DMZ progression is a 70-level system used to unlock FOB stations, upgrades, and crafting recipes. Advancing through this progression provides access to base features and crafting capabilities.
 
-* DMZ progression spans 70 levels and unlocks FOB stations, upgrades, and crafting recipes.
-* Players earn DMZ XP even if they fail to exfil.
-* Players report that DMZ has a 1-70 level track for FOB stations.
+* DMZ progression spans 70 levels, confirmed on 9 Oct 2026.
+* Progression unlocks FOB stations, upgrades, and crafting recipes, confirmed on 9 Oct 2026.
+* Players earn DMZ XP even if they fail to exfil, confirmed on 9 Oct 2026.
+* Players report that DMZ features a 1-70 level track for FOB stations.
 * Players report that DMZ allows leveling up Player XP, Weapon XP, and Rank XP.
 * Players report that playing DMZ awards levels for multiplayer and guns.
 
-_Generated from 2 confirmed and 3 reported claims across 5 posts and 0 patch notes; last rendered 2026-10-21._
+## How does DMZ XP work?
+
+* DMZ XP is awarded to players even after a failed exfil, confirmed on 9 Oct 2026.
+* Players report that DMZ gameplay awards levels for multiplayer and weapons.
+* Players report that Player XP, Weapon XP, and Rank XP can all be leveled up through DMZ.
+
+_Generated from 2 confirmed and 3 reported claims across 5 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

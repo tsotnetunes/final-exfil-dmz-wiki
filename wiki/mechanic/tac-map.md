@@ -9,13 +9,15 @@ sources: [clm_1388e898e92b, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["map", "Tac Map", "grid", "coordinates", "HUD"]
 ---
 <!-- generated:start -->
-The heads-up display (HUD) in MW4 features several layout updates.
+The Tac-Map and grid coordinates interface connects directly to the Modern Warfare 4 HUD, which displays essential navigation and combat information to players. Understanding HUD adjustments helps players track interface elements and locate tactical updates during matches.
 
-* Players report that squad operator portraits have been removed from the HUD.
-* Widgets on the HUD are more compact, according to player reports.
-* The kill feed has reportedly been moved back to its original position.
+## What changes were made to the HUD?
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-23._
+* Players report that the Modern Warfare 4 HUD was updated to remove squad operator portraits.
+* Players report that the updated HUD uses more compact widgets.
+* Players report that the kill feed was moved back to its original position.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

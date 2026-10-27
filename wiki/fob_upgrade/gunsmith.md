@@ -10,11 +10,13 @@ station: gunsmith
 unlock: progression
 ---
 <!-- generated:start -->
-Applying some weapon camos or reticles in the DMZ Gunsmith can result in a deduction of DMZ cash.
+The Gunsmith features a vendor with stock that rotates daily, as reported by players.
 
-Players also report that the Gunsmith features a vendor offering stock that rotates on a daily basis.
+## What costs are associated with the Gunsmith?
 
-_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-25._
+Applying some weapon camos or reticles in the DMZ Gunsmith can result in a deduction of DMZ cash. This mechanic was confirmed on 21 Oct 2026.
+
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

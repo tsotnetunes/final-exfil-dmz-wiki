@@ -12,19 +12,27 @@ location: unknown
 drops: dog tags, weapon
 ---
 <!-- generated:start -->
-## Overview
+Lieutenants are hostile bosses encountered in DMZ. Players report that known lieutenant bosses include Iskra, Jang-Ui, and Jin Tae (also styled JIN-TAE).
 
-Lieutenants are an enemy classification encountered in DMZ. Players report that these hostile bosses include Iskra, Jang-Ui, and Jin Tae (also referred to as JIN-TAE).
+| Boss Name | Classification |
+| --- | --- |
+| Iskra | Hostile Lieutenant Boss |
+| Jang-Ui | Lieutenant Boss |
+| Jin Tae | Lieutenant Boss |
 
-## Location
+## Where does it appear?
 
-According to player reports, a lieutenant appears in DMZ near the end of story missions.
+Lieutenants appear in DMZ. Players report that a lieutenant appears near the end of DMZ story missions.
 
-## Drops
+## How does it fight?
 
-Players report that lieutenants drop dog tags in DMZ.
+Players report that Lieutenants serve as hostile bosses in DMZ.
 
-_Generated from 0 confirmed and 8 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-26._
+## What does it drop?
+
+Lieutenants drop dog tags in DMZ according to player reports.
+
+_Generated from 0 confirmed and 8 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

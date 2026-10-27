@@ -11,9 +11,13 @@ tree: all
 tier: n/a
 ---
 <!-- generated:start -->
-Trait Points and trait trees customize Operators through specific character traits. Confirmed available traits include Warfighter, Scout, and Survivalist. This trait selection was confirmed on October 9, 2026.
+Traits include Warfighter, Scout, and Survivalist for Operator customization. These options were confirmed on 9 Oct 2026.
 
-## How do traits carry over between modes?
+## Which traits are available?
+
+Available options include Warfighter, Scout, and Survivalist.
+
+## Can traits farmed in PvE be used in regular DMZ?
 
 Players report that Operators with traits farmed in a PvE mode should not be usable in regular DMZ.
 

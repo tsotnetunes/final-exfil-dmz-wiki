@@ -10,11 +10,11 @@ station: stash
 unlock: start
 ---
 <!-- generated:start -->
-The Stash stores gear in Modern Warfare 4 DMZ, and what a player extracts matters as they build up their Stash. Extracted items are used to expand the Stash, as confirmed on October 7, 2026.
+The Stash stores items extracted from Modern Warfare 4 DMZ matches. Extracted items contribute directly to building up the Stash.
 
-## What does the Stash hold?
+## How much does the Stash hold?
 
-Players report that the DMZ stash holds 12 weapons and 58 items. Players also report that the Stash user interface can likely be updated for increased space.
+Players report that the DMZ stash holds 12 weapons and 58 items. Players also report that the Stash user interface can likely be upgraded to increase available storage space.
 
 _Generated from 1 confirmed and 3 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->

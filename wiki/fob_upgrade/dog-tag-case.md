@@ -11,9 +11,11 @@ station: dog-tag-case
 unlock: progression
 ---
 <!-- generated:start -->
-Players report that the Dog Tag Case requires DMZ Level 20 to unlock.
+## How is Dog Tag Case unlocked?
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-20._
+Dog Tag Case requires DMZ Level 20, as reported by players.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

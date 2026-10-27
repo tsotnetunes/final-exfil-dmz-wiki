@@ -10,9 +10,13 @@ station: wallet
 unlock: unknown
 ---
 <!-- generated:start -->
+The Wallet upgrade allows players to store cash, with reports indicating the bank capacity is capped at 100K.
+
+## How much cash does the Wallet hold?
+
 Players report that the DMZ bank caps at 100K.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-21._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

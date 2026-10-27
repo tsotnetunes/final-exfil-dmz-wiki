@@ -8,13 +8,9 @@ sensitivity: public
 sources: [clm_9eae7e022413, clm_cc5286446ac5]
 ---
 <!-- generated:start -->
-## Overview
-Players report that Operation Silent Ledger is a mission in DMZ. On October 8, 2026, it was further reported by players to be a story mission.
+Operation Silent Ledger is reported by players to be a story mission in DMZ. On 8 Oct 2026, players reported that Operation Silent Ledger is specifically a story mission, superseding the 7 Oct 2026 report classifying it generally as a mission.
 
-## Steps
-No mission steps have been reported.
-
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-24._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

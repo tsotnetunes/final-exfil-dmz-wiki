@@ -5,20 +5,25 @@ description: "Exfil sites move every match and show as green smoke: call the Twi
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_00d9ca66573a, clm_502f1885f07b, clm_19763d29ca5b, clm_907d1988e248, clm_0654da754a95, clm_4821865b60e5, clm_75fd786e4d31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_00d9ca66573a, clm_502f1885f07b, clm_19763d29ca5b, clm_907d1988e248, clm_0654da754a95, clm_4821865b60e5, clm_75fd786e4d31, clm_cf56ba61e6f8, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["extraction", "skyhook", "Twin Heli", "Fulton balloon", "Flare", "green smoke", "Monarch"]
 method: helicopter|skyhook
 ---
 <!-- generated:start -->
-Modern Warfare 4 features an extraction shooter mode known as DMZ, where extraction forms a core part of survival and mission completion.
+Exfil in Modern Warfare 4 DMZ is the extraction process required to leave the match safely in an extraction shooter mode. It matters because survival during extraction is essential to completing runs without being eliminated.
 
-* Modern Warfare 4's DMZ is an extraction shooter, as reported by players.
-* Fundamental mechanics of an extraction shooter include PvP, money or economy systems, and AI difficulty, according to player reports.
-* The exfil process takes about 90 seconds from calling it in until the chopper is down, as reported by players.
-* Exfil campers exist within DMZ, according to player reports.
-* Operation Critical Extraction is a mission in DMZ, with player reports noting on 2026-10-08 that it is specifically a story mission.
+* Modern Warfare 4 DMZ is reported by players to be an extraction shooter.
+* PvP, money or economy systems, and AI difficulty are reported by players to be fundamental mechanics of an extraction shooter.
+* Operation Critical Extraction is reported by players as a mission in DMZ.
+* Operation Critical Extraction was reported by players on 8 Oct 2026 to specifically be a story mission.
 
-_Generated from 0 confirmed and 6 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-24._
+## How does the exfil chopper work?
+
+* Players report that calling in an exfil takes about 90 seconds from the initial call until the chopper is down.
+* Players report that exfil campers exist in DMZ.
+* Players report that individuals can be killed while inside the exfil chopper.
+
+_Generated from 0 confirmed and 7 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

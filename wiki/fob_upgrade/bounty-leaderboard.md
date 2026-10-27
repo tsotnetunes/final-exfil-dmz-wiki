@@ -10,12 +10,17 @@ station: bounty-leaderboard
 unlock: progression
 ---
 <!-- generated:start -->
-There is a target located at the top of the Bounty Leaderboards.
+The Bounty Leaderboard features a target at the top of its rankings, confirmed on 24 Oct 2026.
 
-### Unlock Requirements
+## What does the upgrade unlock?
+
+A target appears at the top of the Bounty Leaderboards.
+
+## How is it unlocked?
+
 Players report that the Bounty Board requires DMZ Level 17.
 
-_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-24._
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -9,19 +9,22 @@ sources: [clm_3a8e17bcc079, clm_a9fba1b8bb2f, clm_23d4f9bb7b2b, clm_f1b717014ef6
 aliases: ["Camo grind", "Serpentine camo", "Mastery camos"]
 ---
 <!-- generated:start -->
-Players can take part in the camo grind in DMZ Early Access. Several unlock requirements for DMZ Mastery Camos, Special camos, and promotional rewards have been reported.
+DMZ camos and the camo hunt let players unlock weapon cosmetics by completing specific combat and extraction tasks during DMZ matches. It was confirmed on 18 Oct 2026 that players can camo grind in DMZ Early Access.
 
-## Requirements and Unlocks
+* Players can camo grind in DMZ.
+* Special camos require 125 Silenced kills in DMZ, as reported by players.
+* Monster Energy skins are available to use in DMZ if unlocked by redeeming codes from Modern Warfare 4 themed cans, as reported by players.
+* 2XP tokens can be unlocked through Monster Energy codes and are available in DMZ, as reported by players.
 
-* It is confirmed that players can camo grind in DMZ Early Access.
-* Players report that DMZ Mastery Camos require 2,500 tier 3+ kills.
-* Players report that DMZ Mastery Camos require extracting 2 Lieutenant Dog Tags in a single match 50 times.
-* Players report that DMZ Mastery Camos require 25,000 kills using legendary weapons.
-* Special camos are reported to require 125 Silenced kills in DMZ.
-* Players report that Monster Energy skins can be used in DMZ if unlocked by redeeming codes from Modern Warfare 4 themed cans.
-* Players report that 2XP tokens unlocked through Monster Energy codes are also available in DMZ.
+## What are the requirements for DMZ Mastery Camos?
 
-_Generated from 1 confirmed and 7 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-24._
+Players report the following requirements for DMZ Mastery Camos:
+
+* DMZ Mastery Camos require 2500 tier 3+ kills.
+* DMZ Mastery Camos require extracting 2 Lieutenant Dog Tags in a single match 50 times.
+* DMZ Mastery Camos require 25,000 kills using legendary weapons.
+
+_Generated from 1 confirmed and 7 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

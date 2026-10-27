@@ -12,19 +12,16 @@ loot_profile: high-value
 aliases: ["Casino (with vault)", "casino", "Heavenly Luck"]
 ---
 <!-- generated:start -->
-### Overview
+Heavenly Luck Casino serves as a location players visit for its story mission spawn point.
 
-Players report that the Heavenly Luck Casino contains a story mission spawn point.
+## Where is it?
+Players report that Heavenly Luck Casino contains a story mission spawn point.
 
-### Loot
+## What loot is there?
 
-Information on loot at this location is currently undocumented.
+## How dangerous is it?
 
-### Threats
-
-Information on threats at this location is currently undocumented.
-
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-24._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -1,16 +1,16 @@
 ---
 type: item
 title: "Hazmat Suit"
-description: "The Hazmat Suit is reported by players to be discarded upon exfil."
+description: "The Hazmat Suit is an item reported by players to be discarded upon exfil."
 status: draft
 brain_status: candidate
 sensitivity: public
 sources: [clm_f28fa8554173, clm_b5db07dcfcba, clm_324a4cc7c490, clm_c7d324fb5557, clm_731aa7db3d8e]
 ---
 <!-- generated:start -->
-The Hazmat Suit is an item reported by players to be discarded upon exfil.
+The Hazmat Suit is an item that players report is discarded upon exfil. This detail matters for players planning their inventory retention across extractions.
 
-## What happens to the Hazmat Suit upon exfil?
+## What happens to the Hazmat Suit upon extraction?
 
 * Players report that the Hazmat Suit is discarded upon exfil.
 

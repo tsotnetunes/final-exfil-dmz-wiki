@@ -11,11 +11,13 @@ unlock: progression
 aliases: ["Vendor"]
 ---
 <!-- generated:start -->
-Players report that the Weapon Vendor requires DMZ Level 10 to unlock.
+The Weapon Vendor allows players to purchase items such as the Door Breacher Charge. Players report that the Door Breacher Charge can sometimes be bought at the Weapon Vendor for 50K.
 
-According to player reports, the Door Breacher Charge can sometimes be purchased at the Vendor for 50K.
+## How is the Weapon Vendor unlocked?
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-25._
+Players report that the Weapon Vendor requires DMZ Level 10.
+
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

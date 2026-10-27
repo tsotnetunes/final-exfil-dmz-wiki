@@ -1,18 +1,18 @@
 ---
 type: item
 title: "Legendary Collection"
-description: "Legendary Collection is a collection feature included in the game, confirmed on October 24, 2026."
+description: "The Legendary Collection is an item collection featured in the game."
 status: draft
 brain_status: draft
 sensitivity: public
 sources: [clm_11943c977902]
 ---
 <!-- generated:start -->
-Legendary Collection is a collection feature included in the game. It provides a dedicated collection category for players.
+The Legendary Collection is an item collection featured in the game. It was confirmed on 24 Oct 2026.
 
-## What is the Legendary Collection?
+## What is known about the Legendary Collection?
 
-* The game features Legendary Collection, confirmed on October 24, 2026.
+* The game features the Legendary Collection.
 
 _Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->

@@ -9,11 +9,13 @@ sources: [clm_15b35293c60f, src-activision-dmz-deep-dive-2026-06, src-activision
 aliases: ["MIA", "rescue team", "missing in action", "lost operator", "operator does not exfil", "died without exfil"]
 ---
 <!-- generated:start -->
-The MIA system handles operator loss upon death during missions.
+The MIA system designates an Operator as missing in action when that Operator dies.
 
-* When you die, that Operator becomes MIA.
+## What happens when an Operator dies?
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-14._
+* An Operator is marked MIA upon death, confirmed on 7 Oct 2026.
+
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

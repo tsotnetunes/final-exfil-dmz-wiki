@@ -11,9 +11,13 @@ station: survival-kits
 unlock: start
 ---
 <!-- generated:start -->
-Players report that they can claim the DMZ Vault Edition Bonus at the Survival Kits Station to add it to their Stash.
+Survival Kits allow players to claim the DMZ Vault Edition Bonus to add it to their Stash, according to player reports.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-20._
+## Where is the Survival Kits station located?
+
+Players report that the DMZ Vault Edition Bonus can be claimed at the Survival Kits Station.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
 <!-- generated:end -->
 
 <!-- human:start -->

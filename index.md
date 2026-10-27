@@ -8,10 +8,10 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[commander-threats]] — Commanders are roaming bosses (Colossus, Deathstalker, the Main NK Battle Tank) that resist standard weapons and drop prized 3D Printer ingredients (official, … · **published**
 
 ## event (4) in `wiki/event/<id>.md`
-- [[dmz-week]] — DMZ Week is a Modern Warfare 4 event starting October 4 that includes information on the Hajin location. · **draft**
-- [[season-1]] — Season 1 is reported to launch in Warzone with Verdansk for Battle Royale, alongside Rebirth Island and Zodiac for Resurgence. · **published**
-- [[shipment]] — Shipment returns to Modern Warfare 4 on October 27 with a new look. · **draft**
-- [[twitch-drops-event]] — Players can earn in-game rewards by watching MW4 on Twitch starting October 23 at 10am PT. · **draft**
+- [[dmz-week]] — DMZ Week is a Modern Warfare 4 event starting 4 Oct that includes information on the Hajin location. · **draft**
+- [[season-1]] — Warzone Season 1 is reported by players to feature Verdansk, Rebirth Island, and Zodiac playlists at launch. · **published**
+- [[shipment]] — Shipment returns to Modern Warfare 4 on 27 Oct 2026 with a brand-new look. · **draft**
+- [[twitch-drops-event]] — Twitch Drops Event lets players earn in-game rewards by watching MW4 on Twitch starting 23 Oct at 10am PT. · **draft**
 
 ## exfil (1) in `wiki/exfil/<id>.md`
 - [[exfil]] — Exfil sites move every match and show as green smoke: call the Twin Heli and hold the spot until it lands, or leave by Fulton balloon or Flare (official guide,… · **published**
@@ -29,7 +29,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dog-tag-case]] — Unlocks at DMZ level 20: shows the dog tags you extracted (rarity, victim, killer, time); upgrades raise bounty payouts and add slots. · **published**
 - [[firing-range]] — The FOB's Firing Range: a wooded grove between the Gunsmith and the Vendor, with targets from under 10 m to over 100 m (official, 9 Oct guide). · **published**
 - [[fob]] — Your home between deployments; stations open from the start or by DMZ level: 3D Printer 2, Vendor 5, Gunsmith 10, Dog Tag Case 20, Boss Board after two Orders. · **published**
-- [[fob-forward-operating-base]] — The player's squad is confirmed to be in the Forward Operating Base (FOB), where materials are reported to be required for leveling up. · **draft**
+- [[fob-forward-operating-base]] — The Forward Operating Base (FOB) houses the player squad and contains the store, with upgrades in DMZ requiring materials to level up. · **draft**
 - [[gunsmith]] — Unlocks at DMZ level 10: buy base weapons (after extracting their Weapon Manual), attachment slots and attachments with DMZ Cash; weapon levels shared with MP. · **published**
 - [[orders]] — The FOB station where DMZ Orders are reviewed before a deployment; available from the start (official). How Orders work: see DMZ Orders. · **published**
 - [[stash]] — FOB storage shared by all your Operators: 40 items and 12 weapons at first, more with upgrades; Resources take no slots (official, 9 Oct guide). · **published**
@@ -41,11 +41,11 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[apex-attachment]] — A sixth attachment slot per weapon in the Gunsmith, on top of the usual five; what Apex Attachments do is not public before launch. · **published**
 - [[content-updates]] — content updates: awaiting confirmed details. · **candidate**
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
-- [[dmz-fob-mastery-calling-card]] — Players report that the DMZ FOB Mastery Calling Card is a calling card in DMZ. · **draft**
-- [[dmz-the-mode]] — DMZ received update fixes on October 26, 2026, while players report squad vehicle use and game breaking bugs in the mode. · **draft**
+- [[dmz-fob-mastery-calling-card]] — The DMZ FOB Mastery Calling Card is a calling card reported by players in DMZ. · **draft**
+- [[dmz-the-mode]] — DMZ is a mode where players can kill other operators and squads use vehicles, with update fixes confirmed on 26 Oct 2026. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Modern Warfare 4 launched worldwide on October 23, 2026, featuring 12 multiplayer maps, dynamic map intros, and dedicated DMZ and Campaign modes. · **published**
+- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launched worldwide on 23 Oct 2026, featuring a campaign, 12 core multiplayer maps, and the DMZ extraction mode. · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
@@ -56,45 +56,45 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[beta-squad-calling-card]] — Beta Squad Calling Card: awaiting confirmed details. · **candidate**
 - [[dmz-beta-50-hours-calling-card]] — DMZ Beta 50 Hours Calling Card: awaiting confirmed details. · **candidate**
 - [[dmz-beta-50-hours-emblem]] — DMZ Beta 50 Hours Emblem: awaiting confirmed details. · **candidate**
-- [[dog-tags]] — Dog Tags can be extracted from Wanted players in Modern Warfare 4 DMZ to earn DMZ Cash, and store at the Dog Tag Case in the FOB. · **published**
-- [[gold-bar]] — Players report that five Gold Bars, a red tier item, are required for end game FOB upgrades. · **candidate**
-- [[gold-bars]] — Players report that Gold Bars are worth 25K. · **candidate**
-- [[gold-skull]] — Gold Skull is an item that players report needing in a quantity of five for end game FOB upgrades. · **candidate**
-- [[grabber-drone]] — The Grabber Drone is a new tool introduced to players in Warzone. · **draft**
-- [[hazmat-suit]] — The Hazmat Suit is reported by players to be discarded upon exfil. · **candidate**
-- [[hyeon-burst-bp]] — The Hyeon Burst BP is an item reported by players to be earned after taking out a hunting team. · **candidate**
-- [[in-game-rewards]] — Watching MW4 on Twitch starting October 23 at 10am PT unlocks an Emblem, Weapon Charm, and Calling Card. · **draft**
-- [[legendary-collection]] — Legendary Collection is a collection feature included in the game, confirmed on October 24, 2026. · **draft**
-- [[legendary-dog-tag]] — Players report that the Legendary dog tag drops from the Scavenger, Bale, and Jang-Ui. · **candidate**
+- [[dog-tags]] — Dog Tags reward DMZ Cash when extracted from Wanted players and are managed at the Dog Tag Case station in the FOB. · **published**
+- [[gold-bar]] — Gold Bar is a red tier item, with five Gold Bars reported by players as required for end game FOB upgrades. · **candidate**
+- [[gold-bars]] — Gold Bars are an item worth 25K according to player reports. · **candidate**
+- [[gold-skull]] — Players report that five Gold Skulls are required for end game FOB upgrades. · **candidate**
+- [[grabber-drone]] — The Grabber Drone is a new tool introduced to Warzone for players to use in matches. · **draft**
+- [[hazmat-suit]] — The Hazmat Suit is an item reported by players to be discarded upon exfil. · **candidate**
+- [[hyeon-burst-bp]] — The Hyeon Burst BP is an item reported to be earned after taking out a hunting team of two players. · **candidate**
+- [[in-game-rewards]] — In-game rewards including an Emblem, Weapon Charm, and Calling Card unlock by watching MW4 on Twitch starting 23 Oct at 10am PT. · **draft**
+- [[legendary-collection]] — The Legendary Collection is an item collection featured in the game. · **draft**
+- [[legendary-dog-tag]] — A Legendary dog tag is an item reported by players to drop from The Scavenger, Bale, and Jang-Ui. · **candidate**
 - [[parachute]] — Base parachutes have limited uses (look in Fire Stations); infinite-use parachutes are rarer; both can be printed at the 3D Printer (developers' Q&A, 9 Oct). · **published**
-- [[red-tier-3-plate-vest]] — The Red Tier 3 Plate Vest is reported to be a red tier item. · **candidate**
-- [[tempered-armor-vest]] — The Tempered Armor Vest is one of 8 armor vests and can be found in a DMZ raid. · **candidate**
-- [[void-claw]] — An issue where players lost their Void Claw when picking up items has been resolved. · **retired**
-- [[zipline-launcher]] — The Zipline Launcher is a new tool available in Warzone. · **draft**
+- [[red-tier-3-plate-vest]] — The Red Tier 3 Plate Vest is reported by players to be a red tier item. · **candidate**
+- [[tempered-armor-vest]] — The Tempered Armor Vest is one of 8 armor vests that players report can be found in a DMZ raid. · **candidate**
+- [[void-claw]] — Void Claw is an item that players no longer lose upon picking up other items, following a fix confirmed on 8 Oct 2026. · **retired**
+- [[zipline-launcher]] — The Zipline Launcher is a new tool introduced for players in Warzone. · **draft**
 
 ## lieutenant (4) in `wiki/lieutenant/<id>.md`
 - [[gorani]] — A Lieutenant met in the high woodland above Hanrim Village: ghillie camouflage, a water-deer skull mask, an M4, camouflaged escorts, hard to track (official fi… · **published**
 - [[lieutenants]] — Named bosses with escorts: buy intel at the Boss Board or climb a Hunt tower; a kill pays DMZ Cash and drops a Dog Tag Case, maybe their weapon or a key. · **published**
-- [[roze]] — Players report that the lieutenant boss Roze appears in DMZ and drops the Kraken weapon. · **candidate**
+- [[roze]] — Roze is a lieutenant boss reported by players in DMZ who drops unique rewards, including the Kraken weapon. · **candidate**
 - [[the-warden]] — A Lieutenant met in Hajin's northern hills whose key, in the official field report, opens a sealed room beneath NuriGO Mall (5 Oct guide). · **published**
 
 ## material (1) in `wiki/material/<id>.md`
-- [[reactive-metals]] — Players report that Reactive Metals feed the 3D printer. · **candidate**
+- [[reactive-metals]] — Reactive Metals are a material reported by players to feed the 3D printer. · **candidate**
 
 ## mechanic (42) in `wiki/mechanic/<id>.md`
 - [[after-action-report]] — The end-of-deployment screen: loot and DMZ Cash banked, a rating from F to S++ for Objectives, Combat and Looting, XP to your DMZ level and Dog Tag level (offi… · **published**
-- [[audio-cue-for-giving-up]] — A distinct audio cue plays in DMZ when a player fully gives up. · **candidate**
+- [[audio-cue-for-giving-up]] — In DMZ, players report that a distinct audio cue plays whenever a player fully gives up. · **candidate**
 - [[bounty-system]] — Killing players earns a Bounty; four kills make you Wanted. Hunters buy intel at Bounty Stations and extract the target's Dog Tag to collect. · **published**
-- [[call-of-duty-app-updates]] — Players report that Call of Duty app updates are required to install MW4 and that the app was updated for Modern Warfare 4 ahead of Campaign Early Access. · **candidate**
+- [[call-of-duty-app-updates]] — Call of Duty app updates are required to install Modern Warfare 4 and arrived ahead of Campaign Early Access according to player reports. · **candidate**
 - [[dmz-camos]] — DMZ has its own camos and its camo grind starts with DMZ early access on 20 Oct; a successor to the 2022 Serpentine camo hunt is planned for later seasons. · **published**
-- [[dmz-orders]] — DMZ Orders are an objective type in DMZ featuring pages such as PG 10 for Lost Supply drops and PG 17 in MW4 DMZ. · **published**
+- [[dmz-orders]] — DMZ Orders are gameplay objectives in DMZ that include pages such as PG 10 for Lost Supply drops and PG 17. · **published**
 - [[dmz-progression]] — DMZ has its own levels 1 to 70, apart from Multiplayer's 55; XP from missions, loot and fights counts even without an exfil, and each Operator's Dog Tag has 18… · **published**
 - [[double-xp-tokens]] — 2XP tokens in MW4, DMZ included: you switch one on when you choose and it counts down only in matches; use is capped at one hour per token type a day and 40 ho… · **draft**
 - [[dynamic-weather]] — Downpours cut visibility, fog changes routes, convoys move on roads, helicopters cross the sky and hostile forces reposition WMDs during a match (official, pre… · **published**
-- [[exploiting-glitches]] — Exploiting glitches through the intentional abuse of exploits violates the Terms of Service. · **draft**
+- [[exploiting-glitches]] — Exploiting glitches through the intentional abuse of in-game exploits violates the Terms of Service. · **draft**
 - [[free-roam]] — Open exploration of Hajin without structured objectives; the third way to play alongside Story Missions and Dynamic Operations (official, pre-launch). · **published**
 - [[health-and-healing]] — Max health 150; the tourniquet gets you up from Last Stand at 100 with a wound, a Bandage lifts you briefly, a Medkit repairs the wound (developers' Q&A, 9 Oct… · **published**
-- [[item-duplication-glitches]] — Item duplication glitches violate the Terms of Service, and players report that duplicated weapons in DMZ are punished by having them deleted from your stash. · **draft**
+- [[item-duplication-glitches]] — Item duplication glitches violate the Terms of Service, and players report that duplicated weapons in DMZ are deleted from your stash. · **draft**
 - [[keys]] — Keys open special loot rooms; each key's description names its Tac-Map grid square, and Lieutenants can drop the key to their own room (official, 5 Oct guide). · **published**
 - [[locations-of-interest]] — The recurring map markers in Hajin and what each is for: gas, fire and police stations, clinics, caches, UAV and Lieutenant Hunt towers, compounds, Bounty Stat… · **published**
 - [[loot-placement]] — Loot is placed where it makes sense: tactical gear in police stations, medical supplies in hospitals, crafting resources in residential districts; damaged weap… · **published**
@@ -103,48 +103,48 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[mia-system]] — Killed Operators go MIA: pay DMZ Cash to recover them with their Traits (the price rises with Traits, gear is lost) or dismiss them. · **published**
 - [[missing-in-action]] — The MIA status an Operator gets for not getting out of a deployment; recovery and what it costs are on the MIA system page. · **candidate**
 - [[movement-and-tuning]] — Tac sprint is on by default; DMZ has its own weapon damage tuning around its armor; no armor-piercing or Stopping Power rounds for now (developers' Q&A, 9 Oct). · **published**
-- [[multiplayer]] — Multiplayer is live in Call of Duty: Modern Warfare 4 with boosted XP in Search & Destroy and Collateral, alongside fixes to spectating kicks. · **draft**
+- [[multiplayer]] — Multiplayer went live on 23 Oct 2026, offering updated XP boosts in Search & Destroy and Collateral alongside ongoing bug fixes. · **draft**
 - [[operator-prestige]] — Prestige a fully levelled Operator (18 Trait Points) by giving up rare gear and DMZ Cash; each Prestige adds a random permanent Trait, up to three. · **published**
-- [[operator-prestige-and-permanent-prestige-traits]] — Operator Prestige is a reported progression system in MW4 featuring Prestige Icons based on logos from all 10 Infinity Ward Call of Duty titles. · **candidate**
+- [[operator-prestige-and-permanent-prestige-traits]] — A prestige system exists for operators, with MW4 Prestige Icons reported to feature logos from all 10 Infinity Ward Call of Duty titles. · **candidate**
 - [[paid-infil]] — Infil options and prices: on foot free, Polaris Dagor A1 5,000, LTV 25,000, helicopter 50,000, cargo plane 100,000 DMZ Cash (choose your drop spot). · **published**
 - [[proximity-chat]] — Voice between nearby players with distance-based falloff, directionality and environmental reverb (official, pre-launch). · **published**
 - [[radiation-storm]] — Radiation spreads across Hajin during a deployment; the Time Remaining timer shows when the storm intensifies; as it worsens, head for an exfil (official, 5 Oc… · **published**
-- [[rescue]] — Paying the rescue cost returns a dead Operator along with their progressed Skill Tree and deployment experience. · **draft**
-- [[secure-slots]] — Items kept outside of Secure Slots are lost if a player fails to exfil. · **published**
+- [[rescue]] — Rescue returns a dead Operator alongside their progressed Skill Tree and deployment experience for a reported cost of 50. · **draft**
+- [[secure-slots]] — Secure Slots protect inventory items from being lost if a player fails to exfil. · **published**
 - [[server-culling]] — Ricochet anti-cheat in DMZ: server culling, TPM 2.0 and Secure Boot on PC, stronger account security (developers' Q&A and Xbox Wire). · **published**
-- [[skill-trees]] — Skill Trees are per Operator character progression paths. · **draft**
+- [[skill-trees]] — Skill Trees are individual progression systems configured per Operator. · **draft**
 - [[stealth-meter]] — HUD indicator and audio cues (white → yellow → orange) that show how close you are to being detected, aimed at solo play (official, pre-launch). · **published**
 - [[tac-map]] — The DMZ Tac-Map: objectives, POIs, threat areas, caches and spreading radiation on a grid with letters west to east and numbers north to south (D7 is Imjin Far… · **published**
 - [[threat-escalation]] — Every area of Hajin has a threat level (Low, Medium, High, Critical or Extreme) shown under the compass; loud play raises the enemy response, stealth calms it … · **published**
 - [[tourniquet]] — Everyone deploys with it: from Last Stand it gets you up at 100 health with a wound; it works again only at full health (official guide and developers' Q&A). · **published**
 - [[uav-towers]] — In DMZ, players can steal back UAV Towers from enemy control. · **draft**
 - [[vehicles]] — DMZ vehicles on land, water and in the air need repair and fuel at Gas Stations; the guide lists 14, from the Camper to the Monarch exfil helicopter (official,… · **published**
-- [[wanted-status]] — Players can acquire Wanted status by taking down rival Operators. · **published**
-- [[weapon-customization]] — DMZ Cash is required to customize weapons with attachments in DMZ. · **draft**
+- [[wanted-status]] — Wanted status is a gameplay mechanic triggered when players take down rival Operators. · **published**
+- [[weapon-customization]] — Weapon customization in DMZ requires DMZ Cash to equip attachments onto weapons. · **draft**
 - [[weapon-manuals]] — Extract a weapon's Manual to buy that weapon in the Gunsmith as often as you like; a Manual is used up at exfil and pays 5,000 DMZ Cash (official guide, 9 Oct). · **published**
 - [[what-carries-over]] — Persistent across deployments: operator traits and skill trees, FOB upgrades and stash, weapon unlocks from Weapon Manuals, Bounty Leaderboard standing, XP and… · **published**
-- [[what-carries-over-between-matches]] — Weapon levels, attachments, and camos earned in DMZ are reported to carry over to the game launch on October 23rd. · **candidate**
+- [[what-carries-over-between-matches]] — Weapon levels, attachments, and camos in DMZ are reported by players to carry over into the game launch on 23 Oct. · **candidate**
 
 ## mission (9) in `wiki/mission/<id>.md`
-- [[breaking-new-ground]] — Breaking New Ground is a mission featured in DMZ. · **draft**
-- [[dmz-mission-involving-a-cart]] — Players report that a DMZ mission in the game involves pushing around a cart. · **candidate**
-- [[dynamic-operations]] — Dynamic Operations are missions involving squad objectives across Hajin that award cash, XP, and supply drops of increasing rarity. · **published**
-- [[operation-shopping-hacks]] — Operation Shopping Hacks is a DMZ mission that players report rewards the Night Vision Goggles crafting recipe upon completion. · **candidate**
+- [[breaking-new-ground]] — Breaking New Ground is a confirmed mission in DMZ. · **draft**
+- [[dmz-mission-involving-a-cart]] — The DMZ mission involving a cart is reported by players to require pushing around a cart during the mission. · **candidate**
+- [[dynamic-operations]] — Dynamic Operations involve squad objectives across Hajin and reward cash, XP, and supply drops of increasing rarity. · **published**
+- [[operation-shopping-hacks]] — Operation Shopping Hacks is a DMZ mission reported to reward the Night Vision Goggles crafting recipe upon completion. · **candidate**
 - [[operation-silent-ledger]] — Operation Silent Ledger is reported by players to be a story mission in DMZ. · **candidate**
 - [[side-ops]] — Small optional tasks in a match (truck repairs, finding a supply drop, scaling a radio tower) that give XP alongside the main objectives (official, pre-launch). · **published**
-- [[story-missions]] — Story Missions in Modern Warfare 4 DMZ have designated spawn locations and unlock needed crafting recipes, according to player reports. · **published**
-- [[stranded]] — Progress in the Stranded mission is reported by players to save separately from the campaign checkpoint. · **candidate**
-- [[toxic-intercept-op]] — Toxic Intercept Op was fixed on October 21, 2026, to prevent it from incorrectly failing after completing the Defend the mission. · **draft**
+- [[story-missions]] — Story Missions in Modern Warfare 4 DMZ feature dedicated spawn locations and are reported to unlock needed crafting recipes. · **published**
+- [[stranded]] — Progress in the Stranded mission saves separately from the campaign checkpoint, according to player reports. · **candidate**
+- [[toxic-intercept-op]] — Toxic Intercept Op received a fix on 21 Oct 2026 resolving an issue where it could incorrectly fail after completing the Defend the mission. · **draft**
 
 ## poi (22) in `wiki/poi/<id>.md`
-- [[building-21]] — Players report that a new Building 21-type map will be released in Season 1. · **candidate**
+- [[building-21]] — Building 21 is a distinct map type, with a new Building 21-type map reported by players to be releasing in Season 1. · **candidate**
 - [[casino]] — A dark, multi-floor casino with an underground car park in Cheongun Village, northern Hajin; expected threat High, NVGs advised (official, pre-launch). · **published**
 - [[chang-san-air-base]] — An NK air base in western Hajin built into a granite hillside over a bunker complex larger than the base itself; exterior Critical, bunker Extreme (official, p… · **published**
 - [[cheongun-village]] — The northernmost South Korean area of Hajin, on the Russian border and the Hajin River, home of the Heavenly Luck Casino; mostly Low threat, casino High (offic… · **published**
 - [[cheonwang-peak-array]] — Hajin's largest telecom array (the DBN TV site) on a central summit, now an enemy barracks with a rooftop helipad; expected threat Medium (official, pre-launch… · **published**
 - [[deadtown]] — An abandoned NK farming town in southwest Hajin with sewers and two Re-Education Centers; exterior Low, Re-Education Center Medium (official, pre-launch). · **published**
 - [[fallout-reactor]] — Retired: the official name is Haneul Nuclear Reactor (guide of 5 Oct 2026); see that page. · **retired**
-- [[hajin]] — Hajin is a confirmed DMZ and Battle Royale map featuring 14 reported named locations along with roaming bosses and lieutenants. · **draft**
+- [[hajin]] — Hajin is a confirmed DMZ and Battle Royale map featuring 14 named locations alongside hostile lieutenants and roaming bosses. · **draft**
 - [[hajin-city-remains]] — Hajin City, the ruined urban east of the map: NuriGO Mall, The Grid, Songdo Wharf and Wolves Stadium, with Hajin River Heights to the southeast (official, 5 Oc… · **published**
 - [[hajin-exclusion-zone]] — DMZ's launch map: a radiation-scarred zone on the former NK and SK border with 13 major POIs and over 60 locations, up to 60 players; a Russian area opens in S… · **published**
 - [[hajin-river-heights]] — A battered residential district in southeast Hajin with Compound Echo and the Jinseo Park Towers; Medium threat throughout (official, pre-launch). · **published**
@@ -153,7 +153,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[military-base]] — A military base POI on Hajin, named by Activision; likely source of the abandoned military technology the factions fight over, but no official detail before la… · **published**
 - [[mirae-general-hospital]] — Hajin's main hospital in the north centre, beside a train station near The Grid and NuriGO Mall; expected threat Low (official, pre-launch). · **published**
 - [[nurigo-mall]] — A shopping district in northeast Hajin City with a large underground mall (NVGs advised); NuriGO East Medium, NuriGO West High (official, pre-launch). · **published**
-- [[power-plant]] — Players report that the Power Plant is a location in the game. · **candidate**
+- [[power-plant]] — The Power Plant is reported by players to be an in-game location. · **candidate**
 - [[prison-complex]] — A walled NK prison in northwest Hajin around the Citadel, a Y-shaped fortress of walkways and cell blocks; Prison High, Citadel Critical (official, pre-launch). · **published**
 - [[songdo-wharf]] — The waterfront of eastern Hajin City, with the La Grande Vie tower, a market, pier and lighthouse; Low threat, train and monorail still running (official, pre-… · **published**
 - [[the-grid]] — The walled-off business district at the heart of Hajin City; Critical throughout, Nenshin Tech Complex Extreme; rooftop fights and few ground-level escape rout… · **published**
@@ -188,13 +188,13 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 ## trait (7) in `wiki/trait/<id>.md`
 - [[adrenaline-burst]] — Warfighter Trait: killing an enemy resets your tactical sprint (official, 9 Oct guide). · **published**
 - [[air-superiority]] — Survivalist Trait: UAV towers and SAM sites you activate last longer (official, 9 Oct guide). · **published**
-- [[auto-fill]] — The Auto Fill trait causes lethals and tacticals to automatically replenish, according to player reports. · **candidate**
-- [[possum]] — Possum is currently in DMZ, where players report discussions around a suggested 30 second wait timer for its use. · **candidate**
+- [[auto-fill]] — Auto Fill is reported by players to automatically replenish lethal and tactical equipment. · **candidate**
+- [[possum]] — Possum is currently in DMZ, where players report there should be a 30 second wait timer to use it. · **candidate**
 - [[quick-fix]] — Warfighter Trait: killing an enemy Operator or AI shortens your health regeneration delay (official, 9 Oct guide). · **published**
 - [[trait-points]] — Operators earn Trait Points by levelling their Dog Tags (18 max) and spend them in three trees: Warfighter, Scout and Survivalist, 66 Traits in all. · **published**
 - [[viper-sense]] — Warfighter Trait: hides you from thermal optics and AI targeting systems (official, 9 Oct guide). · **published**
 
 ## weapon (3) in `wiki/weapon/<id>.md`
-- [[aston-martin-dreadnought]] — Players report that the Aston Martin Dreadnought is an armored SUV vehicle in MW4 DMZ. · **retired**
-- [[ltv]] — The LTV is reported by players to be a vehicle equipped with a mounted .50 Cal in MW4 DMZ. · **retired**
-- [[polaris-dagor-a1]] — The Polaris DAGOR is built for the toughest terrain and will be available in Modern Warfare 4 and DMZ at launch. · **retired**
+- [[aston-martin-dreadnought]] — Players report that the Aston Martin Dreadnought is an armored SUV vehicle featured in MW4 DMZ. · **retired**
+- [[ltv]] — Players report that the LTV in MW4 DMZ is a vehicle equipped with a mounted .50 Cal. · **retired**
+- [[polaris-dagor-a1]] — The Polaris Dagor A1 is a squad vehicle in Modern Warfare 4 DMZ built for the toughest terrain, confirmed to be available at launch. · **retired**
