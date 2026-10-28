@@ -45,7 +45,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-the-mode]] — DMZ is a mode where players can eliminate other operators, use squad vehicles, and purchase an exfil for $125K in cash. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launched worldwide on 23 Oct 2026 with 12 core multiplayer maps and Campaign early access. · **published**
+- [[modern-warfare-4]] — Modern Warfare 4 released worldwide on 23 Oct 2026 across PC, consoles, and Nintendo Switch 2, featuring Campaign, 12 launch MP maps, and DMZ mode. · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
