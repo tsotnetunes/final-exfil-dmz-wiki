@@ -45,7 +45,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-the-mode]] — DMZ is a mode where players can eliminate other operators, use squad vehicles, and purchase an exfil for $125K in cash. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Modern Warfare 4 released worldwide on 23 Oct 2026 across PC, consoles, and Nintendo Switch 2, featuring Campaign, 12 launch MP maps, and DMZ mode. · **published**
+- [[modern-warfare-4]] — Modern Warfare 4 launched worldwide on 23 Oct 2026, bringing 12 multiplayer maps, early campaign and DMZ access, and an 89 Metacritic score on PS5. · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
@@ -87,7 +87,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[bounty-system]] — Killing players earns a Bounty; four kills make you Wanted. Hunters buy intel at Bounty Stations and extract the target's Dog Tag to collect. · **published**
 - [[call-of-duty-app-updates]] — Call of Duty app updates are required to install Modern Warfare 4 and arrived ahead of Campaign Early Access according to player reports. · **candidate**
 - [[dmz-camos]] — DMZ has its own camos and its camo grind starts with DMZ early access on 20 Oct; a successor to the 2022 Serpentine camo hunt is planned for later seasons. · **published**
-- [[dmz-orders]] — DMZ Orders are an objective type in DMZ featuring objectives such as Lost Supply drops on PG 10. · **published**
+- [[dmz-orders]] — DMZ Orders are an objective type in DMZ, with players reporting Lost Supply drops on PG 10 and PG 17 included in MW4 DMZ. · **published**
 - [[dmz-progression]] — DMZ has its own levels 1 to 70, apart from Multiplayer's 55; XP from missions, loot and fights counts even without an exfil, and each Operator's Dog Tag has 18… · **published**
 - [[double-xp-tokens]] — 2XP tokens in MW4, DMZ included: you switch one on when you choose and it counts down only in matches; use is capped at one hour per token type a day and 40 ho… · **draft**
 - [[dynamic-weather]] — Downpours cut visibility, fog changes routes, convoys move on roads, helicopters cross the sky and hostile forces reposition WMDs during a match (official, pre… · **published**
@@ -146,7 +146,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[cheonwang-peak-array]] — Hajin's largest telecom array (the DBN TV site) on a central summit, now an enemy barracks with a rooftop helipad; expected threat Medium (official, pre-launch… · **published**
 - [[deadtown]] — An abandoned NK farming town in southwest Hajin with sewers and two Re-Education Centers; exterior Low, Re-Education Center Medium (official, pre-launch). · **published**
 - [[fallout-reactor]] — Retired: the official name is Haneul Nuclear Reactor (guide of 5 Oct 2026); see that page. · **retired**
-- [[hajin]] — Hajin is a DMZ and Battle Royale map featuring 14 named locations along with reported lieutenants and roaming bosses. · **draft**
+- [[hajin]] — Hajin is a DMZ and Battle Royale map featuring 14 named locations along with lieutenants and roaming bosses. · **draft**
 - [[hajin-city-remains]] — Hajin City, the ruined urban east of the map: NuriGO Mall, The Grid, Songdo Wharf and Wolves Stadium, with Hajin River Heights to the southeast (official, 5 Oc… · **published**
 - [[hajin-exclusion-zone]] — DMZ's launch map: a radiation-scarred zone on the former NK and SK border with 13 major POIs and over 60 locations, up to 60 players; a Russian area opens in S… · **published**
 - [[hajin-river-heights]] — A battered residential district in southeast Hajin with Compound Echo and the Jinseo Park Towers; Medium threat throughout (official, pre-launch). · **published**
