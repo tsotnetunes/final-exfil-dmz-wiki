@@ -42,7 +42,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[content-updates]] — content updates: awaiting confirmed details. · **candidate**
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
 - [[dmz-fob-mastery-calling-card]] — The DMZ FOB Mastery Calling Card is a calling card reported by players in DMZ. · **draft**
-- [[dmz-the-mode]] — DMZ is a combat mode where players can kill other operators and squads use vehicles. · **draft**
+- [[dmz-the-mode]] — DMZ is a mode where players can kill other operators and an exfil is reported to cost $125K in cash. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
 - [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launched worldwide on 23 Oct 2026 with 12 core multiplayer maps and Campaign early access. · **published**
@@ -105,7 +105,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[movement-and-tuning]] — Tac sprint is on by default; DMZ has its own weapon damage tuning around its armor; no armor-piercing or Stopping Power rounds for now (developers' Q&A, 9 Oct). · **published**
 - [[multiplayer]] — Multiplayer went live on 23 Oct 2026, offering updated XP boosts in Search & Destroy and Collateral alongside ongoing bug fixes. · **draft**
 - [[operator-prestige]] — Prestige a fully levelled Operator (18 Trait Points) by giving up rare gear and DMZ Cash; each Prestige adds a random permanent Trait, up to three. · **published**
-- [[operator-prestige-and-permanent-prestige-traits]] — Operator Prestige includes a prestige system for operators, with reported MW4 icons based on logos from all 10 Infinity Ward Call of Duty games. · **candidate**
+- [[operator-prestige-and-permanent-prestige-traits]] — Operator Prestige in Modern Warfare 4 DMZ allows players to prestige operators, featuring Prestige Icons based on 10 past Infinity Ward titles. · **candidate**
 - [[paid-infil]] — Infil options and prices: on foot free, Polaris Dagor A1 5,000, LTV 25,000, helicopter 50,000, cargo plane 100,000 DMZ Cash (choose your drop spot). · **published**
 - [[proximity-chat]] — Voice between nearby players with distance-based falloff, directionality and environmental reverb (official, pre-launch). · **published**
 - [[radiation-storm]] — Radiation spreads across Hajin during a deployment; the Time Remaining timer shows when the storm intensifies; as it worsens, head for an exfil (official, 5 Oc… · **published**
@@ -134,7 +134,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[operation-shopping-hacks]] — Operation Shopping Hacks is a DMZ mission reported to reward the Night Vision Goggles crafting recipe upon completion. · **candidate**
 - [[operation-silent-ledger]] — Operation Silent Ledger is reported by players to be a story mission in DMZ. · **candidate**
 - [[side-ops]] — Small optional tasks in a match (truck repairs, finding a supply drop, scaling a radio tower) that give XP alongside the main objectives (official, pre-launch). · **published**
-- [[story-missions]] — Story Missions in Modern Warfare 4 DMZ feature dedicated spawn locations and are reported to unlock needed crafting recipes. · **published**
+- [[story-missions]] — Story missions in Modern Warfare 4 DMZ feature designated spawn locations and unlock needed crafting recipes according to player reports. · **published**
 - [[stranded]] — Progress in the Stranded mission saves separately from the campaign checkpoint, according to player reports. · **candidate**
 - [[toxic-intercept-op]] — Toxic Intercept Op received a fix on 21 Oct 2026 resolving an issue where it could incorrectly fail after completing the Defend the mission. · **draft**
 
