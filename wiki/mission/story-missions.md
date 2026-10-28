@@ -5,24 +5,22 @@ description: "Story Missions in Modern Warfare 4 DMZ feature dedicated spawn loc
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_1373d27208f1, clm_85301b83d56c, clm_f0a271907aa3, clm_7983ec847f7e, clm_5b8f0e8c94f3, clm_94e4a795c9a7, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09, src-fpsjp-story-missions-trailer-2026-10-09, src-gamespark-tokyo-media-event-2026-10-01]
+sources: [clm_1373d27208f1, clm_85301b83d56c, clm_f0a271907aa3, clm_7983ec847f7e, clm_5b8f0e8c94f3, clm_94e4a795c9a7, clm_a61e522f4c73, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09, src-fpsjp-story-missions-trailer-2026-10-09, src-gamespark-tokyo-media-event-2026-10-01]
 aliases: ["story mission"]
 mission_kind: story
 ---
 <!-- generated:start -->
-Story Missions are mission objectives featured in Modern Warfare 4 DMZ.
-
-Players report that there are specific spawn locations for each Story Mission in Modern Warfare 4 DMZ. Players also report that a mini DMZ mission exists in the Modern Warfare 4 campaign.
+Story Missions in Modern Warfare 4 DMZ are objectives that players report unlock needed crafting recipes.
 
 ## How do you start it?
 
-Players report that dedicated spawn locations exist for each Story Mission in Modern Warfare 4 DMZ.
+Players report that there are spawn locations for each Story Mission in Modern Warfare 4 DMZ. Modern Warfare 4 also features story missions within the game. Players report that a mini DMZ mission exists in the Modern Warfare 4 campaign.
 
 ## Rewards
 
-Players report that completing Story Missions in Modern Warfare 4 DMZ unlocks needed crafting recipes.
+Players report that Story Missions reward needed crafting recipes by unlocking them.
 
-_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-28._
 <!-- generated:end -->
 
 <!-- human:start -->

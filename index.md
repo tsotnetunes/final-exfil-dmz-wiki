@@ -29,7 +29,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dog-tag-case]] — Unlocks at DMZ level 20: shows the dog tags you extracted (rarity, victim, killer, time); upgrades raise bounty payouts and add slots. · **published**
 - [[firing-range]] — The FOB's Firing Range: a wooded grove between the Gunsmith and the Vendor, with targets from under 10 m to over 100 m (official, 9 Oct guide). · **published**
 - [[fob]] — Your home between deployments; stations open from the start or by DMZ level: 3D Printer 2, Vendor 5, Gunsmith 10, Dog Tag Case 20, Boss Board after two Orders. · **published**
-- [[fob-forward-operating-base]] — The Forward Operating Base (FOB) houses the player squad and contains the store, with upgrades in DMZ requiring materials to level up. · **draft**
+- [[fob-forward-operating-base]] — The Forward Operating Base (FOB) is a DMZ location confirmed on 25 Oct 2026 where the player's squad is positioned and features upgrades leveled with materials. · **draft**
 - [[gunsmith]] — Unlocks at DMZ level 10: buy base weapons (after extracting their Weapon Manual), attachment slots and attachments with DMZ Cash; weapon levels shared with MP. · **published**
 - [[orders]] — The FOB station where DMZ Orders are reviewed before a deployment; available from the start (official). How Orders work: see DMZ Orders. · **published**
 - [[stash]] — FOB storage shared by all your Operators: 40 items and 12 weapons at first, more with upgrades; Resources take no slots (official, 9 Oct guide). · **published**
@@ -105,7 +105,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[movement-and-tuning]] — Tac sprint is on by default; DMZ has its own weapon damage tuning around its armor; no armor-piercing or Stopping Power rounds for now (developers' Q&A, 9 Oct). · **published**
 - [[multiplayer]] — Multiplayer went live on 23 Oct 2026, offering updated XP boosts in Search & Destroy and Collateral alongside ongoing bug fixes. · **draft**
 - [[operator-prestige]] — Prestige a fully levelled Operator (18 Trait Points) by giving up rare gear and DMZ Cash; each Prestige adds a random permanent Trait, up to three. · **published**
-- [[operator-prestige-and-permanent-prestige-traits]] — A prestige system exists for operators, with MW4 Prestige Icons reported to feature logos from all 10 Infinity Ward Call of Duty titles. · **candidate**
+- [[operator-prestige-and-permanent-prestige-traits]] — Operator Prestige includes a prestige system for operators, with reported MW4 icons based on logos from all 10 Infinity Ward Call of Duty games. · **candidate**
 - [[paid-infil]] — Infil options and prices: on foot free, Polaris Dagor A1 5,000, LTV 25,000, helicopter 50,000, cargo plane 100,000 DMZ Cash (choose your drop spot). · **published**
 - [[proximity-chat]] — Voice between nearby players with distance-based falloff, directionality and environmental reverb (official, pre-launch). · **published**
 - [[radiation-storm]] — Radiation spreads across Hajin during a deployment; the Time Remaining timer shows when the storm intensifies; as it worsens, head for an exfil (official, 5 Oc… · **published**
@@ -146,7 +146,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[cheonwang-peak-array]] — Hajin's largest telecom array (the DBN TV site) on a central summit, now an enemy barracks with a rooftop helipad; expected threat Medium (official, pre-launch… · **published**
 - [[deadtown]] — An abandoned NK farming town in southwest Hajin with sewers and two Re-Education Centers; exterior Low, Re-Education Center Medium (official, pre-launch). · **published**
 - [[fallout-reactor]] — Retired: the official name is Haneul Nuclear Reactor (guide of 5 Oct 2026); see that page. · **retired**
-- [[hajin]] — Hajin is a confirmed DMZ and Battle Royale map featuring 14 named locations alongside hostile lieutenants and roaming bosses. · **draft**
+- [[hajin]] — Hajin is a DMZ and Battle Royale map featuring 14 named locations along with reported lieutenants and roaming bosses. · **draft**
 - [[hajin-city-remains]] — Hajin City, the ruined urban east of the map: NuriGO Mall, The Grid, Songdo Wharf and Wolves Stadium, with Hajin River Heights to the southeast (official, 5 Oc… · **published**
 - [[hajin-exclusion-zone]] — DMZ's launch map: a radiation-scarred zone on the former NK and SK border with 13 major POIs and over 60 locations, up to 60 players; a Russian area opens in S… · **published**
 - [[hajin-river-heights]] — A battered residential district in southeast Hajin with Compound Echo and the Jinseo Park Towers; Medium threat throughout (official, pre-launch). · **published**
