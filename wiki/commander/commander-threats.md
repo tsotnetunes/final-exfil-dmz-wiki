@@ -5,17 +5,19 @@ description: "Commanders are roaming bosses (Colossus, Deathstalker, the Main NK
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_d162a2f6766a, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["Deathstalker", "Juggernaut", "Elite Strike Team", "drone swarm", "Colossus", "Main NK Battle Tank", "Commander"]
 ---
 <!-- generated:start -->
-Commander threats are hostile encounters that provide valuable rewards upon defeat. Defeating these commanders allows players to collect special loot drops.
+Commander threats include powerful autonomous units, heavily armored leaders, and special targets encountered in the field. Understanding these encounters helps players prepare appropriate strategies and claim valuable rewards.
 
-## What loot does the Deathstalker drop?
+## What commanders appear in the field?
 
+* Wheelson is an autonomous patrolling commander, confirmed on 28 Oct 2026.
+* The Captain consists of a Juggernaut and his elite guard, confirmed on 28 Oct 2026.
 * Players report that the Deathstalker commander drops 3 lootable parts.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 2 confirmed and 1 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-28._
 <!-- generated:end -->
 
 <!-- human:start -->

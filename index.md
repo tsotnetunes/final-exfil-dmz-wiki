@@ -9,7 +9,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## event (4) in `wiki/event/<id>.md`
 - [[dmz-week]] — DMZ Week is a Modern Warfare 4 event starting 4 Oct that includes information on the Hajin location. · **draft**
-- [[season-1]] — Warzone Season 1 is reported by players to feature Verdansk, Rebirth Island, and Zodiac playlists at launch. · **published**
+- [[season-1]] — Season 1 kicks off on 6 Nov, introducing the X01 DMZ Blacksite along with reported Warzone maps including Verdansk. · **published**
 - [[shipment]] — Shipment returns to Modern Warfare 4 on 27 Oct 2026 with a brand-new look. · **draft**
 - [[twitch-drops-event]] — Twitch Drops Event lets players earn in-game rewards by watching MW4 on Twitch starting 23 Oct at 10am PT. · **draft**
 
@@ -45,7 +45,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-the-mode]] — DMZ is a mode where players can eliminate other operators, use squad vehicles, and purchase an exfil for $125K in cash. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Modern Warfare 4 officially launched on 23 Oct 2026, featuring a campaign starring Mads Mikkelsen and 12 core multiplayer maps at launch. · **published**
+- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launched on 23 Oct 2026 with 12 core maps, campaign early access, and an extraction DMZ mode. · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**

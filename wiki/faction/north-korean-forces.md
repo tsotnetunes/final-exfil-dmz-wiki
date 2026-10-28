@@ -5,17 +5,21 @@ description: "The AI enemy in Hajin: four tiers of NK soldiers, drone swarms, LM
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_580e04417c3f, src-activision-dmz-guide-part1-2026-10-05, src-gamespark-tokyo-media-event-2026-10-01]
+sources: [clm_580e04417c3f, clm_88179a380fbb, src-activision-dmz-guide-part1-2026-10-05, src-gamespark-tokyo-media-event-2026-10-01]
 aliases: ["NK forces", "AI enemies", "Tier 1", "Tier 4", "K9", "drone swarm", "LMG drone", "convoy", "Hundred Spirits"]
 ---
 <!-- generated:start -->
-North Korean forces appear as AI enemies in DMZ. Players encounter these combatants during deployments.
+North Korean forces are an AI enemy faction found in the northern Exclusion Zone. They matter to players navigating the area because they hold a fortified position at facility X01.
 
-## How difficult are North Korean forces?
+## Where are North Korean forces located?
 
-* Players report that low tier AI enemies in DMZ are easy to kill.
+* North Korean forces have occupied the former Russian facility X01 in the northern Exclusion Zone, confirmed on 28 Oct 2026.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+## How difficult are AI enemies?
+
+* Low tier AI enemies in DMZ are easy to kill, as reported by players.
+
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-28._
 <!-- generated:end -->
 
 <!-- human:start -->

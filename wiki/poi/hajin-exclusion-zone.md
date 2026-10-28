@@ -5,38 +5,40 @@ description: "DMZ's launch map: a radiation-scarred zone on the former NK and SK
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_8accaa3d7831, clm_30653443233a, clm_60ec641390e2, clm_d81ecfda94de, clm_ebf7085229f9, clm_3816e02ae781, clm_d7748e7ec8bb, clm_a15a34d449f0, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-westie-dmz-ama-recap-2026-10-11]
+sources: [clm_8accaa3d7831, clm_30653443233a, clm_60ec641390e2, clm_d81ecfda94de, clm_ebf7085229f9, clm_3816e02ae781, clm_d7748e7ec8bb, clm_a15a34d449f0, clm_75bb19ee9527, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["Hajin", "the Exclusion Zone"]
 region: Hajin
 danger: varies
 loot_profile: all
 ---
 <!-- generated:start -->
-The Hajin Exclusion Zone is an active Exclusion Zone location in the game where players enter DMZ mode.
+The Hajin Exclusion Zone is an active Exclusion Zone location where DMZ matches take place. Operators enter the zone to complete missions.
 
 ## Where is it?
 
-The Hajin Exclusion Zone is confirmed as an in-game location.
+Hajin Exclusion Zone was confirmed as an active Exclusion Zone on 20 Oct 2026.
 
-On 20 Oct 2026, Hajin was confirmed as an active Exclusion Zone.
+Hajin was confirmed as a location in the game on 26 Oct 2026.
 
-Players report that DMZ mode takes place in Hajin.
+Players report that DMZ takes place in Hajin.
 
-Players report that Ground War mode supports 64 players and uses maps derived from the Hajin map in DMZ.
+Players report that Ground War mode uses maps derived from the Hajin map in DMZ.
+
+A whole new Exclusion Zone was confirmed for exploration in DMZ in Season 1 on 28 Oct 2026.
 
 ## What loot is there?
 
-Loot information for the Hajin Exclusion Zone is not detailed in current reports.
+The available records do not detail specific loot profiles for the Hajin Exclusion Zone.
 
 ## How dangerous is it?
 
-Operators can be present in the Hajin Exclusion Zone.
+Players report that Hajin will hold 60 players across 20 squads.
 
-Players report that not every Operator in Hajin is focused on the mission.
+Players report that Operators can be encountered across the zone.
 
-Players report that Hajin will host 60 players across 20 squads.
+Players report that Ground War mode supports 64 players across maps derived from Hajin.
 
-_Generated from 2 confirmed and 4 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 3 confirmed and 4 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-28._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -1,18 +1,22 @@
 ---
 type: event
 title: "Season 1"
-description: "Warzone Season 1 is reported by players to feature Verdansk, Rebirth Island, and Zodiac playlists at launch."
+description: "Season 1 kicks off on 6 Nov, introducing the X01 DMZ Blacksite along with reported Warzone maps including Verdansk."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, clm_bef876bdc624, clm_c1024f2fb281, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16]
+sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, clm_bef876bdc624, clm_c1024f2fb281, clm_4ae545748dba, clm_3044325b8a18, clm_64b8588379af, clm_033219bea076, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16]
 ---
 <!-- generated:start -->
-Season 1 is an upcoming event for Warzone that introduces a launch lineup of maps and modes. Players track Season 1 to see which playlists and battlegrounds become active when the season begins.
+Season 1 is an upcoming game season that kicks off on 6 Nov, bringing new maps and a DMZ Blacksite. The season update introduces new play spaces across Warzone and DMZ game modes.
 
-## Which maps are available at launch?
+* Season 1 officially kicks off on 6 Nov.
+* X01 is confirmed as a new DMZ Blacksite arriving in Season 1.
+* Players report that the X01 map releases on 6 Nov alongside Season 01.
 
-Players report that three map playlists are planned for Warzone at the start of Season 1:
+## What maps are available at launch?
+
+Players report that three Warzone maps will be available at the launch of Season 1:
 
 | Map | Mode | Status |
 | :--- | :--- | :--- |
@@ -20,11 +24,7 @@ Players report that three map playlists are planned for Warzone at the start of 
 | Rebirth Island | Resurgence | Reported by players |
 | Zodiac | Resurgence | Reported by players |
 
-* Players report Verdansk (Battle Royale) will be available in Warzone at Season 1 launch.
-* Players report Rebirth Island (Resurgence) will be available in Warzone at Season 1 launch.
-* Players report Zodiac (Resurgence) will be available in Warzone at Season 1 launch.
-
-_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 2 confirmed and 4 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-28._
 <!-- generated:end -->
 
 <!-- human:start -->
