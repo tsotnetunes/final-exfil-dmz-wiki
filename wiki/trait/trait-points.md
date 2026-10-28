@@ -5,32 +5,41 @@ description: "Operators earn Trait Points by levelling their Dog Tags (18 max) a
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9f492a24aab7, clm_e0f0b4c3d158, clm_f607b6b9963b, clm_51f7e1c5f386, clm_f1f95e1b6f10, clm_24b10c8643de, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_9f492a24aab7, clm_e0f0b4c3d158, clm_f607b6b9963b, clm_51f7e1c5f386, clm_f1f95e1b6f10, clm_24b10c8643de, clm_2c5d28cefa18, clm_0d5fa6dad722, clm_9d97c2d998df, clm_f1102b42c29e, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["traits", "trait tree"]
 tree: all
 tier: n/a
 ---
 <!-- generated:start -->
-Trait Points and trait trees customize Operators in Modern Warfare 4 DMZ with options such as Warfighter, Scout, and Survivalist. Official sources confirmed on 9 Oct 2026 that available traits include Warfighter, Scout, and Survivalist.
+Trait Points and trait trees customize operators in Modern Warfare 4 DMZ.
 
 ## Which traits are available in Modern Warfare 4 DMZ?
 
-Players report that traits in Modern Warfare 4 DMZ also include a permanent UAV and a Quick Exfil Trait. Players report that the Final Intel trait marks an additional exfil point on the map. Players report that Final Intel provides a free additional exfil for the entire match, allowing an Operator to summon a helicopter at any point.
+On 9 Oct 2026, it was confirmed that available traits include Warfighter, Scout, and Survivalist. 
 
-| Trait | Source status |
+Players report that Modern Warfare 4 DMZ also features traits such as permanent UAV and Quick Exfil. Players report that the Final Intel trait marks an extra exfil point on the map. Final Intel is reported by players to grant a free extra exfil for the entire match, allowing players to summon a helicopter at any point.
+
+The traits reported by players and confirmed officially are:
+
+| Trait | Status |
 | --- | --- |
 | Warfighter | Confirmed |
 | Scout | Confirmed |
 | Survivalist | Confirmed |
-| Permanent UAV | Reported by players |
-| Quick Exfil Trait | Reported by players |
-| Final Intel | Reported by players |
+| Permanent UAV | Player reported |
+| Quick Exfil | Player reported |
+| Final Intel | Player reported |
+| Possum | Player reported |
 
-## How do PvE modes affect traits in regular DMZ?
+## How does the Possum trait work?
 
-Players report that Operators who farmed traits in a PvE mode should not be usable in regular DMZ.
+The intended purpose of Possum is to give a high-level operator a second chance, according to player reports. Players report that operators cannot activate Possum near other operators in DMZ. Players also report that Possum cannot be activated if the enemy team that eliminated you is nearby, unless 4 minutes have elapsed. The range and duration settings for Possum are tunable in future updates according to player reports.
 
-_Generated from 1 confirmed and 4 reported claims across 5 posts and 0 patch notes; last rendered 2026-10-28._
+## Can traits farmed in PvE be used in regular DMZ?
+
+Players report that operators with traits farmed in a PvE mode should not be usable in regular DMZ.
+
+_Generated from 1 confirmed and 8 reported claims across 9 posts and 0 patch notes; last rendered 2026-10-28._
 <!-- generated:end -->
 
 <!-- human:start -->
