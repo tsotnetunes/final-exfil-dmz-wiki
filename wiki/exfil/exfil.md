@@ -10,21 +10,24 @@ aliases: ["extraction", "skyhook", "Twin Heli", "Fulton balloon", "Flare", "gree
 method: helicopter|skyhook
 ---
 <!-- generated:start -->
-Exfil in Modern Warfare 4 DMZ is the extraction process that allows players to leave a match in this extraction shooter. Understanding exfil mechanics matters because calling in extraction exposes players to threats and determines whether they survive the match.
+Exfil in Modern Warfare 4 DMZ is the extraction process required to leave the match safely in an extraction shooter mode. Understanding exfil mechanics matters because calling an extraction exposes players to opposing combatants and campers.
 
-## How does exfil work in Modern Warfare 4 DMZ?
-* Modern Warfare 4 DMZ is an extraction shooter, as reported by players on 7 Oct 2026.
-* Players report that PvP, money and economy systems, and AI difficulty are fundamental mechanics of an extraction shooter.
-* Operation Critical Extraction is a story mission in DMZ, as reported by players on 8 Oct 2026 after initially being noted as a standard mission on 7 Oct 2026.
-* The exfil process takes about 90 seconds from calling it in until the chopper is down, according to player reports from 20 Oct 2026.
-* Players report that exfil campers exist in DMZ.
-* Players can be killed while inside the exfil chopper, as reported on 27 Oct 2026.
+* Modern Warfare 4 DMZ is reported by players to be an extraction shooter.
+* PvP, money/economy, and AI difficulty are reported by players to be fundamental mechanics of an extraction shooter.
+* Operation Critical Extraction is reported by players to be a mission in Modern Warfare 4 DMZ, with players clarifying on 8 Oct 2026 that it is a story mission.
+
+## How does extraction work?
+
+* Players report that the exfil process takes about 90 seconds from calling it in until the chopper is down.
+* Players report that exfil campers exist in Modern Warfare 4 DMZ.
+* Players report that combatants can be killed while inside the exfil chopper.
 
 ## What is the final exfil?
-* The final exfil turns white after all other exfil locations have been engulfed by radiation, according to player reports from 27 Oct 2026.
-* Final Exfil is a location where players can hunt other players in DMZ, as reported by players on 27 Oct 2026.
 
-_Generated from 0 confirmed and 9 reported claims across 9 posts and 0 patch notes; last rendered 2026-10-27._
+* Players report that the final exfil turns white after all others have been engulfed by the radiation.
+* Players report that the Final Exfil is a location where players can hunt other players in Modern Warfare 4 DMZ.
+
+_Generated from 0 confirmed and 9 reported claims across 9 posts and 0 patch notes; last rendered 2026-10-28._
 <!-- generated:end -->
 
 <!-- human:start -->

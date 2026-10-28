@@ -9,13 +9,13 @@ sources: [clm_5b76bd4676ec, src-westie-dmz-ama-recap-2026-10-11, src-activision-
 aliases: ["Lobbies", "Squad size", "Player count", "Assimilation", "Reconnect"]
 ---
 <!-- generated:start -->
-Matchmaking, squads and lobbies govern how players group together and encounter other operators during a match. In DMZ, these squad features determine how teams function both before and during an infiltration.
+Matchmaking, squads and lobbies govern how players group together in Modern Warfare 4 DMZ, allowing team rosters to change during active matches. This system directly impacts team survival and player coordination in the field.
 
 ## Can players join other squads during a match?
 
-* Players report that DMZ features a squad joining mechanic that allows players to join other squads after spawning into a match.
+* Players report that Modern Warfare 4 DMZ features a squad joining mechanic that allows players to join other squads after spawning into a match.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-28._
 <!-- generated:end -->
 
 <!-- human:start -->

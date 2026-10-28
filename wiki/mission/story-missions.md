@@ -1,7 +1,7 @@
 ---
 type: mission
 title: "Story Missions"
-description: "Story missions in Modern Warfare 4 DMZ feature designated spawn locations and unlock needed crafting recipes according to player reports."
+description: "Story Missions in Modern Warfare 4 DMZ have designated spawn locations and unlock needed crafting recipes according to player reports."
 status: stable
 brain_status: published
 sensitivity: public
@@ -10,15 +10,15 @@ aliases: ["story mission"]
 mission_kind: story
 ---
 <!-- generated:start -->
-Story missions are narrative-focused objectives featured in Modern Warfare 4 DMZ mode. Players report that a mini DMZ mission also appears in the Modern Warfare 4 campaign.
+Story Missions are featured narrative assignments that players can engage in within Modern Warfare 4 DMZ. Modern Warfare 4 also features a mini DMZ mission within its campaign, as reported by players.
 
-## Where do story missions begin?
+## How do you start it?
 
-Players report that specific spawn locations exist for each story mission in Modern Warfare 4 DMZ.
+Players report that specific spawn locations exist for each Story Mission in Modern Warfare 4 DMZ.
 
-## What rewards do story missions grant?
+## Rewards
 
-Players report that completing story missions in Modern Warfare 4 DMZ unlocks needed crafting recipes.
+Completing Story Missions in Modern Warfare 4 DMZ unlocks needed crafting recipes, according to player reports.
 
 _Generated from 0 confirmed and 5 reported claims across 5 posts and 0 patch notes; last rendered 2026-10-28._
 <!-- generated:end -->

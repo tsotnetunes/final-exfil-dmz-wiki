@@ -8,9 +8,13 @@ sensitivity: public
 sources: [clm_a2e0e2cd58fd, src-activision-dmz-guide-part2-2026-10-09]
 ---
 <!-- generated:start -->
-The Quick Fix trait provides faster health regeneration, as reported by players.
+The Quick Fix trait provides faster health regeneration as reported by players.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+## What does Quick Fix do?
+
+Quick Fix provides faster health regeneration according to player reports.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-28._
 <!-- generated:end -->
 
 <!-- human:start -->

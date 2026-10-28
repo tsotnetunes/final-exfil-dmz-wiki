@@ -1,7 +1,7 @@
 ---
 type: mechanic
 title: "DMZ Orders"
-description: "DMZ Orders are gameplay objectives in DMZ that include pages such as PG 10 for Lost Supply drops and PG 17."
+description: "DMZ Orders are an objective type in DMZ featuring objectives such as Lost Supply drops on PG 10."
 status: stable
 brain_status: published
 sensitivity: public
@@ -9,15 +9,15 @@ sources: [clm_2bfe53b8ed23, clm_a847abe87f0f, clm_902c3c2536e9, src-activision-d
 aliases: ["Orders", "Orders Tablet", "Mission Directives"]
 ---
 <!-- generated:start -->
-DMZ Orders are a type of gameplay objective in DMZ. They provide players with structured tasks to complete during matches.
+DMZ Orders are a type of objective in DMZ that direct player tasks during gameplay. Understanding DMZ Orders helps players navigate different objectives and associated pages.
 
-## What is included in DMZ Orders?
+## What is known about DMZ Orders?
 
-* DMZ Orders serve as a type of objective in DMZ, confirmed on 5 Oct 2026.
-* Lost Supply drops are on PG 10 of DMZ Orders, as reported by players on 22 Oct 2026.
-* PG 17 is part of the DMZ Orders in MW4 DMZ, as reported by players on 24 Oct 2026.
+* DMZ Orders are confirmed as an objective type in DMZ, as confirmed on 5 Oct 2026.
+* Players report that Lost Supply drops are located on PG 10 of DMZ Orders.
+* Players report that PG 17 is included as part of the DMZ Orders in MW4 DMZ.
 
-_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-28._
 <!-- generated:end -->
 
 <!-- human:start -->

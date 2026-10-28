@@ -1,7 +1,7 @@
 ---
 type: item
 title: "Dog Tags"
-description: "In Modern Warfare 4 DMZ, extracting with the Dog Tags of Wanted players rewards DMZ Cash, and the Dog Tag Case station is located in the FOB."
+description: "Extracting with the Dog Tags of Wanted players rewards DMZ Cash, and the Dog Tag Case station is located in the FOB."
 status: stable
 brain_status: published
 sensitivity: public
@@ -9,23 +9,21 @@ sources: [clm_1dda32204130, clm_ac70379c09b8, clm_f8c43f6e8da8, clm_60f9fe17bb96
 aliases: ["dog tag", "Dog Tag Case"]
 ---
 <!-- generated:start -->
-Dog Tags are collectible player items in Modern Warfare 4 DMZ that provide gameplay rewards upon extraction. Extracting with the Dog Tags of Wanted players rewards DMZ Cash.
+Dog Tags are extractable items in Modern Warfare 4 DMZ that award DMZ Cash when taken from Wanted players.
 
-* Extracting with the Dog Tags of Wanted players rewards DMZ Cash, confirmed on 9 Oct 2026.
-* Players report that players can carry lieutenant tags in DMZ.
+* Extracting with the Dog Tags of Wanted players rewards DMZ Cash.
+* Players report that players can carry lieutenant tags in Modern Warfare 4 DMZ.
 * An issue confirmed on 27 Oct 2026 caused some PC players to encounter a network error when extracting with a Dog Tag.
 
 ## Where is the Dog Tag Case located?
 
-The Dog Tag Case station is located in the FOB.
-
-* The Dog Tag Case station is located in the FOB, confirmed on 21 Oct 2026.
+* The Dog Tag Case station is located in the FOB.
 * Players report that the Dog Tag Case unlocks at DMZ Level 20.
-* On 21 Oct 2026, an error when opening the Dog Tag Case station in the FOB made it inaccessible for some players.
-* Players report that the dog tag case in DMZ was fixed in the latest update to Modern Warfare 4.
-* Players can access the Dog Tag Case in the FOB, confirmed on 21 Oct 2026.
+* On 21 Oct 2026, an error when opening the Dog Tag Case station in the FOB was confirmed to make it inaccessible for some players.
+* Players report that the dog tag case in Modern Warfare 4 DMZ was fixed in the latest update.
+* On 21 Oct 2026, it was confirmed that players can access the Dog Tag Case in the FOB.
 
-_Generated from 5 confirmed and 3 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 5 confirmed and 3 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-28._
 <!-- generated:end -->
 
 <!-- human:start -->

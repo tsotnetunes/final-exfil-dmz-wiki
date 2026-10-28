@@ -11,24 +11,24 @@ tree: all
 tier: n/a
 ---
 <!-- generated:start -->
-Trait Points and trait trees provide operator customization options in Modern Warfare 4 DMZ.
+Trait Points and trait trees customize Operators in Modern Warfare 4 DMZ with options such as Warfighter, Scout, and Survivalist. Official sources confirmed on 9 Oct 2026 that available traits include Warfighter, Scout, and Survivalist.
 
 ## Which traits are available in Modern Warfare 4 DMZ?
 
-Confirmed available traits include Warfighter, Scout, and Survivalist, which were confirmed on 9 Oct 2026. Players report that traits also include a permanent UAV and the Quick Exfil Trait. Players report that the Final Intel trait marks an additional exfil point on the map. Players also report that Final Intel grants a free additional exfil for the entire match, which lets an operator summon an extraction helicopter at any point.
+Players report that traits in Modern Warfare 4 DMZ also include a permanent UAV and a Quick Exfil Trait. Players report that the Final Intel trait marks an additional exfil point on the map. Players report that Final Intel provides a free additional exfil for the entire match, allowing an Operator to summon a helicopter at any point.
 
-| Trait | Status |
+| Trait | Source status |
 | --- | --- |
 | Warfighter | Confirmed |
 | Scout | Confirmed |
 | Survivalist | Confirmed |
-| Permanent UAV | Player-reported |
-| Quick Exfil Trait | Player-reported |
-| Final Intel | Player-reported |
+| Permanent UAV | Reported by players |
+| Quick Exfil Trait | Reported by players |
+| Final Intel | Reported by players |
 
-## How do traits interact with game modes?
+## How do PvE modes affect traits in regular DMZ?
 
-Players report that operators with traits obtained in a PvE mode should not be usable in regular DMZ.
+Players report that Operators who farmed traits in a PvE mode should not be usable in regular DMZ.
 
 _Generated from 1 confirmed and 4 reported claims across 5 posts and 0 patch notes; last rendered 2026-10-28._
 <!-- generated:end -->
