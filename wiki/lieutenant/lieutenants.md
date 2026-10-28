@@ -5,34 +5,38 @@ description: "Named bosses with escorts: buy intel at the Boss Board or climb a 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_e9f8c69f2b20, clm_11c4521ef65f, clm_133be03ad563, clm_ac4a74fc6342, clm_0892055f6578, clm_010cca1f3297, clm_8e41bf518b21, clm_5743b50c7983, clm_c101e44b551c, clm_c305b5549cf0, clm_8954c5cec1aa, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-fpsjp-dynamic-ops-trailer-2026-10-07]
+sources: [clm_e9f8c69f2b20, clm_11c4521ef65f, clm_133be03ad563, clm_ac4a74fc6342, clm_0892055f6578, clm_010cca1f3297, clm_8e41bf518b21, clm_5743b50c7983, clm_c101e44b551c, clm_c305b5549cf0, clm_8954c5cec1aa, clm_0b485450cfd7, clm_3ca7ca230411, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-fpsjp-dynamic-ops-trailer-2026-10-07]
 aliases: ["bosses", "lieutenant", "Lieutenant Hunt"]
 weapon: unique
 location: unknown
 drops: dog tags, weapon
 ---
 <!-- generated:start -->
-Lieutenants are hostile bosses encountered in DMZ. Players report that known lieutenant bosses include Iskra, Jang-Ui, and Jin Tae (also styled JIN-TAE).
-
-| Boss Name | Classification |
-| --- | --- |
-| Iskra | Hostile Lieutenant Boss |
-| Jang-Ui | Lieutenant Boss |
-| Jin Tae | Lieutenant Boss |
+Lieutenants are hostile bosses encountered in DMZ.
 
 ## Where does it appear?
 
-Lieutenants appear in DMZ. Players report that a lieutenant appears near the end of DMZ story missions.
+Lieutenants appear near the end of DMZ story missions, as reported by players. DMZ deployments also feature these adversaries as hostile bosses. Players report several individual lieutenants who appear in DMZ deployments:
+
+| Lieutenant | Role |
+| --- | --- |
+| Chol-Min (“The Wrench”) | Lieutenant boss |
+| Iskra | Hostile lieutenant boss |
+| Jang-Ui | Lieutenant boss |
+| Jin Tae (JIN-TAE) | Lieutenant boss |
+| Tae-Hyun (“Knuckle”) | Lieutenant boss |
+
+Chol-Min (“The Wrench”) and Tae-Hyun (“Knuckle”) are both reported as dangerous adversaries in DMZ deployments.
 
 ## How does it fight?
 
-Players report that Lieutenants serve as hostile bosses in DMZ.
+Lieutenants fight as hostile lieutenant bosses and dangerous adversaries in DMZ deployments, as reported by players.
 
 ## What does it drop?
 
-Lieutenants drop dog tags in DMZ according to player reports.
+Lieutenants drop dog tags in DMZ, as reported by players.
 
-_Generated from 0 confirmed and 8 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 0 confirmed and 10 reported claims across 8 posts and 0 patch notes; last rendered 2026-10-28._
 <!-- generated:end -->
 
 <!-- human:start -->
