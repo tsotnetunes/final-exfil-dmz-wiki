@@ -5,19 +5,24 @@ description: "Commanders are roaming bosses (Colossus, Deathstalker, the Main NK
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db, clm_a0e50790b208, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db, clm_a0e50790b208, clm_2709a2129c64, clm_855a0d332b7b, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["Deathstalker", "Juggernaut", "Elite Strike Team", "drone swarm", "Colossus", "Main NK Battle Tank", "Commander"]
 ---
 <!-- generated:start -->
-Commander threats are encounters that include autonomous units and guarded bosses that award loot. Knowing their forms and unit compositions helps players prepare the right counters before engaging them.
+Commander threats are high-value hostile encounters that present formidable combat challenges across DMZ.
 
-## What commander threats can players encounter?
+## Which commanders appear in DMZ?
 
-* The Captain was confirmed on 28 Oct 2026 as a Juggernaut and his elite guard.
-* Wheelson was confirmed on 28 Oct 2026 as an autonomous patrolling commander.
+* Wheelson is confirmed as an autonomous patrolling commander on 28 Oct 2026.
+* The Captain is confirmed on 28 Oct 2026 as a Juggernaut accompanied by his elite guard.
 * Players report that the Deathstalker commander drops 3 lootable parts.
 
-_Generated from 2 confirmed and 2 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-28._
+## How do players defeat the Deathstalker Commander Boss?
+
+* Players report that an RPG can defeat the Deathstalker Commander Boss with 2 rockets.
+* Players report that the Astaroth 57 sniper can defeat the Deathstalker Commander Boss with 4 well placed shots.
+
+_Generated from 2 confirmed and 4 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-29._
 <!-- generated:end -->
 
 <!-- human:start -->

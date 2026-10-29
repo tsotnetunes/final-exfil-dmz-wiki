@@ -5,28 +5,32 @@ description: "Your home between deployments; stations open from the start or by 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_46243e27d86a, clm_fd90953238b0, clm_c5bec6dd520b, clm_dffa557cf032, clm_f08caeac8e56, clm_be702dd26814, clm_0601ee8f8cb8, clm_d9ca819a3519, clm_b5908fa8c1b3, clm_311263850855, clm_f5097de48b29, clm_111f7819c275, clm_0c3606301241, clm_13bf76b7e20e, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11]
+sources: [clm_46243e27d86a, clm_fd90953238b0, clm_c5bec6dd520b, clm_dffa557cf032, clm_f08caeac8e56, clm_be702dd26814, clm_0601ee8f8cb8, clm_d9ca819a3519, clm_b5908fa8c1b3, clm_311263850855, clm_f5097de48b29, clm_111f7819c275, clm_0c3606301241, clm_13bf76b7e20e, clm_0217c096a2ca, clm_33a4b2ec6e55, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["Forward Operating Base", "the base"]
 station: hub
 unlock: start
 ---
 <!-- generated:start -->
-The Forward Operating Base upgrade levels up player gear, as reported by players.
+Upgrading the FOB (Forward Operating Base) levels up player gear in Modern Warfare 4 DMZ, as reported by players.
 
-## What is the Forward Operating Base?
+The FOB is confirmed as the starting point for deployments. Preparation confirmedly starts at the FOB as well. Players report that the FOB is a walk-around base shared with the squad and acts as a social hub. Players also report that the FOB shows party leaders. Furthermore, players describe the FOB in DMZ as a starting point for bringing back Headquarters.
 
-The Forward Operating Base is confirmed as the starting point for deployments. Official confirmation on 7 Oct 2026 established that preparation starts at the Forward Operating Base. Players report that the Forward Operating Base is a feature in Modern Warfare 4 DMZ. Players report that the Forward Operating Base is a walk-around base shared with the squad. Players also report that the base serves as a social hub for the squad. Players report that the Forward Operating Base shows party leaders. Players report that the Forward Operating Base in DMZ serves as a starting point for bringing back Headquarters.
+## What stations and features are in the FOB?
 
-## What features are inside the Forward Operating Base?
+Players report that the FOB includes a Firing Range, Vendors, and Crafting.
 
-Players report that the Forward Operating Base includes a Firing Range, Vendors, and Crafting.
+Access locations and unlock requirements for specific stations have been reported by players:
 
-| Feature | Access Method | Unlock Requirement |
+| Station | Access Method | Unlock Requirement |
 | :--- | :--- | :--- |
-| Vendor | Inside FOB or left side blade menu | DMZ Level 5 |
-| Gunsmith | Inside FOB or left side blade menu | DMZ Level 10 |
+| Vendor | Accessed within the FOB or the left side blade menu | DMZ Level 5 |
+| Gunsmith | Accessed within the FOB or the left side blade menu | DMZ Level 10 |
 
-_Generated from 3 confirmed and 9 reported claims across 12 posts and 0 patch notes; last rendered 2026-10-28._
+## How are FOB upgrades completed?
+
+Players report that Stock Rods and Turned Components are essential crafting items in DMZ needed for essential FOB upgrades and high tier crafts. Players also report that you need to down Deathstalker Commander Bosses to finish FOB upgrades in DMZ.
+
+_Generated from 3 confirmed and 11 reported claims across 14 posts and 0 patch notes; last rendered 2026-10-29._
 <!-- generated:end -->
 
 <!-- human:start -->
