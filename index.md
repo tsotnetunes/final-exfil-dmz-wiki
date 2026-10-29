@@ -42,10 +42,10 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[content-updates]] — Content updates deliver fixes and improvements to Modern Warfare 4, including a confirmed release on 28 Oct 2026. · **draft**
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
 - [[dmz-fob-mastery-calling-card]] — The DMZ FOB Mastery Calling Card is a calling card reported by players in DMZ. · **draft**
-- [[dmz-the-mode]] — DMZ is a raid mode where squads use vehicles, eliminate rival operators, and can purchase an exfil for $125K in cash. · **draft**
+- [[dmz-the-mode]] — DMZ is a PvPvE mode where players report that an exfil costs $125K in cash and squads use vehicles. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Modern Warfare 4 launched on 23 Oct 2026 with 12 multiplayer maps, early access campaign missions, and a standalone DMZ extraction mode. · **published**
+- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launched worldwide on 23 Oct 2026, featuring a campaign, 12 launch multiplayer maps, and an extraction DMZ mode. · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
@@ -118,7 +118,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[tank-looting]] — Tanks drop legendary loot after they are taken down, according to player reports. · **candidate**
 - [[threat-escalation]] — Every area of Hajin has a threat level (Low, Medium, High, Critical or Extreme) shown under the compass; loud play raises the enemy response, stealth calms it … · **published**
 - [[tourniquet]] — Everyone deploys with it: from Last Stand it gets you up at 100 health with a wound; it works again only at full health (official guide and developers' Q&A). · **published**
-- [[uav-towers]] — In DMZ, players can steal back UAV Towers from enemy control to contest surveillance. · **draft**
+- [[uav-towers]] — UAV Towers in DMZ are activatable tactical structures that players can steal back from enemy control. · **draft**
 - [[vehicles]] — DMZ vehicles on land, water and in the air need repair and fuel at Gas Stations; the guide lists 14, from the Camper to the Monarch exfil helicopter (official,… · **published**
 - [[wanted-status]] — Wanted status is a gameplay mechanic triggered when players take down rival Operators. · **published**
 - [[war-spoils-camo]] — The War Spoils Camo is reported by players to be available for the Pila launcher in MW4. · **candidate**
