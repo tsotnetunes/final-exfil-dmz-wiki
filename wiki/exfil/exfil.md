@@ -10,24 +10,21 @@ aliases: ["extraction", "skyhook", "Twin Heli", "Fulton balloon", "Flare", "gree
 method: helicopter|skyhook
 ---
 <!-- generated:start -->
-Exfil in Modern Warfare 4 DMZ is the extraction process required to leave the match safely in an extraction shooter mode. Understanding exfil mechanics matters because calling an extraction exposes players to opposing combatants and campers.
-
-* Modern Warfare 4 DMZ is reported by players to be an extraction shooter.
-* PvP, money/economy, and AI difficulty are reported by players to be fundamental mechanics of an extraction shooter.
-* Operation Critical Extraction is reported by players to be a mission in Modern Warfare 4 DMZ, with players clarifying on 8 Oct 2026 that it is a story mission.
+Modern Warfare 4 DMZ is an extraction shooter where exfil allows players to secure their progress and leave the match. The mode features fundamental mechanics including PvP, an in-game money and economy system, and AI difficulty.
 
 ## How does extraction work?
 
-* Players report that the exfil process takes about 90 seconds from calling it in until the chopper is down.
-* Players report that exfil campers exist in Modern Warfare 4 DMZ.
-* Players report that combatants can be killed while inside the exfil chopper.
+* Players report that calling in an exfil chopper takes about 90 seconds until the chopper is down.
+* Players report that campers exist around exfil points in Modern Warfare 4 DMZ.
+* Players report that it is possible to be killed while inside the exfil chopper.
+* Players report that Operation Critical Extraction is a story mission in Modern Warfare 4 DMZ, superseding an earlier report on 7 Oct 2026 describing it generally as a mission.
 
 ## What is the final exfil?
 
-* Players report that the final exfil turns white after all others have been engulfed by the radiation.
-* Players report that the Final Exfil is a location where players can hunt other players in Modern Warfare 4 DMZ.
+* Players report that the final exfil turns white after all other extraction points have been engulfed by radiation.
+* Players report that the final exfil serves as a location where players can hunt other players in Modern Warfare 4 DMZ.
 
-_Generated from 0 confirmed and 9 reported claims across 9 posts and 0 patch notes; last rendered 2026-10-28._
+_Generated from 0 confirmed and 9 reported claims across 9 posts and 0 patch notes; last rendered 2026-10-29._
 <!-- generated:end -->
 
 <!-- human:start -->

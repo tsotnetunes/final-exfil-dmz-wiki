@@ -9,18 +9,16 @@ sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db
 aliases: ["Deathstalker", "Juggernaut", "Elite Strike Team", "drone swarm", "Colossus", "Main NK Battle Tank", "Commander"]
 ---
 <!-- generated:start -->
-Commander threats are high-value hostile encounters that present formidable combat challenges across DMZ.
+Commander threats are high-value hostile encounters that present formidable combat challenges and unique loot opportunities in DMZ. Knowing their identities and combat vulnerabilities helps players prepare the appropriate armaments before engaging them.
 
-## Which commanders appear in DMZ?
+* Wheelson is an autonomous patrolling commander, confirmed on 28 Oct 2026.
+* The Captain is confirmed on 28 Oct 2026 as a Juggernaut and his elite guard.
 
-* Wheelson is confirmed as an autonomous patrolling commander on 28 Oct 2026.
-* The Captain is confirmed on 28 Oct 2026 as a Juggernaut accompanied by his elite guard.
+## How can players defeat the Deathstalker commander boss?
+
+* Players report that an RPG can take down the Deathstalker Commander Boss in DMZ with just 2 rockets.
+* Players report that the Astaroth 57 sniper can take down the Deathstalker Commander Boss in DMZ with 4 well placed shots.
 * Players report that the Deathstalker commander drops 3 lootable parts.
-
-## How do players defeat the Deathstalker Commander Boss?
-
-* Players report that an RPG can defeat the Deathstalker Commander Boss with 2 rockets.
-* Players report that the Astaroth 57 sniper can defeat the Deathstalker Commander Boss with 4 well placed shots.
 
 _Generated from 2 confirmed and 4 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-29._
 <!-- generated:end -->

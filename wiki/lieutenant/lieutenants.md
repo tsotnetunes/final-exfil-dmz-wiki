@@ -12,31 +12,31 @@ location: unknown
 drops: dog tags, weapon
 ---
 <!-- generated:start -->
-Lieutenants are hostile bosses encountered in DMZ.
+Lieutenants are boss enemies encountered across DMZ deployments.
 
 ## Where does it appear?
 
-Lieutenants appear near the end of DMZ story missions, as reported by players. DMZ deployments also feature these adversaries as hostile bosses. Players report several individual lieutenants who appear in DMZ deployments:
+Lieutenants appear in DMZ deployments, as reported by players. A lieutenant appears near the end of DMZ story missions.
 
-| Lieutenant | Role |
-| --- | --- |
-| Chol-Min (“The Wrench”) | Lieutenant boss |
+Known lieutenants reported by players include:
+
+| Lieutenant Name | Alias / Role |
+| :--- | :--- |
 | Iskra | Hostile lieutenant boss |
 | Jang-Ui | Lieutenant boss |
 | Jin Tae (JIN-TAE) | Lieutenant boss |
-| Tae-Hyun (“Knuckle”) | Lieutenant boss |
-
-Chol-Min (“The Wrench”) and Tae-Hyun (“Knuckle”) are both reported as dangerous adversaries in DMZ deployments.
+| Tae-Hyun | "Knuckle", lieutenant and dangerous adversary |
+| Chol-Min | "The Wrench", lieutenant and dangerous adversary |
 
 ## How does it fight?
 
-Lieutenants fight as hostile lieutenant bosses and dangerous adversaries in DMZ deployments, as reported by players.
+Players report that Tae-Hyun ("Knuckle") and Chol-Min ("The Wrench") serve as dangerous adversaries in DMZ deployments. Iskra operates as a hostile lieutenant boss.
 
 ## What does it drop?
 
-Lieutenants drop dog tags in DMZ, as reported by players.
+Lieutenants drop dog tags in DMZ, according to player reports.
 
-_Generated from 0 confirmed and 10 reported claims across 8 posts and 0 patch notes; last rendered 2026-10-28._
+_Generated from 0 confirmed and 10 reported claims across 8 posts and 0 patch notes; last rendered 2026-10-29._
 <!-- generated:end -->
 
 <!-- human:start -->

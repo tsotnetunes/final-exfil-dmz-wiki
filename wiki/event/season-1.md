@@ -1,20 +1,23 @@
 ---
 type: event
 title: "Season 1"
-description: "Season 1 kicks off on 6 Nov, bringing the new X01 DMZ Blacksite alongside reported Warzone maps Verdansk, Rebirth Island, and Zodiac."
+description: "Season 1 kicks off on 6 Nov, bringing the new DMZ Blacksite X01 alongside reported Warzone maps."
 status: stable
 brain_status: published
 sensitivity: public
 sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, clm_bef876bdc624, clm_c1024f2fb281, clm_4ae545748dba, clm_3044325b8a18, clm_64b8588379af, clm_033219bea076, clm_7add6878604a, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16]
 ---
 <!-- generated:start -->
-Season 1 is an upcoming content season that kicks off on 6 Nov. The launch adds new maps across modes including Warzone and DMZ.
+Season 1 is an upcoming content launch that kicks off on 6 Nov. It brings a new DMZ Blacksite along with several reported maps to Warzone.
+
+## When does Season 1 launch?
 
 * Season 1 kicks off on 6 Nov, confirmed on 28 Oct 2026.
-* X01 is confirmed as a new DMZ Blacksite arriving in Season 1.
 * Players report that the X01 map releases with Season 01 on 6 Nov.
 
-## Which maps are coming to Warzone at launch?
+## What content is coming in Season 1?
+
+* X01 is confirmed as a new DMZ Blacksite coming in Season 1.
 
 Players report that three maps will be available in Warzone at Season 1 launch:
 
@@ -24,7 +27,7 @@ Players report that three maps will be available in Warzone at Season 1 launch:
 | Rebirth Island | Resurgence |
 | Zodiac | Resurgence |
 
-_Generated from 3 confirmed and 4 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-28._
+_Generated from 3 confirmed and 4 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-29._
 <!-- generated:end -->
 
 <!-- human:start -->

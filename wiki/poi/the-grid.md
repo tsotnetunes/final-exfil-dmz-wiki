@@ -12,17 +12,17 @@ danger: "critical (Nenshin Tech Complex: extreme)"
 loot_profile: high-value
 ---
 <!-- generated:start -->
-The Grid is a point of interest also known as the Netshin Tech Complex located in the DMZ. Players encounter this location during their operations in the zone.
+The Grid is a point of interest also known as Netshin Tech Complex, located in the DMZ. Players report that it carries an EXTREME threat level.
 
 ## Where is it?
 
-The Grid, identified as the Netshin Tech Complex, is located in the DMZ.
+The Grid is located in the DMZ.
 
 ## How dangerous is it?
 
-Players report that the Netshin Tech Complex carries an EXTREME threat level.
+Players report that The Grid has an EXTREME threat level.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-28._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-29._
 <!-- generated:end -->
 
 <!-- human:start -->

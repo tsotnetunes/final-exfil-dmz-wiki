@@ -8,16 +8,16 @@ sensitivity: public
 sources: [clm_cc0759ebe970, clm_31e5b4ec0040, clm_632a04059b5a, clm_fa1c2c647e8e, clm_f3824fd162e1]
 ---
 <!-- generated:start -->
-Shipment is a returning map event in Modern Warfare 4 that arrives on 27 Oct 2026 with an updated appearance. It matters to players tracking map releases and schedule updates for the game.
+Shipment is an event returning to Modern Warfare 4 on 27 Oct 2026 featuring a new look. Its arrival adds the refreshed map experience back to the Modern Warfare 4 rotation.
 
-## When does Shipment arrive in Modern Warfare 4?
+## When does Shipment release?
 
-* Players reported on 14 Oct 2026 that Shipment was scheduled for 27 Oct 2026.
-* Shipment was confirmed on 21 Oct 2026 to return to Modern Warfare 4 on 27 Oct 2026.
-* Modern Warfare 4 adds Shipment with a new look.
-* Shipment was reconfirmed on 26 Oct 2026 to arrive the following day.
+* Players reported on 14 Oct 2026 that Shipment was coming on 27 Oct 2026.
+* An official announcement on 21 Oct 2026 confirmed that Shipment returns to Modern Warfare 4 on 27 Oct 2026.
+* Shipment features a new look upon its return.
+* Official updates on 26 Oct 2026 confirmed that Shipment arrives tomorrow in Modern Warfare 4.
 
-_Generated from 3 confirmed and 1 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 3 confirmed and 1 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-29._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -5,14 +5,28 @@ description: "Hajin's main hospital in the north centre, beside a train station 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-fpsjp-story-missions-trailer-2026-10-09]
+sources: [clm_1cc7e4e33a63, src-activision-dmz-guide-part1-2026-10-05, src-fpsjp-story-missions-trailer-2026-10-09]
 region: Hajin
 aliases: ["Mirae", "hospital", "Mujin Pass"]
 danger: low
 loot_profile: medical
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Players use Mirae General Hospital in DMZ for leveling strategies.
+
+## Where is it?
+
+Mirae General Hospital is a location used in DMZ.
+
+## What loot is there?
+
+Players report that the Hospital Mission strategy for leveling weapons was patched in DMZ on 29 Oct 2026.
+
+## How dangerous is it?
+
+The exact danger level for Mirae General Hospital is not documented.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-29._
 <!-- generated:end -->
 
 <!-- human:start -->

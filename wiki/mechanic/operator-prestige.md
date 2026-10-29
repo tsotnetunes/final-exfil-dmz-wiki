@@ -9,13 +9,13 @@ sources: [clm_cb769aa684e4, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["DMZ Operator Prestige", "Prestige Traits"]
 ---
 <!-- generated:start -->
-Operator Prestige and permanent Prestige Traits provide character progression options in Modern Warfare 4 DMZ.
+Operator Prestige and permanent Prestige Traits are progression mechanics in Modern Warfare 4 DMZ that grant specific character benefits. Players report that these options provide enduring enhancements across DMZ deployments.
 
 ## How many Prestige Traits are available?
 
-* Modern Warfare 4 DMZ features 12 possible prestige traits, according to player reports.
+* Players report that there are 12 possible prestige traits in Modern Warfare 4 DMZ.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-29._
 <!-- generated:end -->
 
 <!-- human:start -->
