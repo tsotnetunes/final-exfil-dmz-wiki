@@ -134,7 +134,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[operation-shopping-hacks]] — Operation Shopping Hacks is a DMZ mission reported to reward the Night Vision Goggles crafting recipe upon completion. · **candidate**
 - [[operation-silent-ledger]] — Operation Silent Ledger is reported by players to be a story mission in DMZ. · **candidate**
 - [[side-ops]] — Small optional tasks in a match (truck repairs, finding a supply drop, scaling a radio tower) that give XP alongside the main objectives (official, pre-launch). · **published**
-- [[story-missions]] — Story Missions in Modern Warfare 4 DMZ let players unlock needed crafting recipes across dynamic free-roam spawns. · **published**
+- [[story-missions]] — Story Missions in Modern Warfare 4 DMZ feature designated spawn points and reward players by unlocking needed crafting recipes. · **published**
 - [[stranded]] — Progress in the Stranded mission saves separately from the campaign checkpoint, according to player reports. · **candidate**
 - [[toxic-intercept-op]] — Toxic Intercept Op was fixed on 21 Oct 2026 to address an issue where it could incorrectly fail after completing the Defend the mission. · **draft**
 
