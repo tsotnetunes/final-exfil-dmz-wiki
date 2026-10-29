@@ -29,7 +29,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dog-tag-case]] — Unlocks at DMZ level 20: shows the dog tags you extracted (rarity, victim, killer, time); upgrades raise bounty payouts and add slots. · **published**
 - [[firing-range]] — The FOB's Firing Range: a wooded grove between the Gunsmith and the Vendor, with targets from under 10 m to over 100 m (official, 9 Oct guide). · **published**
 - [[fob]] — Your home between deployments; stations open from the start or by DMZ level: 3D Printer 2, Vendor 5, Gunsmith 10, Dog Tag Case 20, Boss Board after two Orders. · **published**
-- [[fob-forward-operating-base]] — The Forward Operating Base (FOB) is a DMZ location confirmed on 25 Oct 2026 where the player's squad is positioned and features upgrades leveled with materials. · **draft**
+- [[fob-forward-operating-base]] — The FOB (Forward Operating Base) houses the player's squad and requires materials to level up its upgrades in DMZ. · **draft**
 - [[gunsmith]] — Unlocks at DMZ level 10: buy base weapons (after extracting their Weapon Manual), attachment slots and attachments with DMZ Cash; weapon levels shared with MP. · **published**
 - [[orders]] — The FOB station where DMZ Orders are reviewed before a deployment; available from the start (official). How Orders work: see DMZ Orders. · **published**
 - [[stash]] — FOB storage shared by all your Operators: 40 items and 12 weapons at first, more with upgrades; Resources take no slots (official, 9 Oct guide). · **published**
@@ -45,7 +45,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-the-mode]] — DMZ is a raid mode where squads use vehicles, eliminate rival operators, and can purchase an exfil for $125K in cash. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
-- [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launched globally on 23 Oct 2026 with 12 multiplayer maps, DMZ mode, and a Metacritic score of 89 on PlayStation. · **published**
+- [[modern-warfare-4]] — Modern Warfare 4 launched on 23 Oct 2026 with 12 multiplayer maps, early access campaign missions, and a standalone DMZ extraction mode. · **published**
 
 ## hub (2) in `wiki/hub/<id>.md`
 - [[open-questions]] — What is not known yet about DMZ: wipes, map area, X01, the Warzone link, hunters and their own Bounty, parachute uses, the hooded Lieutenant, prestige rewards,… · **published**
