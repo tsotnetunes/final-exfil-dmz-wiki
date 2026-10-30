@@ -5,23 +5,23 @@ description: "Killing players earns a Bounty; four kills make you Wanted. Hunter
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_bb4b2157af60, clm_162bac1414e5, clm_8ed714d7c354, clm_fc75f811681c, clm_25cf22beb910, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-bounty-systems-video-2026-10-08]
+sources: [clm_bb4b2157af60, clm_162bac1414e5, clm_8ed714d7c354, clm_fc75f811681c, clm_25cf22beb910, clm_c80b93d2008f, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-bounty-systems-video-2026-10-08]
 aliases: ["notoriety", "bounty", "Bounty Station", "pay off bounty", "Most Wanted", "bounty hunter", "Killer", "vultures"]
 ---
 <!-- generated:start -->
-The bounty system and notoriety mechanic in Modern Warfare 4 DMZ marks aggressive operators and tracks competitive standings across matches. It affects player survival by drawing attention to targets who eliminate other participants.
+The bounty system is a gameplay mechanic in Modern Warfare 4 DMZ that places a target on operators who eliminate other players. It impacts matches by penalizing aggressive player-versus-player combat and tracking high-performing targets.
 
-## How does the bounty system work?
+* Modern Warfare 4 DMZ features a bounty system, as reported by players.
+* Killing too many players in DMZ results in a bounty being placed on an operator's head, which was confirmed on 8 Oct 2026.
+* Bounties function as an active mechanic in DMZ, as reported by players.
+* Killing another player in DMZ can place a $50 bounty on an operator's head, according to player reports.
 
-* Players report that Modern Warfare 4 DMZ features a bounty mechanic.
-* It is confirmed that killing too many players in DMZ results in a bounty being placed on your head.
+## How do bounty leaderboards work?
 
-## How do bounty leaderboards operate?
+* DMZ bounty leaderboards take a snapshot of the top 100 players and bounty hunters on Thursday mornings, according to player reports.
+* DMZ bounty leaderboards require a manual review of the list and accounts before they are published, according to player reports.
 
-* Players report that DMZ bounty leaderboards take a snapshot of the top 100 players and bounty hunters on Thursday mornings.
-* Players report that DMZ bounty leaderboards require a manual review of the list and accounts before they are published.
-
-_Generated from 1 confirmed and 4 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 1 confirmed and 5 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-30._
 <!-- generated:end -->
 
 <!-- human:start -->

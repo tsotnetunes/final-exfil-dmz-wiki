@@ -5,11 +5,17 @@ description: "Tac sprint is on by default; DMZ has its own weapon damage tuning 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_c6c24118f956, src-westie-dmz-ama-recap-2026-10-11, src-activision-pc-specs-2026-09-29]
+sources: [clm_c6c24118f956, clm_79b096fd2360, src-westie-dmz-ama-recap-2026-10-11, src-activision-pc-specs-2026-09-29]
 aliases: ["Tac sprint", "Tactical sprint", "Damage tuning", "AP rounds"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Movement, stamina and weapon tuning covers basic traversal and gear systems in Modern Warfare, including Tac Sprint. Understanding these mechanics helps players navigate combat effectively.
+
+## How does Tac Sprint work?
+
+* Tac Sprint is reported by players to be a core movement mechanic in Modern Warfare.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-30._
 <!-- generated:end -->
 
 <!-- human:start -->

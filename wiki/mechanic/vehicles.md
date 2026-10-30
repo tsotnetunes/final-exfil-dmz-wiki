@@ -5,17 +5,18 @@ description: "DMZ vehicles on land, water and in the air need repair and fuel at
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9ccc2ae5bb3c, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_9ccc2ae5bb3c, clm_040680c6c92c, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["vehicle", "Camper", "Sedan", "Grizzly", "Dreadnought", "Aston Martin Dreadnought", "Polaris Dagor A1", "LTV", "Cargo Truck", "D50 Radar Flatbed", "Train", "Tram", "RHIB", "Heli", "Heavy Chopper", "Monarch"]
 ---
 <!-- generated:start -->
-Vehicles in DMZ allow players to travel across the map and interact with other operators. Players can use these conveyances during matches to strike opponents.
+Vehicles are modes of transportation available in DMZ that players can use across the map.
 
-## What happens when hitting a player with a car?
+## What vehicles and vehicle interactions are in DMZ?
 
-* Players report that hitting a player with a car in DMZ can cause them to become a hood ornament.
+* Players report that hitting a player with a car can cause them to become a hood ornament.
+* Players report that there is a train in DMZ.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-30._
 <!-- generated:end -->
 
 <!-- human:start -->
