@@ -5,14 +5,28 @@ description: "A battered residential district in southeast Hajin with Compound E
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_8dae00f30bfd, src-activision-dmz-guide-part1-2026-10-05]
 region: Hajin
 aliases: ["River Heights", "South Island", "Jinseo Park Towers", "Compound Echo"]
 danger: medium
 loot_profile: mixed
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Players visit Hajin River Heights as a key-farming destination.
+
+## Where is it?
+
+Hajin River Heights is also referred to as River Heights, South Island, Jinseo Park Towers, and Compound Echo.
+
+## What loot is there?
+
+Hajin River Heights is reported by players to be a location for farming keys.
+
+## How dangerous is it?
+
+Specific danger levels for Hajin River Heights have not been confirmed.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-30._
 <!-- generated:end -->
 
 <!-- human:start -->
