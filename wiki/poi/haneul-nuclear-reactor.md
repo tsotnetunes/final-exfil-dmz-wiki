@@ -5,28 +5,28 @@ description: "Northeast Hajin, on the coast north of Songdo Wharf: a breached re
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9fe3feef9402, clm_d13ac5614025, clm_f655e133d8dd, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_9fe3feef9402, clm_d13ac5614025, clm_f655e133d8dd, clm_b9735f36bb0b, src-activision-dmz-guide-part1-2026-10-05]
 region: Hajin
 danger: high (radiation)
 loot_profile: unknown
 aliases: ["Fallout reactor", "Haneul", "Reactor 02", "South Korean Border Zone"]
 ---
 <!-- generated:start -->
-Haneul Nuclear Reactor is a location in DMZ that players visit to access secured bunkers.
+The Haneul Nuclear Reactor is a point of interest in Modern Warfare 4 DMZ where players navigate secured bunkers and frequent combat encounters.
 
 ## Where is it?
 
-Haneul Nuclear Reactor is situated next to secured bunkers, as reported by players.
+The Haneul Nuclear Reactor features nearby secured bunkers, as reported by players. The reactor area of Modern Warfare 4 DMZ is considered difficult by players.
 
 ## What loot is there?
 
-Players report that secured bunkers are located by the Haneul Nuclear Reactor.
+Players report that secured bunkers are situated by the Haneul Nuclear Reactor.
 
 ## How dangerous is it?
 
-Players report that the reactor area of DMZ is difficult. Wearing a Hazmat Suit allows players to explore the Nuclear Reactor area without taking damage, according to player reports.
+The Haneul Nuclear Reactor area involves frequent PvP interactions because it is dense with infill locations, as reported by players. Players report that wearing a Hazmat Suit allows exploration of the nuclear reactor area without taking damage.
 
-_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-29._
 <!-- generated:end -->
 
 <!-- human:start -->
