@@ -9,31 +9,32 @@ sources: [clm_3a8e17bcc079, clm_a9fba1b8bb2f, clm_23d4f9bb7b2b, clm_f1b717014ef6
 aliases: ["Camo grind", "Serpentine camo", "Mastery camos"]
 ---
 <!-- generated:start -->
-DMZ camos and the camo hunt involve a grind in DMZ Early Access. Players can pursue these unlocks across matches by completing weapon requirements and target eliminations.
+DMZ camos and the camo hunt are a weapon progression grind available in DMZ. Camo grinding was confirmed possible in DMZ Early Access on 18 Oct 2026. On 28 Oct 2026, it was confirmed that DMZ camos and the camo hunt involve a grind.
 
-* It was confirmed on 18 Oct 2026 that players can camo grind in DMZ Early Access.
-* It was confirmed on 28 Oct 2026 that DMZ camos and the camo hunt involve a grind.
-* Players report that camo grinding is available in DMZ.
-* Players report that Special camos require 125 Silenced kills in DMZ.
-* Players report that Monster Energy skins are available to use in DMZ if unlocked by redeeming codes from Modern Warfare 4 themed cans.
-* Players report that 2XP tokens can be unlocked through Monster Energy codes and used in DMZ.
+## What are the camo unlock requirements?
 
-## What are the requirements for DMZ Mastery Camos?
+Players report several specific requirements for weapon camos in DMZ:
 
-Players report several unlock requirements for DMZ Mastery Camos:
+* DMZ Mastery Camos require 2,500 tier 3+ kills, according to player reports.
+* DMZ Mastery Camos require extracting 2 Lieutenant Dog Tags in a single match 50 times, as reported by players.
+* DMZ Mastery Camos require 25,000 kills using legendary weapons, according to player reports.
+* Special camos require 125 silenced kills in DMZ, as reported by players.
 
-* DMZ Mastery Camos require 2,500 tier 3+ kills.
-* DMZ Mastery Camos require extracting 2 Lieutenant Dog Tags in a single match 50 times.
-* DMZ Mastery Camos require 25,000 kills using legendary weapons.
+## Which weapons have specific camos?
 
-## Which weapons have the War Spoils camo?
+Players report that the War Spoils camo is available for the following weapons:
 
-Players report that the War Spoils camo is available on specific weapons:
+* Patriot XMR
+* Hyeon Burst
 
-* War Spoils camo is available for the Patriot XMR.
-* War Spoils camo is available for the Hyeon Burst.
+## How do promotional unlocks work?
 
-_Generated from 2 confirmed and 9 reported claims across 10 posts and 0 patch notes; last rendered 2026-10-29._
+Players report that promotional items can be used in DMZ:
+
+* Monster Energy skins are available to use in DMZ if unlocked by redeeming codes from Modern Warfare 4 themed cans.
+* 2XP tokens can be unlocked through Monster Energy codes and are available in DMZ.
+
+_Generated from 2 confirmed and 9 reported claims across 10 posts and 0 patch notes; last rendered 2026-10-30._
 <!-- generated:end -->
 
 <!-- human:start -->

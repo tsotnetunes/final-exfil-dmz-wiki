@@ -15,33 +15,26 @@ Trait Points and trait trees customize operators in Modern Warfare 4 DMZ.
 
 ## Which traits are available in Modern Warfare 4 DMZ?
 
-On 9 Oct 2026, confirmed operator customization traits included Warfighter, Scout, and Survivalist. Players report that Modern Warfare 4 DMZ also features traits such as permanent UAV and Quick Exfil Trait.
+On 9 Oct 2026, Warfighter, Scout, and Survivalist were confirmed as available operator customization traits.
 
-| Trait | Category or Effect | Status |
-| --- | --- | --- |
-| Warfighter | Operator customization trait | Confirmed |
-| Scout | Operator customization trait | Confirmed |
-| Survivalist | Operator customization trait | Confirmed |
-| Permanent UAV | UAV effect | Reported by players |
-| Quick Exfil Trait | Extraction trait | Reported by players |
+Players also report several other traits active in Modern Warfare 4 DMZ:
 
-## What does Final Intel do?
-
-Players report that Final Intel marks an additional exfil point on the map.
-
-Players also report that Final Intel grants a free additional exfil for the entire match. According to players, this enables summoning an extraction helicopter at any time.
+| Trait | Description |
+| --- | --- |
+| Final Intel | Marks an additional exfil point on the map, providing a free exfil to summon a helicopter at any point. |
+| Permanent UAV | Grants an active UAV during a match. |
+| Possum | Gives a high level operator a second chance. |
+| Quick Exfil | Speeds up the extraction process. |
 
 ## How does the Possum trait work?
 
-Players report that the Possum trait is intended to give a high-level operator a second chance.
-
-Players report that operators cannot use the Possum trait when other operators are near. Players also report that Possum cannot be used when the team that killed the operator is nearby, unless 4 minutes have elapsed. The range and duration of the Possum trait are tunable in future updates according to player reports.
+Players report that the Possum trait cannot be used near other operators in DMZ. Players report that Possum cannot be used when the team that killed you is nearby unless 4 minutes have passed. The range and duration of the Possum trait can be tuned in future updates.
 
 ## Can traits be farmed in PvE?
 
-Players argue that operators with traits farmed in a PvE mode should not be usable in regular DMZ.
+Players report that operators with traits farmed in a PvE mode should not be usable in regular DMZ.
 
-_Generated from 1 confirmed and 8 reported claims across 9 posts and 0 patch notes; last rendered 2026-10-29._
+_Generated from 1 confirmed and 8 reported claims across 9 posts and 0 patch notes; last rendered 2026-10-30._
 <!-- generated:end -->
 
 <!-- human:start -->

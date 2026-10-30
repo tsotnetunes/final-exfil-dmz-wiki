@@ -8,15 +8,15 @@ sensitivity: public
 sources: [clm_5cb5d20deed5, clm_c3633bb72757, src-activision-dmz-guide-part2-2026-10-09]
 ---
 <!-- generated:start -->
-The Air Superiority trait causes SAM sites and UAV towers to remain captured for a longer duration, as reported by players.
+The Air Superiority trait causes SAM sites and UAV towers to remain captured for a longer duration, according to player reports.
 
 ## What does Air Superiority do?
 
-Air Superiority causes captured SAM sites to stay under player control for longer, according to player reports.
+Players report that Air Superiority extends the time that captured SAM sites remain held.
 
-Player reports also indicate that Air Superiority extends the captured duration of UAV towers.
+Players also report that Air Superiority extends the capture duration of UAV towers.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-29._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-30._
 <!-- generated:end -->
 
 <!-- human:start -->

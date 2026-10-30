@@ -10,11 +10,12 @@ station: active-duty
 unlock: start
 ---
 <!-- generated:start -->
-## What are Active Duty Operators?
+Active Duty provides players with Active Duty Operators in DMZ.
 
-Active Duty Operators are available to DMZ players. This was confirmed on 21 Oct 2026.
+## What does Active Duty provide?
+Active Duty Operators are available to players in DMZ.
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-30._
 <!-- generated:end -->
 
 <!-- human:start -->

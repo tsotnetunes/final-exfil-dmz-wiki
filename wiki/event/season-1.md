@@ -1,30 +1,30 @@
 ---
 type: event
 title: "Season 1"
-description: "Season 1 launches on 6 Nov, introducing the X01 DMZ Blacksite alongside reported Warzone maps including Verdansk and Rebirth Island."
+description: "Season 1 launches on 6 Nov, introducing the X01 DMZ Blacksite along with reported Warzone maps including Verdansk."
 status: stable
 brain_status: published
 sensitivity: public
 sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, clm_bef876bdc624, clm_c1024f2fb281, clm_4ae545748dba, clm_3044325b8a18, clm_64b8588379af, clm_033219bea076, clm_7add6878604a, clm_58be93f33be7, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16]
 ---
 <!-- generated:start -->
-Season 1 is an upcoming content season that officially launches on 6 Nov. The event introduces new maps and content across DMZ and Warzone modes.
+Season 1 is an upcoming game event scheduled to launch on 6 Nov. The event introduces new map options and a new Blacksite location across game modes.
 
 * Season 1 officially kicks off on 6 Nov.
-* X01 is confirmed as a new DMZ Blacksite coming in Season 1.
-* Players report that the X01 map releases with Season 1 on 6 Nov.
+* X01 is confirmed as a new DMZ Blacksite arriving in Season 1.
+* Players report that the X01 map releases on 6 Nov alongside Season 1.
 
-## Which maps are coming to Warzone at launch?
+## Which maps are coming to Warzone?
 
 Players report that three maps will be available in Warzone at the launch of Season 1:
 
-| Map | Mode | Status |
-| :--- | :--- | :--- |
-| Verdansk | Battle Royale | Reported by players |
-| Rebirth Island | Resurgence | Reported by players |
-| Zodiac | Resurgence | Reported by players |
+| Map | Mode |
+|---|---|
+| Verdansk | Battle Royale |
+| Rebirth Island | Resurgence |
+| Zodiac | Resurgence |
 
-_Generated from 4 confirmed and 4 reported claims across 8 posts and 0 patch notes; last rendered 2026-10-29._
+_Generated from 4 confirmed and 4 reported claims across 8 posts and 0 patch notes; last rendered 2026-10-30._
 <!-- generated:end -->
 
 <!-- human:start -->

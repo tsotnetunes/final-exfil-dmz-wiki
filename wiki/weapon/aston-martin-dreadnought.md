@@ -1,20 +1,24 @@
 ---
 type: weapon
 title: "Aston Martin Dreadnought"
-description: "Players report that the Aston Martin Dreadnought is an armored SUV vehicle featured in MW4 DMZ."
+description: "The Aston Martin Dreadnought is reported by players to be an armored SUV vehicle in MW4 DMZ."
 status: deprecated
 brain_status: retired
 sensitivity: public
 sources: [clm_706c2f43ed98, src-activision-dmz-guide-part1-2026-10-05]
 ---
 <!-- generated:start -->
+The Aston Martin Dreadnought has an unknown weapon class and an unknown manual source.
+
 ## What is it?
 
-The Aston Martin Dreadnought is an armored SUV vehicle in MW4 DMZ, as reported by players.
+The Aston Martin Dreadnought is reported by players to be an armored SUV vehicle in MW4 DMZ.
 
 ## How do you get it?
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+Information on how to obtain the Aston Martin Dreadnought is unconfirmed.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-30._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -9,13 +9,14 @@ sources: [clm_9ee7db0a613a, clm_829158fd0af8, clm_7c38c749ea9e, clm_361b76712abe
 aliases: ["weapon manual"]
 ---
 <!-- generated:start -->
-Weapon Manuals are extractable items used to unlock new weapons. Locating and extracting Weapon Manuals unlocks new weapons, confirmed on 9 Oct 2026.
+Weapon Manuals are extraction items used to unlock new weapons. Locating and extracting Weapon Manuals provides players with access to locked weapons.
 
 ## How do Weapon Manuals unlock weapons?
 
-* Finding three Weapon Manuals for a specific weapon unlocks that weapon in DMZ, as reported by players on 27 Oct 2026.
+* New weapons are unlocked by locating and extracting Weapon Manuals, as confirmed on 9 Oct 2026.
+* Finding 3 Weapon Manuals for a specific weapon unlocks that weapon in DMZ, as reported by players on 27 Oct 2026.
 
-_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-29._
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-30._
 <!-- generated:end -->
 
 <!-- human:start -->
