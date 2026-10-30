@@ -42,7 +42,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[content-updates]] — Content updates deliver fixes and improvements to Modern Warfare 4, including a confirmed release on 28 Oct 2026. · **draft**
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
 - [[dmz-fob-mastery-calling-card]] — The DMZ FOB Mastery Calling Card is a calling card reported by players in DMZ. · **draft**
-- [[dmz-the-mode]] — DMZ is a PvPvE mode where players report an exfil costs $125K in cash and squads use vehicles across free roam and mission spawns. · **draft**
+- [[dmz-the-mode]] — DMZ is a PvPvE mode merging story missions with free roam, where an exfil costs $125K in cash. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
 - [[modern-warfare-4]] — Call of Duty: Modern Warfare 4 launched worldwide on 23 Oct 2026, featuring 12 core multiplayer maps and Campaign Early Access. · **published**
@@ -103,7 +103,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[mia-system]] — Killed Operators go MIA: pay DMZ Cash to recover them with their Traits (the price rises with Traits, gear is lost) or dismiss them. · **published**
 - [[missing-in-action]] — The MIA status an Operator gets for not getting out of a deployment; recovery and what it costs are on the MIA system page. · **candidate**
 - [[movement-and-tuning]] — Tac sprint is on by default; DMZ has its own weapon damage tuning around its armor; no armor-piercing or Stopping Power rounds for now (developers' Q&A, 9 Oct). · **published**
-- [[multiplayer]] — Multiplayer went live on 23 Oct 2026, offering updated XP boosts in Search & Destroy and Collateral alongside ongoing bug fixes. · **draft**
+- [[multiplayer]] — Multiplayer is live in Modern Warfare 4, featuring XP boosts in Search & Destroy and Collateral alongside ongoing bug fixes. · **draft**
 - [[operator-prestige]] — Prestige a fully levelled Operator (18 Trait Points) by giving up rare gear and DMZ Cash; each Prestige adds a random permanent Trait, up to three. · **published**
 - [[operator-prestige-and-permanent-prestige-traits]] — Modern Warfare 4 DMZ features an Operator Prestige progression system, with icons reportedly based on past Infinity Ward games. · **candidate**
 - [[paid-infil]] — Infil options and prices: on foot free, Polaris Dagor A1 5,000, LTV 25,000, helicopter 50,000, cargo plane 100,000 DMZ Cash (choose your drop spot). · **published**

@@ -5,17 +5,18 @@ description: "Queue by deployment type; up to 60 players in 20 squads of three; 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_5b76bd4676ec, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-activision-campaign-early-access-live-2026-10-16]
+sources: [clm_5b76bd4676ec, clm_fd56c4d77fd9, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-activision-campaign-early-access-live-2026-10-16]
 aliases: ["Lobbies", "Squad size", "Player count", "Assimilation", "Reconnect"]
 ---
 <!-- generated:start -->
-Matchmaking, squads and lobbies govern how players group together in Modern Warfare 4 DMZ, allowing team rosters to change during active matches. This system directly impacts team survival and player coordination in the field.
+Matchmaking, squads and lobbies handle player grouping and session entry in DMZ. Understanding these systems helps players manage team composition during deployment.
 
-## Can players join other squads during a match?
+## How do squads and matchmaking work?
 
-* Players report that Modern Warfare 4 DMZ features a squad joining mechanic that allows players to join other squads after spawning into a match.
+* DMZ features a squad joining mechanic that allows players to join other squads after spawning into a match, as reported by players.
+* Players reported that DMZ received a matchmaking update.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-28._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-30._
 <!-- generated:end -->
 
 <!-- human:start -->
