@@ -5,21 +5,19 @@ description: "Base parachutes have limited uses (look in Fire Stations); infinit
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_b9d5f0d9bab7, clm_7e1b19e52f1e, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_b9d5f0d9bab7, clm_7e1b19e52f1e, clm_ca51ba0b61c2, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["Parachute", "Infinite parachute"]
 ---
 <!-- generated:start -->
-Parachutes are equippable items in Modern Warfare 4 DMZ mode that prevent players from dying when they fall. Players must acquire them directly within the mode.
+Parachutes are items in Modern Warfare 4 DMZ mode that players must find or craft. They allow players to survive long drops and flee dangerous positions.
 
-## How do players get Parachutes?
+## How do parachutes work in Modern Warfare 4 DMZ?
 
-* Players must find or craft Parachutes in DMZ mode, as confirmed on 21 Oct 2026.
+* On 21 Oct 2026, it was confirmed that players must find or craft a parachute in DMZ mode.
+* Players report that an equipped parachute is needed in Modern Warfare 4 DMZ to avoid falling to their death.
+* Players report that jumping off buildings with parachutes allows them to escape.
 
-## What do Parachutes do?
-
-* Players report that having Parachutes equipped in Modern Warfare 4 DMZ is necessary to avoid falling to their death.
-
-_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-30._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -5,24 +5,24 @@ description: "The walled-off business district at the heart of Hajin City; Criti
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_0d5aa093524d, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_0d5aa093524d, clm_c72f996bc161, src-activision-dmz-guide-part1-2026-10-05]
 region: Hajin
 aliases: ["Grid", "Nenshin Tech Complex", "Netshin Tech Complex", "DBN Headquarters", "Hanex Bank", "Minsok Art School", "Donpyeong Gate", "Hotel Lucera"]
 danger: "critical (Nenshin Tech Complex: extreme)"
 loot_profile: high-value
 ---
 <!-- generated:start -->
-The Grid, also known as Netshin Tech Complex, is a location in the DMZ.
+The Grid is a point of interest located in the DMZ that features buildings with rooftops.
 
 ## Where is it?
 
-Netshin Tech Complex is located in the DMZ according to player reports.
+The Grid is situated within the DMZ. Players report that The Grid contains buildings with rooftops.
 
 ## How dangerous is it?
 
-Players report that Netshin Tech Complex has an EXTREME threat level.
+Under the name Netshin Tech Complex, players report that the location has an EXTREME threat level.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-30._
 <!-- generated:end -->
 
 <!-- human:start -->
