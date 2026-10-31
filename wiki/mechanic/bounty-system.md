@@ -9,19 +9,18 @@ sources: [clm_bb4b2157af60, clm_162bac1414e5, clm_8ed714d7c354, clm_fc75f811681c
 aliases: ["notoriety", "bounty", "Bounty Station", "pay off bounty", "Most Wanted", "bounty hunter", "Killer", "vultures"]
 ---
 <!-- generated:start -->
-The bounty system is a gameplay mechanic in Modern Warfare 4 DMZ that places a target on operators who eliminate other players. It impacts matches by penalizing aggressive player-versus-player combat and tracking high-performing targets.
+The bounty system is a gameplay mechanic in Modern Warfare 4 DMZ that places bounties on operators who eliminate other players. It introduces active tracking and competitive leaderboards based on player eliminations.
 
-* Modern Warfare 4 DMZ features a bounty system, as reported by players.
-* Killing too many players in DMZ results in a bounty being placed on an operator's head, which was confirmed on 8 Oct 2026.
-* Bounties function as an active mechanic in DMZ, as reported by players.
-* Killing another player in DMZ can place a $50 bounty on an operator's head, according to player reports.
+* In DMZ, killing too many players results in a bounty being placed on an operator's head.
+* Players report that Modern Warfare 4 DMZ includes a bounty system mechanic.
+* Killing another player in DMZ can result in a $50 bounty on an operator's head, according to player reports.
 
-## How do bounty leaderboards work?
+## How do DMZ bounty leaderboards work?
 
-* DMZ bounty leaderboards take a snapshot of the top 100 players and bounty hunters on Thursday mornings, according to player reports.
-* DMZ bounty leaderboards require a manual review of the list and accounts before they are published, according to player reports.
+* DMZ bounty leaderboards take a snapshot of the top 100 players and bounty hunters on Thursday mornings, as reported by players.
+* Players report that DMZ bounty leaderboards require a manual review of the list and accounts before they are published.
 
-_Generated from 1 confirmed and 5 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 1 confirmed and 5 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

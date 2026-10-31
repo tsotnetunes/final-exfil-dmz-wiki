@@ -14,9 +14,12 @@ Weapon Manuals are extractable items used to unlock new weapons. Locating and ex
 ## How do Weapon Manuals unlock weapons?
 
 * Players report that finding 3 Weapon Manuals for a specific weapon unlocks it in DMZ.
-* Players report that extracting a Weapon Manual from the backpack's Safe Pocket does not count toward War Spoils camo progression in DMZ.
 
-_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-30._
+## How do Weapon Manuals interact with camo progression?
+
+* Players report that extracting a Weapon Manual from a backpack's Safe Pocket does not count toward War Spoils camo progression in DMZ.
+
+_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

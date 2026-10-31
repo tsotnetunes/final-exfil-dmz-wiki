@@ -1,21 +1,21 @@
 ---
 type: mechanic
 title: "UAV spam"
-description: "UAV spam involves the excessive use of UAVs in DMZ, which players report should be addressed by removing the Overwatch perk."
+description: "Players report excessive UAV spam in DMZ extraction matches and suggest removing the Overwatch perk."
 status: draft
 brain_status: candidate
 sensitivity: public
 sources: [clm_9bddae4cc5ea]
 ---
 <!-- generated:start -->
-UAV spam refers to the excessive deployment of UAVs in DMZ, which players report impacts the mode's gameplay. Understanding this mechanic is relevant for players tracking community concerns regarding tactical reconnaissance and balance.
+UAV spam refers to the frequent deployment of Unmanned Aerial Vehicles in extraction shooters, which players report as an issue in DMZ. Understanding player sentiment regarding radar reconnaissance highlights ongoing debates around match pacing and stealth mechanics.
 
-## What issues surround UAV spam?
+## What issues do players report with UAV spam?
 
-* Players report there is too much UAV spam in DMZ.
-* Players report that the Overwatch perk should be removed to address the issue.
+* Players report that there is too much UAV spam in DMZ.
+* Players report that the Overwatch perk should be removed to address this issue.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

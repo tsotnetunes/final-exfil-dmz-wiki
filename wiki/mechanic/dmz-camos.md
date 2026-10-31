@@ -9,32 +9,26 @@ sources: [clm_3a8e17bcc079, clm_a9fba1b8bb2f, clm_23d4f9bb7b2b, clm_f1b717014ef6
 aliases: ["Camo grind", "Serpentine camo", "Mastery camos"]
 ---
 <!-- generated:start -->
-DMZ camos and the camo hunt are a weapon progression grind available in DMZ. Camo grinding was confirmed possible in DMZ Early Access on 18 Oct 2026. On 28 Oct 2026, it was confirmed that DMZ camos and the camo hunt involve a grind.
+DMZ camos and the camo hunt are a weapon skin progression system in DMZ that involves a grind. Camo grinding was confirmed possible in DMZ Early Access on 18 Oct 2026.
 
-## What are the camo unlock requirements?
+## What are the requirements for DMZ camos?
 
-Players report several specific requirements for weapon camos in DMZ:
+* Players report that DMZ Mastery Camos require 2,500 tier 3+ kills.
+* Players report that DMZ Mastery Camos require extracting 2 Lieutenant Dog Tags in a single match 50 times.
+* Players report that DMZ Mastery Camos require 25,000 kills using legendary weapons.
+* Players report that Special camos require 125 Silenced kills in DMZ.
 
-* DMZ Mastery Camos require 2,500 tier 3+ kills, according to player reports.
-* DMZ Mastery Camos require extracting 2 Lieutenant Dog Tags in a single match 50 times, as reported by players.
-* DMZ Mastery Camos require 25,000 kills using legendary weapons, according to player reports.
-* Special camos require 125 silenced kills in DMZ, as reported by players.
+## Which weapons support specific camos?
 
-## Which weapons have specific camos?
+* Players report that the War Spoils camo is available for the Patriot XMR.
+* Players report that the War Spoils camo is available for the Hyeon Burst.
 
-Players report that the War Spoils camo is available for the following weapons:
+## What promotional unlocks work in DMZ?
 
-* Patriot XMR
-* Hyeon Burst
+* Players report that Monster Energy skins are available to use in DMZ when unlocked by redeeming codes from Modern Warfare 4 themed cans.
+* Players report that 2XP tokens unlocked through Monster Energy codes are available to use in DMZ.
 
-## How do promotional unlocks work?
-
-Players report that promotional items can be used in DMZ:
-
-* Monster Energy skins are available to use in DMZ if unlocked by redeeming codes from Modern Warfare 4 themed cans.
-* 2XP tokens can be unlocked through Monster Energy codes and are available in DMZ.
-
-_Generated from 2 confirmed and 9 reported claims across 10 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 2 confirmed and 9 reported claims across 10 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

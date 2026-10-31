@@ -1,30 +1,31 @@
 ---
 type: event
 title: "Season 1"
-description: "Season 1 launches on 6 Nov, introducing the X01 DMZ Blacksite along with reported Warzone maps including Verdansk."
+description: "Season 1 launches on 6 Nov, introducing the new X01 DMZ Blacksite alongside reported launch maps for Warzone."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, clm_bef876bdc624, clm_c1024f2fb281, clm_4ae545748dba, clm_3044325b8a18, clm_64b8588379af, clm_033219bea076, clm_7add6878604a, clm_58be93f33be7, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16]
+sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, clm_bef876bdc624, clm_c1024f2fb281, clm_4ae545748dba, clm_3044325b8a18, clm_64b8588379af, clm_033219bea076, clm_7add6878604a, clm_58be93f33be7, clm_309415af8c86, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16]
 ---
 <!-- generated:start -->
-Season 1 is an upcoming game event scheduled to launch on 6 Nov. The event introduces new map options and a new Blacksite location across game modes.
+Season 1 is an upcoming content season that kicks off on 6 Nov, bringing new maps and game spaces to Warzone and DMZ.
 
-* Season 1 officially kicks off on 6 Nov.
-* X01 is confirmed as a new DMZ Blacksite arriving in Season 1.
-* Players report that the X01 map releases on 6 Nov alongside Season 1.
+* Season 1 kicks off and launches on 6 Nov.
+* Players report that Call of Duty: Modern Warfare 4 Season 1 starts on 6 Nov 2026.
+* X01 is confirmed as a new DMZ Blacksite coming in Season 1.
+* Players report that the X01 map releases with Season 01 on 6 Nov.
 
-## Which maps are coming to Warzone?
+## Which maps are available at launch?
 
-Players report that three maps will be available in Warzone at the launch of Season 1:
+Players report that three Warzone maps will be available at the launch of Season 1:
 
 | Map | Mode |
-|---|---|
+| --- | --- |
 | Verdansk | Battle Royale |
 | Rebirth Island | Resurgence |
 | Zodiac | Resurgence |
 
-_Generated from 4 confirmed and 4 reported claims across 8 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 4 confirmed and 5 reported claims across 9 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

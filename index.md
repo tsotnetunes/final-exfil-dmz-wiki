@@ -10,8 +10,8 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 ## event (5) in `wiki/event/<id>.md`
 - [[dmz-week]] — DMZ Week is a Modern Warfare 4 event starting 4 Oct that includes information on the Hajin location. · **draft**
 - [[infected]] — Infected is an event that joined the playlist for Halloween weekend, confirmed on 30 Oct 2026. · **draft**
-- [[season-1]] — Season 1 launches on 6 Nov, introducing the X01 DMZ Blacksite along with reported Warzone maps including Verdansk. · **published**
-- [[shipment]] — Shipment returns to Modern Warfare 4 on 27 Oct 2026 with a brand-new look. · **draft**
+- [[season-1]] — Season 1 launches on 6 Nov, introducing the new X01 DMZ Blacksite alongside reported launch maps for Warzone. · **published**
+- [[shipment]] — Shipment returns to Modern Warfare 4 on 27 Oct with a new look. · **draft**
 - [[twitch-drops-event]] — Twitch Drops Event lets players earn in-game rewards by watching MW4 on Twitch starting 23 Oct at 10am PT. · **draft**
 
 ## exfil (1) in `wiki/exfil/<id>.md`
@@ -40,10 +40,10 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## glossary (5) in `wiki/glossary/<id>.md`
 - [[apex-attachment]] — A sixth attachment slot per weapon in the Gunsmith, on top of the usual five; what Apex Attachments do is not public before launch. · **published**
-- [[content-updates]] — Content updates for Modern Warfare 4 DMZ delivered a round of fixes and improvements on 28 Oct 2026. · **draft**
+- [[content-updates]] — Content updates bring fixes and improvements to MW4, including a round of changes confirmed on 28 Oct 2026. · **draft**
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
 - [[dmz-fob-mastery-calling-card]] — The DMZ FOB Mastery Calling Card is a calling card reported by players in DMZ. · **draft**
-- [[dmz-the-mode]] — DMZ is a mode merging story mission spawns with free roam, where an exfil costs $125K in cash and matchmaking is randomized. · **draft**
+- [[dmz-the-mode]] — DMZ is an extraction mode where an exfil costs $125K in cash, combining story mission spawns with free roam and randomized matchmaking. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
 - [[modern-warfare-4]] — Modern Warfare 4 launched worldwide on 23 Oct 2026, delivering 12 launch maps, a cinematic campaign featuring Mads Mikkelsen, and DMZ extraction play. · **published**
@@ -59,7 +59,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dmz-beta-50-hours-emblem]] — DMZ Beta 50 Hours Emblem: awaiting confirmed details. · **candidate**
 - [[dog-tags]] — Extracting with Dog Tags from Wanted players yields DMZ Cash, and the Dog Tag Case station is located in the FOB. · **published**
 - [[gold-bar]] — Gold Bar is a red tier item, with five Gold Bars reported by players as required for end game FOB upgrades. · **candidate**
-- [[gold-bars]] — Gold Bars are an item reported by players to be worth 25K. · **candidate**
+- [[gold-bars]] — Gold Bars are reported by players to be worth 25K. · **candidate**
 - [[gold-skull]] — Players report that five Gold Skulls are required for end game FOB upgrades. · **candidate**
 - [[grabber-drone]] — The Grabber Drone is a tool introduced in Warzone. · **draft**
 - [[hazmat-suit]] — The Hazmat Suit is an item reported by players to be discarded upon exfil. · **candidate**
@@ -83,8 +83,8 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[the-warden]] — A Lieutenant met in Hajin's northern hills whose key, in the official field report, opens a sealed room beneath NuriGO Mall (5 Oct guide). · **published**
 
 ## material (3) in `wiki/material/<id>.md`
-- [[experimental-compounds]] — Experimental Compounds are reported by players to be a Legendary tier material. · **candidate**
-- [[military-composites]] — Military Composites are reported by players to be a material of Legendary rarity. · **candidate**
+- [[experimental-compounds]] — Experimental Compounds are reported by players to be a Legendary material. · **candidate**
+- [[military-composites]] — Military Composites are a material reported by players to be of Legendary rarity. · **candidate**
 - [[reactive-metals]] — Reactive Metals are a material reported by players to feed the 3D printer. · **candidate**
 
 ## mechanic (52) in `wiki/mechanic/<id>.md`
@@ -113,7 +113,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[movement-and-tuning]] — Tac sprint is on by default; DMZ has its own weapon damage tuning around its armor; no armor-piercing or Stopping Power rounds for now (developers' Q&A, 9 Oct). · **published**
 - [[multiplayer]] — Multiplayer is live in Modern Warfare 4, featuring XP boosts in Search & Destroy and Collateral alongside ongoing bug fixes. · **draft**
 - [[operator-prestige]] — Prestige a fully levelled Operator (18 Trait Points) by giving up rare gear and DMZ Cash; each Prestige adds a random permanent Trait, up to three. · **published**
-- [[operator-prestige-and-permanent-prestige-traits]] — Modern Warfare 4 DMZ includes an Operator Prestige system, where purchasing operative prestige can deplete resources and reset tags without awarding bonuses. · **candidate**
+- [[operator-prestige-and-permanent-prestige-traits]] — Operator Prestige in Modern Warfare 4 DMZ lets players level operators up to ranks like Prestige 4, but players report issues with depleted resources and reset… · **candidate**
 - [[paid-infil]] — Infil options and prices: on foot free, Polaris Dagor A1 5,000, LTV 25,000, helicopter 50,000, cargo plane 100,000 DMZ Cash (choose your drop spot). · **published**
 - [[proximity-chat]] — Voice between nearby players with distance-based falloff, directionality and environmental reverb (official, pre-launch). · **published**
 - [[pve-mode]] — PvE mode: awaiting confirmed details. · **candidate**
@@ -124,13 +124,13 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[server-culling]] — Ricochet anti-cheat in DMZ: server culling, TPM 2.0 and Secure Boot on PC, stronger account security (developers' Q&A and Xbox Wire). · **published**
 - [[skill-trees]] — Skill Trees are individual progression systems configured per Operator. · **draft**
 - [[stealth-meter]] — HUD indicator and audio cues (white → yellow → orange) that show how close you are to being detected, aimed at solo play (official, pre-launch). · **published**
-- [[stronger-hardware-bans]] — Stronger Hardware Bans makes it harder for banned cheaters to return with new accounts, according to player reports. · **candidate**
+- [[stronger-hardware-bans]] — Stronger Hardware Bans make it harder for banned cheaters to return using new accounts, according to player reports. · **candidate**
 - [[tac-map]] — The DMZ Tac-Map: objectives, POIs, threat areas, caches and spreading radiation on a grid with letters west to east and numbers north to south (D7 is Imjin Far… · **published**
-- [[tank-looting]] — Tanks drop legendary loot after players take them down, providing high-value rewards for destroying them. · **candidate**
+- [[tank-looting]] — Tank Looting allows players to acquire legendary loot, which is reported to drop after taking down a tank. · **candidate**
 - [[threat-escalation]] — Every area of Hajin has a threat level (Low, Medium, High, Critical or Extreme) shown under the compass; loud play raises the enemy response, stealth calms it … · **published**
 - [[time-to-kill]] — Time to Kill: awaiting confirmed details. · **candidate**
 - [[tourniquet]] — Everyone deploys with it: from Last Stand it gets you up at 100 health with a wound; it works again only at full health (official guide and developers' Q&A). · **published**
-- [[uav-spam]] — UAV spam involves the excessive use of UAVs in DMZ, which players report should be addressed by removing the Overwatch perk. · **candidate**
+- [[uav-spam]] — Players report excessive UAV spam in DMZ extraction matches and suggest removing the Overwatch perk. · **candidate**
 - [[uav-towers]] — In DMZ, players can activate UAV Towers and steal them back from enemy control to secure local reconnaissance. · **draft**
 - [[vehicles]] — DMZ vehicles on land, water and in the air need repair and fuel at Gas Stations; the guide lists 14, from the Camper to the Monarch exfil helicopter (official,… · **published**
 - [[visibility-and-graphics]] — Visibility and Graphics: awaiting confirmed details. · **candidate**
@@ -145,10 +145,10 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[breaking-new-ground]] — Breaking New Ground is a confirmed mission in DMZ. · **draft**
 - [[dmz-mission-involving-a-cart]] — A DMZ mission involving a cart is reported by players to require pushing around a cart. · **candidate**
 - [[dynamic-operations]] — Dynamic Operations feature squad objectives across Hajin, confirmed on 6 Oct 2026, and reward cash, XP, and supply drops. · **published**
-- [[operation-shopping-hacks]] — Operation Shopping Hacks is a DMZ mission reported to reward the Night Vision Goggles crafting recipe upon completion. · **candidate**
+- [[operation-shopping-hacks]] — Operation Shopping Hacks is a DMZ mission reported to reward players with the Night Vision Goggles crafting recipe upon completion. · **candidate**
 - [[operation-silent-ledger]] — Operation Silent Ledger is reported by players to be a story mission in DMZ. · **candidate**
 - [[side-ops]] — Small optional tasks in a match (truck repairs, finding a supply drop, scaling a radio tower) that give XP alongside the main objectives (official, pre-launch). · **published**
-- [[story-missions]] — Story missions in Modern Warfare 4 DMZ feature matchmaking, can be attempted solo, and unlock needed crafting recipes. · **published**
+- [[story-missions]] — Story Missions in Modern Warfare 4 DMZ feature designated spawn locations, matchmaking, solo play, and rewards that unlock needed crafting recipes. · **published**
 - [[stranded]] — Progress in the Stranded mission saves separately from the campaign checkpoint, according to player reports. · **candidate**
 - [[toxic-intercept-op]] — Toxic Intercept Op was fixed on 21 Oct 2026 to address an issue where it could incorrectly fail after completing the Defend the mission. · **draft**
 
@@ -175,7 +175,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[the-grid]] — The walled-off business district at the heart of Hajin City; Critical throughout, Nenshin Tech Complex Extreme; rooftop fights and few ground-level escape rout… · **published**
 - [[vondel]] — Vondel: awaiting confirmed details. · **candidate**
 - [[wolves-stadium]] — A ruined baseball stadium and open-air theatre in south central Hajin City; Medium threat, probably most dangerous along its edge with The Grid (official, pre-… · **published**
-- [[x01]] — X01 is a new DMZ Blacksite facility. · **draft**
+- [[x01]] — X01 is a new Blacksite facility located within DMZ. · **draft**
 
 ## source (23) in `wiki/source/<id>.md`
 - [[src-activision-campaign-early-access-2026-06-12]] — Early access on 16 Oct 2026 is for the Campaign only, for digital pre-orders of the Standard Digital or Vault Edition; the game, DMZ included, launches 23 Oct. · **published**

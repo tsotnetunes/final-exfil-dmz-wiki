@@ -10,21 +10,23 @@ station: 3d-printer
 unlock: progression
 ---
 <!-- generated:start -->
-The 3D Printer is a forward operating base upgrade that uses Resources, Ingredients, and Recipes to craft essentials, build loadouts, and upgrade the FOB. This functionality was confirmed on 9 Oct 2026. Players report that the 3D Printer requires DMZ Level 2 to unlock. Players also report that the 3D Printer can be upgraded.
+The 3D Printer allows players to craft essentials, build loadouts, and upgrade the FOB. It was confirmed on 9 Oct 2026 that the station requires Resources, Ingredients, and Recipes. Players report that the 3D Printer requires DMZ Level 2.
 
-## What can players craft at the 3D Printer?
+## What does the 3D Printer do?
 
-Players report that the 3D Printer allows for crafting gear and upgrading stations.
+The 3D Printer is used to craft gear and upgrade stations, according to player reports.
 
-Players report that DMZ armor is created using the 3D printer.
+Players report that the 3D Printer can be upgraded.
 
-Players report that crafting a 1-Plate Armor Vest requires 25 Synthetics and 25 Metals.
+DMZ armor is created using the 3D printer, as reported by players.
 
-Advanced armor types remain locked until players unlock their recipes, according to player reports.
+Crafting a 1-Plate Armor Vest requires 25 Synthetics and 25 Metals, according to players.
 
-Players report that finding a recipe for the Door Breacher Charge in a raid allows them to print it at the FOB 3D Printer.
+Players report that advanced armor types remain locked until their recipes are unlocked.
 
-Players report that the DMZ Crafting Calculator displays available 3D Printer recipes based on resources held by the player.
+Players also report that a recipe for the Door Breacher Charge can be found in a raid, which then allows players to print it at the FOB 3D Printer.
+
+According to player reports, the DMZ Crafting Calculator shows available 3D Printer recipes based on resources held by the player.
 
 _Generated from 1 confirmed and 10 reported claims across 11 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->

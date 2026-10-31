@@ -8,7 +8,9 @@ sensitivity: public
 sources: [clm_f37ae5c8ce1d]
 ---
 <!-- generated:start -->
-DMA Detection is an anti-cheat mechanic designed to identify unfair play. It matters to players because it monitors for non-standard hardware setups used to gain an advantage.
+DMA Detection is an anti-cheat mechanic designed to address external cheating devices. Understanding DMA Detection helps players know which cheat types are being monitored.
+
+## What does DMA Detection target?
 
 * Players report that DMA Detection targets hardware-based cheating methods.
 

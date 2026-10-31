@@ -10,13 +10,13 @@ station: boss-board
 unlock: progression
 ---
 <!-- generated:start -->
-The Boss Board is an upgrade reported by players to allow buying intel.
+The Boss Board upgrade allows players to buy intel, according to player reports.
 
-## How is Boss Board unlocked?
+## How is the Boss Board unlocked?
 
-Unlocking Boss Board is reported by players to require completing 1 DMZ Order.
+Players report that the Boss Board requires completing 1 DMZ Order to unlock.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->
