@@ -5,12 +5,11 @@ description: "Sniper Lieutenant on the rooftop terraces of DBN Headquarters in T
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-allthingshow-roze-2026-10-21, src-xboxplay-roze-2026-10-22, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gamingpromax-roze-highrise-armory-key-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-bosses-2026-10-31, clm_4d48baeb6761, clm_3359237cd043, clm_8c8cb1980072]
+sources: [clm_4d48baeb6761, clm_3359237cd043, clm_6787462c0aac, clm_8c8cb1980072, src-allthingshow-roze-2026-10-21, src-xboxplay-roze-2026-10-22, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gamingpromax-roze-highrise-armory-key-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-bosses-2026-10-31]
 aliases: ["Roze's Dog Tag", "The Kraken", "Kraken", "rooftop sniper", "DBN sniper", "Rose", "Roze's Highrise Armory"]
 weapon: Astaroth .57 sniper rifle
 location: DBN Headquarters rooftop, The Grid
 drops: The Kraken or Astaroth .57, Roze's Dog Tag, Highrise Armory key
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 Roze is a lieutenant boss who appears in DMZ, as reported by players.

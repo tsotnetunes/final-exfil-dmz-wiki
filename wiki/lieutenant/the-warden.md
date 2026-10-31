@@ -5,12 +5,11 @@ description: "Lieutenant at the 14th Political Prison: a riot-shield boss in a b
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-allthingshow-warden-2026-10-21, src-xboxplay-warden-2026-10-23, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-dmzhub-bosses-2026-10-31, src-dmzhub-keys-2026-10-31, clm_853ded1dacfe]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-allthingshow-warden-2026-10-21, src-xboxplay-warden-2026-10-23, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-dmzhub-bosses-2026-10-31, src-dmzhub-keys-2026-10-31]
 aliases: ["Warden", "Kang", "Kang's Dog Tag", "riot shield boss", "Incarcerator", "prison boss", "Citadel boss", "Kang's Arms Incinerator"]
 weapon: riot shield and X-58 NYX SMG
 location: 14th Political Prison mess hall, or the Citadel
 drops: Incarcerator or X-58 NYX, riot shield, Kang's Dog Tag
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

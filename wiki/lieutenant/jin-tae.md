@@ -5,12 +5,11 @@ description: "Lieutenant on the upper floors of the Heavenly Luck Casino in Cheo
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, clm_8e41bf518b21, clm_c101e44b551c]
+sources: [src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31]
 aliases: ["Jin Tae", "Jintae", "JIN-TAE", "Jin-tae's Dog Tag", "casino boss", "High Roller's Fortune", "Highroller's Fortune", "Jin-Tae's Private Lounge"]
 weapon: ISO Nightshade SMG
 location: Heavenly Luck Casino, Cheongun Village
 drops: High Roller's Fortune or ISO Nightshade, Jin-Tae's Dog Tag, Jin-Tae's Private Lounge key
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

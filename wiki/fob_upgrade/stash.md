@@ -5,22 +5,22 @@ description: "FOB storage shared by all your Operators: 40 items and 12 weapons 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_fe49071395d4, clm_52ae1fb94e2f, clm_972cffa0bd29, clm_cd43cdd0d14f, clm_1d5b2eabae74, clm_112b93b311ed, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_fe49071395d4, clm_52ae1fb94e2f, clm_972cffa0bd29, clm_cd43cdd0d14f, clm_1d5b2eabae74, clm_112b93b311ed, clm_4fd0c7201984, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 station: stash
 unlock: start
 ---
 <!-- generated:start -->
-The Stash is an upgrade in Modern Warfare 4 DMZ built up by extracting items. It was confirmed on 7 Oct 2026 that what players extract matters as they build up their Stash.
+The Stash provides inventory storage in Modern Warfare 4 DMZ that players build up using extracted items. Extracted items matter directly toward building up the Stash, as confirmed on 7 Oct 2026.
 
-## How much does the Stash hold?
+## What does the Stash hold?
 
-Players report that the DMZ stash holds 12 weapons and 58 items. Players also report that the Stash interface can likely be upgraded to increase its storage space.
+Players report that the DMZ stash holds 12 weapons and 58 items. Players also report that the Stash interface can likely be updated for increased space.
 
-## How do players upgrade the Stash?
+## How do Stash upgrades unlock?
 
-Players report that upgrading the DMZ stash requires finding specific items.
+Players report that DMZ stash upgrades require finding specific items. Stash Weapon Upgrade I continues to appear in the upgrade list after completion, according to player reports.
 
-_Generated from 1 confirmed and 4 reported claims across 5 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 1 confirmed and 5 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

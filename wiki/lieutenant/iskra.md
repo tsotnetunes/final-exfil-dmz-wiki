@@ -5,12 +5,11 @@ description: "Lieutenant in the office building at Cheonwang Peak Array (Medium)
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-allthingshow-hunter-order-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-allthingshow-roze-2026-10-21, src-dmzhub-bosses-2026-10-31, clm_0892055f6578, clm_ac4a74fc6342]
+sources: [src-allthingshow-hunter-order-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-allthingshow-roze-2026-10-21, src-dmzhub-bosses-2026-10-31]
 aliases: ["Iskra's Dog Tag", "Widowmaker", "Widow Maker", "Cheonwang boss", "hooded Lieutenant", "Iskra's Control Room"]
 weapon: Warlord shotgun
 location: Cheonwang Peak Array office building
 drops: Widowmaker or Warlord, Iskra's Dog Tag, Small Secure Backpack, Iskra's Control Room key
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

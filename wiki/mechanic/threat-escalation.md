@@ -5,9 +5,8 @@ description: "Every area of Hajin has a threat level (Low, Medium, High, Critica
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-gamespark-tokyo-media-event-2026-10-01, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-roze-2026-10-21, src-xboxplay-roze-2026-10-22, clm_0d5aa093524d]
+sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-gamespark-tokyo-media-event-2026-10-01, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-roze-2026-10-21, src-xboxplay-roze-2026-10-22]
 aliases: ["threat level", "Low threat", "Medium threat", "High threat", "Critical threat", "Extreme threat", "threat levels", "danger level"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

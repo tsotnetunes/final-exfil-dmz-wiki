@@ -5,9 +5,8 @@ description: "A Lieutenant (once filed as a Commander): a Spetsnaz trainer firin
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-boss-board-explained-2026-10-12, src-allthingshow-bale-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-codmunity-dmz-bosses-2026-10-21, src-dmzhub-bosses-2026-10-31, clm_a31a217f5b49, clm_20d29934633a]
+sources: [clm_8232f069a06a, clm_f2a831ba9115, clm_20d29934633a, clm_e2417a18ffed, clm_bb52ef4108f8, clm_fee8ddd106b1, src-activision-dmz-guide-part1-2026-10-05, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-boss-board-explained-2026-10-12, src-allthingshow-bale-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-codmunity-dmz-bosses-2026-10-21, src-dmzhub-bosses-2026-10-31]
 aliases: ["Lieutenant Bale", "Dmitry Bale", "Bale's Dog Tag", "Dreadnought LMG", "Spetsnaz trainer", "Tank Depot boss", "Re-Education Center boss"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 Bale is a commander in DMZ. Players report this role for encounters within the mode.

@@ -10,7 +10,6 @@ aliases: ["Doctor", "The Doctor's Dog Tag", "Doctor's Salve", "hospital boss", "
 weapon: Patriot XMR battle rifle
 location: Mirae General Hospital (wards, garage, grounds)
 drops: Doctor's Salve or Patriot XMR, The Doctor's Dog Tag, Command Office key
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

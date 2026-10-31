@@ -5,9 +5,8 @@ description: "The AI enemy in Hajin, officially the 100 Spirits NK Faction: four
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-season-1-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-gamespark-tokyo-media-event-2026-10-01, src-dexerto-dmz-enemy-types-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-chemist-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-orders-2026-10-31, clm_88179a380fbb, clm_5e6b181a2f4d, clm_580e04417c3f, clm_45a3d3d59bfc]
+sources: [clm_580e04417c3f, clm_88179a380fbb, clm_5e6b181a2f4d, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-season-1-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-gamespark-tokyo-media-event-2026-10-01, src-dexerto-dmz-enemy-types-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-chemist-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-orders-2026-10-31]
 aliases: ["100 Spirits", "100 Spirits NK Faction", "Hundred Spirits", "NK forces", "Korean People's Army", "AI enemies", "AI tiers", "Tier 1", "Tier 2", "Tier 3", "Tier 4", "K9", "robot dog", "drone swarm", "LMG drone", "convoy", "hazmat soldiers"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 North Korean forces are an AI enemy faction occupying the former Russian facility X01 in the northern Exclusion Zone. Players encounter these hostile units while exploring and fighting across DMZ areas.

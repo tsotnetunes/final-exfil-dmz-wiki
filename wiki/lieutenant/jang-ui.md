@@ -5,12 +5,11 @@ description: "Lieutenant in the floor 14 server hall of the Nenshin Tech Complex
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gamingpromax-roze-highrise-armory-key-2026-10-24, src-dexerto-jang-ui-power-room-key-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-gamerfuzion-boss-board-explained-2026-10-12, src-codmunity-dmz-bosses-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-bosses-2026-10-31, clm_010cca1f3297, clm_cd725da0354e]
+sources: [src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gamingpromax-roze-highrise-armory-key-2026-10-24, src-dexerto-jang-ui-power-room-key-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-gamerfuzion-boss-board-explained-2026-10-12, src-codmunity-dmz-bosses-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-bosses-2026-10-31]
 aliases: ["Jang-Ui", "Jang Ui", "Jangui", "Jang-Ui's Dog Tag", "Paektu", "Converted Power Room", "Jang-Ui's Converted Power Room"]
 weapon: Hyeon Burst assault rifle
 location: Nenshin Tech Complex server hall, The Grid
 drops: Paektu or Hyeon Burst, Legendary dog tag, Converted Power Room key
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

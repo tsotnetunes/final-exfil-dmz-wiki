@@ -5,12 +5,11 @@ description: "The Chemist: Lieutenant inside the radiation at Haneul Nuclear Rea
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-allthingshow-chemist-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-bosses-2026-10-31, clm_39752e0219e7]
+sources: [clm_39752e0219e7, src-allthingshow-chemist-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-bosses-2026-10-31]
 aliases: ["The Chemist", "Chemist", "Chemist's Dog Tag", "Abu Nassar (name not confirmed)", "Revenant", "reactor boss", "Chimist", "The Chemist's Secure Armory"]
 weapon: marksman rifle (Revenant); Kastov 762 reported
 location: Haneul Nuclear Reactor warehouse, inside the radiation
 drops: Revenant or plain rifle, The Chemist's Dog Tag, The Chemist's Secure Armory key
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 The Chemist (Abu Nassar) is reported by players to be an upcoming new boss in DMZ.

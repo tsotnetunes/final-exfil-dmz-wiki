@@ -1070,3 +1070,7 @@
 ## [2026-10-31 12:14 EDT] ingest | 31 Oct research, enemies: 9 new boss pages (Colossus, Deathstalker, the tank Commander, Jin-Tae, the Doctor, Iskra, Jang-Ui, the Scavenger), 11 rewritten, Bale filed as a Lieutenant, 27 sources, census, 8 golden questions
 - changed: .kac 1, evals 1, index 13, index.md 1, proposals 1, raw 27, wiki 48
 - run: r-20261031-121448-003d
+
+## [2026-10-31 12:15 EDT] render | 21 pages rendered, 801 claims, 761 evidence
+- changed: wiki 21, claims 1, evidence 1, index.md 1
+- run: r-20261031-161515-22f3

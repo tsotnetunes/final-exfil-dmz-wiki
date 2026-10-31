@@ -5,12 +5,11 @@ description: "Lieutenant in the woods at Mujin Pass above Hanrim Village: a ghil
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-codmunity-dmz-bosses-2026-10-21, src-dmzhub-bosses-2026-10-31, clm_6c1e332f9e0e]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-codmunity-dmz-bosses-2026-10-21, src-dmzhub-bosses-2026-10-31]
 aliases: ["the Forest Phantom", "deer skull sniper", "ghillie boss", "Gorani's Dog Tag", "Incisor", "Mujin Pass boss", "Gorani's Scout Overlook"]
 weapon: MAR-9 marksman rifle
 location: Mujin Pass above Hanrim Village; South Korean Wilderness forest
 drops: Incisor or MAR-9, Gorani's Dog Tag, sometimes the Gorani's Scout Overlook key
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

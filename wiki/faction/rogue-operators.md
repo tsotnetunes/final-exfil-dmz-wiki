@@ -5,9 +5,8 @@ description: "The other players in your DMZ match: up to 60 per lobby in squads 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-activision-mw4-season-1-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, clm_9acf7f2eb6df]
+sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-activision-mw4-season-1-2026-10-28, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["rival squads", "rival Operators", "other players", "PvP", "enemy squads", "Operators"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

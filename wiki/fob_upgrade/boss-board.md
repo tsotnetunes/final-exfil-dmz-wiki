@@ -5,11 +5,10 @@ description: "FOB station that opens after your second DMZ Order: Lieutenant int
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-season-1-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-boss-board-2026-10-21, src-allthingshow-bale-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-codmunity-dmz-guide-2026-10-24, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, clm_f49cfc25d1c7, clm_98e537e8f2e3]
+sources: [clm_f49cfc25d1c7, clm_98e537e8f2e3, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-season-1-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-boss-board-2026-10-21, src-allthingshow-bale-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-codmunity-dmz-guide-2026-10-24, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31]
 aliases: ["boss board", "Lieutenant intel", "Paid Intel", "buy intel", "Boss Board challenges", "Information Power"]
 station: boss-board
 unlock: second DMZ Order
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 The Boss Board upgrade allows players to buy intel, according to player reports.

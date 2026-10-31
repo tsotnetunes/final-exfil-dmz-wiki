@@ -5,12 +5,11 @@ description: "The only Lieutenant with no home: he turns up around Hajin (Cheong
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-allthingshow-scavenger-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-bale-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-bosses-2026-10-31, clm_1b11a0105ecd]
+sources: [src-allthingshow-scavenger-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-bale-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-bosses-2026-10-31]
 aliases: ["Scavenger", "Scavanger", "Scavenger's Dog Tag", "roaming Lieutenant", "LTV boss"]
 weapon: Oris 8.6 marksman rifle (his drop)
 location: no fixed place; Cheongun Village, South Island, Deadtown
 drops: Oris 8.6, Scavenger's Dog Tag, a cache
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
