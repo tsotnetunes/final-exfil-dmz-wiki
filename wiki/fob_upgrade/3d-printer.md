@@ -5,28 +5,36 @@ description: "Unlocks at DMZ level 2: crafts gear from four Resources and extrac
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_2347ef065fca, clm_bfc0061f6972, clm_50571f38d2ac, clm_93b0cd93b47c, clm_8b9dad98699a, clm_36e903b4cb4b, clm_fb602d7b6940, clm_7c40ac8ec97a, clm_7b0306c946e3, clm_8bfe373628c3, clm_15a4679827ba, clm_218f7902ddd6, clm_424acf7011f1, clm_12f1ab2f7bf6, clm_8def15031bde, clm_98e3c39d88dc, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_2347ef065fca, clm_bfc0061f6972, clm_50571f38d2ac, clm_93b0cd93b47c, clm_8b9dad98699a, clm_36e903b4cb4b, clm_fb602d7b6940, clm_7c40ac8ec97a, clm_7b0306c946e3, clm_8bfe373628c3, clm_15a4679827ba, clm_218f7902ddd6, clm_424acf7011f1, clm_12f1ab2f7bf6, clm_8def15031bde, clm_98e3c39d88dc, clm_ce05ea62b1bd, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 station: 3d-printer
 unlock: progression
 ---
 <!-- generated:start -->
-The 3D Printer allows players to craft essentials, build loadouts, and upgrade the FOB. It was confirmed on 9 Oct 2026 that the station requires Resources, Ingredients, and Recipes. Players report that the 3D Printer requires DMZ Level 2.
+The 3D Printer allows players to use Resources, Ingredients, and Recipes to craft essentials, build loadouts, and upgrade the FOB, as confirmed on 9 Oct 2026.
 
-## What does the 3D Printer do?
+Players report that the 3D Printer requires DMZ Level 2 to unlock. Players report that the 3D Printer is located at the FOB.
 
-The 3D Printer is used to craft gear and upgrade stations, according to player reports.
+## What can the 3D Printer craft?
 
-Players report that the 3D Printer can be upgraded.
+Players report that the 3D Printer provides crafting capabilities in DMZ.
 
-DMZ armor is created using the 3D printer, as reported by players.
+Players report that the 3D Printer crafts gear and upgrades stations.
 
-Crafting a 1-Plate Armor Vest requires 25 Synthetics and 25 Metals, according to players.
+Players report that DMZ armor is created using the 3D Printer.
+
+Crafting a 1-Plate Armor Vest requires 25 Synthetics and 25 Metals, according to player reports.
 
 Players report that advanced armor types remain locked until their recipes are unlocked.
 
-Players also report that a recipe for the Door Breacher Charge can be found in a raid, which then allows players to print it at the FOB 3D Printer.
+Players report that a recipe for the Door Breacher Charge can be found in a raid.
 
-According to player reports, the DMZ Crafting Calculator shows available 3D Printer recipes based on resources held by the player.
+Finding this recipe allows players to print the Door Breacher Charge at the FOB 3D Printer, according to player reports.
+
+Players report that the DMZ Crafting Calculator displays available 3D Printer recipes based on the resources held by the player.
+
+## Can the 3D Printer be upgraded?
+
+Players report that the 3D Printer can be upgraded.
 
 _Generated from 1 confirmed and 10 reported claims across 11 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
