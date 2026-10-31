@@ -1129,3 +1129,7 @@
 ## [2026-10-31 14:37 EDT] edit | 31 Oct: the Chemist's name no longer shows twice in the Lieutenants, weapons and Legendary Dog Tag tables
 - changed: wiki 3
 - run: r-20261031-143709-31de
+
+## [2026-10-31 15:04 EDT] edit | 31 Oct check fixes: the patch notes source now holds the 30 Oct section (cash amounts) with its notes; official survival kit contents; level-15 Operator slot from the official table; ISO Nightshade is Jin-Tae's drop; unsupported Songdo safes, Ultra-vest rarity and Manual claims removed; Iskra's key grid shown as disputed; a Destructoid nylon source; nine wordings that ran close to their sources rewritten
+- changed: .kac 1, index 7, index.md 1, raw 2, wiki 23
+- run: r-20261031-150427-10ad

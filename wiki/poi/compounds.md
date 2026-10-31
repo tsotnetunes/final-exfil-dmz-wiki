@@ -38,7 +38,7 @@ Some compounds need keys, but one loot guide names two open compounds at Daesong
 
 ## How do you clear a compound and open its safe?
 
-Crossing the perimeter starts the Clear the Military Compound Side Op [[src-gamerfuzion-compound-echo-farm-2026-10-23]] [[src-gamingpromax-compounds-2026-10-26]]. One guide says a meter tracks your progress against about 10 to 12 guards, and the safe unlocks at 100 percent; look in the main building, at the foot of the guard tower or in a command tent (reported) [[src-gamingpromax-compounds-2026-10-26]]. Each compound is also said to have a secret way in, and weapon lockers with valuables (reported) [[src-destructoid-best-loot-2026-10-25]].
+Crossing the perimeter starts the Clear the Military Compound Side Op [[src-gamerfuzion-compound-echo-farm-2026-10-23]] [[src-gamingpromax-compounds-2026-10-26]]. One guide says a meter tracks your progress against about 10 to 12 guards, and the safe unlocks at 100 percent; check the main building, beside the guard tower, or inside a command tent (reported) [[src-gamingpromax-compounds-2026-10-26]]. Each compound is also said to have a secret way in, and weapon lockers with valuables (reported) [[src-destructoid-best-loot-2026-10-25]].
 
 ## What loot do compounds hold?
 

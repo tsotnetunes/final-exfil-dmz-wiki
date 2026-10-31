@@ -1,7 +1,7 @@
 ---
 type: faq
 title: "How do you get more Active Duty Operator slots?"
-description: "You start with two; a third unlocks through DMZ levels (level 15, reported). Vault Edition owners start with three. A fourth slot is not confirmed."
+description: "You start with two; a third unlocks at DMZ level 15. Vault Edition owners start with three. A fourth slot is not confirmed."
 status: stable
 brain_status: published
 sensitivity: public
@@ -14,7 +14,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Level up. You start with two Active Duty slots and unlock a third by raising your DMZ level; Vault Edition owners have three from the start [[src-activision-dmz-guide-part2-2026-10-09]] [clm_37cdae5b1cba]. The official guide does not name the level, but a community database lists the extra Operator slot at DMZ level 15 (reported) [[src-codmunity-dmz-progression-2026-10-19]].
+Level up. You start with two Active Duty slots and unlock a third by raising your DMZ level; Vault Edition owners have three from the start [[src-activision-dmz-guide-part2-2026-10-09]] [clm_37cdae5b1cba]. The official launch table puts the extra Operator slot at DMZ level 15 [[src-activision-ready-for-launch-progression-2026-10-19]], and a community database agrees [[src-codmunity-dmz-progression-2026-10-19]].
 
 ## What is an Active Duty slot?
 Each slot holds one Operator you can deploy, with their own Dog Tag, Traits, backpack and loadout [[src-activision-dmz-guide-part2-2026-10-09]] [[src-cod-dmz-progression-video-2026-10-07]]. An Operator stays in the slot until you dismiss them, the same Operator cannot fill two slots, and skins can be changed [[src-activision-dmz-guide-part2-2026-10-09]]. The Bank, Stash, Resources and Ingredients are shared by all your Operators [[src-activision-dmz-guide-part2-2026-10-09]].

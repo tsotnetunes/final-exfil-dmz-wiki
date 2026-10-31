@@ -1,7 +1,7 @@
 ---
 type: mechanic
 title: "UAV Towers"
-description: "UAV Towers are guarded map towers: activate the laptop to complete a Side Op (2,000 DMZ Cash since 30 Oct 2026) and ping nearby enemies. Since 22 Oct you can take back towers enemies hold."
+description: "Guarded map towers: hack the laptop for a Side Op (2,000 DMZ Cash since 30 Oct 2026) and a ping of nearby enemies. Since 22 Oct you can retake towers the enemy holds (notes: 23 Oct)."
 status: stable
 brain_status: published
 sensitivity: public

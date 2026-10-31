@@ -66,7 +66,7 @@ See [[mirae-general-hospital]] and [[cheonwang-peak-array]].
 | --- | --- | --- | --- | --- | --- |
 | Mirae Electrical Room | Rare | the electrical room in the northwest basement car park of [[mirae-general-hospital]] | F5 | Operation Critical Extraction; random loot | [[src-dmzhub-keys-2026-10-31]] [[src-gamingpromax-dmz-keys-2026-10-27]] [[src-gfinity-story-mission-rewards-2026-10-23]] |
 | The Doctor's Command Office | Legendary | an upper-floor office at Mirae General Hospital; its Lieutenant crate has held the [[tempered-armor-vest]] recipe | F5 | dropped by The Doctor | [[src-gamingpromax-dmz-keys-2026-10-27]] [[src-xboxplay-dmz-keys-2026-10-22]] [[src-criticalhits-dmz-keys-2026-10-26]] |
-| Iskra's Control Room | Legendary | the control room upstairs in the broadcast building at [[cheonwang-peak-array]] | F7 | not given | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] |
+| Iskra's Control Room | Legendary | the control room upstairs in the broadcast building at [[cheonwang-peak-array]] | F7 (boss guides: F6) | not given | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] |
 
 ## Haneul Nuclear Reactor
 

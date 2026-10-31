@@ -21,7 +21,7 @@ Radiation spreads across Hajin during a deployment, and the Time Remaining timer
 
 ## How long do activities take?
 - A Story Mission takes about 10 to 15 minutes (reported) [[src-conquestcapped-dmz-solo-2026-10-26]].
-- A DMZ Order asks you to finish a Dynamic Operation in under 8 minutes, so a quick Op fits in that time [[src-mw4-launch-patch-notes-2026-10-29]] [[src-dmzhub-orders-2026-10-31]].
+- One DMZ Order wants a Dynamic Op done within 8 minutes, so a quick Op fits in that time [[src-mw4-launch-patch-notes-2026-10-29]] [[src-dmzhub-orders-2026-10-31]].
 - Calling an exfil takes about 90 seconds until the helicopter is down (reported) [clm_0654da754a95].
 
 ## Does a short match cost you anything?

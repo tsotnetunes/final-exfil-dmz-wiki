@@ -19,7 +19,7 @@ Yes, from Season 1. The Battle Pass opens from a new Battle Pass and Store Stati
 ## What does it cost and give?
 - 1,100 COD Points, or 2,400 as a bundle; 100 tiers with over 100 rewards [[src-activision-season-1-announcement-2026-10-28]].
 - Instant rewards include a 10% Battle Pass XP boost and a DMZ Survival Kit; finishing it gives another DMZ Survival Kit, 200 COD Points and the Tier 100 Bellum Mosin-Nagant Blueprint [[src-activision-season-1-announcement-2026-10-28]].
-- Buyers who fall behind are caught up to the reward for the current day of the season, up to day 50 [[src-activision-season-1-announcement-2026-10-28]].
+- If you buy late, you receive every reward up to the season's current day, as far as day 50 [[src-activision-season-1-announcement-2026-10-28]].
 
 ## What is BlackCell?
 The premium tier. It includes the XERO Operator, 1,100 COD Points, a DMZ Survival Pack and a clan tag, with more DMZ benefits to be explained before Season 1 [[src-activision-season-1-announcement-2026-10-28]]. In DMZ, Season 1 BlackCell owners can buy extra weapons and gear from the Vendor for DMZ Cash [[src-activision-season-1-announcement-2026-10-28]]. The Vault Edition includes one season of BlackCell, and buying BlackCell after the Battle Pass returns 1,100 COD Points [[src-activision-season-1-announcement-2026-10-28]] [[src-activision-pc-specs-2026-09-29]].

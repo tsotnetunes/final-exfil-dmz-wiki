@@ -44,18 +44,21 @@ From DMZ levels, DMZ Orders and missions, and Events [[src-activision-dmz-guide-
 
 ## What is inside?
 
-A community database lists these contents (reported) [[src-dmzhub-items-2026-10-31]]:
+The official launch post lists each kit's contents [[src-activision-ready-for-launch-progression-2026-10-19]]:
 
-| Kit | Contents |
-| --- | --- |
-| Basic Armor Kit | a 2-plate carrier and an Armor Box |
-| Basic Restock Kit | a Medium Backpack, an Armor Box and an Ammo Box |
-| Basic Triage Kit | a Medkit, Pain Killers, Radiation Blockers and a Bandage |
-| Explosives Equipment Kit | a weapons locker key, 2 C4, 2 Semtex, 2 Frag Grenades and 2 Proximity Mines |
-| Recon Equipment Kit | a weapons locker key, a Heartbeat Sensor, a Seeker Drone, a Recon Drone and a Snapshot Grenade |
-| SERE Kit | a Medkit and a Self-Revive Kit |
+| Kit | Level | Contents |
+| --- | --- | --- |
+| Basic Armor Kit | 6 and 21 | 2-Plate Carriers and an Armor Box |
+| Restock Kit | 8 and 24 | Medium Backpacks, a Munitions Box and an Armor Box |
+| Basic Triage Kit | 11 | Bandages, a Medkit, Painkillers and Radiation Blockers |
+| Explosives Equipment Kit | 16 | Frag Grenades, Sticky Grenades, C4, Proximity Mines and a Gun Store Weapons Locker Key |
+| Recon Equipment Kit | 19 | a Seeker Drone, a Recon Drone, Heartbeat Sensors, Snapshot Grenades and a Police Station Key |
+| Recon Equipment Kit | 46 | the same tools with a Black Market Weapons Locker Key instead |
+| Triage Kit (Epic) | 27 | Bandages, Medkits, Self-Revives and Painkillers |
+| Trap Equipment Kit | 42 | Razor Wire Traps, Trip Wires, Proximity Mines, Claymores and a Gun Store Weapons Locker Key |
+| Advanced SERE Kit (Legendary) | 70 | Operator Rescue Beacons, Weapon Insurance Contracts, Self-Revives and Medkits |
 
-The Trap Equipment Kit, the Triage Kit and the Advanced SERE Kit are not described yet.
+The post names the items without counts; a community database lists counts for some kits (reported) [[src-dmzhub-items-2026-10-31]]. What a Weapon Insurance Contract or an Operator Rescue Beacon does is not described yet.
 
 ## What is the Vault Edition Deployment Kit?
 

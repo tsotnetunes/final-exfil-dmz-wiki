@@ -34,7 +34,7 @@ Guards patrol the open-plan rooms and stairwells [[src-allthingshow-hunter-order
 | Warlord | the plain Rare shotgun, the usual drop | [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] |
 | Iskra's Dog Tag | Legendary Lieutenant tag | [[src-allthingshow-hunter-order-2026-10-21]] [[src-dmzhub-bosses-2026-10-31]] |
 | Small Secure Backpack | Epic backpack with three Secure Slots | [[src-allthingshow-dmz-bosses-2026-10-21]] |
-| Iskra's Control Room key | Legendary; opens the control room on the upper floor of the broadcast building at Cheonwang Peak Array, grid F6 | [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-dmzhub-bosses-2026-10-31]] |
+| Iskra's Control Room key | Legendary; opens the control room on the upper floor of the broadcast building at Cheonwang Peak Array, grid F6 (one database marks it at F7) | [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-dmzhub-bosses-2026-10-31]] |
 
 Her cache has also held a Control Unit and a Disposable Parachute, and the kill gave 1,000 XP in one guide's test (reported) [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-allthingshow-hunter-order-2026-10-21]].
 

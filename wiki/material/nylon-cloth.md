@@ -5,7 +5,7 @@ description: "A Rare 3D Printer ingredient for the 3-Plate Armor Vest, Parachute
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-codmunity-dmz-items-2026-10-26, src-destructoid-dmz-ingredient-guides-2026-10-22, src-codcentral-3d-printer-recipes-2026-10-20, src-dtgre-dmz-crafting-guides-2026-10-24, src-allthingshow-dmz-crafting-guides-2026-10-21, src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31]
+sources: [src-codmunity-dmz-items-2026-10-26, src-destructoid-dmz-ingredient-guides-2026-10-22, src-codcentral-3d-printer-recipes-2026-10-20, src-dtgre-dmz-crafting-guides-2026-10-24, src-allthingshow-dmz-crafting-guides-2026-10-21, src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-destructoid-nylon-farming-2026-10-23]
 aliases: ["Nylon", "nylon cloth farm", "where to find Nylon Cloth"]
 stale_after: 2026-11-13
 ---
@@ -18,8 +18,8 @@ Nylon Cloth is a Rare 3D Printer ingredient [[src-codmunity-dmz-items-2026-10-26
 
 ## Where do you find Nylon Cloth?
 
-- The Citadel's main building at the 14th Political Prison, the best spot in one guide [[src-destructoid-dmz-ingredient-guides-2026-10-22]] [[src-dmzhub-items-2026-10-31]]; see [[prison-complex]].
-- Deadtown's underground, and bags in the Mujin Nightclub in the west wing of the Heavenly Luck Casino in Cheongun Village [[src-destructoid-dmz-ingredient-guides-2026-10-22]]; see [[deadtown]] and [[casino]].
+- The Citadel's main building at the 14th Political Prison, the best spot in one guide [[src-destructoid-nylon-farming-2026-10-23]] [[src-dmzhub-items-2026-10-31]]; see [[prison-complex]].
+- Deadtown's underground, and bags in the Mujin Nightclub in the west wing of the Heavenly Luck Casino in Cheongun Village [[src-destructoid-nylon-farming-2026-10-23]]; see [[deadtown]] and [[casino]].
 - A duffel bag in the Chang-san Air Base barracks gave some on one writer's run [[src-allthingshow-dmz-crafting-guides-2026-10-21]] (reported).
 - DMZ level 57 gives two [[src-activision-ready-for-launch-progression-2026-10-19]].
 

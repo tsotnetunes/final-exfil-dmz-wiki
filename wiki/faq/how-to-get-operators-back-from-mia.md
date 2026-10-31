@@ -29,5 +29,5 @@ Compare the fee with the build you would lose: a recovered Operator keeps all th
 The Vault Edition Deployment Kit includes two, but the official guide does not say what they do [[src-activision-dmz-guide-part2-2026-10-09]]. Not confirmed yet.
 
 ## Can a bug put an Operator in MIA?
-It did: until a fix on 24 Oct 2026, a party leader could pull teammates out of DMZ without their consent and leave their Operators MIA [[src-mw4-launch-patch-notes-2026-10-29]]. Disconnects: [[what-happens-if-you-disconnect-in-dmz]].
+It did: until a fix on 24 Oct 2026, a party leader could drag teammates out of a deployment against their will, leaving their Operators MIA [[src-mw4-launch-patch-notes-2026-10-29]]. Disconnects: [[what-happens-if-you-disconnect-in-dmz]].
 <!-- human:end -->

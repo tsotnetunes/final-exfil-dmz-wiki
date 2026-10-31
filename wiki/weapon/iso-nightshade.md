@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "ISO Nightshade"
-description: "Fast-firing 9mm SMG; its ISO Trace Apex was fixed for DMZ on 20 Oct, Vault owners get La Sombra Venenosa, and Jin-Tae carries one. 28 Oct: more arm and hand damage in Multiplayer."
+description: "Fast-firing 9mm SMG; its ISO Trace Apex was fixed for DMZ on 20 Oct, Vault owners get La Sombra Venenosa, and Jin-Tae can drop one. 28 Oct: more arm and hand damage in Multiplayer."
 status: stable
 brain_status: published
 sensitivity: public
@@ -22,7 +22,7 @@ The ISO Nightshade is a fast-firing 9x19mm SMG that suits most roles; Multiplaye
 Extract with its Weapon Manual, then buy it in the [[gunsmith]] ([[weapon-manuals]]) [[src-activision-dmz-guide-part2-2026-10-09]]. Pre-launch footage priced it at 2,850 DMZ Cash [[src-gamerfuzion-dmz-prices-2026-10-08]]; the launch price is not confirmed [[src-dmzcodex-gunsmith-2026-10-29]]. In one post-launch cart its first attachment slot cost 1,000 and a Pulse-MW Laser 1,900 more [[src-allthingshow-dmz-gunsmith-weapons-2026-10-21]]; another guide's ISO Nightshade with a single muzzle came to 13,500 in all (reported) [[src-dmzradar-gunsmith-2026-10-20]].
 
 - **Blueprint:** the Vault Edition includes one, **La Sombra Venenosa** [[src-activision-dmz-guide-part2-2026-10-09]] [[src-gamerfuzion-dmz-free-blueprints-2026-10-21]]; a 24 Oct fix stopped bullets appearing to float in its part-used magazines [[src-mw4-launch-patch-notes-2026-10-29]]. See [[blueprints]].
-- **Lieutenant:** Jin-Tae carries one [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]]; his named version, High Roller's Fortune, is a Legendary with a gold camo and a rare drop (reported) [[src-conquestcapped-dmz-bosses-2026-10-28]].
+- **Lieutenant:** Jin-Tae can drop an ISO Nightshade blueprint [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]]; his named version, High Roller's Fortune, is a Legendary with a gold camo and a rare drop (reported) [[src-conquestcapped-dmz-bosses-2026-10-28]].
 
 ## What is its Apex Attachment?
 

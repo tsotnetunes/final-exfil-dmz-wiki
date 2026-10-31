@@ -39,7 +39,7 @@ Homes around the luxury La Grande Vie tower, a tented market by the sea, a bridg
 
 | Spot | What players report |
 | --- | --- |
-| Hanex Bank branch | A coded vault with two safes ([[bank-vaults]]) [[src-gamerfuzion-gold-bar-route-2026-10-29]] [[src-codmunity-hajin-map-2026-10-31]] |
+| Hanex Bank branch | A coded vault ([[bank-vaults]]) [[src-gamerfuzion-gold-bar-route-2026-10-29]] [[src-codmunity-hajin-map-2026-10-31]] |
 | Gun store, north side | Beside a fuel station with a yellow canopy; green weapon lockers downstairs [[src-allthingshow-gun-store-key-2026-10-22]] [[src-dmzhub-keys-2026-10-31]] |
 | Old Barber Shop | Rare key room beside the crab shack on the south side, I7 [[src-dmzhub-keys-2026-10-31]] |
 | La Grande Vie | A DMZ Order has you climb the stairwell to the roof and place a transmitter at a terminal under a camo tarp [[src-gamerfuzion-underground-orders-2026-10-23]] [[src-codmunity-hajin-map-2026-10-31]] |

@@ -23,7 +23,7 @@ _Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-A Weapon Manual is a loot item for one gun. Extract with it and you can buy that gun in the [[gunsmith]] for DMZ Cash as often as you like; the Manual is used up at exfil and pays 5,000 DMZ Cash, as a Recipe does [[src-activision-dmz-guide-part2-2026-10-09]] [clm_9ee7db0a613a]. It is the only permanent way to unlock a weapon in DMZ [[src-activision-mw4-launch-weapons-2026-10-19]], and the unlock carries over between deployments ([[what-carries-over]]) [[src-activision-dmz-deep-dive-2026-06]].
+A Weapon Manual is a loot item for one gun. Extract with it and you can buy that gun in the [[gunsmith]] for DMZ Cash as often as you like; the Manual is used up at exfil and pays 5,000 DMZ Cash, as a Recipe does [[src-activision-dmz-guide-part2-2026-10-09]] [clm_9ee7db0a613a]. The unlock carries over between deployments ([[what-carries-over]]) [[src-activision-dmz-deep-dive-2026-06]].
 
 ## Do you need three Manuals to unlock a gun?
 
