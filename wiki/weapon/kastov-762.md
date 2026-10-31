@@ -5,7 +5,7 @@ description: "Hard-hitting 7.62x39mm assault rifle, in every DMZ list's top two 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-mw4-season-1-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-gamerfuzion-dmz-free-blueprints-2026-10-21, src-dmztracker-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-gamerfuzion-dmz-free-blueprints-2026-10-21, src-dmztracker-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["Kastov", "Kastov 762 AR", "AK", "Kastov ARC", "Kastov 545", "Voltspine"]
 class: "Assault rifle"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -35,5 +35,5 @@ Its maximum damage range went from 950 to 1050 (+11%), listed under Multiplayer;
 
 ## What comes in Season 1?
 
-From 6 Nov 2026 [[src-activision-mw4-season-1-2026-10-28]]: the **Kastov 545** Apex, which fires 5.45x39mm rounds for smoother handling and faster follow-up shots, as a Wager Match event reward (it was in the beta but not at launch [[src-conquestcapped-mw4-weapons-2026-10-26]]), and a BlackCell Kastov 762 blueprint.
+From 6 Nov 2026 [[src-activision-season-1-announcement-2026-10-28]]: the **Kastov 545** Apex, which fires 5.45x39mm rounds for smoother handling and faster follow-up shots, as a Wager Match event reward (it was in the beta but not at launch [[src-conquestcapped-mw4-weapons-2026-10-26]]), and a BlackCell Kastov 762 blueprint.
 <!-- human:end -->

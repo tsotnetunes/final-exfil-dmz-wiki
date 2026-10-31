@@ -5,7 +5,7 @@ description: "All DMZ Commanders: Colossus, the Deathstalker and the Main NK Bat
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db, clm_a0e50790b208, clm_2709a2129c64, clm_855a0d332b7b, clm_a4061b133053, clm_45a3d3d59bfc, clm_718706a12b71, clm_d12acdac5305, clm_6cb6f07bc3cc, clm_4970f5d4d3d4, clm_89c9ddba2341, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-season-1-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-boss-board-2026-10-21, src-allthingshow-colossus-2026-10-21, src-allthingshow-deathstalker-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31]
+sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db, clm_a0e50790b208, clm_2709a2129c64, clm_855a0d332b7b, clm_a4061b133053, clm_45a3d3d59bfc, clm_718706a12b71, clm_d12acdac5305, clm_6cb6f07bc3cc, clm_4970f5d4d3d4, clm_89c9ddba2341, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-boss-board-2026-10-21, src-allthingshow-colossus-2026-10-21, src-allthingshow-deathstalker-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31]
 aliases: ["Commanders", "Commander", "The Captain", "Captain", "Wheelson", "Juggernaut", "Elite Strike Team", "drone swarm", "King Slayer", "King Slayer calling card", "commander bosses"]
 ---
 <!-- generated:start -->
@@ -31,7 +31,7 @@ _Generated from 2 confirmed and 9 reported claims across 11 posts and 0 patch no
 <!-- generated:end -->
 
 <!-- human:start -->
-Commanders are DMZ's roaming bosses: always present in Hajin, heavily armoured and able to shrug off many standard weapons, so each needs its own plan [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]]. Three have been in the game since launch, and Season 1 adds two more from 6 Nov 2026 [[src-allthingshow-boss-board-2026-10-21]] [[src-activision-mw4-season-1-2026-10-28]].
+Commanders are DMZ's roaming bosses: always present in Hajin, heavily armoured and able to shrug off many standard weapons, so each needs its own plan [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]]. Three have been in the game since launch, and Season 1 adds two more from 6 Nov 2026 [[src-allthingshow-boss-board-2026-10-21]] [[src-activision-season-1-announcement-2026-10-28]].
 
 ## Which Commanders are there?
 
@@ -40,8 +40,8 @@ Commanders are DMZ's roaming bosses: always present in Hajin, heavily armoured a
 | [[colossus]] | seven-foot armoured soldier with a depleted-uranium minigun | roams; met at the prison, Cheonwang Peak Array and the air base Armory | Thermite, Drill Charges, Shock Sticks, height and cover; not grenades | Military Composites, Experimental Compounds | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-allthingshow-colossus-2026-10-21]] [[src-dexerto-dmz-enemy-types-2026-10-31]] |
 | [[deathstalker]] | helicopter-sized autonomous drone with two machine-gun turrets | the sky over Hajin City | a captured SAM site | Prototype RF Module | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-allthingshow-deathstalker-2026-10-21]] |
 | [[main-nk-battle-tank]] | North Korean battle tank | roads on the South Korean side | a DDOS, then rockets | Nano-Structured Alloy | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-conquestcapped-dmz-bosses-2026-10-28]] |
-| The Captain (Season 1) | a Juggernaut who fights with his elite guard | X01 | not announced | sections of his helmet in the Threat Briefing event | [[src-activision-mw4-season-1-2026-10-28]] [clm_93fc23c7a474] |
-| Wheelson (Season 1) | an autonomous unit on patrol | not announced | not announced | not announced | [[src-activision-mw4-season-1-2026-10-28]] [clm_6f77b93c726e] |
+| The Captain (Season 1) | a Juggernaut who fights with his elite guard | X01 | not announced | sections of his helmet in the Threat Briefing event | [[src-activision-season-1-announcement-2026-10-28]] [clm_93fc23c7a474] |
+| Wheelson (Season 1) | an autonomous unit on patrol | not announced | not announced | not announced | [[src-activision-season-1-announcement-2026-10-28]] [clm_6f77b93c726e] |
 
 ## How do you find a Commander?
 
@@ -60,9 +60,9 @@ Goliath (hit Colossus with Thermite or a Drill Charge, then a Shock Stick), Stal
 
 ## What is new in Season 1?
 
-The Captain and Wheelson join the Boss Board's Commanders [[src-activision-mw4-season-1-2026-10-28]]. In the Threat Briefing events of the season's first part you hunt The Captain in [[x01]] for pieces of his helmet, with bigger rewards after a successful exfil, and take parts from the battle tank in Hajin [[src-activision-mw4-season-1-2026-10-28]] ([[season-1]]). No place or reward has been announced for Wheelson.
+The Captain and Wheelson join the Boss Board's Commanders [[src-activision-season-1-announcement-2026-10-28]]. In the Threat Briefing events of the season's first part you hunt The Captain in [[x01]] for pieces of his helmet, with bigger rewards after a successful exfil, and take parts from the battle tank in Hajin [[src-activision-season-1-announcement-2026-10-28]] ([[season-1]]). No place or reward has been announced for Wheelson.
 
 ## What did Activision list before launch?
 
-The June deep dive named tanks, drone swarms, Deathstalker helicopters, Juggernauts and Elite Strike Teams among the Commander enemies, with attack and Deathstalker helicopters as reinforcements at high threat [[src-activision-dmz-deep-dive-2026-06]]. By October drone swarms were listed with the regular enemies instead [[src-activision-dmz-guide-part1-2026-10-05]] ([[north-korean-forces]]), and players report them hovering around buildings [clm_45a3d3d59bfc]. A Juggernaut arrives as The Captain in Season 1 [[src-activision-mw4-season-1-2026-10-28]]. No launch source mentions Elite Strike Teams yet.
+The June deep dive named tanks, drone swarms, Deathstalker helicopters, Juggernauts and Elite Strike Teams among the Commander enemies, with attack and Deathstalker helicopters as reinforcements at high threat [[src-activision-dmz-deep-dive-2026-06]]. By October drone swarms were listed with the regular enemies instead [[src-activision-dmz-guide-part1-2026-10-05]] ([[north-korean-forces]]), and players report them hovering around buildings [clm_45a3d3d59bfc]. A Juggernaut arrives as The Captain in Season 1 [[src-activision-season-1-announcement-2026-10-28]]. No launch source mentions Elite Strike Teams yet.
 <!-- human:end -->

@@ -16,4 +16,6 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 <!-- human:start -->
 A guide site's article published 23 Oct 2026 and updated 26 Oct on the FOB upgrades printed at the 3D Printer. It gives each upgrade's effect, the costs of three later tiers that other lists lack (one read from a player's screenshot), a suggested build order and the valuables that upgrades consume. Its Bank Upgrade III cost agrees with COD Central and VGTimes. Used for [[3d-printer]] and [[materials]].
+
+Published 23 Oct 2026 (updated 26 Oct) and read on 31 Oct. The costs come from the author's own upgrade screens and match dmzhub's upgrade list level for level, which makes the pair a solid second source; the upgrade order is the author's opinion. Used for [[what-do-fob-upgrades-cost]] and [[which-valuables-should-you-keep-in-dmz]].
 <!-- human:end -->

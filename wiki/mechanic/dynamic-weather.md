@@ -5,7 +5,7 @@ description: "Hajin's weather changes from one deployment to the next (sun, clou
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_5716a58c7e46, clm_762f70bd4aec, src-activision-dmz-deep-dive-2026-06, src-westie-dmz-ama-recap-2026-10-11, src-gamespark-tokyo-media-event-2026-10-01, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-irradiated-container-2026-10-27, src-activision-season-1-blog-2026-10-28]
+sources: [clm_5716a58c7e46, clm_762f70bd4aec, src-activision-dmz-deep-dive-2026-06, src-westie-dmz-ama-recap-2026-10-11, src-gamespark-tokyo-media-event-2026-10-01, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-irradiated-container-2026-10-27, src-activision-season-1-announcement-2026-10-28]
 aliases: ["weather", "convoys", "fog", "rain", "night mode", "day night cycle"]
 stale_after: 2026-11-13
 ---
@@ -36,5 +36,5 @@ Enemy convoys drive the roads, helicopters cross the sky, and hostile forces mov
 
 ## Will it change?
 
-A community guide says weather will change with the seasons (reported) [[src-codmunity-dmz-guide-2026-10-24]]. The Season 1 post of 28 Oct 2026 announces no weather change for Hajin [[src-activision-season-1-blog-2026-10-28]].
+A community guide says weather will change with the seasons (reported) [[src-codmunity-dmz-guide-2026-10-24]]. The Season 1 post of 28 Oct 2026 announces no weather change for Hajin [[src-activision-season-1-announcement-2026-10-28]].
 <!-- human:end -->

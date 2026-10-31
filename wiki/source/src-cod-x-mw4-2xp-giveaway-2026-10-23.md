@@ -7,7 +7,7 @@ brain_status: published
 sensitivity: public
 origin: "https://x.com/CallofDuty/status/2113699092744532463"
 captured: 2026-10-24
-trust: third-party
+trust: official
 ---
 <!-- generated:start -->
 _Not rendered: source pages are written by people._

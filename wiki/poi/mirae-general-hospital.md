@@ -5,7 +5,7 @@ description: "Low-threat hospital in north-central Hajin: The Doctor holds it, O
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_1cc7e4e33a63, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-fpsjp-story-missions-trailer-2026-10-09, src-gfinity-lieutenant-locations-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-hajin-map-2026-10-31]
+sources: [clm_1cc7e4e33a63, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-fpsjp-story-missions-trailer-2026-10-09, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-hajin-map-2026-10-31]
 aliases: ["Mirae", "hospital", "Mujin Pass", "The Doctor's Command Office", "Mirae Electrical Room", "Critical Extraction"]
 stale_after: 2026-11-13
 region: "north-central Hajin (former SK)"
@@ -31,7 +31,7 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Mirae General Hospital is Hajin's main hospital in the north centre of the map, rated Low threat; it is the home of the Lieutenant called The Doctor and the setting of the Story Mission Operation Critical Extraction [[src-activision-dmz-guide-part1-2026-10-05]] [[src-gfinity-lieutenant-locations-2026-10-22]] [[src-fpsjp-story-missions-trailer-2026-10-09]].
+Mirae General Hospital is Hajin's main hospital in the north centre of the map, rated Low threat; it is the home of the Lieutenant called The Doctor and the setting of the Story Mission Operation Critical Extraction [[src-activision-dmz-guide-part1-2026-10-05]] [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-fpsjp-story-missions-trailer-2026-10-09]].
 
 ## Where is it?
 
@@ -43,7 +43,7 @@ Triage tents and temporary barracks on the stepped grounds, a parking structure,
 
 ## Who is here?
 
-The Doctor is met on the roof, the first floor or in the underground parking, with armoured guards [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gfinity-lieutenant-locations-2026-10-22]]. The Doctor can drop the key to the Command Office [[src-gfinity-lieutenant-locations-2026-10-22]] [[src-allthingshow-key-doors-2026-10-21]] ([[lieutenants]]).
+The Doctor is met on the roof, the first floor or in the underground parking, with armoured guards [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gfinity-dmz-lieutenants-2026-10-22]]. The Doctor can drop the key to the Command Office [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-allthingshow-key-doors-2026-10-21]] ([[lieutenants]]).
 
 ## Which locked rooms are here?
 

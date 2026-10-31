@@ -27,11 +27,11 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Tram | row in [[vehicles]] | [[src-activision-dmz-guide-part1-2026-10-05]] | published |
 | RHIB | row in [[vehicles]] | [[src-activision-dmz-guide-part1-2026-10-05]] | published |
 | Armored Patrol Boat | row in [[vehicles]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-gamerfuzion-dmz-vehicles-2026-10-06]] | published; named only, no details |
-| Heli | row in [[vehicles]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-codmunity-dmz-map-2026-10-31]] [[src-dmzhub-vehicles-2026-10-31]] | published |
+| Heli | row in [[vehicles]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-codmunity-hajin-map-2026-10-31]] [[src-dmzhub-vehicles-2026-10-31]] | published |
 | Little Bird | row in [[vehicles]] | [[src-mw4-launch-patch-notes-2026-10-29]] [[src-gamingtrend-dmz-interview-2026-06-06]] | published; whether players fly it not confirmed |
 | Heavy Chopper | row in [[vehicles]] | [[src-activision-dmz-guide-part1-2026-10-05]] | published |
 | Monarch | row in [[vehicles]] | [[src-activision-dmz-guide-part1-2026-10-05]] | published |
-| Cargo Plane | row in [[vehicles]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-map-2026-10-31]] [[src-dmzhub-vehicles-2026-10-31]] | published; Fallen Ember unlock reported |
+| Cargo Plane | row in [[vehicles]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-hajin-map-2026-10-31]] [[src-dmzhub-vehicles-2026-10-31]] | published; Fallen Ember unlock reported |
 | Gas Stations, Marine Gas Stations, Gas Cans | section of [[vehicles]] | [[src-activision-dmz-guide-part1-2026-10-05]] | published |
 | Vehicle repair parts and vehicle Traits (Mechanic, Fuel Economy) | section of [[vehicles]] | [[src-dmzhub-vehicles-2026-10-31]] [[src-dtgre-dmz-radar-truck-2026-10-25]] [[src-xboxplay-dmz-tank-2026-10-28]] | published; Traits reported |
 | Enemy vehicles (convoys, attack, cargo and reinforcement helicopters) | section of [[vehicles]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-dmzhub-vehicles-2026-10-31]] | published |

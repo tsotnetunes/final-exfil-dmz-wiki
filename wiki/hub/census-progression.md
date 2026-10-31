@@ -13,25 +13,25 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- human:start -->
 | Member | Codex page | Sources | State |
 | --- | --- | --- | --- |
-| DMZ Player Level 1 to 70 and the reward at each level | [[dmz-progression]] | [[src-callofduty-ready-for-launch-progression-2026-10-19]] [[src-activision-dmz-guide-part2-2026-10-09]] | published |
+| DMZ Player Level 1 to 70 and the reward at each level | [[dmz-progression]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | DMZ XP: sources, XP per level, what counts without an exfil | [[dmz-progression]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-codcentral-dmz-xp-strategies-2026-10-30]] [[src-dmztracker-level-up-fast-2026-10-22]] | published (amounts reported) |
 | Dog Tag levels, Steel I to Onyx III, and their XP | [[dmz-progression]] and [[dog-tags]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codcentral-dmz-xp-strategies-2026-10-30]] | published (XP reported) |
 | Double XP tokens, events and Operator XP | [[double-xp-tokens]] | [[src-activision-mw4-bonus-content-2026-10-23]] [[src-codcentral-dmz-xp-strategies-2026-10-30]] [[src-lfcarry-mw4-double-xp-2026-10-11]] | published (effect on Operators not confirmed) |
 | Operator XP Traits (Fast Learner, Faster Learner) | rows in [[double-xp-tokens]] | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmztracker-level-up-fast-2026-10-22]] | published |
 | Operator Prestige: requirements, costs, reset, rewards | [[operator-prestige]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-dmztracker-operator-prestige-2026-10-20]] [[src-xbox-wire-dmz-operator-guide-2026-10-20]] | published |
-| Permanent Prestige Traits (12 Pro Traits) | rows in [[operator-prestige]] | [[src-gamerfuzion-dmz-traits-prestige-2026-10-23]] [[src-dmztracker-operator-prestige-2026-10-20]] [[src-mw4-launch-patch-notes-2026-10-29]] | published (effects reported) |
+| Permanent Prestige Traits (12 Pro Traits) | rows in [[operator-prestige]] | [[src-gamerfuzion-dmz-best-traits-2026-10-23]] [[src-dmztracker-operator-prestige-2026-10-20]] [[src-mw4-launch-patch-notes-2026-10-29]] | published (effects reported) |
 | Prestige issues (failed Prestige, workaround, lost resources) | rows in [[operator-prestige]] | [[src-dmztracker-operator-prestige-2026-10-20]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |
 | After Action Report | [[after-action-report]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-codcentral-dmz-xp-strategies-2026-10-30]] | published |
-| DMZ Mastery camos: Chiral, Ripple Tide, Helio | rows in [[dmz-camos]] | [[src-callofduty-ready-for-launch-progression-2026-10-19]] | published |
-| DMZ Mastery calling card sets and beta rewards | rows in [[dmz-camos]] | [[src-callofduty-ready-for-launch-progression-2026-10-19]] | published |
+| DMZ Mastery camos: Chiral, Ripple Tide, Helio | rows in [[dmz-camos]] | [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
+| DMZ Mastery calling card sets and beta rewards | rows in [[dmz-camos]] | [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
 | War Spoils camo | [[war-spoils-camo]] | player reports only | draft (no official source) |
-| FOB and its station unlocks | [[fob]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-callofduty-ready-for-launch-progression-2026-10-19]] | published |
-| Active Duty (Operators station, slots) | [[active-duty]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-callofduty-ready-for-launch-progression-2026-10-19]] | published |
-| Operators from DMZ levels and the Campaign | rows in [[active-duty]] | [[src-callofduty-ready-for-launch-operators-2026-10-19]] [[src-activision-campaign-early-access-live-2026-10-16]] | published |
+| FOB and its station unlocks | [[fob]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
+| Active Duty (Operators station, slots) | [[active-duty]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
+| Operators from DMZ levels and the Campaign | rows in [[active-duty]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-activision-campaign-early-access-live-2026-10-16]] | published |
 | Stash and Overflow Stash | [[stash]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |
-| Survival Kits and the Vault Edition Deployment Kit | [[survival-kits]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-callofduty-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published (contents reported) |
+| Survival Kits and the Vault Edition Deployment Kit | [[survival-kits]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published (contents reported) |
 | Bounty Leaderboard | [[bounty-leaderboard]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-guide-2026-10-24]] | published |
-| Dog Tag Case station | [[dog-tag-case]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-callofduty-ready-for-launch-progression-2026-10-19]] | published |
+| Dog Tag Case station | [[dog-tag-case]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
 | Deploy, Ready Up, Squad Fill | [[deploy]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | Free Loadout | row in [[deploy]] | [[src-codmunity-dmz-guide-2026-10-24]] [[src-xbox-wire-dmz-operator-guide-2026-10-20]] | published (contents reported) |
 | Bank (Wallet) and its cap | [[wallet]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-dmzhub-upgrades-2026-10-31]] [[src-codmunity-dmz-guide-2026-10-24]] | published (caps reported) |
@@ -43,7 +43,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Vendor Item Upgrade I and II | row in [[fob-upgrades]] | [[src-dmzhub-upgrades-2026-10-31]] | published (reported) |
 | Dog Tag Case Upgrade I to IV | rows in [[fob-upgrades]] and [[dog-tag-case]] | [[src-dmzhub-upgrades-2026-10-31]] | published (reported) |
 | Uncommon and Epic Ingredient Printing | rows in [[fob-upgrades]] | [[src-dmzhub-upgrades-2026-10-31]] | published (reported) |
-| Station upgrades from DMZ levels (printer categories, slot, Vendor, Gunsmith, bounty payout) | rows in [[dmz-progression]] | [[src-callofduty-ready-for-launch-progression-2026-10-19]] | published; the level 40 upgrade is unnamed |
+| Station upgrades from DMZ levels (printer categories, slot, Vendor, Gunsmith, bounty payout) | rows in [[dmz-progression]] | [[src-activision-ready-for-launch-progression-2026-10-19]] | published; the level 40 upgrade is unnamed |
 | DMZ Cash: earning, spending, selling | [[dmz-cash]] | [[src-mw4-launch-patch-notes-2026-10-29]] [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Barter | row in [[dmz-cash]] | [[src-activision-dmz-guide-part1-2026-10-05]] | none described |
 | Paid infil and its unlocks | [[paid-infil]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-guide-2026-10-24]] [[src-dmzhub-missions-2026-10-31]] | published (unlocks reported) |

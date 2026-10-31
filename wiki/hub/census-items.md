@@ -46,7 +46,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Parachute | row in [[parachute]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-westie-dmz-ama-recap-2026-10-11]] | published |
 | Bandage | row in [[medical-items]] | [[src-westie-dmz-ama-recap-2026-10-11]] [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | Medkit | row in [[medical-items]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
-| Stim | row in [[medical-items]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Stim | row in [[medical-items]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
 | Pain Killers | row in [[medical-items]] | [[src-dmzhub-items-2026-10-31]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
 | Smelling Salts | row in [[medical-items]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Energy Drink | row in [[medical-items]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-guide-2026-10-24]] | published |
@@ -69,50 +69,50 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Vault Edition Deployment Kit | row in [[kits]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | Weapon Insurance Contract (what it does not confirmed) | row in [[kits]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
 | Operator Rescue Beacon (what it does not confirmed) | row in [[kits]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
-| Smoke Grenade | row in [[tactical-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Concussion Grenade | row in [[tactical-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Snapshot Grenade | row in [[tactical-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Flash Grenade | row in [[tactical-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Decoy Grenade | row in [[tactical-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Screamer Mine | row in [[tactical-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Shock Stick | row in [[tactical-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Heartbeat Sensor | row in [[tactical-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Spotter Scope | row in [[tactical-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Frag Grenade | row in [[lethal-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Semtex (Sticky Grenade) | row in [[lethal-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Throwing Knife | row in [[lethal-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Drill Charge | row in [[lethal-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Molotov Cocktail | row in [[lethal-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Thermite | row in [[lethal-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| C4 | row in [[lethal-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Proximity Mine | row in [[lethal-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Claymore | row in [[lethal-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Trip Wire | row in [[lethal-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Zip Gun | row in [[lethal-equipment]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Ammo Box (Munitions Box) | row in [[field-upgrades]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Armor Box | row in [[field-upgrades]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Portable Radar | row in [[field-upgrades]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Seeker Drone | row in [[field-upgrades]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Inflatable Decoy | row in [[field-upgrades]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Razor Wire Trap | row in [[field-upgrades]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Riot Shield | row in [[field-upgrades]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Smoke Wall | row in [[field-upgrades]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Rebreather | row in [[field-upgrades]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| DDOS | row in [[field-upgrades]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Recon Drone | row in [[field-upgrades]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| SAM Airburst Turret | row in [[field-upgrades]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Trophy System | row in [[field-upgrades]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Smoke Grenade | row in [[tactical-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Concussion Grenade | row in [[tactical-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Snapshot Grenade | row in [[tactical-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Flash Grenade | row in [[tactical-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Decoy Grenade | row in [[tactical-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Screamer Mine | row in [[tactical-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Shock Stick | row in [[tactical-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Heartbeat Sensor | row in [[tactical-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Spotter Scope | row in [[tactical-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Frag Grenade | row in [[lethal-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Semtex (Sticky Grenade) | row in [[lethal-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Throwing Knife | row in [[lethal-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Drill Charge | row in [[lethal-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Molotov Cocktail | row in [[lethal-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Thermite | row in [[lethal-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| C4 | row in [[lethal-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Proximity Mine | row in [[lethal-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Claymore | row in [[lethal-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Trip Wire | row in [[lethal-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Zip Gun | row in [[lethal-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Ammo Box (Munitions Box) | row in [[field-upgrades]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Armor Box | row in [[field-upgrades]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Portable Radar | row in [[field-upgrades]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Seeker Drone | row in [[field-upgrades]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Inflatable Decoy | row in [[field-upgrades]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Razor Wire Trap | row in [[field-upgrades]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Riot Shield | row in [[field-upgrades]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Smoke Wall | row in [[field-upgrades]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Rebreather | row in [[field-upgrades]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| DDOS | row in [[field-upgrades]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Recon Drone | row in [[field-upgrades]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| SAM Airburst Turret | row in [[field-upgrades]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Trophy System | row in [[field-upgrades]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
 | Fulton Drop Marker | [[fulton-drop-marker]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]] | draft (what it lifts out not confirmed) |
-| UAV | row in [[fire-support]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Care Package | row in [[fire-support]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Combat Drone | row in [[fire-support]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Bomb Glider | row in [[fire-support]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Bombing Run | row in [[fire-support]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Advanced UAV | row in [[fire-support]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Artillery Beacon | row in [[fire-support]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Impact Warhead | row in [[fire-support]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Railgun Sentry | row in [[fire-support]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Crossfire | row in [[fire-support]] | [[src-activision-ready-for-launch-equipment-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| UAV | row in [[fire-support]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Care Package | row in [[fire-support]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Combat Drone | row in [[fire-support]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Bomb Glider | row in [[fire-support]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Bombing Run | row in [[fire-support]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Advanced UAV | row in [[fire-support]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Artillery Beacon | row in [[fire-support]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Impact Warhead | row in [[fire-support]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Railgun Sentry | row in [[fire-support]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Crossfire | row in [[fire-support]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
 | Regional Combat Notes | row in [[valuables]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Ballistic Flight Logs | row in [[valuables]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Infantry Invasion Plans | row in [[valuables]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | published |

@@ -5,7 +5,7 @@ description: "NK air base in west Hajin over an Extreme-threat bunker: Bale's Ta
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, clm_f2db5e2ff141, clm_97324b4d4a3d, clm_17a343625b92, clm_b0f99cb48b56, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-hajin-map-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-allthingshow-key-doors-2026-10-21, src-gfinity-lieutenant-locations-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-dexerto-supreme-leaders-bunker-card-2026-10-24, src-gfinity-door-breacher-2026-10-27, src-dmzhub-keys-2026-10-31, src-destructoid-best-loot-2026-10-25, src-mw4-launch-patch-notes-2026-10-29, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27, src-gamingpromax-compounds-2026-10-26]
+sources: [src-dmzhub-maps-2026-10-31, clm_f2db5e2ff141, clm_97324b4d4a3d, clm_17a343625b92, clm_b0f99cb48b56, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-hajin-map-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-allthingshow-key-doors-2026-10-21, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-dexerto-supreme-leaders-bunker-card-2026-10-24, src-gfinity-door-breacher-2026-10-27, src-dmzhub-keys-2026-10-31, src-destructoid-best-loot-2026-10-25, src-mw4-launch-patch-notes-2026-10-29, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27, src-gamingpromax-compounds-2026-10-26]
 aliases: ["Chang-san", "Changsan", "Air Base", "air base bunker", "Military base", "Milbase", "Admin Complex No. 2", "Tank Depot", "Supreme Leader's Bunker", "Iron Citadel"]
 stale_after: 2026-11-13
 region: "west Hajin (former NK)"
@@ -43,7 +43,7 @@ Air Base Exterior is Critical; the Air Base Bunker is Extreme [[src-activision-d
 
 ## Who is here?
 
-Bale is fought in the Tank Depot, a hangar inside the bunker [[src-codmunity-hajin-map-2026-10-31]] [[src-allthingshow-hajin-map-2026-10-21]]; two guides place him upstairs in the Re-Education Center at [[deadtown]] instead [[src-gfinity-lieutenant-locations-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. See [[bale]].
+Bale is fought in the Tank Depot, a hangar inside the bunker [[src-codmunity-hajin-map-2026-10-31]] [[src-allthingshow-hajin-map-2026-10-21]]; two guides place him upstairs in the Re-Education Center at [[deadtown]] instead [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. See [[bale]].
 
 ## What missions are here?
 

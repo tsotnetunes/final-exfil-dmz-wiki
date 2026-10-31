@@ -5,7 +5,7 @@ description: "Prestige an Operator with 18 Trait Points by handing in rare gear 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_cb769aa684e4, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-operator-guide-2026-10-20, src-dmztracker-operator-prestige-2026-10-20, src-gamerfuzion-dmz-traits-prestige-2026-10-23, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-traits-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-callofduty-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_cb769aa684e4, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-operator-guide-2026-10-20, src-dmztracker-operator-prestige-2026-10-20, src-gamerfuzion-dmz-best-traits-2026-10-23, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-traits-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["DMZ Operator Prestige", "Prestige Traits", "Permanent Prestige Trait", "Pro Traits", "prestige an operator", "operator prestige cost", "what does prestige give", "Prestige rewards"]
 ---
 <!-- generated:start -->
@@ -35,13 +35,13 @@ Costs from the 9 Oct guide [[src-activision-dmz-guide-part2-2026-10-09]].
 
 ## What happens when you Prestige?
 
-The gear and the cash are consumed and the Operator's Traits reset [[src-activision-dmz-guide-part2-2026-10-09]]. The Backpack is emptied too, so move valuables to the [[stash]] first [[src-xbox-wire-dmz-operator-guide-2026-10-20]]; the screen warns that whatever is left on the Operator is used up (reported) [[src-gamerfuzion-dmz-traits-prestige-2026-10-23]]. You earn the Trait Points again by levelling the Dog Tag ([[dog-tags]]) [[src-dmztracker-operator-prestige-2026-10-20]], and players report the tag starting over [clm_a92a2067495e].
+The gear and the cash are consumed and the Operator's Traits reset [[src-activision-dmz-guide-part2-2026-10-09]]. The Backpack is emptied too, so move valuables to the [[stash]] first [[src-xbox-wire-dmz-operator-guide-2026-10-20]]; the screen warns that whatever is left on the Operator is used up (reported) [[src-gamerfuzion-dmz-best-traits-2026-10-23]]. You earn the Trait Points again by levelling the Dog Tag ([[dog-tags]]) [[src-dmztracker-operator-prestige-2026-10-20]], and players report the tag starting over [clm_a92a2067495e].
 
 In return the Operator gets one random permanent Prestige Trait. It stays with them if you dismiss them, move them to another slot or change their skin; they can hold three. From the fourth Prestige you are offered a new one and either swap it for one of your three or keep the three [[src-activision-dmz-guide-part2-2026-10-09]] [clm_f979ff654d78]. Prestiging several Operators also earns calling cards and other rewards Activision has not revealed [[src-activision-dmz-guide-part2-2026-10-09]].
 
 ## Which Prestige Traits are there?
 
-There are 12, all Pro versions of Major Traits [[src-dmztracker-operator-prestige-2026-10-20]] [clm_cb769aa684e4]; patch notes name Impact Smokes Pro and Numb the Pain Pro [[src-mw4-launch-patch-notes-2026-10-29]]. Effects as one guide read them in the live menu (reported) [[src-gamerfuzion-dmz-traits-prestige-2026-10-23]]:
+There are 12, all Pro versions of Major Traits [[src-dmztracker-operator-prestige-2026-10-20]] [clm_cb769aa684e4]; patch notes name Impact Smokes Pro and Numb the Pain Pro [[src-mw4-launch-patch-notes-2026-10-29]]. Effects as one guide read them in the live menu (reported) [[src-gamerfuzion-dmz-best-traits-2026-10-23]]:
 
 | Tree | Prestige Trait | What the Pro version adds |
 | --- | --- | --- |
@@ -60,7 +60,7 @@ There are 12, all Pro versions of Major Traits [[src-dmztracker-operator-prestig
 
 ## Does Double XP help you Prestige faster?
 
-Not confirmed; see [[double-xp-tokens]]. A full Dog Tag takes about 450,000 Operator XP (reported) [[src-codcentral-dmz-xp-strategies-2026-10-30]]. The Fast Learner and Faster Learner Traits add Operator XP [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmztracker-level-up-fast-2026-10-22]]. A max-level Operator is also needed for the Helio camo ([[dmz-camos]]) [[src-callofduty-ready-for-launch-progression-2026-10-19]].
+Not confirmed; see [[double-xp-tokens]]. A full Dog Tag takes about 450,000 Operator XP (reported) [[src-codcentral-dmz-xp-strategies-2026-10-30]]. The Fast Learner and Faster Learner Traits add Operator XP [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmztracker-level-up-fast-2026-10-22]]. A max-level Operator is also needed for the Helio camo ([[dmz-camos]]) [[src-activision-ready-for-launch-progression-2026-10-19]].
 
 ## Known problems
 

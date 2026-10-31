@@ -5,7 +5,7 @@ description: "Your base between deployments. Stations open from the start or by 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_46243e27d86a, clm_fd90953238b0, clm_c5bec6dd520b, clm_dffa557cf032, clm_f08caeac8e56, clm_be702dd26814, clm_0601ee8f8cb8, clm_d9ca819a3519, clm_b5908fa8c1b3, clm_311263850855, clm_f5097de48b29, clm_111f7819c275, clm_0c3606301241, clm_13bf76b7e20e, clm_0217c096a2ca, clm_33a4b2ec6e55, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-cod-dmz-progression-video-2026-10-07, src-callofduty-ready-for-launch-progression-2026-10-19, src-westie-dmz-ama-recap-2026-10-11, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_46243e27d86a, clm_fd90953238b0, clm_c5bec6dd520b, clm_dffa557cf032, clm_f08caeac8e56, clm_be702dd26814, clm_0601ee8f8cb8, clm_d9ca819a3519, clm_b5908fa8c1b3, clm_311263850855, clm_f5097de48b29, clm_111f7819c275, clm_0c3606301241, clm_13bf76b7e20e, clm_0217c096a2ca, clm_33a4b2ec6e55, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-cod-dmz-progression-video-2026-10-07, src-activision-ready-for-launch-progression-2026-10-19, src-westie-dmz-ama-recap-2026-10-11, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Forward Operating Base", "the base", "FOB stations", "FOB unlocks", "Forward Operating Base (FOB)"]
 station: hub
 unlock: start
@@ -69,11 +69,11 @@ The FOB is your home between deployments: every deployment starts and ends here,
 | Gunsmith | DMZ level 10 | [[gunsmith]] |
 | Dog Tag Case | DMZ level 20 | [[dog-tag-case]] |
 
-From the 9 Oct guide and the launch level table [[src-activision-dmz-guide-part2-2026-10-09]] [[src-callofduty-ready-for-launch-progression-2026-10-19]]. Your DMZ Cash sits in the Bank ([[wallet]]).
+From the 9 Oct guide and the launch level table [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]]. Your DMZ Cash sits in the Bank ([[wallet]]).
 
 ## How do you upgrade the FOB?
 
-Two ways. DMZ levels add station upgrades such as printer categories, a third Operator slot, Vendor offers, a Gunsmith discount, Stash space and bounty payouts ([[dmz-progression]]) [[src-callofduty-ready-for-launch-progression-2026-10-19]]. And the 3D Printer prints permanent upgrades for the Bank, Stash, MIA recovery, Gunsmith, Vendor, Dog Tag Case and ingredient printing, each needing several prints [[src-activision-dmz-guide-part2-2026-10-09]] [clm_7b0306c946e3]. A community database lists nine printed upgrades with 31 levels, paid in DMZ Cash, ingredients and valuables (reported) [[src-dmzhub-upgrades-2026-10-31]]: see [[fob-upgrades]]. The cash and materials you bring back are what level the stations up [[src-cod-dmz-progression-video-2026-10-07]].
+Two ways. DMZ levels add station upgrades such as printer categories, a third Operator slot, Vendor offers, a Gunsmith discount, Stash space and bounty payouts ([[dmz-progression]]) [[src-activision-ready-for-launch-progression-2026-10-19]]. And the 3D Printer prints permanent upgrades for the Bank, Stash, MIA recovery, Gunsmith, Vendor, Dog Tag Case and ingredient printing, each needing several prints [[src-activision-dmz-guide-part2-2026-10-09]] [clm_7b0306c946e3]. A community database lists nine printed upgrades with 31 levels, paid in DMZ Cash, ingredients and valuables (reported) [[src-dmzhub-upgrades-2026-10-31]]: see [[fob-upgrades]]. The cash and materials you bring back are what level the stations up [[src-cod-dmz-progression-video-2026-10-07]].
 
 ## What is shared, and how does it work in a party?
 

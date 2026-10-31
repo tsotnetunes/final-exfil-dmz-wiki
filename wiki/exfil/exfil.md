@@ -5,7 +5,7 @@ description: "How to exfil in DMZ: reach a green-smoke site, call the helicopter
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_6155f83bd127, src-dmzhub-maps-2026-10-31, src-dmzhub-items-2026-10-31, clm_00d9ca66573a, clm_502f1885f07b, clm_19763d29ca5b, clm_907d1988e248, clm_0654da754a95, clm_4821865b60e5, clm_75fd786e4d31, clm_cf56ba61e6f8, clm_c772bf67ab75, clm_233daf06dc99, clm_d985129a6673, clm_d4e8823da54c, clm_5765e08bf423, clm_dea77ea2af4d, clm_20b125dbeea0, clm_51f7e1c5f386, clm_f1f95e1b6f10, clm_f17f3ff635f7, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-exfil-guide-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-gfinity-exfil-2026-10-20, src-conquestcapped-dmz-guide-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-underground-orders-2026-10-23, src-activision-season-1-blog-2026-10-28]
+sources: [clm_6155f83bd127, src-dmzhub-maps-2026-10-31, src-dmzhub-items-2026-10-31, clm_00d9ca66573a, clm_502f1885f07b, clm_19763d29ca5b, clm_907d1988e248, clm_0654da754a95, clm_4821865b60e5, clm_75fd786e4d31, clm_cf56ba61e6f8, clm_c772bf67ab75, clm_233daf06dc99, clm_d985129a6673, clm_d4e8823da54c, clm_5765e08bf423, clm_dea77ea2af4d, clm_20b125dbeea0, clm_51f7e1c5f386, clm_f1f95e1b6f10, clm_f17f3ff635f7, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-exfil-guide-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-gfinity-exfil-2026-10-20, src-conquestcapped-dmz-guide-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-underground-orders-2026-10-23, src-activision-season-1-announcement-2026-10-28]
 aliases: ["extraction", "extract", "how to exfil", "exfil helicopter", "exfil chopper", "Twin Heli", "skyhook", "Fulton", "Fulton balloon", "Fulton Drop Marker", "Flare", "exfil flare", "green smoke", "Monarch", "Final Intel", "exfil area"]
 stale_after: 2026-11-13
 method: "helicopter|fulton|flare"
@@ -58,7 +58,7 @@ A used site reopens after a cooldown (reported) [[src-conquestcapped-dmz-guide-2
 | Story Missions | Some end in their own helicopter, such as Silent Ledger and Iron Citadel; others need a normal exfil after Mission Complete (reported) [[src-allthingshow-exfil-guide-2026-10-21]] |
 | Final Intel | A trait that shows the final exfil on the Tac-Map from the start of the match [[src-dmzhub-maps-2026-10-31]]; players describe it as an extra exfil they can use at any time [clm_51f7e1c5f386] [clm_f1f95e1b6f10] |
 
-In Season 1, exfil points inside X01 close off as the facility progresses ([[x01]]) [[src-activision-season-1-blog-2026-10-28]].
+In Season 1, exfil points inside X01 close off as the facility progresses ([[x01]]) [[src-activision-season-1-announcement-2026-10-28]].
 
 ## What can go wrong?
 

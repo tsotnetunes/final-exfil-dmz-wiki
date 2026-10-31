@@ -6,7 +6,7 @@ status: stable
 brain_status: published
 sensitivity: public
 sources: [src-dmzhub-maps-2026-10-31, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27, src-activision-dmz-guide-part1-2026-10-05, src-destructoid-secret-bunker-2026-10-21, clm_17a343625b92, clm_97324b4d4a3d]
-aliases: ["missile silos", "missile silo", "missile bunkers", "silo", "Silo Control Room", "nuke bunker", "hidden nuke", "nuke silo"]
+aliases: ["missile silos", "missile silo", "missile bunkers", "silo", "Silo Control Room", "nuke bunker", "hidden nuke", "nuke silo", "missile silo bunkers", "silo control rooms"]
 stale_after: 2026-11-13
 region: "west Hajin (former NK)"
 danger: low

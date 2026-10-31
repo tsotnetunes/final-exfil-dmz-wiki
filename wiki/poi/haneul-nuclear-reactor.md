@@ -5,7 +5,7 @@ description: "Irradiated nuclear plant on Hajin's northeast coast, High threat: 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, clm_9fe3feef9402, clm_d13ac5614025, clm_f655e133d8dd, clm_b9735f36bb0b, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gfinity-lieutenant-locations-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-conquestcapped-dmz-guide-2026-10-26, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-gamerfuzion-reactor-02-2026-10-27, src-gamerfuzion-solo-compound-run-2026-10-26, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-dmzhub-maps-2026-10-31, clm_9fe3feef9402, clm_d13ac5614025, clm_f655e133d8dd, clm_b9735f36bb0b, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-conquestcapped-dmz-guide-2026-10-26, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-gamerfuzion-reactor-02-2026-10-27, src-gamerfuzion-solo-compound-run-2026-10-26, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Fallout reactor", "Haneul", "Reactor 02", "Reactor 01", "South Korean Border Zone", "nuclear reactor", "Power Plant", "power station", "nuclear power plant", "HNR machine", "Fallen Ember"]
 stale_after: 2026-11-13
 region: "northeast Hajin (former SK)"
@@ -31,7 +31,7 @@ _Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-The Haneul Nuclear Reactor is the breached nuclear power plant on Hajin's northeast coast: High threat with permanent radiation, so you need radiation protection and a gas mask to go in [[src-activision-dmz-guide-part1-2026-10-05]]. It is the June intel's "fallout reactor" [[src-activision-dmz-deep-dive-2026-06]], home to the Lieutenant called The Chemist and the Story Mission Operation Fallen Ember [[src-gfinity-lieutenant-locations-2026-10-22]] [[src-gamerfuzion-solo-compound-run-2026-10-26]].
+The Haneul Nuclear Reactor is the breached nuclear power plant on Hajin's northeast coast: High threat with permanent radiation, so you need radiation protection and a gas mask to go in [[src-activision-dmz-guide-part1-2026-10-05]]. It is the June intel's "fallout reactor" [[src-activision-dmz-deep-dive-2026-06]], home to the Lieutenant called The Chemist and the Story Mission Operation Fallen Ember [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-gamerfuzion-solo-compound-run-2026-10-26]].
 
 ## Where is it?
 
@@ -52,7 +52,7 @@ Wear a gas mask: since 23 Oct 2026 masks no longer break the moment you enter ra
 
 ## Who and which mission are here?
 
-The Chemist waits inside the radiation with armoured hazmat soldiers [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gfinity-lieutenant-locations-2026-10-22]] ([[the-chemist-abu-nassar]]). Operation Fallen Ember is played here: its card lists the reactor and Extreme threat, and it ends with Mission Complete followed by a normal exfil (reported) [[src-gamerfuzion-solo-compound-run-2026-10-26]] [[src-allthingshow-exfil-guide-2026-10-21]]. The Sky Heist Dynamic Op has you hack a heavy helicopter in the South Korean Border Zone (reported) [[src-allthingshow-hajin-map-2026-10-21]].
+The Chemist waits inside the radiation with armoured hazmat soldiers [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gfinity-dmz-lieutenants-2026-10-22]] ([[the-chemist-abu-nassar]]). Operation Fallen Ember is played here: its card lists the reactor and Extreme threat, and it ends with Mission Complete followed by a normal exfil (reported) [[src-gamerfuzion-solo-compound-run-2026-10-26]] [[src-allthingshow-exfil-guide-2026-10-21]]. The Sky Heist Dynamic Op has you hack a heavy helicopter in the South Korean Border Zone (reported) [[src-allthingshow-hajin-map-2026-10-21]].
 
 ## What loot and key rooms are here?
 

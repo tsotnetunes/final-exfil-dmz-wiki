@@ -8,7 +8,7 @@ sensitivity: public
 origin: "https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-campaign-early-access-live-now"
 captured: 2026-10-19
 raw: raw/sources/2026-10-16-activision-campaign-early-access-live-extract.md
-trust: third-party
+trust: official
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

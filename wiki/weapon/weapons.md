@@ -5,7 +5,7 @@ description: "All 33 Modern Warfare 4 launch weapons as they work in DMZ: class,
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-mw4-season-1-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-gamerfuzion-dmz-prices-2026-10-08, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-codmunity-dmz-guide-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-codmunity-dmz-tier-list-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-wzstats-dmz-meta-2026-10-31, src-conquestcapped-mw4-weapons-2026-10-26, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-dmzhub-weapons-2026-10-31]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-gamerfuzion-dmz-prices-2026-10-08, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-codmunity-dmz-guide-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-codmunity-dmz-tier-list-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-wzstats-dmz-meta-2026-10-31, src-conquestcapped-mw4-weapons-2026-10-26, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-dmzhub-weapons-2026-10-31]
 aliases: ["guns", "weapon list", "all weapons", "DMZ weapons", "launch weapons", "best DMZ weapons", "DMZ meta", "how to unlock weapons in DMZ", "Kraken"]
 ---
 <!-- generated:start -->
@@ -91,5 +91,5 @@ Gunsmith fixes are on [[gunsmith]].
 
 ## What arrives in Season 1?
 
-From 6 Nov 2026: the [[cronen-osprey-assault-rifle]] (Battle Pass tier 16, Apex Cronen Helix Mk. II) and the [[csg-35-smg]] (tier 36, Apex CSG Crossfire). Later in the season, as event rewards: the JAK 12 shotgun (Apex JAK Barrage) and the ZLR Talonhawk axe [[src-activision-mw4-season-1-2026-10-28]]. How they reach DMZ is not confirmed yet.
+From 6 Nov 2026: the [[cronen-osprey-assault-rifle]] (Battle Pass tier 16, Apex Cronen Helix Mk. II) and the [[csg-35-smg]] (tier 36, Apex CSG Crossfire). Later in the season, as event rewards: the JAK 12 shotgun (Apex JAK Barrage) and the ZLR Talonhawk axe [[src-activision-season-1-announcement-2026-10-28]]. How they reach DMZ is not confirmed yet.
 <!-- human:end -->

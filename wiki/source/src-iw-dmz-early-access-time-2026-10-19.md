@@ -7,7 +7,7 @@ brain_status: published
 sensitivity: public
 origin: "https://x.com/InfinityWard/status/2112375553345069442"
 captured: 2026-10-20
-trust: third-party
+trust: official
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

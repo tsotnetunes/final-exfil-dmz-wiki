@@ -5,7 +5,7 @@ description: "A Legendary 3D Printer ingredient that Commanders drop (Colossus f
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_0a8c285157c0, clm_5f55c9bd182e, src-codmunity-dmz-items-2026-10-26, src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-gamingpromax-dmz-bosses-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzhub-bosses-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31]
+sources: [clm_0a8c285157c0, clm_5f55c9bd182e, src-codmunity-dmz-items-2026-10-26, src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzhub-bosses-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31]
 aliases: ["Experimental Compound", "where to find Experimental Compounds", "Legendary ingredient"]
 stale_after: 2026-11-13
 ---
@@ -24,7 +24,7 @@ Experimental Compounds are a Legendary 3D Printer ingredient [[src-codmunity-dmz
 
 ## Where do you get Experimental Compounds?
 
-From Commanders. Two guides list them as a Colossus drop, next to Military Composites [[src-gamingpromax-dmz-bosses-2026-10-23]] [[src-dmzhub-bosses-2026-10-31]]. One of them says every Commander drops them: the Deathstalker with its Prototype RF Module and the tank with its Nano-Structured Alloy [[src-dmzhub-bosses-2026-10-31]] (reported). Another boss guide does not mention them [[src-conquestcapped-dmz-bosses-2026-10-28]]. Killing a Commander and extracting pays valuable ingredients [[src-activision-dmz-guide-part2-2026-10-09]]. See [[commander-threats]].
+From Commanders. Two guides list them as a Colossus drop, next to Military Composites [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-dmzhub-bosses-2026-10-31]]. One of them says every Commander drops them: the Deathstalker with its Prototype RF Module and the tank with its Nano-Structured Alloy [[src-dmzhub-bosses-2026-10-31]] (reported). Another boss guide does not mention them [[src-conquestcapped-dmz-bosses-2026-10-28]]. Killing a Commander and extracting pays valuable ingredients [[src-activision-dmz-guide-part2-2026-10-09]]. See [[commander-threats]].
 
 One database values them at 3,500 DMZ Cash [[src-dmzhub-items-2026-10-31]] (reported).
 

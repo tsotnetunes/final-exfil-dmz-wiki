@@ -5,7 +5,7 @@ description: "Every Operator wears a Dog Tag that levels from Steel I to Onyx II
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_1dda32204130, clm_ac70379c09b8, clm_f8c43f6e8da8, clm_60f9fe17bb96, clm_ca3b3330e405, clm_d969dea9faf7, clm_38e02dbbc57d, clm_6155f83bd127, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-callofduty-ready-for-launch-progression-2026-10-19, src-cod-dmz-bounty-systems-video-2026-10-08, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_1dda32204130, clm_ac70379c09b8, clm_f8c43f6e8da8, clm_60f9fe17bb96, clm_ca3b3330e405, clm_d969dea9faf7, clm_38e02dbbc57d, clm_6155f83bd127, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-activision-ready-for-launch-progression-2026-10-19, src-cod-dmz-bounty-systems-video-2026-10-08, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["dog tag", "Operator Dog Tag", "Lieutenant Dog Tag Case", "boss dog tags", "Steel Dog Tag", "tag rarity"]
 ---
 <!-- generated:start -->
@@ -42,7 +42,7 @@ The victim loses their Bounty when you extract their tag [[src-activision-dmz-gu
 
 ## What do Lieutenants drop?
 
-Every Lieutenant drops a Lieutenant Dog Tag Case [[src-activision-dmz-guide-part2-2026-10-09]] [clm_8954c5cec1aa]. Picking the Case up marks you on every Operator's Tac-Map. Leaving it still pays the kill's XP and cash, but only extracting with the Case, from your own kill or taken from another player, advances the [[boss-board]] [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]]. Boss tags are Legendary ([[legendary-dog-tag]]) (reported) [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]]. Extracting two Lieutenant tags in one deployment, 50 times, is the Ripple Tide camo challenge ([[dmz-camos]]) [[src-callofduty-ready-for-launch-progression-2026-10-19]].
+Every Lieutenant drops a Lieutenant Dog Tag Case [[src-activision-dmz-guide-part2-2026-10-09]] [clm_8954c5cec1aa]. Picking the Case up marks you on every Operator's Tac-Map. Leaving it still pays the kill's XP and cash, but only extracting with the Case, from your own kill or taken from another player, advances the [[boss-board]] [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]]. Boss tags are Legendary ([[legendary-dog-tag]]) (reported) [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]]. Extracting two Lieutenant tags in one deployment, 50 times, is the Ripple Tide camo challenge ([[dmz-camos]]) [[src-activision-ready-for-launch-progression-2026-10-19]].
 
 ## Known problems
 

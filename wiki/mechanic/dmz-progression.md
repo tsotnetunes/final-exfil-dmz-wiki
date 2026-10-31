@@ -5,7 +5,7 @@ description: "DMZ has 70 levels with a reward at each, from the 3D Printer to bi
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_ddf327b1e62d, clm_43eb9661dfec, clm_7395536c245c, clm_bd9383775a93, clm_5153b4480340, clm_33babd127a04, src-callofduty-ready-for-launch-progression-2026-10-19, src-callofduty-ready-for-launch-operators-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-codcentral-dmz-xp-strategies-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codmunity-dmz-traits-2026-10-30, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_ddf327b1e62d, clm_43eb9661dfec, clm_7395536c245c, clm_bd9383775a93, clm_5153b4480340, clm_33babd127a04, src-activision-ready-for-launch-progression-2026-10-19, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-codcentral-dmz-xp-strategies-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codmunity-dmz-traits-2026-10-30, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["DMZ Player Level", "Progression Track", "DMZ level", "level 70", "Dog Tag level", "Onyx III", "DMZ XP", "DMZ Progression", "level rewards", "DMZ level unlocks", "how to level up fast in DMZ", "Operator level", "Operator XP", "fastest XP", "fastest leveling", "what each DMZ level unlocks", "DMZ level rewards", "level unlocks", "level 1 to 70 rewards"]
 ---
 <!-- generated:start -->
@@ -22,15 +22,15 @@ _Generated from 2 confirmed and 3 reported claims across 5 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-DMZ has its own player level from 1 to 70, separate from the 1 to 55 player level, and every DMZ level gives a reward [[src-callofduty-ready-for-launch-progression-2026-10-19]] [[src-activision-dmz-guide-part1-2026-10-05]]. Each Operator also has a Dog Tag with 18 levels that pay Trait Points [[src-activision-dmz-guide-part2-2026-10-09]].
+DMZ has its own player level from 1 to 70, separate from the 1 to 55 player level, and every DMZ level gives a reward [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-activision-dmz-guide-part1-2026-10-05]]. Each Operator also has a Dog Tag with 18 levels that pay Trait Points [[src-activision-dmz-guide-part2-2026-10-09]].
 
 ## How does DMZ XP work?
 
-DMZ XP comes from Story Missions, Dynamic Operations, Side Ops and other activities [[src-callofduty-ready-for-launch-progression-2026-10-19]]: opening loot containers, DMZ Orders, Lieutenants, Commanders and combat, where rival Operators pay more than AI [[src-activision-dmz-guide-part1-2026-10-05]]. It also counts toward the 1 to 55 player level, but Multiplayer and Warzone XP never raise the DMZ level [[src-callofduty-ready-for-launch-progression-2026-10-19]] [clm_5153b4480340]. You keep it even when you fail to exfil [[src-activision-dmz-guide-part2-2026-10-09]] [clm_43eb9661dfec]. One fan site saw no XP from Orders (reported) [[src-codcentral-dmz-xp-strategies-2026-10-30]], against the official list.
+DMZ XP comes from Story Missions, Dynamic Operations, Side Ops and other activities [[src-activision-ready-for-launch-progression-2026-10-19]]: opening loot containers, DMZ Orders, Lieutenants, Commanders and combat, where rival Operators pay more than AI [[src-activision-dmz-guide-part1-2026-10-05]]. It also counts toward the 1 to 55 player level, but Multiplayer and Warzone XP never raise the DMZ level [[src-activision-ready-for-launch-progression-2026-10-19]] [clm_5153b4480340]. You keep it even when you fail to exfil [[src-activision-dmz-guide-part2-2026-10-09]] [clm_43eb9661dfec]. One fan site saw no XP from Orders (reported) [[src-codcentral-dmz-xp-strategies-2026-10-30]], against the official list.
 
 ## What does each DMZ level unlock?
 
-From the official launch table [[src-callofduty-ready-for-launch-progression-2026-10-19]] [[src-callofduty-ready-for-launch-operators-2026-10-19]] [clm_ddf327b1e62d]:
+From the official launch table [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-activision-mw4-launch-weapons-2026-10-19]] [clm_ddf327b1e62d]:
 
 | Reward | DMZ level |
 | --- | --- |

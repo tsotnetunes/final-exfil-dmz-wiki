@@ -5,7 +5,7 @@ description: "Max health is 150. The tourniquet gets you up from Last Stand at 1
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_3fc45e2c36d0, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-ready-for-launch-equipment-2026-10-19, src-dmzhub-items-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_3fc45e2c36d0, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-launch-weapons-2026-10-19, src-dmzhub-items-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Healing", "Wounds", "Health", "Medkit", "Bandage", "Self-revive kit", "wound", "how to heal", "max health", "Last Stand"]
 ---
 <!-- generated:start -->
@@ -29,7 +29,7 @@ Your maximum health in DMZ is 150, and the system turns on wounds: once you have
 
 ## Does health regenerate?
 
-Yes. The Quick Fix Trait shortens the delay before regeneration starts after a kill [[src-activision-dmz-guide-part2-2026-10-09]] ([[quick-fix]]), and a Stim starts regeneration at once [[src-activision-ready-for-launch-equipment-2026-10-19]].
+Yes. The Quick Fix Trait shortens the delay before regeneration starts after a kill [[src-activision-dmz-guide-part2-2026-10-09]] ([[quick-fix]]), and a Stim starts regeneration at once [[src-activision-mw4-launch-weapons-2026-10-19]].
 
 ## Which Traits change healing?
 

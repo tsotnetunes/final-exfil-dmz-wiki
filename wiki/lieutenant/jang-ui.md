@@ -5,7 +5,7 @@ description: "Lieutenant in the floor 14 server hall of the Nenshin Tech Complex
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gamingpromax-roze-highrise-armory-key-2026-10-24, src-dexerto-jang-ui-power-room-key-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-gamerfuzion-boss-board-explained-2026-10-12, src-codmunity-dmz-bosses-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-bosses-2026-10-31]
+sources: [src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gamingpromax-roze-highrise-armory-key-2026-10-24, src-dexerto-jang-ui-power-room-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-gamerfuzion-boss-board-explained-2026-10-12, src-codmunity-dmz-bosses-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-bosses-2026-10-31]
 aliases: ["Jang-Ui", "Jang Ui", "Jangui", "Jang-Ui's Dog Tag", "Paektu", "Converted Power Room", "Jang-Ui's Converted Power Room"]
 weapon: Hyeon Burst assault rifle
 location: Nenshin Tech Complex server hall, The Grid
@@ -16,7 +16,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Jang-ui is the Lieutenant in the Nenshin Tech Complex in [[the-grid]], an Extreme area: he holds the server hall on floor 14 behind explosive robot dogs, sentry guns and laser defences [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-gamingpromax-roze-highrise-armory-key-2026-10-24]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-activision-dmz-guide-part1-2026-10-05]]. His key opens a power room in [[nurigo-mall]] [[src-dexerto-jang-ui-power-room-key-2026-10-24]].
+Jang-ui is the Lieutenant in the Nenshin Tech Complex in [[the-grid]], an Extreme area: he holds the server hall on floor 14 behind explosive robot dogs, sentry guns and laser defences [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-gamingpromax-roze-highrise-armory-key-2026-10-24]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-activision-dmz-guide-part1-2026-10-05]]. His key opens a power room in [[nurigo-mall]] [[src-dexerto-jang-ui-power-room-2026-10-24]].
 
 ## Where is Jang-ui?
 
@@ -33,7 +33,7 @@ His room is fortified with explosive robot dogs (some carry EMP or freezing char
 | Paektu | Ultra assault rifle built on the Hyeon Burst with five attachments, valued at $11,200; a rare drop | [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-gamingpromax-roze-highrise-armory-key-2026-10-24]] |
 | Hyeon Burst | the plain Epic rifle, valued at $2,800 | [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-gfinity-dmz-lieutenants-2026-10-22]] |
 | Dog tag | Legendary Lieutenant tag [clm_cd725da0354e] | [[src-allthingshow-dmz-bosses-2026-10-21]] |
-| Jang-Ui's Converted Power Room key | Legendary; opens the enclosed generator room on NuriGO Mall's bottom floor, grid H6, next to the robot dog course | [[src-dexerto-jang-ui-power-room-key-2026-10-24]] [[src-conquestcapped-dmz-bosses-2026-10-28]] |
+| Jang-Ui's Converted Power Room key | Legendary; opens the enclosed generator room on NuriGO Mall's bottom floor, grid H6, next to the robot dog course | [[src-dexerto-jang-ui-power-room-2026-10-24]] [[src-conquestcapped-dmz-bosses-2026-10-28]] |
 
-The power room holds two weapon lockers, a loot chest and a Lieutenant crate with high-tier loot [[src-dexerto-jang-ui-power-room-key-2026-10-24]]. Lieutenant weapons are rare drops in general [[src-activision-dmz-guide-part2-2026-10-09]]. See also [[hyeon-burst-bp]], [[keys]] and all [[lieutenants]].
+The power room holds two weapon lockers, a loot chest and a Lieutenant crate with high-tier loot [[src-dexerto-jang-ui-power-room-2026-10-24]]. Lieutenant weapons are rare drops in general [[src-activision-dmz-guide-part2-2026-10-09]]. See also [[hyeon-burst-bp]], [[keys]] and all [[lieutenants]].
 <!-- human:end -->

@@ -5,7 +5,7 @@ description: "The AI enemy in Hajin, officially the 100 Spirits NK Faction: four
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_580e04417c3f, clm_88179a380fbb, clm_5e6b181a2f4d, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-season-1-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-gamespark-tokyo-media-event-2026-10-01, src-dexerto-dmz-enemy-types-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-chemist-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-orders-2026-10-31]
+sources: [clm_580e04417c3f, clm_88179a380fbb, clm_5e6b181a2f4d, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-gamespark-tokyo-media-event-2026-10-01, src-dexerto-dmz-enemy-types-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-chemist-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-orders-2026-10-31]
 aliases: ["100 Spirits", "100 Spirits NK Faction", "Hundred Spirits", "NK forces", "Korean People's Army", "AI enemies", "AI tiers", "Tier 1", "Tier 2", "Tier 3", "Tier 4", "K9", "robot dog", "drone swarm", "LMG drone", "convoy", "hazmat soldiers"]
 ---
 <!-- generated:start -->
@@ -24,11 +24,11 @@ _Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-The enemy you fight in Hajin is a North Korean faction that Activision now calls the 100 Spirits NK Faction: soldiers in four tiers, robot dogs and drones, helicopter patrols and convoys, led by [[lieutenants]] and Commanders ([[commander-threats]]) [[src-activision-mw4-season-1-2026-10-28]] [[src-activision-dmz-guide-part1-2026-10-05]].
+The enemy you fight in Hajin is a North Korean faction that Activision now calls the 100 Spirits NK Faction: soldiers in four tiers, robot dogs and drones, helicopter patrols and convoys, led by [[lieutenants]] and Commanders ([[commander-threats]]) [[src-activision-season-1-announcement-2026-10-28]] [[src-activision-dmz-guide-part1-2026-10-05]].
 
 ## What is the faction called?
 
-The official Season 1 post of 28 Oct 2026 names it the 100 Spirits NK Faction [[src-activision-mw4-season-1-2026-10-28]]. Japanese press at Infinity Ward's Tokyo briefing had already written the name as Hundred Spirits and described the Lieutenants as fighters it hired [[src-gamespark-tokyo-media-event-2026-10-01]]. Dexerto's wiki calls it the Korean People's Army (reported) [[src-dexerto-dmz-enemy-types-2026-10-31]].
+The official Season 1 post of 28 Oct 2026 names it the 100 Spirits NK Faction [[src-activision-season-1-announcement-2026-10-28]]. Japanese press at Infinity Ward's Tokyo briefing had already written the name as Hundred Spirits and described the Lieutenants as fighters it hired [[src-gamespark-tokyo-media-event-2026-10-01]]. Dexerto's wiki calls it the Korean People's Army (reported) [[src-dexerto-dmz-enemy-types-2026-10-31]].
 
 ## What enemies does it field?
 
@@ -71,5 +71,5 @@ All from [[src-mw4-launch-patch-notes-2026-10-29]].
 
 ## What changes in Season 1?
 
-100 Spirits troops and specialists guard [[x01]], a weapons facility near the northern border, and the Season 1 post advises against fighting them head-on; tougher entities patrol inside [[src-activision-mw4-season-1-2026-10-28]] [clm_88179a380fbb]. Rival players are on [[rogue-operators]].
+100 Spirits troops and specialists guard [[x01]], a weapons facility near the northern border, and the Season 1 post advises against fighting them head-on; tougher entities patrol inside [[src-activision-season-1-announcement-2026-10-28]] [clm_88179a380fbb]. Rival players are on [[rogue-operators]].
 <!-- human:end -->

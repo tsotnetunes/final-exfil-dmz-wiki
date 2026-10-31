@@ -5,7 +5,7 @@ description: "FOB storage shared by all your Operators: 40 items and 12 weapons 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_fe49071395d4, clm_52ae1fb94e2f, clm_972cffa0bd29, clm_cd43cdd0d14f, clm_1d5b2eabae74, clm_112b93b311ed, clm_4fd0c7201984, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-callofduty-ready-for-launch-progression-2026-10-19, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_fe49071395d4, clm_52ae1fb94e2f, clm_972cffa0bd29, clm_cd43cdd0d14f, clm_1d5b2eabae74, clm_112b93b311ed, clm_4fd0c7201984, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Stash/Loadout", "Loadout", "stash space", "stash size", "how big is the stash", "Overflow Stash", "stash upgrade", "weapon stash"]
 station: stash
 unlock: start
@@ -29,7 +29,7 @@ The Stash is your storage at the FOB, open from the start and kept between deplo
 
 ## How much does the Stash hold?
 
-At first 40 items and 12 weapons, counted separately [[src-activision-dmz-guide-part2-2026-10-09]]. DMZ levels add 18 item slots at levels 22, 45 and 70, and 6 weapon slots at 35 and 60 [[src-callofduty-ready-for-launch-progression-2026-10-19]]; players reported 58 items and 12 weapons, which is one 18-slot step [clm_cd43cdd0d14f]. The [[3d-printer]] also prints Stash upgrades [[src-activision-dmz-guide-part2-2026-10-09]]: four Stash Item levels of 18 slots and three Stash Weapon levels of 6 slots, paid in cash and specific items (reported) [[src-dmzhub-upgrades-2026-10-31]] [clm_1d5b2eabae74]. Costs: [[fob-upgrades]].
+At first 40 items and 12 weapons, counted separately [[src-activision-dmz-guide-part2-2026-10-09]]. DMZ levels add 18 item slots at levels 22, 45 and 70, and 6 weapon slots at 35 and 60 [[src-activision-ready-for-launch-progression-2026-10-19]]; players reported 58 items and 12 weapons, which is one 18-slot step [clm_cd43cdd0d14f]. The [[3d-printer]] also prints Stash upgrades [[src-activision-dmz-guide-part2-2026-10-09]]: four Stash Item levels of 18 slots and three Stash Weapon levels of 6 slots, paid in cash and specific items (reported) [[src-dmzhub-upgrades-2026-10-31]] [clm_1d5b2eabae74]. Costs: [[fob-upgrades]].
 
 ## What goes in the Stash?
 
@@ -41,7 +41,7 @@ Items that land in the Overflow Stash have to be sorted out before your next dep
 
 ## What do you carry into Hajin?
 
-Without a backpack you carry the Basic Pack with 8 slots. Better backpacks add slots, weapon slots and [[secure-slots]]; anything outside Secure Slots is lost if you fail to exfil ([[what-carries-over]]) [[src-activision-dmz-guide-part2-2026-10-09]]. Backpack recipes come with DMZ levels 1 and 2, the Large Backpack at 34 and the Medium Weapon Backpack at 61 [[src-callofduty-ready-for-launch-progression-2026-10-19]].
+Without a backpack you carry the Basic Pack with 8 slots. Better backpacks add slots, weapon slots and [[secure-slots]]; anything outside Secure Slots is lost if you fail to exfil ([[what-carries-over]]) [[src-activision-dmz-guide-part2-2026-10-09]]. Backpack recipes come with DMZ levels 1 and 2, the Large Backpack at 34 and the Medium Weapon Backpack at 61 [[src-activision-ready-for-launch-progression-2026-10-19]].
 
 ## What happens to duplicated items?
 

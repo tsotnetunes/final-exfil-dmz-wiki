@@ -5,7 +5,7 @@ description: "Abandoned NK farm town in southwest Hajin: Low threat outside, Med
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-allthingshow-hajin-map-2026-10-21, src-allthingshow-key-doors-2026-10-21, src-dmzhub-keys-2026-10-31, src-gfinity-lieutenant-locations-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-gamerfuzion-irradiated-container-2026-10-27, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27]
+sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-allthingshow-hajin-map-2026-10-21, src-allthingshow-key-doors-2026-10-21, src-dmzhub-keys-2026-10-31, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-gamerfuzion-irradiated-container-2026-10-27, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27]
 aliases: ["Re-Education Center", "Deadtown Exterior", "Haksan School", "Haksan School Armory", "Re-Education Center Annex", "Underground Propaganda Store Room"]
 stale_after: 2026-11-13
 region: "southwest Hajin (former NK)"
@@ -48,7 +48,7 @@ A sewer system under the main buildings, newer tenement blocks on the east side 
 
 ## Who and which missions are here?
 
-Two guides place the Lieutenant Bale upstairs in the Re-Education Center; others meet him at [[chang-san-air-base]] [[src-gfinity-lieutenant-locations-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-codmunity-hajin-map-2026-10-31]]. See [[bale]]. The official Dynamic Ops trailer showed Side Ops here: downloading intel and switching on a UAV tower [[src-fpsjp-dynamic-ops-trailer-2026-10-07]] ([[side-ops]]).
+Two guides place the Lieutenant Bale upstairs in the Re-Education Center; others meet him at [[chang-san-air-base]] [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-codmunity-hajin-map-2026-10-31]]. See [[bale]]. The official Dynamic Ops trailer showed Side Ops here: downloading intel and switching on a UAV tower [[src-fpsjp-dynamic-ops-trailer-2026-10-07]] ([[side-ops]]).
 
 ## Tips
 

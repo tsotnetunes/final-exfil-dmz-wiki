@@ -5,7 +5,7 @@ description: "Nine FOB upgrades with 31 levels, paid in DMZ Cash, Ingredients an
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-dmz-upgrade-order-2026-10-23]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-3d-printer-upgrades-2026-10-23]
 aliases: ["FOB upgrades", "FOB upgrade costs", "DMZ upgrades list", "materials for FOB upgrades", "what to upgrade first DMZ", "stash upgrade DMZ", "upgrade order DMZ"]
 stale_after: 2026-11-13
 ---
@@ -29,11 +29,11 @@ FOB upgrades are permanent and each needs several prints: Bank capacity, Stash i
 | Uncommon Ingredient Printing | 1 | the printer makes Uncommon Ingredients | 50,000, 20 Biomaterials, 10 High-Tenacity Fibers, 5 Comms Modules |
 | Epic Ingredient Printing | 1 | the printer makes Epic Ingredients | 100,000, 10 Binding Catalyst, 10 Printed Circuit Boards, 5 Military Composites |
 
-All rows from dmzhub (reported) [[src-dmzhub-upgrades-2026-10-31]]; the Stash, Bank III, MIA, Gunsmith, Vendor and Epic printing costs were also read from the game's upgrade screens by a second site [[src-gamerfuzion-dmz-upgrade-order-2026-10-23]].
+All rows from dmzhub (reported) [[src-dmzhub-upgrades-2026-10-31]]; the Stash, Bank III, MIA, Gunsmith, Vendor and Epic printing costs were also read from the game's upgrade screens by a second site [[src-gamerfuzion-3d-printer-upgrades-2026-10-23]].
 
 ## What do the top levels ask for?
 Later levels need rare valuables: Stash Item IV asks for 5 Gold Skulls, Stash Weapon III for 5 Gold Bars and Bank X for 10 Gold Bars (reported) [[src-dmzhub-upgrades-2026-10-31]]. Keep them: [[which-valuables-should-you-keep-in-dmz]]. The full Bank ladder is on [[is-there-a-bank-limit-in-dmz]].
 
 ## What should you build first?
-One guide suggests Stash Item I and II, then Bank III, MIA Recovery Discount I, Gunsmith I, Stash Weapon I, Vendor Item I and finally Epic Ingredient Printing (reported) [[src-gamerfuzion-dmz-upgrade-order-2026-10-23]]. That is opinion; build what limits you most. Every station: [[fob]] and [[3d-printer]].
+One guide suggests Stash Item I and II, then Bank III, MIA Recovery Discount I, Gunsmith I, Stash Weapon I, Vendor Item I and finally Epic Ingredient Printing (reported) [[src-gamerfuzion-3d-printer-upgrades-2026-10-23]]. That is opinion; build what limits you most. Every station: [[fob]] and [[3d-printer]].
 <!-- human:end -->

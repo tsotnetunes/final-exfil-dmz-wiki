@@ -5,7 +5,7 @@ description: "The walled business district at the heart of Hajin City: Critical 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, src-dmzhub-locations-2026-10-31, clm_0d5aa093524d, clm_c72f996bc161, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-lieutenant-locations-2026-10-22, src-dmzhub-keys-2026-10-31, src-dmzhub-missions-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-gamerfuzion-orders-page-14-2026-10-30, src-gamerfuzion-solo-vault-run-2026-10-25]
+sources: [src-dmzhub-maps-2026-10-31, src-dmzhub-locations-2026-10-31, clm_0d5aa093524d, clm_c72f996bc161, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-dmzhub-keys-2026-10-31, src-dmzhub-missions-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-gamerfuzion-orders-page-14-2026-10-30, src-gamerfuzion-solo-vault-run-2026-10-25]
 aliases: ["Grid", "Nenshin Tech Complex", "Netshin Tech Complex", "DBN Headquarters", "DBN tower", "Hanex Bank", "Minsok Art School", "Construction Zone", "Donpyeong Gate", "Hotel Lucera", "Grid Assault", "Roze's Highrise Armory", "Executive Arms Auction", "Netshin IT Room", "Hanex Guard Station", "Lucera Suite 703 Bedroom"]
 stale_after: 2026-11-13
 region: "central Hajin City (former SK)"
@@ -64,7 +64,7 @@ Donpyeong Gate, the Hanex Bank tower, the DBN TV tower (the tallest building in 
 
 ## Who and which missions are here?
 
-Roze is met on the roof of the DBN tower, reached by lifts and a rope climb through an Extreme building, and has also been seen near Wolves Stadium [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gfinity-lieutenant-locations-2026-10-22]] ([[roze]]). Two guides meet Jang-Ui in the Nenshin server rooms, others at [[nurigo-mall]] [[src-gfinity-lieutenant-locations-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. Operation Grid Assault is played at DBN Headquarters [[src-dmzhub-missions-2026-10-31]]; after Mission Complete you still need a normal exfil (reported) [[src-allthingshow-exfil-guide-2026-10-21]]. See [[story-missions]].
+Roze is met on the roof of the DBN tower, reached by lifts and a rope climb through an Extreme building, and has also been seen near Wolves Stadium [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gfinity-dmz-lieutenants-2026-10-22]] ([[roze]]). Two guides meet Jang-Ui in the Nenshin server rooms, others at [[nurigo-mall]] [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. Operation Grid Assault is played at DBN Headquarters [[src-dmzhub-missions-2026-10-31]]; after Mission Complete you still need a normal exfil (reported) [[src-allthingshow-exfil-guide-2026-10-21]]. See [[story-missions]].
 
 ## Tips
 

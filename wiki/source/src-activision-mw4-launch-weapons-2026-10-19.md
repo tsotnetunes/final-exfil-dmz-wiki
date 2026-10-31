@@ -16,4 +16,8 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 <!-- human:start -->
 The publisher's launch guide to Modern Warfare 4's arsenal, posted on callofduty.com on 19 Oct 2026 and read on 31 Oct. We took the full weapon list by class (33 weapons), each weapon's Multiplayer unlock level, every Apex Attachment with its effect and blocked slots, and the Gunsmith rules it states for the DMZ FOB. It is official and written for launch; DMZ prices and later tuning come from other sources.
+
+The publisher's launch post on Multiplayer equipment, published 19 Oct 2026. It names 11 Lethals, 9 Tacticals, 12 Field Upgrades and 17 Killstreaks with a short effect for each, and notes that DMZ has its own set of equipment, many of the same items included, found in Hajin or printed at the 3D Printer. The Codex uses it for what each piece of equipment does; DMZ numbers (stacks, recharge, prices) are not on it.
+
+The official Call of Duty blog post of 19 Oct 2026 listing every launch Operator, weapon and piece of equipment, read on 31 Oct. Used for the four Operators that DMZ levels unlock ([[active-duty]]) and the rule that anything unlocked in Multiplayer or DMZ can be bought at the Gunsmith with DMZ Cash. Most of the page is about Multiplayer.
 <!-- human:end -->

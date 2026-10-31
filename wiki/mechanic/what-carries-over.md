@@ -5,7 +5,7 @@ description: "You keep the FOB, Stash, Bank, recipes, Operators and DMZ XP even 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-progression-video-2026-10-07, src-callofduty-ready-for-launch-operators-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-insider-gaming-season-1-date-2026-10-14]
+sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-progression-video-2026-10-07, src-activision-mw4-launch-weapons-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-insider-gaming-season-1-date-2026-10-14]
 aliases: ["persistence", "wipes", "does DMZ wipe", "what do you keep when you die", "what do I lose when I die", "season reset", "progress carry over", "failed exfil"]
 ---
 <!-- generated:start -->
@@ -20,7 +20,7 @@ DMZ keeps your long-term progress between deployments: the FOB, your Stash and B
 - **FOB and storage.** Station unlocks and upgrades, the [[stash]] and the Bank ([[wallet]]); Stash, Bank, Resources and Ingredients are shared by all your Active Duty Operators [[src-activision-dmz-deep-dive-2026-06]] [[src-activision-dmz-guide-part2-2026-10-09]].
 - **Operators.** Each keeps their Traits, Dog Tag level, backpack and loadout [[src-activision-dmz-deep-dive-2026-06]] [[src-activision-dmz-guide-part2-2026-10-09]] [[src-cod-dmz-progression-video-2026-10-07]].
 - **Unlocks.** Recipes and Weapon Manuals become permanent once extracted ([[weapon-manuals]]) [[src-activision-dmz-guide-part2-2026-10-09]].
-- **Levels.** DMZ XP counts even when you fail to exfil [[src-activision-dmz-guide-part2-2026-10-09]] [clm_43eb9661dfec]. Weapon levels and attachments are shared with Multiplayer, and anything unlocked in either mode can be bought at the Gunsmith with DMZ Cash [[src-callofduty-ready-for-launch-operators-2026-10-19]].
+- **Levels.** DMZ XP counts even when you fail to exfil [[src-activision-dmz-guide-part2-2026-10-09]] [clm_43eb9661dfec]. Weapon levels and attachments are shared with Multiplayer, and anything unlocked in either mode can be bought at the Gunsmith with DMZ Cash [[src-activision-mw4-launch-weapons-2026-10-19]].
 - **Standing.** Your place on the [[bounty-leaderboard]], and your own Bounty until you die [[src-activision-dmz-deep-dive-2026-06]] [[src-activision-dmz-guide-part2-2026-10-09]].
 
 ## What do you lose when you die?

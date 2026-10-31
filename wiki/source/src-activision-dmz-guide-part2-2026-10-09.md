@@ -8,7 +8,7 @@ sensitivity: public
 origin: "https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-dmz-how-to-play-forward-operating-base-guide"
 captured: 2026-10-09
 raw: raw/sources/2026-10-09-activision-dmz-guide-part2-extract.md
-trust: third-party
+trust: official
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

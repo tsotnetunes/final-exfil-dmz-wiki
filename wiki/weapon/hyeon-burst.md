@@ -5,7 +5,7 @@ description: "North Korean three-round-burst assault rifle; Jang-Ui carries one.
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-mw4-season-1-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["Hyeon", "Hyeon Burst AR", "Hyeon Burst BP", "Hyeon Burst blueprint", "Hyeon Hyperburst", "Hyperburst", "Hyeon Auto", "Blue Viper"]
 class: "Assault rifle"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -37,5 +37,5 @@ All three changes hit the Hyperburst Apex and are listed under Multiplayer; whet
 
 ## What comes in Season 1?
 
-From 6 Nov 2026 [[src-activision-mw4-season-1-2026-10-28]]: the **Hyeon Auto** Apex, which makes the rifle fully automatic, as a Wager Match event reward (it was in the beta but not at launch [[src-conquestcapped-mw4-weapons-2026-10-26]]), and the **Blue Viper** blueprint for finishing all 100 premium Battle Pass tiers.
+From 6 Nov 2026 [[src-activision-season-1-announcement-2026-10-28]]: the **Hyeon Auto** Apex, which makes the rifle fully automatic, as a Wager Match event reward (it was in the beta but not at launch [[src-conquestcapped-mw4-weapons-2026-10-26]]), and the **Blue Viper** blueprint for finishing all 100 premium Battle Pass tiers.
 <!-- human:end -->

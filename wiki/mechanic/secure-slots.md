@@ -5,7 +5,7 @@ description: "Secure Slots in better backpacks keep their items when you fail to
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_b83a508a7fac, clm_0a8ddc7fe171, src-activision-dmz-guide-part2-2026-10-09, src-callofduty-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_b83a508a7fac, clm_0a8ddc7fe171, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Secure Slot", "safe pocket", "Safe Pocket", "secure pocket", "keep items when you die", "secure backpack"]
 ---
 <!-- generated:start -->
@@ -22,7 +22,7 @@ A Secure Slot is a protected space in a backpack: whatever is in it survives a f
 
 ## Which backpacks have Secure Slots?
 
-Better backpacks add slots, weapon slots and Secure Slots [[src-activision-dmz-guide-part2-2026-10-09]]. The 8-slot Basic Pack you carry without a backpack has none, and the Medium Backpack has one (reported) [[src-codmunity-dmz-guide-2026-10-24]] [clm_0a8ddc7fe171]. You can print a Medium Backpack from DMZ level 2 [[src-callofduty-ready-for-launch-progression-2026-10-19]]; the 9 Oct guide gives its recipe as 50 Synthetics and 5 Rigid Synthetics [[src-activision-dmz-guide-part2-2026-10-09]]. Larger backpacks come later ([[dmz-progression]]).
+Better backpacks add slots, weapon slots and Secure Slots [[src-activision-dmz-guide-part2-2026-10-09]]. The 8-slot Basic Pack you carry without a backpack has none, and the Medium Backpack has one (reported) [[src-codmunity-dmz-guide-2026-10-24]] [clm_0a8ddc7fe171]. You can print a Medium Backpack from DMZ level 2 [[src-activision-ready-for-launch-progression-2026-10-19]]; the 9 Oct guide gives its recipe as 50 Synthetics and 5 Rigid Synthetics [[src-activision-dmz-guide-part2-2026-10-09]]. Larger backpacks come later ([[dmz-progression]]).
 
 ## What should go in a Secure Slot?
 

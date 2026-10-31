@@ -5,7 +5,7 @@ description: "Every DMZ vehicle from the Camper to the Monarch: which ones you d
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9ccc2ae5bb3c, clm_040680c6c92c, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-vehicles-2026-10-06, src-conquestcapped-dmz-guide-2026-10-26, src-xboxplay-dmz-tank-2026-10-28, src-dtgre-dmz-radar-truck-2026-10-25, src-gamingtrend-dmz-interview-2026-06-06, src-dmzhub-vehicles-2026-10-31, src-allthingshow-dmz-dreadnought-2026-10-21, src-allthingshow-dmz-watch-for-bumps-2026-10-21]
+sources: [clm_9ccc2ae5bb3c, clm_040680c6c92c, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-vehicles-2026-10-06, src-conquestcapped-dmz-guide-2026-10-26, src-xboxplay-dmz-tank-2026-10-28, src-dtgre-dmz-radar-truck-2026-10-25, src-gamingtrend-dmz-interview-2026-06-06, src-dmzhub-vehicles-2026-10-31, src-allthingshow-dmz-dreadnought-2026-10-21, src-allthingshow-dmz-watch-for-bumps-2026-10-21]
 aliases: ["vehicle", "car", "cars", "boat", "boats", "helicopter", "Camper", "Sedan", "Grizzly", "Dreadnought", "Aston Martin Dreadnought", "Polaris Dagor A1", "Polaris DAGOR", "LTV", "Cargo Truck", "D50 Radar Flatbed", "Radar Truck", "Train", "Tram", "RHIB", "Armored Patrol Boat", "Heli", "Little Bird", "Heavy Chopper", "Monarch", "Cargo Plane", "tank", "Gas Station", "Marine Gas Station", "Gas Can", "fuel", "refuel", "AI cars", "vehicle repair parts", "steal a vehicle", "enemy vehicles"]
 ---
 <!-- generated:start -->
@@ -41,11 +41,11 @@ DMZ has ground, rail, water and air vehicles, and unlike Warzone's they burn fue
 | Heavy Chopper | Air | Rarely | An armoured troop helicopter with flares; if the pilot gets out it hovers on autopilot while fuel lasts |
 | Monarch | Air | No | The twin-rotor transport that carries friendly forces in and out; your exfil ride ([[exfil]]) |
 
-Descriptions: the official guide [[src-activision-dmz-guide-part1-2026-10-05]]. Who drives what: codmunity's map [[src-codmunity-dmz-map-2026-10-31]] and the guide. The Polaris Dagor A1 was confirmed for DMZ at launch [clm_7f76b2cb1090]. The official guide gives seats only for the Cargo Truck (two in the cab) and says the Polaris takes a full squad [[src-activision-dmz-guide-part1-2026-10-05]]; guides report four seats in the Dreadnought and two in the repairable tank (reported) [[src-allthingshow-dmz-dreadnought-2026-10-21]] [[src-xboxplay-dmz-tank-2026-10-28]].
+Descriptions: the official guide [[src-activision-dmz-guide-part1-2026-10-05]]. Who drives what: codmunity's map [[src-codmunity-hajin-map-2026-10-31]] and the guide. The Polaris Dagor A1 was confirmed for DMZ at launch [clm_7f76b2cb1090]. The official guide gives seats only for the Cargo Truck (two in the cab) and says the Polaris takes a full squad [[src-activision-dmz-guide-part1-2026-10-05]]; guides report four seats in the Dreadnought and two in the repairable tank (reported) [[src-allthingshow-dmz-dreadnought-2026-10-21]] [[src-xboxplay-dmz-tank-2026-10-28]].
 
 ## What other vehicles are there?
 
-- **Cargo Plane.** Used only for the paid jump infil; you cannot fly it [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-map-2026-10-31]].
+- **Cargo Plane.** Used only for the paid jump infil; you cannot fly it [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-hajin-map-2026-10-31]].
 - **Armored Patrol Boat.** Named by the official guide only as the boat that gains most from Marine Gas Stations; nothing else is known [[src-activision-dmz-guide-part1-2026-10-05]] [[src-gamerfuzion-dmz-vehicles-2026-10-06]].
 - **Little Bird.** The 23 Oct 2026 update fixed missing audio for the Little Bird helicopter in DMZ [[src-mw4-launch-patch-notes-2026-10-29]]. Before launch the developers described enemy Little Birds chasing a squad as its threat rose [[src-gamingtrend-dmz-interview-2026-06-06]]. Whether players can fly one is not confirmed.
 - **Tank.** A broken two-seat tank (driver and gunner) waits in the Tank Depot of the Armory bunker at [[chang-san-air-base]]. Fit four parts (Tank Alternator, Tank Battery, Tank Plugs, Tank Water Pump) found loose around the base, then drive it and refuel it at Gas Stations; its cannon destroys transport vehicles and Deathstalkers in one shot but not heavy tanks; Operation Iron Citadel gets you into the bunker (reported) [[src-xboxplay-dmz-tank-2026-10-28]]. It is not the enemy battle tank Commander ([[commander-threats]], [[tank-looting]]).
@@ -63,11 +63,11 @@ Descriptions: the official guide [[src-activision-dmz-guide-part1-2026-10-05]]. 
 ## Where do you get a vehicle?
 
 - Paid infil drops a Polaris Dagor A1 (5,000 DMZ Cash) or an LTV (25,000) to your squad, gives you a helicopter from the FOB (50,000), or drops you from the Cargo Plane (100,000) [[src-activision-dmz-guide-part2-2026-10-09]]; see [[infil]] and [[paid-infil]].
-- Story Missions unlock these options: the helicopter with Operation Grid Assault and the LTV with Operation Iron Citadel [[src-dmzhub-vehicles-2026-10-31]] [[src-codmunity-dmz-map-2026-10-31]] [[src-conquestcapped-dmz-guide-2026-10-26]]. dmzhub alone lists the Polaris Dagor A1 as a reward of Operation Silent Ledger and the Cargo Plane as a reward of Operation Fallen Ember, probably their infil unlocks (reported) [[src-dmzhub-vehicles-2026-10-31]].
+- Story Missions unlock these options: the helicopter with Operation Grid Assault and the LTV with Operation Iron Citadel [[src-dmzhub-vehicles-2026-10-31]] [[src-codmunity-hajin-map-2026-10-31]] [[src-conquestcapped-dmz-guide-2026-10-26]]. dmzhub alone lists the Polaris Dagor A1 as a reward of Operation Silent Ledger and the Cargo Plane as a reward of Operation Fallen Ember, probably their infil unlocks (reported) [[src-dmzhub-vehicles-2026-10-31]].
 - You can steal enemy vehicles: kill the crew of a patrolling Grizzly or a military truck and get into the driver's seat; the Watch for Bumps DMZ Order asks you to do exactly that (reported) [[src-allthingshow-dmz-watch-for-bumps-2026-10-21]].
 - A Dreadnought is parked in the basement garage of the Heavenly Luck Casino in [[cheongun-village]], and you can drive it off with no key or unlock (reported) [[src-allthingshow-dmz-dreadnought-2026-10-21]].
 - One guide says a vehicle always waits at your spawn point (reported) [[src-conquestcapped-dmz-guide-2026-10-26]]. You can ride the Train but not drive it (reported) [[src-dmzhub-vehicles-2026-10-31]].
-- Vehicle spawn points are not mapped yet [[src-codmunity-dmz-map-2026-10-31]]. Some vehicles are marked on the Tac-Map: a Sedan missing from its marked spot was fixed on 25 Oct 2026 [[src-mw4-launch-patch-notes-2026-10-29]].
+- Vehicle spawn points are not mapped yet [[src-codmunity-hajin-map-2026-10-31]]. Some vehicles are marked on the Tac-Map: a Sedan missing from its marked spot was fixed on 25 Oct 2026 [[src-mw4-launch-patch-notes-2026-10-29]].
 
 ## What should pilots watch out for?
 

@@ -5,7 +5,7 @@ description: "Every permanent FOB upgrade printed at the 3D Printer, with what e
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-callofduty-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["FOB Upgrades", "station upgrades", "Bank Upgrade", "Stash Item Upgrade", "Stash Weapon Upgrade", "MIA Recovery Discount", "Gunsmith Upgrade", "Vendor Item Upgrade", "Dog Tag Case Upgrade", "Uncommon Ingredient Printing", "Epic Ingredient Printing", "upgrade the FOB", "bank cap upgrade"]
 station: 3d-printer
 unlock: "3D Printer"
@@ -21,7 +21,7 @@ FOB upgrades are permanent improvements to your base that you print at the [[3d-
 
 dmzhub.gg lists nine upgrades with 31 levels in all. A level costs DMZ Cash, items, or both, and needs the level before it (reported) [[src-dmzhub-upgrades-2026-10-31]]. The items are mostly valuables and 3D Printer Ingredients, so check this page before you sell a valuable [[src-codmunity-dmz-guide-2026-10-24]]; players also report needing specific items for Stash upgrades [clm_1d5b2eabae74]. The costs below come from that one community database, so treat them as reported until Activision publishes its own list. Player reports point the same way: five Gold Bars and five Gold Skulls for the last upgrades [clm_4903d57a964d] [clm_b90e9b9a3636], Military Composites and Experimental Compounds [clm_5f55c9bd182e], Stock Rods and Turned Components [clm_0217c096a2ca], and sellable files found in bunkers [clm_c712a62e76ae].
 
-Some DMZ levels give the same kinds of bonus for free: Stash slots at levels 22, 35, 45, 60 and 70, a 5% Gunsmith discount at 25 and Vendor upgrades at 18 and 32 [[src-callofduty-ready-for-launch-progression-2026-10-19]]. Whether level rewards and printed upgrades add together is not confirmed. See [[dmz-progression]].
+Some DMZ levels give the same kinds of bonus for free: Stash slots at levels 22, 35, 45, 60 and 70, a 5% Gunsmith discount at 25 and Vendor upgrades at 18 and 32 [[src-activision-ready-for-launch-progression-2026-10-19]]. Whether level rewards and printed upgrades add together is not confirmed. See [[dmz-progression]].
 
 ## Bank Upgrade
 

@@ -16,4 +16,6 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 <!-- human:start -->
 One page of Dexerto's Modern Warfare 4 key wiki, published 24 Oct 2026. It covers the Legendary key Jang-Ui drops at NuriGO Mall and what its room holds, and names other keys in the same wiki. The wiki's index could not be read with our tools.
+
+A key page in Dexerto's Modern Warfare 4 wiki, published 24 Oct 2026. We took the key's rarity, who drops it, where the room is and what it holds. Third-party. Used for [[jang-ui]].
 <!-- human:end -->

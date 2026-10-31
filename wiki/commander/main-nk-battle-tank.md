@@ -5,7 +5,7 @@ description: "Roaming Commander: a North Korean battle tank on the roads of Haji
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-season-1-2026-10-28, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-season-1-announcement-2026-10-28, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Tank", "Battle Tank", "NK tank", "North Korean tank", "Commander Tank", "NK Battle Tank", "tank boss"]
 ---
 <!-- generated:start -->
@@ -32,7 +32,7 @@ Once it is destroyed, loot three spots: the front, the back and the top [[src-al
 
 ## What is the Battle Tank Threat Briefing?
 
-An event in the first part of Season 1, which starts on 6 Nov 2026 (no event dates yet): take one tank part per deployment, and the more parts you collect over several deployments, the better the reward. When one squad member exfils with a part, the whole squad gets credit [[src-activision-mw4-season-1-2026-10-28]].
+An event in the first part of Season 1, which starts on 6 Nov 2026 (no event dates yet): take one tank part per deployment, and the more parts you collect over several deployments, the better the reward. When one squad member exfils with a part, the whole squad gets credit [[src-activision-season-1-announcement-2026-10-28]].
 
 The other Commanders are on [[commander-threats]].
 <!-- human:end -->

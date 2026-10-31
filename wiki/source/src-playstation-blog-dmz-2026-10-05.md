@@ -8,7 +8,7 @@ sensitivity: public
 origin: "https://blog.playstation.com/2026/10/05/everything-you-need-to-know-about-dmz-mode-in-call-of-duty-modern-warfare-4/"
 captured: 2026-10-09
 raw: raw/sources/2026-10-05-playstation-blog-dmz-extract.md
-trust: third-party
+trust: official
 ---
 <!-- generated:start -->
 _Not rendered: source pages are written by people._

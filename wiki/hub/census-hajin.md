@@ -15,7 +15,7 @@ The map of Hajin, its places, location types, exfil methods and map systems, as 
 
 | Member | Codex page | Sources | State |
 | --- | --- | --- | --- |
-| Hajin Exclusion Zone (the map) | [[hajin-exclusion-zone]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-westie-dmz-ama-recap-2026-10-11]] [[src-activision-season-1-blog-2026-10-28]] | published |
+| Hajin Exclusion Zone (the map) | [[hajin-exclusion-zone]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-westie-dmz-ama-recap-2026-10-11]] [[src-activision-season-1-announcement-2026-10-28]] | published |
 | Hajin City (region) | [[hajin-city-remains]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-gamerfuzion-gold-bar-route-2026-10-29]] | published |
 | 14th Political Prison | [[prison-complex]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-dmzhub-keys-2026-10-31]] | published |
 | Chang-san Air Base | [[chang-san-air-base]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-codmunity-hajin-map-2026-10-31]] [[src-dexerto-supreme-leaders-bunker-card-2026-10-24]] | published |
@@ -57,13 +57,13 @@ The map of Hajin, its places, location types, exfil methods and map systems, as 
 | Dynamic weather | [[dynamic-weather]] | [[src-activision-dmz-deep-dive-2026-06]] [[src-westie-dmz-ama-recap-2026-10-11]] | published |
 | Tac-Map and grid | [[tac-map]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-dmzhub-keys-2026-10-31]] | published |
 | Location types overview | [[locations-of-interest]] | [[src-activision-dmz-guide-part1-2026-10-05]] | published |
-| X01 (Season 1, 6 Nov 2026) | [[x01]] | [[src-activision-season-1-blog-2026-10-28]] | published (announced, not playable yet) |
+| X01 (Season 1, 6 Nov 2026) | [[x01]] | [[src-activision-season-1-announcement-2026-10-28]] | published (announced, not playable yet) |
 | Russian area of Hajin (Season 2) | row in [[hajin-exclusion-zone]] | [[src-westie-dmz-ama-recap-2026-10-11]] | missing (closed until Season 2; no page until it opens) |
 | Hajin (duplicate page) | [[hajin]] retired, alias on [[hajin-exclusion-zone]] | [[src-activision-dmz-guide-part1-2026-10-05]] | retired |
 | Fallout reactor (June name) | [[fallout-reactor]] retired, alias on [[haneul-nuclear-reactor]] | [[src-activision-dmz-deep-dive-2026-06]] | retired |
 | Military base (June name) | [[military-base]] retired, alias on [[chang-san-air-base]] | [[src-activision-dmz-deep-dive-2026-06]] | retired |
 | Power Plant | [[power-plant]] retired, alias on [[haneul-nuclear-reactor]] | [[src-activision-dmz-guide-part1-2026-10-05]] | retired |
 | Building 21 (2022 DMZ) | [[building-21]] retired, alias on [[x01]] | [[src-gamespot-from-the-ward-ep7-2026-10-05]] | retired |
-| Vondel (not in MW4 DMZ) | [[vondel]] retired, alias on [[hajin-exclusion-zone]] | [[src-activision-season-1-blog-2026-10-28]] | retired |
+| Vondel (not in MW4 DMZ) | [[vondel]] retired, alias on [[hajin-exclusion-zone]] | [[src-activision-season-1-announcement-2026-10-28]] | retired |
 | DMZ Exfil Area (stub) | [[dmz-exfil-area]] retired, alias on [[exfil]] | [clm_5468bb6fe7db] | retired |
 <!-- human:end -->

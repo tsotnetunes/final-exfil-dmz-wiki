@@ -21,7 +21,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | 2-Plate Armor Vest | [[2-plate-armor-vest-recipe]] | [[src-activision-dmz-guide-part2-2026-10-09]], [[src-codcentral-3d-printer-recipes-2026-10-20]] | published |
 | Medium Backpack | [[medium-backpack-recipe]] | [[src-activision-dmz-guide-part2-2026-10-09]], [[src-vgtimes-dmz-3d-printer-2026-10-27]] | published |
 | 3-Plate Armor Vest | [[3-plate-armor-vest-recipe]] | [[src-codcentral-3d-printer-recipes-2026-10-20]], [[src-vgtimes-dmz-3d-printer-2026-10-27]], [[src-mw4-launch-patch-notes-2026-10-29]] | published |
-| Tempered Armor Vest | [[tempered-armor-vest-recipe]] | [[src-vgtimes-dmz-3d-printer-2026-10-27]], [[src-gamingpromax-dmz-bosses-2026-10-23]], [[src-conquestcapped-dmz-bosses-2026-10-28]] | published |
+| Tempered Armor Vest | [[tempered-armor-vest-recipe]] | [[src-vgtimes-dmz-3d-printer-2026-10-27]], [[src-gamingpromax-dmz-boss-locations-2026-10-23]], [[src-conquestcapped-dmz-bosses-2026-10-28]] | published |
 | Door Breacher Charge | [[door-breacher-charge-recipe]] | [[src-destructoid-3d-printer-recipes-2026-10-21]], [[src-codcentral-3d-printer-recipes-2026-10-20]], [[src-dmzhub-items-2026-10-31]] | published |
 | Self-Revive Kit | [[self-revive-kit-recipe]] | [[src-activision-ready-for-launch-progression-2026-10-19]], [[src-vgtimes-dmz-3d-printer-2026-10-27]] | published |
 | Disposable Parachute | [[disposable-parachute-recipe]] | [[src-activision-ready-for-launch-progression-2026-10-19]], [[src-mw4-launch-patch-notes-2026-10-29]] | published |
@@ -58,10 +58,10 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Comms Module | [[comms-module]] | [[src-destructoid-dmz-ingredient-guides-2026-10-22]], [[src-codcentral-3d-printer-recipes-2026-10-20]] | published |
 | Nylon Laminate | [[nylon-laminate]] | [[src-destructoid-dmz-ingredient-guides-2026-10-22]], [[src-codcentral-3d-printer-recipes-2026-10-20]] | published |
 | Turned Components | [[turned-components]] | [[src-codcentral-3d-printer-recipes-2026-10-20]], [clm_6c7b8163cfc9] | published |
-| Military Composites | [[military-composites]] | [[src-gamingpromax-dmz-bosses-2026-10-23]], [[src-conquestcapped-dmz-bosses-2026-10-28]] | published |
-| Experimental Compounds | [[experimental-compounds]] | [[src-gamingpromax-dmz-bosses-2026-10-23]], [[src-dmzhub-bosses-2026-10-31]] | published; drop from Deathstalker and tank reported |
-| Prototype RF Module | [[prototype-rf-module]] | [[src-gamingpromax-dmz-bosses-2026-10-23]], [[src-conquestcapped-dmz-bosses-2026-10-28]] | published |
+| Military Composites | [[military-composites]] | [[src-gamingpromax-dmz-boss-locations-2026-10-23]], [[src-conquestcapped-dmz-bosses-2026-10-28]] | published |
+| Experimental Compounds | [[experimental-compounds]] | [[src-gamingpromax-dmz-boss-locations-2026-10-23]], [[src-dmzhub-bosses-2026-10-31]] | published; drop from Deathstalker and tank reported |
+| Prototype RF Module | [[prototype-rf-module]] | [[src-gamingpromax-dmz-boss-locations-2026-10-23]], [[src-conquestcapped-dmz-bosses-2026-10-28]] | published |
 | Nitro Compounds | row in [[materials]] | [[src-codmunity-dmz-items-2026-10-26]], [[src-activision-ready-for-launch-progression-2026-10-19]] | published; where to find missing (no source names a spot) |
 | Alloyed Plating, Ballistic Fabric, Power Regulator, Stabilized Reagents, Volatile Explosives | row in [[materials]] | [[src-codcentral-3d-printer-recipes-2026-10-20]], [[src-dmzhub-items-2026-10-31]] | published; spots partly reported |
-| Nano-Structured Alloy | row in [[materials]] | [[src-gamingpromax-dmz-bosses-2026-10-23]], [[src-conquestcapped-dmz-bosses-2026-10-28]] | published; too thin for its own page |
+| Nano-Structured Alloy | row in [[materials]] | [[src-gamingpromax-dmz-boss-locations-2026-10-23]], [[src-conquestcapped-dmz-bosses-2026-10-28]] | published; too thin for its own page |
 <!-- human:end -->

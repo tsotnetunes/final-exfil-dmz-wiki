@@ -5,7 +5,7 @@ description: "The walled NK prison in northwest Hajin: High threat, Critical in 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, src-dmzhub-locations-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-gfinity-lieutenant-locations-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27, src-gamingpromax-compounds-2026-10-26, src-gamerfuzion-solo-vault-run-2026-10-25]
+sources: [src-dmzhub-maps-2026-10-31, src-dmzhub-locations-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27, src-gamingpromax-compounds-2026-10-26, src-gamerfuzion-solo-vault-run-2026-10-25]
 aliases: ["Prison complex", "the Citadel", "Political Prison", "Fortress Prison Yard", "14th Political Prison", "prison", "Kang's Arms Incinerator", "Prison Encampment Storage", "The Citadel South Wing"]
 stale_after: 2026-11-13
 region: "northwest Hajin (former NK)"
@@ -17,7 +17,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-The 14th Political Prison is a walled North Korean prison camp in the northwest of Hajin, High threat throughout and Critical in the Citadel at its heart, where the Lieutenant known as the Warden is met [[src-activision-dmz-guide-part1-2026-10-05]] [[src-gfinity-lieutenant-locations-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. The June intel called it the prison complex [[src-activision-dmz-deep-dive-2026-06]].
+The 14th Political Prison is a walled North Korean prison camp in the northwest of Hajin, High threat throughout and Critical in the Citadel at its heart, where the Lieutenant known as the Warden is met [[src-activision-dmz-guide-part1-2026-10-05]] [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. The June intel called it the prison complex [[src-activision-dmz-deep-dive-2026-06]].
 
 ## Where is it?
 
@@ -35,7 +35,7 @@ Levels from the official guide, matching the in-game map [[src-activision-dmz-gu
 
 ## Who is here?
 
-The Warden holds the Citadel with a riot shield and a shotgun among many AI soldiers [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gfinity-lieutenant-locations-2026-10-22]]. See [[the-warden]]. The Commander Colossus also has a spawn point near the prison (reported) [[src-dmzhub-locations-2026-10-31]] [[src-dmzhub-maps-2026-10-31]] ([[commander-threats]]).
+The Warden holds the Citadel with a riot shield and a shotgun among many AI soldiers [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gfinity-dmz-lieutenants-2026-10-22]]. See [[the-warden]]. The Commander Colossus also has a spawn point near the prison (reported) [[src-dmzhub-locations-2026-10-31]] [[src-dmzhub-maps-2026-10-31]] ([[commander-threats]]).
 
 ## Which locked rooms are here?
 

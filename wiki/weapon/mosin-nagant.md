@@ -5,7 +5,7 @@ description: "Hard-hitting bolt-action marksman rifle that can one-shot enemies 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-mw4-season-1-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-conquestcapped-mw4-weapons-2026-10-26, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-conquestcapped-mw4-weapons-2026-10-26, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["Mosin", "Mosin Nagant", "Mosin Harpoon", "Bellum"]
 class: "Marksman rifle"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -35,5 +35,5 @@ No tuning so far. A 28 Oct fix in the Multiplayer notes corrected its firing pin
 
 ## What comes in Season 1?
 
-From 6 Nov 2026: the **Bellum** Ultra Mosin-Nagant blueprint at Battle Pass tier 100, and a BlackCell Mosin-Nagant blueprint [[src-activision-mw4-season-1-2026-10-28]]. See [[blueprints]].
+From 6 Nov 2026: the **Bellum** Ultra Mosin-Nagant blueprint at Battle Pass tier 100, and a BlackCell Mosin-Nagant blueprint [[src-activision-season-1-announcement-2026-10-28]]. See [[blueprints]].
 <!-- human:end -->

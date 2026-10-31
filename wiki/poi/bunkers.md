@@ -6,7 +6,7 @@ status: stable
 brain_status: published
 sensitivity: public
 sources: [clm_c712a62e76ae, src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-dexerto-supreme-leaders-bunker-card-2026-10-24, src-dmzhub-keys-2026-10-31, src-gfinity-door-breacher-2026-10-27, src-allthingshow-hajin-map-2026-10-21, src-allthingshow-key-doors-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27, src-destructoid-secret-bunker-2026-10-21, src-allthingshow-hajin-gameplay-2026-10-21, clm_9fe3feef9402]
-aliases: ["bunker", "secret bunker", "underground bunker", "Supreme Leader's Bunker", "Air Base Bunker", "Chang-san Air Base Bunker", "Rice Mill Bunker"]
+aliases: ["bunker", "secret bunker", "underground bunker", "Supreme Leader's Bunker", "Air Base Bunker", "Chang-san Air Base Bunker", "Rice Mill Bunker", "hidden bunkers", "unmarked bunker"]
 stale_after: 2026-11-13
 region: Hajin
 danger: varies

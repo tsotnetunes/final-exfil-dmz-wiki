@@ -5,7 +5,7 @@ description: "Named Lieutenants and bosses drop a Legendary dog tag of their own
 status: draft
 brain_status: draft
 sensitivity: public
-sources: [clm_1b11a0105ecd, clm_a31a217f5b49, clm_cd725da0354e, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-activision-dmz-guide-part2-2026-10-09, src-callofduty-ready-for-launch-progression-2026-10-19, src-codcentral-dmz-xp-strategies-2026-10-30]
+sources: [clm_1b11a0105ecd, clm_a31a217f5b49, clm_cd725da0354e, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-codcentral-dmz-xp-strategies-2026-10-30]
 aliases: ["boss dog tag", "Lieutenant dog tag", "LT tag", "Bale's Dog Tag", "Gorani's Dog Tag", "Scavenger's Dog Tag"]
 ---
 <!-- generated:start -->
@@ -41,5 +41,5 @@ Each named Lieutenant or boss drops a dog tag of their own, and these boss tags 
 
 ## What is it for?
 
-Every Lieutenant drops a Dog Tag Case, and extracting it advances the [[boss-board]] [[src-activision-dmz-guide-part2-2026-10-09]]; how the Legendary tag relates to that Case item is not clear yet. Extracting two Lieutenant tags in one deployment, 50 times, is the Ripple Tide camo challenge ([[dmz-camos]]) [[src-callofduty-ready-for-launch-progression-2026-10-19]]. An extracted tag gives about 1,000 DMZ XP (reported) [[src-codcentral-dmz-xp-strategies-2026-10-30]]. No sell value is published. More on tags: [[dog-tags]].
+Every Lieutenant drops a Dog Tag Case, and extracting it advances the [[boss-board]] [[src-activision-dmz-guide-part2-2026-10-09]]; how the Legendary tag relates to that Case item is not clear yet. Extracting two Lieutenant tags in one deployment, 50 times, is the Ripple Tide camo challenge ([[dmz-camos]]) [[src-activision-ready-for-launch-progression-2026-10-19]]. An extracted tag gives about 1,000 DMZ XP (reported) [[src-codcentral-dmz-xp-strategies-2026-10-30]]. No sell value is published. More on tags: [[dog-tags]].
 <!-- human:end -->

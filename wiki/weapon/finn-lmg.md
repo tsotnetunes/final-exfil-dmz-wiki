@@ -5,7 +5,7 @@ description: "Belt-fed 5.56 LMG with a high fire rate and good control; 8,000 DM
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-mw4-season-1-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["FiNN", "Finn LMG", "FINN", "FiNN Adverse", "Fortune's Favor"]
 class: "LMG"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -37,5 +37,5 @@ Three values, listed under Multiplayer; whether they apply in DMZ is not stated,
 
 ## What comes in Season 1?
 
-The **Fortune's Favor** FiNN LMG blueprint is an instant reward for buying the Season 1 Battle Pass, from 6 Nov 2026 [[src-activision-mw4-season-1-2026-10-28]]. See [[blueprints]].
+The **Fortune's Favor** FiNN LMG blueprint is an instant reward for buying the Season 1 Battle Pass, from 6 Nov 2026 [[src-activision-season-1-announcement-2026-10-28]]. See [[blueprints]].
 <!-- human:end -->

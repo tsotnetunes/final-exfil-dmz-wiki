@@ -5,7 +5,7 @@ description: "Shopping district in northeast Hajin City (East Medium, West High)
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-keys-2026-10-31, src-dmzhub-missions-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-solo-vault-run-2026-10-25, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-lieutenant-locations-2026-10-22, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-keys-2026-10-31, src-dmzhub-missions-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-solo-vault-run-2026-10-25, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["NuriGO", "NuriGO East", "NuriGO West", "underground mall", "City Hall", "Han-Go Korean BBQ", "Coin Mining Den", "Jang-Ui's Converted Power Room", "Shopping DRC Locker", "DRC Labs"]
 stale_after: 2026-11-13
 region: "northeast Hajin City (former SK)"
@@ -48,7 +48,7 @@ A police station, a clinic, City Hall and a monorail station on the tram loop, p
 
 ## Who and which missions are here?
 
-Operation Shopping Hacks has you hack a network in the mall and secure evidence; its briefing places the Lieutenant Jang-Ui's camp in the shopping district [[src-dmzhub-missions-2026-10-31]] ([[operation-shopping-hacks]]). Two guides meet Jang-Ui in the Nenshin Tech Complex in The Grid instead [[src-gfinity-lieutenant-locations-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. A fix of 24 Oct 2026 cut over-frequent AI reinforcements in the Shopping Mission, and one of 20 Oct fixed a missing prompt in the Chemical Denial Dynamic Op at the mall on Switch 2 [[src-mw4-launch-patch-notes-2026-10-29]].
+Operation Shopping Hacks has you hack a network in the mall and secure evidence; its briefing places the Lieutenant Jang-Ui's camp in the shopping district [[src-dmzhub-missions-2026-10-31]] ([[operation-shopping-hacks]]). Two guides meet Jang-Ui in the Nenshin Tech Complex in The Grid instead [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. A fix of 24 Oct 2026 cut over-frequent AI reinforcements in the Shopping Mission, and one of 20 Oct fixed a missing prompt in the Chemical Denial Dynamic Op at the mall on Switch 2 [[src-mw4-launch-patch-notes-2026-10-29]].
 
 ## Where do you exfil?
 

@@ -5,7 +5,7 @@ description: "Fast-firing 9mm SMG; its ISO Trace Apex was fixed for DMZ on 20 Oc
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-mw4-season-1-2026-10-28, src-gamerfuzion-dmz-prices-2026-10-08, src-dmzcodex-gunsmith-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-dmzradar-gunsmith-2026-10-20, src-gamerfuzion-dmz-free-blueprints-2026-10-21, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-gamerfuzion-dmz-prices-2026-10-08, src-dmzcodex-gunsmith-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-dmzradar-gunsmith-2026-10-20, src-gamerfuzion-dmz-free-blueprints-2026-10-21, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["Nightshade", "ISO", "ISO SMG", "ISO Trace", "La Sombra Venenosa", "High Roller's Fortune"]
 class: "SMG"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -34,5 +34,5 @@ Hand, lower arm and upper arm damage multipliers on both sides went from 0.95 to
 
 ## What comes in Season 1?
 
-A BlackCell ISO Nightshade blueprint, from 6 Nov 2026 [[src-activision-mw4-season-1-2026-10-28]].
+A BlackCell ISO Nightshade blueprint, from 6 Nov 2026 [[src-activision-season-1-announcement-2026-10-28]].
 <!-- human:end -->

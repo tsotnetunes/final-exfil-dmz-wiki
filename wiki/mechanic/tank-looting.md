@@ -5,7 +5,7 @@ description: "Destroying the North Korean battle tank, a Commander boss, pays pr
 status: draft
 brain_status: draft
 sensitivity: public
-sources: [clm_1f94c720b316, clm_d162a2f6766a, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-equipment-2026-10-19, src-dmzhub-items-2026-10-31]
+sources: [clm_1f94c720b316, clm_d162a2f6766a, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-dmzhub-items-2026-10-31]
 aliases: ["tank loot", "battle tank loot", "Main NK Battle Tank loot", "loot from tanks"]
 stale_after: 2026-11-13
 ---
@@ -24,7 +24,7 @@ Tank looting means taking the loot from a destroyed North Korean battle tank, a 
 
 ## What does a Commander kill pay?
 
-Killing a Commander pays prized 3D Printer Ingredients, a large amount of DMZ XP and DMZ Cash, and updates the [[boss-board]] [[src-activision-dmz-guide-part1-2026-10-05]]. The first kill of each Commander pays extra DMZ Cash, and extracting after a kill brings home valuable ingredients [[src-activision-dmz-guide-part2-2026-10-09]]. A Commander shrugs off many standard weapons [[src-activision-dmz-guide-part1-2026-10-05]]; Thermite, for one, is made to hurt vehicles and armour [[src-activision-ready-for-launch-equipment-2026-10-19]]. The Deathstalker, another Commander, is reported to drop three lootable parts [clm_d162a2f6766a].
+Killing a Commander pays prized 3D Printer Ingredients, a large amount of DMZ XP and DMZ Cash, and updates the [[boss-board]] [[src-activision-dmz-guide-part1-2026-10-05]]. The first kill of each Commander pays extra DMZ Cash, and extracting after a kill brings home valuable ingredients [[src-activision-dmz-guide-part2-2026-10-09]]. A Commander shrugs off many standard weapons [[src-activision-dmz-guide-part1-2026-10-05]]; Thermite, for one, is made to hurt vehicles and armour [[src-activision-mw4-launch-weapons-2026-10-19]]. The Deathstalker, another Commander, is reported to drop three lootable parts [clm_d162a2f6766a].
 
 ## Are the tank parts loot?
 

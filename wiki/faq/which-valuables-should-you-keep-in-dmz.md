@@ -5,7 +5,7 @@ description: "Keep valuables that FOB upgrades need: Infantry Invasion Plans, Re
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-dmz-upgrade-order-2026-10-23, src-gamerfuzion-dmz-money-2026-10-26, src-activision-dmz-guide-part2-2026-10-09, clm_4903d57a964d, clm_b90e9b9a3636]
+sources: [src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-gamerfuzion-dmz-money-2026-10-26, src-activision-dmz-guide-part2-2026-10-09, clm_4903d57a964d, clm_b90e9b9a3636]
 aliases: ["what to sell DMZ", "don't sell DMZ", "keep or sell DMZ", "Gold Bars DMZ", "Gold Skulls DMZ", "Infantry Invasion Plans", "valuables DMZ"]
 stale_after: 2026-11-13
 ---
@@ -14,7 +14,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Keep the valuables that FOB upgrades ask for. Selling them for quick cash can block an upgrade later, as guides warn for Infantry Invasion Plans and Degraded Execution Footage [[src-gamerfuzion-dmz-upgrade-order-2026-10-23]] [[src-dmzhub-upgrades-2026-10-31]]. Players single out Gold Bars and Gold Skulls: five of each are needed for end-game upgrades, and they are rare (reported) [clm_4903d57a964d] [clm_b90e9b9a3636].
+Keep the valuables that FOB upgrades ask for. Selling them for quick cash can block an upgrade later, as guides warn for Infantry Invasion Plans and Degraded Execution Footage [[src-gamerfuzion-3d-printer-upgrades-2026-10-23]] [[src-dmzhub-upgrades-2026-10-31]]. Players single out Gold Bars and Gold Skulls: five of each are needed for end-game upgrades, and they are rare (reported) [clm_4903d57a964d] [clm_b90e9b9a3636].
 
 ## Which valuables do upgrades use?
 | Valuable | Used by (count) |
@@ -32,7 +32,7 @@ Keep the valuables that FOB upgrades ask for. Selling them for quick cash can bl
 | Gold Bar | Stash Weapon III (5), Bank X (10) |
 | Gold Skull | Stash Item IV (5) |
 
-From dmzhub's upgrade list (reported) [[src-dmzhub-upgrades-2026-10-31]]; the first rows match another site's own upgrade screens [[src-gamerfuzion-dmz-upgrade-order-2026-10-23]].
+From dmzhub's upgrade list (reported) [[src-dmzhub-upgrades-2026-10-31]]; the first rows match another site's own upgrade screens [[src-gamerfuzion-3d-printer-upgrades-2026-10-23]].
 
 ## What can you sell?
 Anything no upgrade or recipe asks for. A money guide saw sell values of a few hundred to a few thousand DMZ Cash for valuables, and 5,000 for a Weapon Manual card (reported) [[src-gamerfuzion-dmz-money-2026-10-26]]. Extracted Weapon Manuals and Recipes pay 5,000 each anyway when you exfil [[src-activision-dmz-guide-part2-2026-10-09]].

@@ -8,7 +8,7 @@ sensitivity: public
 origin: "https://trello.com/b/tocA5kKG"
 captured: 2026-10-19
 raw: raw/sources/2026-10-19-iw-mw4-trello-notes.md
-trust: third-party
+trust: official
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

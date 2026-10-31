@@ -16,4 +16,6 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 <!-- human:start -->
 A guide site's article of 23 Oct 2026 built on a creator's video of the live menus and on the official guides. We took the in-game Possum description, what the Prestige screen asks for, the twelve Pro Traits read from the live Prestige Traits menu, and the creator's solo and squad builds. It corrects an earlier leak post of the same site; we used only the live-menu list. Third-party.
+
+GamerFuzion's guide of 23 Oct 2026, read on 31 Oct. The site corrected its own earlier leak-based list against the live game, and this list of 12 Pro Prestige Traits is what the Codex uses; the effects are the site's reading of the menu, so pages mark them as reported. Used for [[operator-prestige]].
 <!-- human:end -->

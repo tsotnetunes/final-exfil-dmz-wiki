@@ -8,7 +8,7 @@ sensitivity: public
 origin: "https://www.callofduty.com/blog/2026/06/call-of-duty-modern-warfare-4-dmz-deep-dive"
 captured: 2026-10-03
 raw: raw/sources/2026-06-activision-dmz-deep-dive-extract.md
-trust: third-party
+trust: official
 ---
 <!-- generated:start -->
 _Not rendered: source pages are written by people._

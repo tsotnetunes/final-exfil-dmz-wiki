@@ -18,4 +18,6 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 A gaming press guide by Alexandria Lopez, published 22 Oct 2026, with one table of the ten launch Lieutenants. We took each Lieutenant's POI and weapon drop as a second source; it gives no tactics or keys except the Doctor's. Used for [[lieutenants]].
 
 A press guide published 22 Oct 2026 listing each Lieutenant's area and possible rewards. For the weapons area we took which weapon or weapon blueprint each Lieutenant can drop; it says drops are random. Third-party; we use a weapon only where a second guide agrees.
+
+Gfinity's Lieutenant list, published 22 Oct 2026 during early access. We used it for which Lieutenant lives near which POI and checked it against ConquestCapped; where the two differ, both are given.
 <!-- human:end -->

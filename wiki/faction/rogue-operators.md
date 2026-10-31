@@ -5,7 +5,7 @@ description: "The other players in your DMZ match: up to 60 per lobby in squads 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-activision-mw4-season-1-2026-10-28, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["rival squads", "rival Operators", "other players", "PvP", "enemy squads", "Operators"]
 ---
 <!-- generated:start -->
@@ -33,7 +33,7 @@ Each player kill earns a Bounty at once, shown on your Dog Tag; four kills make 
 
 - **Around bosses.** A Lieutenant's Dog Tag Case shows whoever carries it on every Tac-Map, and Commander fights draw rival squads in [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]] ([[lieutenants]], [[commander-threats]]).
 - **In the Hunt Operators Dynamic Op**, which sets a full rival squad against you [[src-activision-dmz-guide-part1-2026-10-05]] ([[dynamic-operations]]); its missing mission timer was fixed on 30 Oct 2026 [[src-mw4-launch-patch-notes-2026-10-29]].
-- **In X01** from Season 1, where rival squads roam alongside the 100 Spirits soldiers [[src-activision-mw4-season-1-2026-10-28]] ([[x01]]).
+- **In X01** from Season 1, where rival squads roam alongside the 100 Spirits soldiers [[src-activision-season-1-announcement-2026-10-28]] ([[x01]]).
 
 The AI side is on [[north-korean-forces]].
 <!-- human:end -->

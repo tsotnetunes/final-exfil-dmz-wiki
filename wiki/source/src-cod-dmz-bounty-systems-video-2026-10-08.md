@@ -8,7 +8,7 @@ sensitivity: public
 origin: "https://www.youtube.com/watch?v=UOBzK6UaOtA"
 captured: 2026-10-13
 raw: raw/sources/2026-10-08-cod-dmz-bounty-systems-video-notes.md
-trust: third-party
+trust: official
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

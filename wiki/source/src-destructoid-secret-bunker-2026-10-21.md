@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Destructoid: All secret bunker locations in Modern Warfare 4 DMZ (21 Oct 2026)"
-description: "Press guide to an unmarked bunker southeast of the 14th Political Prison: open main door, a locked bunker door needing a random-spawn key, a locked silo room."
+description: "Press guide to the unmarked bunker southeast of the 14th Political Prison: open main door, a locked bunker door needing a random-spawn key, a locked silo room."
 status: stable
 brain_status: published
 sensitivity: public

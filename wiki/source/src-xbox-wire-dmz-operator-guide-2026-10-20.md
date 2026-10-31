@@ -8,7 +8,7 @@ sensitivity: public
 origin: "https://news.xbox.com/en-us/2026/10/20/call-of-duty-modern-warfare-4-how-to-get-started-operator-dmz/"
 captured: 2026-10-31
 raw: raw/sources/2026-10-31-xbox-wire-dmz-operator-guide-notes.md
-trust: third-party
+trust: official
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

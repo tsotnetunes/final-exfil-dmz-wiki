@@ -5,7 +5,7 @@ description: "Every Apex Attachment: 28 at launch, one per weapon except launche
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-mw4-season-1-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmzradar-gunsmith-2026-10-20, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-gamerfuzion-dmz-free-blueprints-2026-10-21]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmzradar-gunsmith-2026-10-20, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-gamerfuzion-dmz-free-blueprints-2026-10-21]
 aliases: ["Apex", "Apex slot", "Apex list", "all Apex Attachments", "Han X20 Skybreaker", "M4 Hurricane", "Hyeon Hyperburst", "Hyperburst", "Patriot XMR Volt", "Kastov ARC", "Oden Sentinel", "Axion Clearcut", "Axion Reaver", "Cronen Maelstrom", "ISO Trace", "VEL 46 Snap", "Striga Rampage", "PPSh-41 Ember", "X-58 Void", "Rezi 12 Enforcer", "Warlord Lumen", "FiNN Adverse", "Type 73 Assault", "APOC-338 Praetor", "MAR-9 Auto", "Oris 8.6 Razor", "Mosin Harpoon", "KG-7 Drillcharge", "Astaroth .57 Infiltrator", "Signal Inferno", "SANG Breach", "Krait P68 Commando", "GS Magna", "Mojave Lawless", "Cronen Helix Mk. II", "CSG Crossfire", "JAK Barrage", "Hyeon Auto", "Kastov 545"]
 ---
 <!-- generated:start -->
@@ -66,16 +66,16 @@ One guide says the game names the Axion's Apex Axion Reaver (reported) [[src-con
 
 ## Which Apex Attachments come with Season 1?
 
-Season 1 starts 6 Nov 2026 [[src-activision-mw4-season-1-2026-10-28]]:
+Season 1 starts 6 Nov 2026 [[src-activision-season-1-announcement-2026-10-28]]:
 
 - **Cronen Helix Mk. II** ([[cronen-osprey-assault-rifle]]): fires both when you pull and when you release the trigger.
 - **CSG Crossfire** ([[csg-35-smg]]): akimbo CSG-35s, more volume and less accuracy.
 - **JAK Barrage** (JAK 12, a later event reward): a salvo of explosives that stick before they go off.
 - **Hyeon Auto** ([[hyeon-burst]]) and **Kastov 545** ([[kastov-762]]): Wager Match event rewards; full-auto fire, and 5.45x39mm rounds for smoother handling.
 
-The same post lists an M16 Burst Attachment for the M4 as an event reward without calling it an Apex [[src-activision-mw4-season-1-2026-10-28]].
+The same post lists an M16 Burst Attachment for the M4 as an event reward without calling it an Apex [[src-activision-season-1-announcement-2026-10-28]].
 
 ## Why are some beta Apex Attachments missing?
 
-Players reported Apex Attachments from the beta missing at launch [clm_53d761688e7f]; one guide names the Hyeon Auto and Kastov 545 as the two not in the launch game (reported) [[src-conquestcapped-mw4-weapons-2026-10-26]]. Both return in Season 1 as event rewards [[src-activision-mw4-season-1-2026-10-28]].
+Players reported Apex Attachments from the beta missing at launch [clm_53d761688e7f]; one guide names the Hyeon Auto and Kastov 545 as the two not in the launch game (reported) [[src-conquestcapped-mw4-weapons-2026-10-26]]. Both return in Season 1 as event rewards [[src-activision-season-1-announcement-2026-10-28]].
 <!-- human:end -->

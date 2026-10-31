@@ -8,7 +8,7 @@ sensitivity: public
 origin: "https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-dmz-deep-dive-hajin"
 captured: 2026-10-09
 raw: raw/sources/2026-10-05-activision-dmz-guide-part1-extract.md
-trust: third-party
+trust: official
 ---
 <!-- generated:start -->
 _Not rendered: source pages are written by people._

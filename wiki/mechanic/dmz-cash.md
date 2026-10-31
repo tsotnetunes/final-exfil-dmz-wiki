@@ -5,7 +5,7 @@ description: "DMZ Cash buys infils, Gunsmith builds, Vendor gear, intel, MIA rec
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_1227a6a278fb, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-callofduty-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-traits-2026-10-30, src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-dmz-level-up-fast-2026-10-21]
+sources: [clm_1227a6a278fb, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-traits-2026-10-30, src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-dmz-level-up-fast-2026-10-21]
 aliases: ["cash", "money", "how to make money in DMZ", "how to earn DMZ Cash", "DMZ economy", "economy", "sell items", "selling valuables", "barter", "cash rewards"]
 ---
 <!-- generated:start -->
@@ -36,7 +36,7 @@ DMZ Cash is the mode's currency. It sits in your Bank ([[wallet]]), shared by al
 | A Wanted player's Dog Tag extracted | their Bounty, more at the top Wanted level | [[src-activision-dmz-guide-part2-2026-10-09]] [clm_1dda32204130] |
 | Valuables sold at the FOB | Gold Bar 25,000, W.M.D Manifest 5,000, Ballistic Flight Logs 1,000 (reported) | [[src-codmunity-dmz-items-2026-10-26]] |
 
-Bounty payouts grow with the Dog Tag Case rewards at DMZ levels 30, 50 and 70 (10%, 50% and 100%) [[src-callofduty-ready-for-launch-progression-2026-10-19]]. Traits help too: Investor gives a little more cash when you extract [[src-activision-dmz-guide-part2-2026-10-09]]; Cash Ops adds 20% to Op cash and Key Cash pays for opening locked spaces with a key (reported) [[src-codmunity-dmz-traits-2026-10-30]].
+Bounty payouts grow with the Dog Tag Case rewards at DMZ levels 30, 50 and 70 (10%, 50% and 100%) [[src-activision-ready-for-launch-progression-2026-10-19]]. Traits help too: Investor gives a little more cash when you extract [[src-activision-dmz-guide-part2-2026-10-09]]; Cash Ops adds 20% to Op cash and Key Cash pays for opening locked spaces with a key (reported) [[src-codmunity-dmz-traits-2026-10-30]].
 
 ## What does it cost?
 

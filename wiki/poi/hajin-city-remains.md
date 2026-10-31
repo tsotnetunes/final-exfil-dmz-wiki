@@ -5,7 +5,7 @@ description: "Hajin City, the ruined urban east of the map: NuriGO Mall, The Gri
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-irradiated-container-2026-10-27, src-conquestcapped-dmz-bosses-2026-10-28, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-exfil-guide-2026-10-21, src-allthingshow-gun-store-key-2026-10-22, src-dmzhub-keys-2026-10-31, src-gfinity-lieutenant-locations-2026-10-22]
+sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-irradiated-container-2026-10-27, src-conquestcapped-dmz-bosses-2026-10-28, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-exfil-guide-2026-10-21, src-allthingshow-gun-store-key-2026-10-22, src-dmzhub-keys-2026-10-31, src-gfinity-dmz-lieutenants-2026-10-22]
 aliases: ["Hajin City", "the city", "downtown Hajin", "downtown"]
 stale_after: 2026-11-13
 region: "east Hajin (former SK)"
@@ -21,7 +21,7 @@ Hajin City is the ruined urban east of the map: four major POIs, [[nurigo-mall]]
 
 ## How dangerous is it?
 
-Threat ranges from Low on the Songdo waterfront to Extreme in the Nenshin Tech Complex at the centre of The Grid [[src-activision-dmz-guide-part1-2026-10-05]]. The Commanders favour the city: Colossus and the Tank are met most often in The Grid and the Deathstalker over downtown (reported) [[src-conquestcapped-dmz-bosses-2026-10-28]]. Downtown SAM sites shoot at helicopters, so pilots should give them room (reported) [[src-codmunity-dmz-guide-2026-10-24]]. Roze holds the DBN tower in The Grid [[src-gfinity-lieutenant-locations-2026-10-22]].
+Threat ranges from Low on the Songdo waterfront to Extreme in the Nenshin Tech Complex at the centre of The Grid [[src-activision-dmz-guide-part1-2026-10-05]]. The Commanders favour the city: Colossus and the Tank are met most often in The Grid and the Deathstalker over downtown (reported) [[src-conquestcapped-dmz-bosses-2026-10-28]]. Downtown SAM sites shoot at helicopters, so pilots should give them room (reported) [[src-codmunity-dmz-guide-2026-10-24]]. Roze holds the DBN tower in The Grid [[src-gfinity-dmz-lieutenants-2026-10-22]].
 
 ## How do you get around?
 

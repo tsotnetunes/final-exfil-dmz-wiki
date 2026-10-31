@@ -11,7 +11,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Launch weapons (33) and their Apex Attachments come from the official launch guide [[src-activision-mw4-launch-weapons-2026-10-19]]; Season 1 members from the Season 1 post [[src-activision-mw4-season-1-2026-10-28]]. "Row" means a row in a published list page.
+Launch weapons (33) and their Apex Attachments come from the official launch guide [[src-activision-mw4-launch-weapons-2026-10-19]]; Season 1 members from the Season 1 post [[src-activision-season-1-announcement-2026-10-28]]. "Row" means a row in a published list page.
 
 ## Weapons
 
@@ -19,7 +19,7 @@ Launch weapons (33) and their Apex Attachments come from the official launch gui
 | --- | --- | --- | --- |
 | Han 86 | [[han-86]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] [[src-dmzcodex-gunsmith-2026-10-29]] | published |
 | M4 | [[m4]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-activision-dmz-guide-part2-2026-10-09]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |
-| Hyeon Burst | [[hyeon-burst]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] [[src-activision-mw4-season-1-2026-10-28]] | published |
+| Hyeon Burst | [[hyeon-burst]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] [[src-activision-season-1-announcement-2026-10-28]] | published |
 | Patriot XMR | [[patriot-xmr]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |
 | Kastov 762 | [[kastov-762]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] [[src-gamerfuzion-dmz-free-blueprints-2026-10-21]] | published |
 | Oden | [[oden]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |
@@ -33,29 +33,29 @@ Launch weapons (33) and their Apex Attachments come from the official launch gui
 | FiNN LMG | [[finn-lmg]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |
 | Type 73 | [[type-73]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] [[src-dmzcodex-gunsmith-2026-10-29]] | published |
 | APOC-338 | [[apoc-338]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |
-| Mosin-Nagant | [[mosin-nagant]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-activision-mw4-season-1-2026-10-28]] | published |
+| Mosin-Nagant | [[mosin-nagant]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-activision-season-1-announcement-2026-10-28]] | published |
 | Axion, Cronen Squall | rows in [[weapons]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-codmunity-dmz-items-2026-10-26]] | published (rows; DMZ prices not confirmed) |
 | MAR-9, Oris 8.6, KG-7 Vulcan, Astaroth .57, Signal 50 | rows in [[weapons]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzcodex-gunsmith-2026-10-29]] | published (rows) |
 | SANG 9mm, Krait P68, .50 GS, Mojave .357 | rows in [[weapons]] | [[src-activision-mw4-launch-weapons-2026-10-19]] | published (rows; DMZ prices not confirmed) |
 | PILA, RPG-8, JOKR, PM-40 Anvil, FSS Carbon Edge 1095 | rows in [[weapons]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-codmunity-dmz-items-2026-10-26]] | published (rows) |
-| Cronen Osprey (Season 1) | [[cronen-osprey-assault-rifle]] | [[src-activision-mw4-season-1-2026-10-28]] | published (out 6 Nov; DMZ route not confirmed) |
-| CSG-35 (Season 1) | [[csg-35-smg]] | [[src-activision-mw4-season-1-2026-10-28]] | published (out 6 Nov; DMZ route not confirmed) |
-| JAK 12, ZLR Talonhawk (Season 1) | rows in [[weapons]] | [[src-activision-mw4-season-1-2026-10-28]] | published (rows; later in Season 1) |
+| Cronen Osprey (Season 1) | [[cronen-osprey-assault-rifle]] | [[src-activision-season-1-announcement-2026-10-28]] | published (out 6 Nov; DMZ route not confirmed) |
+| CSG-35 (Season 1) | [[csg-35-smg]] | [[src-activision-season-1-announcement-2026-10-28]] | published (out 6 Nov; DMZ route not confirmed) |
+| JAK 12, ZLR Talonhawk (Season 1) | rows in [[weapons]] | [[src-activision-season-1-announcement-2026-10-28]] | published (rows; later in Season 1) |
 
 ## Variants and Blueprints
 
 | Member | Codex page | Sources | State |
 | --- | --- | --- | --- |
-| Blueprints (all known) | [[blueprints]] | [[src-gamerfuzion-dmz-free-blueprints-2026-10-21]] [[src-dmztracker-gunsmith-2026-10-29]] [[src-activision-mw4-season-1-2026-10-28]] | published |
+| Blueprints (all known) | [[blueprints]] | [[src-gamerfuzion-dmz-free-blueprints-2026-10-21]] [[src-dmztracker-gunsmith-2026-10-29]] [[src-activision-season-1-announcement-2026-10-28]] | published |
 | Dreadnought (Bale's Legendary LMG) | section of [[type-73]] | [[src-dmzcodex-gunsmith-2026-10-29]] [[src-allthingshow-dmz-gunsmith-weapons-2026-10-21]] | published |
 | High Roller's Fortune (Jin-Tae's ISO Nightshade) | section of [[iso-nightshade]] | [[src-conquestcapped-dmz-bosses-2026-10-28]] | published (reported) |
 | Widow Maker (Iskra's Warlord) | row in [[blueprints]] | [[src-conquestcapped-dmz-bosses-2026-10-28]] | published (reported) |
 | Hyeon Burst BP | [[hyeon-burst-bp]], alias on [[hyeon-burst]] | [clm_a2c25299e29f] | retired (a blueprint, not an item) |
-| M16 Burst Attachment (Season 1) | section of [[m4]] | [[src-activision-mw4-season-1-2026-10-28]] | published |
+| M16 Burst Attachment (Season 1) | section of [[m4]] | [[src-activision-season-1-announcement-2026-10-28]] | published |
 
 ## Apex Attachments
 
-All are rows in [[apex-attachments]] (term: [[apex-attachment]]); launch rows cite [[src-activision-mw4-launch-weapons-2026-10-19]], Season 1 rows [[src-activision-mw4-season-1-2026-10-28]].
+All are rows in [[apex-attachments]] (term: [[apex-attachment]]); launch rows cite [[src-activision-mw4-launch-weapons-2026-10-19]], Season 1 rows [[src-activision-season-1-announcement-2026-10-28]].
 
 | Member | Codex page | Sources | State |
 | --- | --- | --- | --- |
@@ -64,7 +64,7 @@ All are rows in [[apex-attachments]] (term: [[apex-attachment]]); launch rows ci
 | Rezi 12 Enforcer, Warlord Lumen, FiNN Adverse, Type 73 Assault, APOC-338 Praetor | rows in [[apex-attachments]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-allthingshow-rezi-12-enforcer-build-2026-10-21]] | published |
 | MAR-9 Auto, Oris 8.6 Razor, Mosin Harpoon, KG-7 Drillcharge, Astaroth .57 Infiltrator, Signal Inferno | rows in [[apex-attachments]] | [[src-activision-mw4-launch-weapons-2026-10-19]] | published |
 | SANG Breach, Krait P68 Commando, GS Magna, Mojave Lawless | rows in [[apex-attachments]] | [[src-activision-mw4-launch-weapons-2026-10-19]] | published |
-| Cronen Helix Mk. II, CSG Crossfire, JAK Barrage, Hyeon Auto, Kastov 545 (Season 1) | list in [[apex-attachments]] | [[src-activision-mw4-season-1-2026-10-28]] [[src-conquestcapped-mw4-weapons-2026-10-26]] | published |
+| Cronen Helix Mk. II, CSG Crossfire, JAK Barrage, Hyeon Auto, Kastov 545 (Season 1) | list in [[apex-attachments]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-conquestcapped-mw4-weapons-2026-10-26]] | published |
 | Apex cost in DMZ Cash | section of [[apex-attachments]] | [[src-dmzradar-gunsmith-2026-10-20]] [[src-allthingshow-rezi-12-enforcer-build-2026-10-21]] | published (sources conflict: free or 52,000) |
 
 ## Weapon Manuals

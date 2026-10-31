@@ -5,7 +5,7 @@ description: "How a DMZ deployment starts: pick a mission type at Deploy, ready 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-map-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-dmzhub-vehicles-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-codmunity-dmz-guide-2026-10-24, src-codmunity-hajin-map-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-dmzhub-vehicles-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["infiltration", "deploying", "how to deploy", "drop in", "spawn", "spawning", "spawn point", "Ready Up", "Free Loadout", "infil options"]
 ---
 <!-- generated:start -->
@@ -26,7 +26,7 @@ Infil is how you get into Hajin. At the FOB's [[deploy]] station you choose what
 | On foot | free | lands you at a random spot |
 | Polaris Dagor A1 drop | 5,000 | a squad off-roader ([[vehicles]]); listed as a reward of the Story Mission Operation Silent Ledger (reported) [[src-dmzhub-vehicles-2026-10-31]] |
 | LTV drop | 25,000 | unlocked by the Story Mission Operation Iron Citadel [[src-conquestcapped-dmz-guide-2026-10-26]] [[src-dmzhub-vehicles-2026-10-31]] |
-| Helicopter from the FOB | 50,000 | one of your squad flies it; unlocked by the Story Mission Operation Grid Assault [[src-codmunity-dmz-map-2026-10-31]] [[src-conquestcapped-dmz-guide-2026-10-26]] [[src-dmzhub-vehicles-2026-10-31]] |
+| Helicopter from the FOB | 50,000 | one of your squad flies it; unlocked by the Story Mission Operation Grid Assault [[src-codmunity-hajin-map-2026-10-31]] [[src-conquestcapped-dmz-guide-2026-10-26]] [[src-dmzhub-vehicles-2026-10-31]] |
 | Cargo plane jump | 100,000 | you choose where to drop; listed as a reward of the Story Mission Operation Fallen Ember (reported) [[src-dmzhub-vehicles-2026-10-31]] |
 
 Some of these need progression first [[src-activision-dmz-guide-part2-2026-10-09]]; the Story Mission unlocks above come from community sources, not an official list. Prices and changes are tracked on [[paid-infil]].

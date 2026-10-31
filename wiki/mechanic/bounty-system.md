@@ -5,7 +5,7 @@ description: "Killing players puts a Bounty on your Dog Tag; four kills make you
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_bb4b2157af60, clm_162bac1414e5, clm_8ed714d7c354, clm_fc75f811681c, clm_25cf22beb910, clm_c80b93d2008f, clm_d240548672df, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-cod-dmz-bounty-systems-video-2026-10-08, src-callofduty-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-traits-2026-10-30, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_bb4b2157af60, clm_162bac1414e5, clm_8ed714d7c354, clm_fc75f811681c, clm_25cf22beb910, clm_c80b93d2008f, clm_d240548672df, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-cod-dmz-bounty-systems-video-2026-10-08, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-traits-2026-10-30, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["notoriety", "bounty", "Bounty Station", "pay off bounty", "Reduce Bounty", "Most Wanted", "bounty hunter", "Killer", "vultures", "bounty payout", "how to claim a bounty"]
 ---
 <!-- generated:start -->
@@ -43,7 +43,7 @@ Otherwise the Bounty stays with you from one deployment to the next [[src-skycoa
 
 At a Bounty Station, a rugged laptop on the map, the list of Wanted Operators in your deployment is free. Paid intel, dearer for higher Wanted levels, draws a circle on your Tac-Map that shrinks and updates faster the more Wanted the target is; at the top level the Killer's area may be shown to everyone [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-dmz-guide-part1-2026-10-05]]. To collect, kill the target and extract with their Dog Tag; the payout follows their Bounty, with extra at maximum Wanted level [[src-activision-dmz-guide-part2-2026-10-09]] [clm_1dda32204130], and it reaches your Bank after the exfil (reported) [[src-codmunity-dmz-guide-2026-10-24]]. The kill alone pays nothing; the tag has to come home [[src-cod-dmz-bounty-systems-video-2026-10-08]].
 
-Payouts grow with the [[dog-tag-case]] rewards at DMZ levels 30, 50 and 70 (10%, 50% and 100% more) [[src-callofduty-ready-for-launch-progression-2026-10-19]]. The Bounty Intel and Bounty Hunter Minor Traits make intel cheaper and rewards bigger (reported) [[src-codmunity-dmz-traits-2026-10-30]].
+Payouts grow with the [[dog-tag-case]] rewards at DMZ levels 30, 50 and 70 (10%, 50% and 100% more) [[src-activision-ready-for-launch-progression-2026-10-19]]. The Bounty Intel and Bounty Hunter Minor Traits make intel cheaper and rewards bigger (reported) [[src-codmunity-dmz-traits-2026-10-30]].
 
 ## What do circling vultures mean?
 
