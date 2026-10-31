@@ -1085,3 +1085,7 @@
 ## [2026-10-31 12:18 EDT] ingest | 31 Oct research, progression: Double XP and Operator Dog Tags answered (not confirmed, a test points to no), DMZ Cash, FOB upgrades, 23 progression and FOB pages rewritten, 5 duplicates retired, 13 sources, census, 7 golden questions
 - changed: .kac 1, evals 1, index 6, index.md 1, raw 13, wiki 44
 - run: r-20261031-121827-da91
+
+## [2026-10-31 12:19 EDT] ingest | 31 Oct research, core mechanics: squads and solo, infil, death and loss, PvP, HUD, pings, Ricochet, server issues, match length, extraction rules; vehicles (19), 6 junk pages retired, 22 sources, census, 6 golden questions
+- changed: .kac 1, evals 1, index 5, index.md 1, raw 23, wiki 46
+- run: r-20261031-121920-4e45

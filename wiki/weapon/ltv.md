@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "LTV"
-description: "The LTV is a vehicle in Modern Warfare 4 DMZ equipped with a mounted .50 Cal and found at the stop 6 compound."
+description: "Retired: the LTV is a light combat vehicle with an optional mounted .50 cal, not a weapon. See the Vehicles page."
 status: deprecated
 brain_status: retired
 sensitivity: public

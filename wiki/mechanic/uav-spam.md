@@ -1,9 +1,9 @@
 ---
 type: mechanic
 title: "UAV spam"
-description: "Players report excessive UAV spam in DMZ extraction matches and suggest removing the Overwatch perk."
-status: draft
-brain_status: candidate
+description: "Retired 31 Oct 2026: a complaint about too many UAVs, not a game system. The Overwatch Trait, Thermal Padding and UAV Towers are covered on the PvP and UAV Towers pages."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_9bddae4cc5ea]
 ---
@@ -19,4 +19,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 31 Oct 2026: a single complaint about too many UAVs, not a subject of its own. The complaint is kept as reported on [[pvp-and-rival-operators]], next to the Traits that keep UAV Towers running or hide you from UAVs; the towers themselves are on [[uav-towers]] [clm_9bddae4cc5ea].
 <!-- human:end -->

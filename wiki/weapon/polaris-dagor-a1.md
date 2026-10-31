@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "Polaris Dagor A1"
-description: "The Polaris Dagor A1 is a squad vehicle in Modern Warfare 4 DMZ built for the toughest terrain, confirmed to be available at launch."
+description: "Retired: the Polaris Dagor A1 is a squad off-roader and a 5,000 DMZ Cash infil option, not a weapon. See the Vehicles page."
 status: deprecated
 brain_status: retired
 sensitivity: public

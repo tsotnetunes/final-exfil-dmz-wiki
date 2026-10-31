@@ -206,3 +206,21 @@
 - id: g69
   question: How do I earn DMZ Cash?
   must_retrieve: [dmz-cash]
+- id: g70
+  question: Can you play DMZ solo?
+  must_retrieve: [squads-and-solo-play]
+- id: g71
+  question: How long is a DMZ match?
+  must_retrieve: [match-length]
+- id: g72
+  question: What do you lose when you die in DMZ?
+  must_retrieve: [death-and-loss]
+- id: g73
+  question: What do you keep when you extract?
+  must_retrieve: [extraction-rules]
+- id: g74
+  question: How do you refuel and repair vehicles?
+  must_retrieve: [vehicles]
+- id: g75
+  question: What is done about cheaters in DMZ?
+  must_retrieve: [ricochet-anti-cheat]
