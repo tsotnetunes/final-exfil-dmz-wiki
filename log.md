@@ -1077,3 +1077,7 @@
 ## [2026-10-31 12:16 EDT] ingest | 31 Oct research, weapons: 20 weapon pages and a weapons list, Blueprints, Apex Attachments, Gunsmith, Weapon Vendor, Firing Range and Weapon Manuals rewritten, 3 retired, 21 sources, census, 7 golden questions
 - changed: .kac 1, evals 1, index 8, index.md 1, raw 21, wiki 54
 - run: r-20261031-121612-e3de
+
+## [2026-10-31 12:17 EDT] ingest | 31 Oct research, traits: all 66 Traits (18 Major pages, 48 Minor in three tree pages) and 12 Pro Traits, trait-points as the overview, skill-trees retired, 11 sources, census, 7 golden questions
+- changed: .kac 1, evals 1, index 5, index.md 1, raw 11, wiki 39
+- run: r-20261031-121726-8e45

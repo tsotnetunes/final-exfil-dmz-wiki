@@ -164,3 +164,24 @@
 - id: g55
   question: When does the Cronen Osprey arrive?
   must_retrieve: [cronen-osprey-assault-rifle]
+- id: g56
+  question: How many Trait Points can an Operator earn?
+  must_retrieve: [trait-points]
+- id: g57
+  question: Can I respec or reset my Traits?
+  must_retrieve: [trait-points]
+- id: g58
+  question: What does Possum do after the 28 Oct patch?
+  must_retrieve: [possum]
+- id: g59
+  question: What are Pro Traits from Prestige?
+  must_retrieve: [pro-traits]
+- id: g60
+  question: Which Traits are best for solo players?
+  must_retrieve: [trait-points]
+- id: g61
+  question: What Major Traits are in the Scout tree?
+  must_retrieve: [scout-tree]
+- id: g62
+  question: Which Trait hides you from UAVs?
+  must_retrieve: [thermal-padding]
