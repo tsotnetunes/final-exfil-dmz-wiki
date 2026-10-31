@@ -5,19 +5,20 @@ description: "The DMZ Tac-Map: objectives, POIs, threat areas, caches and spread
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_1388e898e92b, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_1388e898e92b, clm_e39fdc756114, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["map", "Tac Map", "grid", "coordinates", "HUD"]
 ---
 <!-- generated:start -->
-The Tac-Map and grid coordinates interface connects directly to the Modern Warfare 4 HUD, which displays essential navigation and combat information to players. Understanding HUD adjustments helps players track interface elements and locate tactical updates during matches.
+The Tac-Map and grid coordinates are map and interface elements tied to the in-game HUD. Interface changes directly shape how players track match events and navigate maps such as Zodiac.
 
-## What changes were made to the HUD?
+## What changes were reported for the HUD?
 
-* Players report that the Modern Warfare 4 HUD was updated to remove squad operator portraits.
-* Players report that the updated HUD uses more compact widgets.
-* Players report that the kill feed was moved back to its original position.
+* Players reported that the HUD in MW4 removes squad operator portraits.
+* Players reported that the HUD in MW4 uses more compact widgets.
+* Players reported that the kill feed in MW4 was moved to its original position.
+* Players reported on 31 Oct 2026 that Zodiac is a Warzone map.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->
