@@ -5,30 +5,31 @@ description: "Commanders are roaming bosses (Colossus, Deathstalker, the Main NK
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db, clm_a0e50790b208, clm_2709a2129c64, clm_855a0d332b7b, clm_a4061b133053, clm_45a3d3d59bfc, clm_718706a12b71, clm_d12acdac5305, clm_6cb6f07bc3cc, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db, clm_a0e50790b208, clm_2709a2129c64, clm_855a0d332b7b, clm_a4061b133053, clm_45a3d3d59bfc, clm_718706a12b71, clm_d12acdac5305, clm_6cb6f07bc3cc, clm_4970f5d4d3d4, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["Deathstalker", "Juggernaut", "Elite Strike Team", "drone swarm", "Colossus", "Main NK Battle Tank", "Commander"]
 ---
 <!-- generated:start -->
-Commander threats are high-value hostile encounters in DMZ that require dedicated combat strategies and yield valuable resources.
+Commander threats are hostile boss targets encountered in DMZ that yield distinct loot upon defeat. Defeating them requires specific weapon setups or tactical equipment.
 
-* On 28 Oct 2026, Wheelson was confirmed to be an autonomous patrolling commander.
-* On 28 Oct 2026, The Captain was confirmed as a Juggernaut and his elite guard.
-* A drone swarm can hover around buildings, as reported by players.
+## What commander threats exist?
 
-## How can players defeat the Deathstalker commander boss?
+* The Captain was confirmed on 28 Oct 2026 to be a Juggernaut and his elite guard.
+* Wheelson was confirmed on 28 Oct 2026 as an autonomous patrolling commander.
+* Players report that a Death Stalker can appear above buildings.
+* Players report that a drone swarm can hover around buildings.
 
-* A Death Stalker can appear above buildings, according to player reports.
-* Players report that an RPG can take down the Deathstalker Commander Boss in DMZ with just 2 rockets.
-* Players report that the Astaroth 57 sniper can take down the Deathstalker Commander Boss in DMZ with 4 well placed shots.
-* Players report that the Deathstalker commander drops 3 lootable parts.
+## How do players defeat Deathstalker?
 
-## How can players defeat Colossus?
+* Players report the Deathstalker commander boss in DMZ can be taken down with 2 RPG rockets.
+* Players report the Astaroth 57 sniper can defeat the Deathstalker commander boss in DMZ with 4 well placed shots.
+* Players report the Deathstalker commander drops 3 lootable parts.
+
+## How do players defeat Colossus solo?
 
 * Players report that Colossus can be taken down solo in DMZ.
-* Taking down Colossus solo requires 2 shock sticks and 7-8 thermite, as reported by players.
-* Players report that Colossus can be instakilled in DMZ.
+* Defeating Colossus solo is reported by players to require 2 shock sticks and 7 to 8 thermite.
 
-_Generated from 2 confirmed and 9 reported claims across 11 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 2 confirmed and 8 reported claims across 10 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

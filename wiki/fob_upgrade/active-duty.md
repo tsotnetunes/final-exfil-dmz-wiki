@@ -5,17 +5,18 @@ description: "The Operators station: two Active Duty slots to start, a third by 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_eee0a1ff7205, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-progression-video-2026-10-07, src-activision-campaign-early-access-live-2026-10-16]
+sources: [clm_eee0a1ff7205, clm_fe6a53c7c828, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-progression-video-2026-10-07, src-activision-campaign-early-access-live-2026-10-16]
 station: active-duty
 unlock: start
 ---
 <!-- generated:start -->
-Active Duty provides players with Active Duty Operators in DMZ.
+Active Duty provides players with Active Duty Operators in DMZ, as confirmed on 21 Oct 2026.
 
-## What does Active Duty provide?
-Active Duty Operators are available to players in DMZ.
+## How many Active Duty Operators can players have?
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-30._
+Players have reported possessing a 4th operator.
+
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

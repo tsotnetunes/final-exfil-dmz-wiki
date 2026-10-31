@@ -5,28 +5,25 @@ description: "A dark, multi-floor casino with an underground car park in Cheongu
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_c049aff19a6e, clm_27cf8e87cc3c, clm_5008eef40a70, clm_27bf4044d2d2, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_c049aff19a6e, clm_27cf8e87cc3c, clm_5008eef40a70, clm_27bf4044d2d2, clm_82e276dd1672, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
 region: Hajin
 danger: high
 loot_profile: high-value
 aliases: ["Casino (with vault)", "casino", "Heavenly Luck"]
 ---
 <!-- generated:start -->
-Heavenly Luck Casino serves as a location associated with a story mission in DMZ. Players visit Heavenly Luck Casino to complete its story mission, which players report can be repeated.
+Heavenly Luck Casino serves as a repeatable mission location in Call of Duty: Modern Warfare 4 DMZ. Players visit the destination to undertake its story mission.
 
 ## Where is it?
-
-Players report that Heavenly Luck Casino contains a story mission spawn point.
+Heavenly Luck Casino contains a story mission spawn point according to player reports. Players also report that the Heavenly Luck Casino mission can be repeated in DMZ.
 
 ## What loot is there?
-
-No specific loot details are reported for Heavenly Luck Casino.
+A bank vault is located within the DMZ mode of Call of Duty: Modern Warfare 4, as reported by players.
 
 ## How dangerous is it?
+Player reports do not detail the specific threat level for Heavenly Luck Casino.
 
-No danger level is reported for Heavenly Luck Casino.
-
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->
