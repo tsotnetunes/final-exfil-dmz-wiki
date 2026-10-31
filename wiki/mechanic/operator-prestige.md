@@ -5,17 +5,21 @@ description: "Prestige an Operator with 18 Trait Points by handing in rare gear 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_cb769aa684e4, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-operator-guide-2026-10-20, src-dmztracker-operator-prestige-2026-10-20, src-gamerfuzion-dmz-best-traits-2026-10-23, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-traits-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-traits-2026-10-31]
+sources: [clm_cb769aa684e4, clm_6714e141147a, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-operator-guide-2026-10-20, src-dmztracker-operator-prestige-2026-10-20, src-gamerfuzion-dmz-best-traits-2026-10-23, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-traits-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-traits-2026-10-31]
 aliases: ["DMZ Operator Prestige", "Prestige Traits", "Permanent Prestige Trait", "Pro Traits", "prestige an operator", "operator prestige cost", "what does prestige give", "Prestige rewards"]
 ---
 <!-- generated:start -->
-Operator Prestige and permanent Prestige Traits are progression mechanics in Modern Warfare 4 DMZ that grant specific character benefits. Players report that these options provide enduring enhancements across DMZ deployments.
+Operator Prestige and permanent Prestige Traits are progression mechanics in Modern Warfare 4 DMZ that allow players to advance operators and gain traits.
 
-## How many Prestige Traits are available?
+## How many Prestige Traits exist?
 
 * Players report that there are 12 possible prestige traits in Modern Warfare 4 DMZ.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-29._
+## What bugs affect Operator Prestige?
+
+* Players report a bug in DMZ where using an ultra item to prestige an operator past prestige 3 resets the operator level to 1 without applying the prestige.
+
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -5,17 +5,18 @@ description: "A weapon's own special part in a sixth slot, beside the five norma
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_53d761688e7f, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmzradar-gunsmith-2026-10-20]
+sources: [clm_53d761688e7f, clm_e384ad820ccc, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmzradar-gunsmith-2026-10-20]
 aliases: ["Apex", "Apex slot", "Apex attachments"]
 ---
 <!-- generated:start -->
-An Apex Attachment is a weapon modification item that was present during the beta. Players tracking these items consider them notable due to their availability status after the beta phase.
+An Apex Attachment is a weapon modification category that players reported missing following the beta.
 
-## Are Apex Attachments available?
+## What is known about Apex Attachments?
 
-* Apex Attachments from the beta are missing, as reported by players.
+* Players reported that Apex Attachments present during the beta were missing.
+* Players reported that the kg-7 apex attachment cannot be refilled in DMZ.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

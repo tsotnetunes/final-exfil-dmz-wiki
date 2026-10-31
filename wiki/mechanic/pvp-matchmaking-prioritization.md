@@ -5,17 +5,18 @@ description: "Reported, not confirmed: after the 28 Oct 2026 update DMZ matchmak
 status: draft
 brain_status: draft
 sensitivity: public
-sources: [clm_d1e82587707a, clm_bbaff371a6b3, src-detonated-dmz-story-matchmaking-2026-10-29, src-ixbt-dmz-pvp-matchmaking-2026-10-30, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-dmztracker-story-missions-2026-10-20]
+sources: [clm_d1e82587707a, clm_bbaff371a6b3, clm_c7368582e2c4, src-detonated-dmz-story-matchmaking-2026-10-29, src-ixbt-dmz-pvp-matchmaking-2026-10-30, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-dmztracker-story-missions-2026-10-20]
 aliases: ["PvP priority DMZ", "DMZ matchmaking change", "more PvP in DMZ", "story mission matchmaking", "DMZ matchmaking rollback", "near-PvE story lobbies"]
 ---
 <!-- generated:start -->
-PVP matchmaking prioritization is a matchmaking parameter in DMZ that governs how frequently and quickly players are matched into combat encounters against other human opponents. This mechanic matters to players because adjustments to matchmaking priorities directly alter the balance and frequency of player-versus-player engagements during an infiltration.
+PVP matchmaking prioritization is a matchmaking adjustment in DMZ that alters how players are grouped into lobbies based on combat focus. Changes to this system directly impact the balance between player encounters and objective completion.
 
-## What changes were made to PVP matchmaking prioritization?
+## How has PVP matchmaking prioritization changed?
 
-* Players report that Infinity Ward increased PVP matchmaking prioritization in DMZ.
+* Players reported on 31 Oct 2026 that Infinity Ward increased PVP matchmaking prioritization in DMZ.
+* Players reported on 31 Oct 2026 that the developer rolled back mission matchmaking changes in DMZ, superseding the earlier adjustment.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->
