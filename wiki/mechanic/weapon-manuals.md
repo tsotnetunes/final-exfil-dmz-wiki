@@ -5,9 +5,8 @@ description: "Extract a weapon's Manual once and you can buy that gun in the Gun
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9ee7db0a613a, clm_829158fd0af8, clm_7c38c749ea9e, clm_361b76712abe, clm_4f7ad24e07bb, clm_ce6b0de65759, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-gfinity-dmz-weapon-manuals-2026-10-27, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-weapon-manual-farm-2026-10-22, src-dmzhub-weapon-manuals-2026-10-31, src-dmzhub-weapons-2026-10-31]
+sources: [clm_9ee7db0a613a, clm_829158fd0af8, clm_7c38c749ea9e, clm_361b76712abe, clm_4f7ad24e07bb, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-gfinity-dmz-weapon-manuals-2026-10-27, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-weapon-manual-farm-2026-10-22, src-dmzhub-weapon-manuals-2026-10-31, src-dmzhub-weapons-2026-10-31]
 aliases: ["weapon manual", "manual", "manuals", "gun manual", "Manual: M4", "how to unlock weapons", "unlock guns in DMZ", "3 weapon manuals"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 Weapon Manuals are extractable items used to unlock new weapons. Locating and extracting Weapon Manuals serves as the method for unlocking these weapons, which was confirmed on 9 Oct 2026.

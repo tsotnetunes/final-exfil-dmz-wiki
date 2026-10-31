@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-deep-dive-2026-06, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-solo-play-2026-10-03, src-destructoid-dmz-interview-2026-06-06, src-codmunity-dmz-guide-2026-10-24, src-gamespark-tokyo-media-event-2026-10-01, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["stealth", "detection", "being spotted", "spotted", "sneaking", "detection meter", "stealth indicator", "stealth run"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

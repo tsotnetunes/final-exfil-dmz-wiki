@@ -5,7 +5,7 @@ description: "Retired 31 Oct 2026: merged into RICOCHET Anti-Cheat, which covers
 status: deprecated
 brain_status: retired
 sensitivity: public
-sources: [clm_f37ae5c8ce1d, clm_dee5007d4538, clm_fed37aaa79dd]
+sources: [clm_f37ae5c8ce1d]
 ---
 <!-- generated:start -->
 DMA Detection is an anti-cheat mechanic designed to address external cheating devices. Understanding DMA Detection helps players know which cheat types are being monitored.

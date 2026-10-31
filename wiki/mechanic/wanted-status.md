@@ -5,9 +5,8 @@ description: "You become Wanted at four player kills: nearby Operators get an al
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-dmz-guide-2026-10-24, src-thexclusiveace-bounty-video-2026-10-12, clm_8c1bbf558597]
+sources: [clm_8c1bbf558597, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-dmz-guide-2026-10-24, src-thexclusiveace-bounty-video-2026-10-12]
 aliases: ["Wanted", "Most Wanted", "Wanted level", "how to stop being Wanted"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 Wanted status is a gameplay condition that targets players who eliminate opposing participants. 

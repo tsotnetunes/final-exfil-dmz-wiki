@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-dexerto-best-operator-traits-2026-10-31, src-allthingshow-dmz-traits-2026-10-21, src-codcentral-dmz-traits-2026-10-23, src-gamerfuzion-dmz-best-traits-2026-10-23, src-destructoid-best-operator-traits-2026-10-20, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Field Crafting trait", "Field Crafting Pro", "craft in match", "crafting while deployed"]
-stale_after: 2026-11-13
 tree: Scout
 tier: "Major, row 6"
 ---

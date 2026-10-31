@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["Warlord shotgun", "Warlord Lumen", "Lumen", "Widow Maker"]
-stale_after: 2026-11-13
 class: "Shotgun"
 manual_source: "Weapon Manual, looted in Hajin"
 ---

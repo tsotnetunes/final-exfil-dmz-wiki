@@ -5,9 +5,8 @@ description: "Unlocks at DMZ level 20: shows the dog tags you extracted (rarity,
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-callofduty-ready-for-launch-progression-2026-10-19, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, clm_d156c7a1a567, clm_ac70379c09b8, clm_60f9fe17bb96, clm_d969dea9faf7, clm_f8c43f6e8da8]
+sources: [clm_d156c7a1a567, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-callofduty-ready-for-launch-progression-2026-10-19, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["tag case", "trophy case", "Dog Tag Case station", "Dog Tag Case upgrade", "bounty payout upgrade"]
-stale_after: 2026-11-13
 station: dog-tag-case
 unlock: "DMZ level 20"
 ---

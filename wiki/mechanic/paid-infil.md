@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-dmzhub-missions-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["infil", "paid infil", "infil cost", "helicopter infil", "cargo plane infil", "vehicle drop", "how to unlock helicopter infil"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

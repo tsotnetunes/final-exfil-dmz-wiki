@@ -5,9 +5,8 @@ description: "FOB storage shared by all your Operators: 40 items and 12 weapons 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-callofduty-ready-for-launch-progression-2026-10-19, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, clm_fe49071395d4, clm_cd43cdd0d14f, clm_1d5b2eabae74, clm_304434c0da1f, clm_52ae1fb94e2f, clm_972cffa0bd29, clm_112b93b311ed, clm_4fd0c7201984]
+sources: [clm_fe49071395d4, clm_52ae1fb94e2f, clm_972cffa0bd29, clm_cd43cdd0d14f, clm_1d5b2eabae74, clm_112b93b311ed, clm_4fd0c7201984, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-callofduty-ready-for-launch-progression-2026-10-19, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Stash/Loadout", "Loadout", "stash space", "stash size", "how big is the stash", "Overflow Stash", "stash upgrade", "weapon stash"]
-stale_after: 2026-11-13
 station: stash
 unlock: start
 ---

@@ -5,7 +5,7 @@ description: "How to talk in DMZ: the Ping Wheel for silent commands and truce o
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-campaign-early-access-live-2026-10-16, src-destructoid-dmz-interview-2026-06-06, src-gamingtrend-dmz-interview-2026-06-06, src-mw4-launch-patch-notes-2026-10-29, clm_05f439dded08]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-campaign-early-access-live-2026-10-16, src-destructoid-dmz-interview-2026-06-06, src-gamingtrend-dmz-interview-2026-06-06, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["ping", "pings", "pinging", "communication", "communications", "comms", "voice chat", "party chat", "truce request", "join request", "callouts", "markers", "Team Leader"]
 ---
 <!-- generated:start -->

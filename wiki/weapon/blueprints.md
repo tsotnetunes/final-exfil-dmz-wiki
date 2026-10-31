@@ -5,9 +5,8 @@ description: "Blueprints are named pre-built versions of a gun. In DMZ each one 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-free-blueprints-2026-10-21, src-dmztracker-gunsmith-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, src-activision-mw4-season-1-2026-10-28, clm_b92ce0a1725f, clm_5e8511971c12, clm_a2c25299e29f]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-free-blueprints-2026-10-21, src-dmztracker-gunsmith-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, src-activision-mw4-season-1-2026-10-28]
 aliases: ["Blueprint", "BP", "weapon blueprints", "free blueprints", "Vault Edition blueprints", "Signature Weapon Collection", "Beta Forged", "Voltspine", "Inner Circuit", "Shattered Code", "La Sombra Venenosa", "Volt-Edge", "Sombra Besada", "Widow Maker"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

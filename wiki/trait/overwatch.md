@@ -5,9 +5,8 @@ description: "Scout Major Trait, row 9: towers you switch on never time out. Pai
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, clm_9bddae4cc5ea, clm_24b10c8643de, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-allthingshow-dmz-traits-2026-10-21, src-codcentral-dmz-traits-2026-10-23, src-gamerfuzion-dmz-best-traits-2026-10-23, src-destructoid-possum-debate-2026-10-24, src-destructoid-best-operator-traits-2026-10-20, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-allthingshow-dmz-traits-2026-10-21, src-codcentral-dmz-traits-2026-10-23, src-gamerfuzion-dmz-best-traits-2026-10-23, src-destructoid-possum-debate-2026-10-24, src-destructoid-best-operator-traits-2026-10-20, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Overwatch trait", "Overwatch perk", "Overwatch Pro", "permanent UAV", "permanent UAV tower", "infinite UAV"]
-stale_after: 2026-11-13
 tree: Scout
 tier: "Major, row 9"
 ---

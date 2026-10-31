@@ -5,9 +5,8 @@ description: "The FOB board of the top 50 Most Wanted players and top 50 Bounty 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-callofduty-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, clm_0a8db7cc19eb, clm_84fd4d1811bc, clm_fc75f811681c, clm_25cf22beb910]
+sources: [clm_84fd4d1811bc, clm_0a8db7cc19eb, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-callofduty-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24]
 aliases: ["Bounty Board", "Most Wanted leaderboard", "Bounty Hunters leaderboard", "DMZ leaderboard"]
-stale_after: 2026-11-13
 station: bounty-leaderboard
 unlock: start
 ---

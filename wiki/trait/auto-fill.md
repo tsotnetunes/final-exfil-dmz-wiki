@@ -5,9 +5,8 @@ description: "Minor Trait, seen in Scout: your Lethal and Tactical slots refill 
 status: draft
 brain_status: draft
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, clm_afc354a32ecf, clm_6aac9d9c7dc0, clm_d5a1dc3ae648, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-traits-2026-10-30, src-codcentral-dmz-traits-2026-10-23]
+sources: [clm_afc354a32ecf, clm_6aac9d9c7dc0, clm_d5a1dc3ae648, src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-traits-2026-10-30, src-codcentral-dmz-traits-2026-10-23]
 aliases: ["Auto Fill trait", "Autofill", "auto refill lethals"]
-stale_after: 2026-11-13
 tree: Scout
 tier: "Minor, random slot"
 ---

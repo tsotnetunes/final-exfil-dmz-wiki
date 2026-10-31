@@ -5,9 +5,8 @@ description: "DMZ's Mastery camos: Chiral (2,500 Tier 3+ kills), Ripple Tide (tw
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-callofduty-ready-for-launch-progression-2026-10-19, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, clm_a71aa0446ee5, clm_23d4f9bb7b2b, clm_e85655747a23, clm_f1b717014ef6, clm_3a8e17bcc079, clm_ea0c5a1cdac4, clm_ab8878f43ec0, clm_d7f7ed624ff4, clm_ce6b0de65759, clm_4c4b5f9891b5, clm_2b05fa148d3c, clm_e153c3eb028f, clm_4f7ad24e07bb, clm_e48247d4fe41, clm_fc532d336a46]
+sources: [clm_3a8e17bcc079, clm_a9fba1b8bb2f, clm_23d4f9bb7b2b, clm_f1b717014ef6, clm_e85655747a23, clm_d7f7ed624ff4, clm_e31370beac8b, clm_7be12d197052, clm_d0991c0c7966, clm_ea0c5a1cdac4, clm_2b05fa148d3c, clm_e153c3eb028f, clm_e48247d4fe41, src-callofduty-ready-for-launch-progression-2026-10-19, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Camo grind", "Serpentine camo", "Mastery camos", "Chiral", "Ripple Tide", "Helio", "DMZ Mastery", "DMZ calling cards", "Divergence"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 DMZ camos and the camo hunt involve a progression grind that allows players to unlock weapon cosmetics in Modern Warfare 4 DMZ. It was confirmed on 28 Oct 2026 that DMZ camos and the camo hunt involve a grind.

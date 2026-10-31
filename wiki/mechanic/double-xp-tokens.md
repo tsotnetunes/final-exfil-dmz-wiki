@@ -5,9 +5,8 @@ description: "Does 2XP speed up DMZ Operators? Not confirmed: tokens double play
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-bonus-content-2026-10-23, src-activision-campaign-early-access-live-2026-10-16, src-cod-2xp-game-time-2026-09-28, src-cod-x-mw4-2xp-giveaway-2026-10-23, src-callofduty-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-skycoach-dmz-beginner-guide-2026-10-19, src-dmztracker-level-up-fast-2026-10-22, src-codmunity-dmz-traits-2026-10-30, src-lfcarry-mw4-double-xp-2026-10-11, clm_1c82b2dd5121, clm_7be12d197052]
+sources: [src-activision-mw4-bonus-content-2026-10-23, src-activision-campaign-early-access-live-2026-10-16, src-cod-2xp-game-time-2026-09-28, src-cod-x-mw4-2xp-giveaway-2026-10-23, src-callofduty-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-skycoach-dmz-beginner-guide-2026-10-19, src-dmztracker-level-up-fast-2026-10-22, src-codmunity-dmz-traits-2026-10-30, src-lfcarry-mw4-double-xp-2026-10-11]
 aliases: ["2XP", "2XP tokens", "Double XP", "Weapon 2XP", "MW4 2XP", "Double XP weekend", "Double XP event", "does 2XP work in DMZ", "double XP operators", "Operator XP boost", "Dog Tag XP boost"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

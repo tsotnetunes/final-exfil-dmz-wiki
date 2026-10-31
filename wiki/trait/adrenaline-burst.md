@@ -5,9 +5,8 @@ description: "Minor Trait, seen in Warfighter: killing an enemy refills your tac
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, clm_d98060a841a5, clm_cac10a9e9be1, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_d98060a841a5, clm_cac10a9e9be1, src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Adrenaline Burst trait", "tac sprint reset trait", "tactical sprint reset"]
-stale_after: 2026-11-13
 tree: Warfighter
 tier: "Minor, random slot"
 ---

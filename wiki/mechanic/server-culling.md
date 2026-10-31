@@ -5,7 +5,7 @@ description: "RICOCHET's anti-wallhack layer: maps carry visibility data so the 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_1f0839d8acfd, clm_16b6ee610da3, clm_564a296f18a5, clm_08be82df1e9a, clm_d584776a9a8d, src-dexerto-server-culling-2026-10-02, src-destructoid-server-culling-2026-10-02, src-westie-dmz-ama-recap-2026-10-11, src-activision-tpm-secure-boot-2026-10-21]
+sources: [clm_1f0839d8acfd, clm_564a296f18a5, clm_08be82df1e9a, clm_16b6ee610da3, clm_d584776a9a8d, src-dexerto-server-culling-2026-10-02, src-destructoid-server-culling-2026-10-02, src-westie-dmz-ama-recap-2026-10-11, src-activision-tpm-secure-boot-2026-10-21]
 aliases: ["server-side culling", "anti-wallhack", "wallhack protection", "wallhacks", "occlusion culling"]
 ---
 <!-- generated:start -->

@@ -5,12 +5,17 @@ description: "DMZ Cash buys infils, Gunsmith builds, Vendor gear, intel, MIA rec
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-callofduty-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-traits-2026-10-30, src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-dmz-level-up-fast-2026-10-21, clm_f17f3ff635f7, clm_1dda32204130, clm_55b26f37e758]
+sources: [clm_1227a6a278fb, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-callofduty-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-traits-2026-10-30, src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-dmz-level-up-fast-2026-10-21]
 aliases: ["cash", "money", "how to make money in DMZ", "how to earn DMZ Cash", "DMZ economy", "economy", "sell items", "selling valuables", "barter", "cash rewards"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+DMZ Cash is the currency earned by completing objectives and contracts during deployments in Modern Warfare 4 DMZ. Cash payouts determine how quickly players can fund equipment and progress through match objectives.
+
+## How do you earn DMZ Cash?
+
+* Players reported that DMZ cash payout rates for Dynamic Ops, Side Ops, and mission steps were increased in an overnight patch on 31 Oct 2026.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

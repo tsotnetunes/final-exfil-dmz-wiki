@@ -5,9 +5,8 @@ description: "What a successful exfil keeps and a failed one loses: gear to the 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-bounty-systems-video-2026-10-08, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-guide-2026-10-26, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-mw4-launch-patch-notes-2026-10-29, clm_0654da754a95, clm_cf56ba61e6f8, clm_f17f3ff635f7, clm_6155f83bd127]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-bounty-systems-video-2026-10-08, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-guide-2026-10-26, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["extract", "extracting", "successful exfil", "failed exfil", "exfil rules", "what you keep", "exfil countdown", "Bank deposit"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

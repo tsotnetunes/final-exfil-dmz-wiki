@@ -5,9 +5,8 @@ description: "The FOB's Firing Range, open from the start: a wooded grove betwee
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_71239444e8f1, clm_4d2a6927d4f1, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-upgrades-2026-10-31, src-dmzhub-orders-2026-10-31]
+sources: [clm_71239444e8f1, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-upgrades-2026-10-31, src-dmzhub-orders-2026-10-31]
 aliases: ["shooting range", "range", "test range", "TTK readout"]
-stale_after: 2026-11-13
 station: firing-range
 unlock: start
 ---

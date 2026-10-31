@@ -5,9 +5,8 @@ description: "Up to 60 players share Hajin, and other squads are the biggest thr
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-gamingtrend-dmz-interview-2026-06-06, src-mw4-launch-patch-notes-2026-10-29, src-activision-security-enforcement-policy-2026-07-31, src-gamerfuzion-dmz-60-players-2026-10-12, clm_4821865b60e5, clm_20b125dbeea0, clm_b9735f36bb0b, clm_ae67c70adc88, clm_9bddae4cc5ea, clm_bbaff371a6b3, clm_a5f8e7a35c3f, clm_68240907f03c, clm_a02615b8fc76]
+sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-gamingtrend-dmz-interview-2026-06-06, src-mw4-launch-patch-notes-2026-10-29, src-activision-security-enforcement-policy-2026-07-31, src-gamerfuzion-dmz-60-players-2026-10-12]
 aliases: ["PvP", "player versus player", "PvPvE", "rival Operators", "rival squads", "enemy players", "other players", "third party", "exfil camping", "camping", "UAV spam", "UAVs", "griefing"]
-stale_after: 2026-11-07
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

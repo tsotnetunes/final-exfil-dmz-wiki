@@ -1,33 +1,35 @@
 ---
 type: event
 title: "Season 1"
-description: "Season 1 launches on 6 Nov, introducing the X01 DMZ Blacksite alongside multiple reported Warzone maps."
+description: "Season 1 officially launches on 6 Nov, introducing the new X01 DMZ Blacksite alongside returning and new Warzone maps."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, clm_bef876bdc624, clm_c1024f2fb281, clm_4ae545748dba, clm_3044325b8a18, clm_64b8588379af, clm_033219bea076, clm_7add6878604a, clm_58be93f33be7, clm_309415af8c86, clm_60448f273823, clm_86ec75d9e1ba, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16]
+sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, clm_bef876bdc624, clm_c1024f2fb281, clm_4ae545748dba, clm_3044325b8a18, clm_64b8588379af, clm_033219bea076, clm_7add6878604a, clm_58be93f33be7, clm_309415af8c86, clm_60448f273823, clm_86ec75d9e1ba, clm_7f843bb01556, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16]
 ---
 <!-- generated:start -->
-Season 1 is an upcoming content season that kicks off on 6 Nov. It brings new map locations across Warzone, a new DMZ Blacksite, and additional content for Call of Duty: Modern Warfare 4.
+Season 1 is an upcoming content season that officially kicks off on 6 Nov. It brings new maps and playable locations across multiple game modes.
 
-## When does Season 1 launch?
+## When does Season 1 start?
 
-* Season 1 was confirmed on 28 Oct to launch on 6 Nov.
+* Season 1 officially kicks off and launches on 6 Nov, confirmed on 28 Oct 2026.
 * Players report that Call of Duty: Modern Warfare 4 Season 1 starts on 6 Nov 2026.
+* Players report that MW4 Season 1 lands on 6 Nov.
 
-## What maps are available in Season 1?
+## What maps are coming in Season 1?
 
 * X01 is confirmed as a new DMZ Blacksite coming in Season 1.
 * Players report that the X01 map releases with Season 01 on 6 Nov.
-* Three Warzone maps are reported by players to be available at the Season 1 launch:
 
-| Map | Mode | Status |
-| --- | --- | --- |
-| Verdansk | Battle Royale | Reported by players |
-| Rebirth Island | Resurgence | Reported by players |
-| Zodiac | Resurgence | Reported by players |
+The following maps are reported by players to be available in Warzone at Season 1 launch:
 
-_Generated from 4 confirmed and 5 reported claims across 9 posts and 0 patch notes; last rendered 2026-10-31._
+| Map | Mode |
+| --- | --- |
+| Verdansk | Battle Royale |
+| Rebirth Island | Resurgence |
+| Zodiac | Resurgence |
+
+_Generated from 4 confirmed and 6 reported claims across 10 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

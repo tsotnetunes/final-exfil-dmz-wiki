@@ -5,9 +5,8 @@ description: "The 12 Pro Traits that Operator Prestige grants at random, four pe
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, clm_cb769aa684e4, clm_f979ff654d78, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-best-traits-2026-10-23, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-codmunity-dmz-traits-2026-10-30, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-best-traits-2026-10-23, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-codmunity-dmz-traits-2026-10-30, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Pro Trait", "Pro Traits list", "permanent Prestige Trait", "Prestige Trait list", "Prestige Traits tier list", "permanent traits"]
-stale_after: 2026-11-13
 tree: all
 tier: Pro
 ---

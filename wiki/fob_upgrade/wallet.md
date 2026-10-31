@@ -5,9 +5,8 @@ description: "The Bank holds the DMZ Cash shared by all your Operators. Players 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-mw4-launch-patch-notes-2026-10-29, clm_06c3db0d22f9, clm_f17f3ff635f7, clm_1dda32204130]
+sources: [clm_06c3db0d22f9, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Bank", "DMZ Bank", "bank cap", "bank capacity", "how much bank space", "Bank Upgrade", "bank limit"]
-stale_after: 2026-11-13
 station: bank
 unlock: start
 ---

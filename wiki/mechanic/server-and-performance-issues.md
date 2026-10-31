@@ -5,9 +5,8 @@ description: "DMZ's launch week brought server crashes and disconnects that cost
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_2e81dbaa4c19, clm_004ae083916b, clm_9863414622be, clm_521fb47cb48b, clm_6155f83bd127, clm_bf0928b1d51a, clm_31dd8c9184fe, src-gfinity-dmz-tech-issues-2026-10-22, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-activision-pc-specs-2026-09-29]
+sources: [src-gfinity-dmz-tech-issues-2026-10-22, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-activision-pc-specs-2026-09-29]
 aliases: ["server crash", "server crashes", "crash", "crashes", "disconnect", "disconnects", "disconnected", "lost loot", "loot loss", "lost gear after crash", "rejoin", "reconnect", "lag", "performance", "120 FPS", "VRR", "Performance Mode", "network error", "Visibility and Graphics", "graphics"]
-stale_after: 2026-11-07
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

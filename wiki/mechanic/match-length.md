@@ -5,9 +5,8 @@ description: "A DMZ deployment lasts up to about 45 minutes: some 30 on the Time
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-gamerfuzion-dmz-solo-play-2026-10-03, src-conquestcapped-dmz-guide-2026-10-26, src-gamerfuzion-dmz-60-players-2026-10-12, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, src-insider-gaming-season-1-date-2026-10-14, clm_a15e34798a66, clm_c772bf67ab75, clm_0654da754a95]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-gamerfuzion-dmz-solo-play-2026-10-03, src-conquestcapped-dmz-guide-2026-10-26, src-gamerfuzion-dmz-60-players-2026-10-12, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, src-insider-gaming-season-1-date-2026-10-14]
 aliases: ["how long is a match", "deployment timer", "deployment length", "Time Remaining clock"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

@@ -5,9 +5,8 @@ description: "How cheating is fought in DMZ: TPM 2.0 and Secure Boot on PC, Serv
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_16b6ee610da3, clm_cd65cdd88e65, clm_dee5007d4538, clm_fed37aaa79dd, clm_e201b18bb17c, clm_1a8b39bc4f78, clm_754b64a3d133, clm_f37ae5c8ce1d, clm_da4bc104bb5a, src-activision-tpm-secure-boot-2026-10-21, src-activision-security-enforcement-policy-2026-07-31, src-activision-pc-specs-2026-09-29, src-shanethegamer-ricochet-bans-2026-09-29, src-gosugamers-ricochet-bans-2026-10-31, src-gameriv-ricochet-dma-2026-10-24, src-dexerto-server-culling-2026-10-02, src-westie-dmz-ama-recap-2026-10-11]
+sources: [src-activision-tpm-secure-boot-2026-10-21, src-activision-security-enforcement-policy-2026-07-31, src-activision-pc-specs-2026-09-29, src-shanethegamer-ricochet-bans-2026-09-29, src-gosugamers-ricochet-bans-2026-10-31, src-gameriv-ricochet-dma-2026-10-24, src-dexerto-server-culling-2026-10-02, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["Ricochet", "anti-cheat", "anticheat", "cheating", "cheaters", "hackers", "hacking", "bans", "ban", "hardware ban", "DMA Detection", "DMA cheats", "Stronger Hardware Bans", "TPM 2.0", "Secure Boot", "attestation", "Failed Attestation Status", "Secure Attestation Wizard", "Cronus", "XIM"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

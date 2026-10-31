@@ -5,31 +5,29 @@ description: "All DMZ Commanders: Colossus, the Deathstalker and the Main NK Bat
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db, clm_a0e50790b208, clm_2709a2129c64, clm_855a0d332b7b, clm_a4061b133053, clm_45a3d3d59bfc, clm_718706a12b71, clm_d12acdac5305, clm_6cb6f07bc3cc, clm_4970f5d4d3d4, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-season-1-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-boss-board-2026-10-21, src-allthingshow-colossus-2026-10-21, src-allthingshow-deathstalker-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31]
+sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db, clm_a0e50790b208, clm_2709a2129c64, clm_855a0d332b7b, clm_a4061b133053, clm_45a3d3d59bfc, clm_718706a12b71, clm_d12acdac5305, clm_6cb6f07bc3cc, clm_4970f5d4d3d4, clm_89c9ddba2341, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-season-1-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-boss-board-2026-10-21, src-allthingshow-colossus-2026-10-21, src-allthingshow-deathstalker-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31]
 aliases: ["Commanders", "Commander", "The Captain", "Captain", "Wheelson", "Juggernaut", "Elite Strike Team", "drone swarm", "King Slayer", "King Slayer calling card", "commander bosses"]
 ---
 <!-- generated:start -->
-Commander threats are hostile boss targets encountered in DMZ that yield distinct loot upon defeat. Defeating them requires specific weapon setups or tactical equipment.
+Commander threats are hostile boss targets encountered during matches that yield specific rewards and require targeted tactics to eliminate. Knowing their behaviors and counters allows players to defeat them efficiently.
 
-## What commander threats exist?
+## Which commander threats appear in the field?
 
-* The Captain was confirmed on 28 Oct 2026 to be a Juggernaut and his elite guard.
-* Wheelson was confirmed on 28 Oct 2026 as an autonomous patrolling commander.
+* The Captain was confirmed on 28 Oct 2026 to be a Juggernaut accompanied by his elite guard.
+* Wheelson was confirmed on 28 Oct 2026 to be an autonomous patrolling commander.
 * Players report that a Death Stalker can appear above buildings.
 * Players report that a drone swarm can hover around buildings.
 
-## How do players defeat Deathstalker?
+## How do players defeat and loot commander bosses?
 
-* Players report the Deathstalker commander boss in DMZ can be taken down with 2 RPG rockets.
-* Players report the Astaroth 57 sniper can defeat the Deathstalker commander boss in DMZ with 4 well placed shots.
-* Players report the Deathstalker commander drops 3 lootable parts.
-
-## How do players defeat Colossus solo?
-
+* Players report that the Deathstalker commander boss in DMZ can be taken down with 2 RPG rockets.
+* Players report that the Deathstalker commander boss in DMZ can be taken down with 4 well placed shots from an Astaroth 57 sniper rifle.
+* Players report that the Deathstalker commander drops 3 lootable parts.
 * Players report that Colossus can be taken down solo in DMZ.
-* Defeating Colossus solo is reported by players to require 2 shock sticks and 7 to 8 thermite.
+* Players report that taking down Colossus solo requires 2 shock sticks and 7 to 8 thermite.
+* Players report that the Colossus commander can be cheesed.
 
-_Generated from 2 confirmed and 8 reported claims across 10 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 2 confirmed and 9 reported claims across 11 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

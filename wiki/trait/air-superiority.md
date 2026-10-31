@@ -5,9 +5,8 @@ description: "Minor Trait, seen in Survivalist: SAM sites and UAV Towers you swi
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, clm_5cb5d20deed5, clm_c3633bb72757, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_5cb5d20deed5, clm_c3633bb72757, src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Air Superiority trait", "UAV tower duration trait", "SAM site trait"]
-stale_after: 2026-11-13
 tree: Survivalist
 tier: "Minor, random slot"
 ---

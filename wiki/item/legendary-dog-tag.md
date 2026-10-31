@@ -5,9 +5,8 @@ description: "Named Lieutenants and bosses drop a Legendary dog tag of their own
 status: draft
 brain_status: draft
 sensitivity: public
-sources: [src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-activision-dmz-guide-part2-2026-10-09, src-callofduty-ready-for-launch-progression-2026-10-19, src-codcentral-dmz-xp-strategies-2026-10-30, clm_1b11a0105ecd, clm_a31a217f5b49, clm_cd725da0354e]
+sources: [clm_1b11a0105ecd, clm_a31a217f5b49, clm_cd725da0354e, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-activision-dmz-guide-part2-2026-10-09, src-callofduty-ready-for-launch-progression-2026-10-19, src-codcentral-dmz-xp-strategies-2026-10-30]
 aliases: ["boss dog tag", "Lieutenant dog tag", "LT tag", "Bale's Dog Tag", "Gorani's Dog Tag", "Scavenger's Dog Tag"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 A Legendary dog tag is an item dropped by specific targets when they are killed. Players seek this item as loot from encounters with named enemies.

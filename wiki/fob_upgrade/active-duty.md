@@ -5,9 +5,8 @@ description: "The Operators station: two Active Duty slots, a third at DMZ level
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-callofduty-ready-for-launch-progression-2026-10-19, src-callofduty-ready-for-launch-operators-2026-10-19, src-cod-dmz-progression-video-2026-10-07, src-activision-dmz-deep-dive-2026-06, src-activision-campaign-early-access-live-2026-10-16, src-westie-dmz-ama-recap-2026-10-11, src-xbox-wire-dmz-operator-guide-2026-10-20, src-mw4-launch-patch-notes-2026-10-29, clm_eee0a1ff7205, clm_37cdae5b1cba, clm_fe6a53c7c828, clm_ccfae152bab3]
+sources: [clm_eee0a1ff7205, clm_fe6a53c7c828, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-callofduty-ready-for-launch-progression-2026-10-19, src-callofduty-ready-for-launch-operators-2026-10-19, src-cod-dmz-progression-video-2026-10-07, src-activision-dmz-deep-dive-2026-06, src-activision-campaign-early-access-live-2026-10-16, src-westie-dmz-ama-recap-2026-10-11, src-xbox-wire-dmz-operator-guide-2026-10-20, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Operators", "Operators station", "Campaign Operators", "Operator unlocks", "which Operators unlock", "Active Duty Operator", "Operator slots", "how many operators", "fourth Operator slot", "dismiss an Operator", "recruit an Operator"]
-stale_after: 2026-11-13
 station: active-duty
 unlock: start
 ---

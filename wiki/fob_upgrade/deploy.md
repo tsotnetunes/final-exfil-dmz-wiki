@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-xbox-wire-dmz-features-2026-10-09, src-xbox-wire-dmz-operator-guide-2026-10-20, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["infil", "deployment", "Ready Up", "Free Loadout", "Squad Fill", "how to deploy"]
-stale_after: 2026-11-13
 station: deploy
 unlock: start
 ---

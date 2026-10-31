@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-solo-play-2026-10-03, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["heads-up display", "HUD layout", "on-screen display", "minimap", "compass", "squad panel", "squad HUD", "stamina bar", "Backpack menu", "Equipment capacity"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

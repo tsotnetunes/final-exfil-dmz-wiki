@@ -5,9 +5,8 @@ description: "Every Apex Attachment: 28 at launch, one per weapon except launche
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-mw4-season-1-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmzradar-gunsmith-2026-10-20, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-gamerfuzion-dmz-free-blueprints-2026-10-21, clm_b5557c2b259e, clm_53d761688e7f]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-mw4-season-1-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmzradar-gunsmith-2026-10-20, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-gamerfuzion-dmz-free-blueprints-2026-10-21]
 aliases: ["Apex", "Apex slot", "Apex list", "all Apex Attachments", "Han X20 Skybreaker", "M4 Hurricane", "Hyeon Hyperburst", "Hyperburst", "Patriot XMR Volt", "Kastov ARC", "Oden Sentinel", "Axion Clearcut", "Axion Reaver", "Cronen Maelstrom", "ISO Trace", "VEL 46 Snap", "Striga Rampage", "PPSh-41 Ember", "X-58 Void", "Rezi 12 Enforcer", "Warlord Lumen", "FiNN Adverse", "Type 73 Assault", "APOC-338 Praetor", "MAR-9 Auto", "Oris 8.6 Razor", "Mosin Harpoon", "KG-7 Drillcharge", "Astaroth .57 Infiltrator", "Signal Inferno", "SANG Breach", "Krait P68 Commando", "GS Magna", "Mojave Lawless", "Cronen Helix Mk. II", "CSG Crossfire", "JAK Barrage", "Hyeon Auto", "Kastov 545"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

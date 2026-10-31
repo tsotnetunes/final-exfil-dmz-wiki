@@ -5,9 +5,8 @@ description: "Secure Slots in better backpacks keep their items when you fail to
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-callofduty-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, clm_b83a508a7fac, clm_0a8ddc7fe171, clm_4f7ad24e07bb]
+sources: [clm_b83a508a7fac, clm_0a8ddc7fe171, src-activision-dmz-guide-part2-2026-10-09, src-callofduty-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Secure Slot", "safe pocket", "Safe Pocket", "secure pocket", "keep items when you die", "secure backpack"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 Secure Slots protect inventory items so they are not lost upon a failed extraction. They matter to players who want to preserve their gear when an exfil fails.

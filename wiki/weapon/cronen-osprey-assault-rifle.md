@@ -5,9 +5,8 @@ description: "Season 1 assault rifle arriving 6 Nov 2026 at Battle Pass tier 16,
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_da1b7f67fba5, clm_90e8c4e3c8f4, src-activision-mw4-season-1-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-gunsmith-2026-10-29, src-dmzhub-weapons-2026-10-31]
+sources: [clm_da1b7f67fba5, src-activision-mw4-season-1-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-gunsmith-2026-10-29, src-dmzhub-weapons-2026-10-31]
 aliases: ["Cronen Osprey", "Osprey", "Osprey AR", "Cronen Helix Mk. II", "Cronen Helix", "new Season 1 AR"]
-stale_after: 2026-11-13
 class: "Assault rifle"
 manual_source: "not confirmed"
 ---

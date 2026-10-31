@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [clm_53d761688e7f, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-mw4-season-1-2026-10-28, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmzradar-gunsmith-2026-10-20]
 aliases: ["Apex", "Apex slot", "Apex attachments"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 An Apex Attachment is a weapon modification item that was present during the beta. Players tracking these items consider them notable due to their availability status after the beta phase.

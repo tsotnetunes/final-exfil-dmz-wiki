@@ -5,9 +5,8 @@ description: "Each Operator earns one Trait Point per Dog Tag level, 18 in all (
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, clm_9f492a24aab7, clm_e0f0b4c3d158, clm_f607b6b9963b, clm_51f7e1c5f386, clm_f1f95e1b6f10, clm_24b10c8643de, clm_2c5d28cefa18, clm_0d5fa6dad722, clm_9d97c2d998df, clm_f1102b42c29e, clm_c31d86f01350, clm_2ecafe15d1ab, clm_ec258e1f0cc1, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-cod-dmz-progression-video-2026-10-07, src-destructoid-trait-effects-2026-10-20, src-allthingshow-dmz-traits-2026-10-21, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-codmunity-dmz-traits-2026-10-30, src-dexerto-best-operator-traits-2026-10-31, src-playhub-best-traits-2026-10-28, src-gamerfuzion-dmz-best-traits-2026-10-23, src-destructoid-best-operator-traits-2026-10-20, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_9f492a24aab7, clm_e0f0b4c3d158, clm_f607b6b9963b, clm_51f7e1c5f386, clm_f1f95e1b6f10, clm_24b10c8643de, clm_2c5d28cefa18, clm_0d5fa6dad722, clm_9d97c2d998df, clm_f1102b42c29e, clm_c31d86f01350, src-dmzhub-traits-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-cod-dmz-progression-video-2026-10-07, src-destructoid-trait-effects-2026-10-20, src-allthingshow-dmz-traits-2026-10-21, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-codmunity-dmz-traits-2026-10-30, src-dexerto-best-operator-traits-2026-10-31, src-playhub-best-traits-2026-10-28, src-gamerfuzion-dmz-best-traits-2026-10-23, src-destructoid-best-operator-traits-2026-10-20, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["traits", "trait tree", "trait trees", "Trait Points", "Operator Traits", "skill trees", "skill tree", "Skill Trees", "respec traits", "reset traits", "how many trait points", "Major Traits", "Minor Traits", "best traits", "best DMZ traits", "best solo traits", "best squad traits", "Operator Tracker", "random traits"]
-stale_after: 2026-11-13
 tree: all
 tier: n/a
 ---

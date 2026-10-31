@@ -5,9 +5,8 @@ description: "Downed, you can be revived or use a tourniquet; killed, your Opera
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-allthingshow-dmz-death-rules-2026-10-21, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-guide-2026-10-26, src-westie-dmz-ama-recap-2026-10-11, src-gamingtrend-dmz-interview-2026-06-06, src-cod-dmz-bounty-systems-video-2026-10-08, src-mw4-launch-patch-notes-2026-10-29, clm_05f439dded08, clm_004ae083916b, clm_15b35293c60f]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-allthingshow-dmz-death-rules-2026-10-21, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-guide-2026-10-26, src-westie-dmz-ama-recap-2026-10-11, src-gamingtrend-dmz-interview-2026-06-06, src-cod-dmz-bounty-systems-video-2026-10-08, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["what happens when you die", "dying", "death", "death penalty", "die", "Last Stand", "downed", "give up", "giving up", "Audio cue for giving up", "bleed out", "lose gear", "lost loadout", "eliminated", "body", "loot bag"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

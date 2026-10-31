@@ -5,9 +5,8 @@ description: "You keep the FOB, Stash, Bank, recipes, Operators and DMZ XP even 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-progression-video-2026-10-07, src-callofduty-ready-for-launch-operators-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-insider-gaming-season-1-date-2026-10-14, clm_ec258e1f0cc1, clm_ab8878f43ec0, clm_f17f3ff635f7, clm_43eb9661dfec]
+sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-progression-video-2026-10-07, src-callofduty-ready-for-launch-operators-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-insider-gaming-season-1-date-2026-10-14]
 aliases: ["persistence", "wipes", "does DMZ wipe", "what do you keep when you die", "what do I lose when I die", "season reset", "progress carry over", "failed exfil"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

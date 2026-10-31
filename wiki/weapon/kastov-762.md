@@ -5,9 +5,8 @@ description: "Hard-hitting 7.62x39mm assault rifle, in every DMZ list's top two 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-mw4-season-1-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-gamerfuzion-dmz-free-blueprints-2026-10-21, src-dmztracker-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31, clm_b92ce0a1725f]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-mw4-season-1-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-gamerfuzion-dmz-free-blueprints-2026-10-21, src-dmztracker-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["Kastov", "Kastov 762 AR", "AK", "Kastov ARC", "Kastov 545", "Voltspine"]
-stale_after: 2026-11-13
 class: "Assault rifle"
 manual_source: "Weapon Manual, looted in Hajin"
 ---

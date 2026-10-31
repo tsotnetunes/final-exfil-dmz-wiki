@@ -1093,3 +1093,7 @@
 ## [2026-10-31 12:21 EDT] ingest | 31 Oct: DMZHub source pages for its 14 sections (missions, orders, keys, items, recipes, upgrades, traits, weapons, manuals, bosses, vehicles, locations, map, guides), read in a browser; facts used in pages are in our own words
 - changed: .kac 1, index 2, index.md 1, raw 14, wiki 14
 - run: r-20261031-122110-26a2
+
+## [2026-10-31 13:16 EDT] render | 97 pages rendered, 807 claims, 767 evidence
+- changed: wiki 97, claims 1, evidence 1, index.md 1
+- run: r-20261031-171541-53ac

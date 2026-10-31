@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-conquestcapped-mw4-weapons-2026-10-26, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["Striga", "WZ.55 Striga", "Wz55 Striga", "WZ 55", "Striga Rampage"]
-stale_after: 2026-11-13
 class: "SMG"
 manual_source: "Weapon Manual, looted in Hajin"
 ---

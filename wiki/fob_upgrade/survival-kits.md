@@ -5,20 +5,23 @@ description: "Bundles of supplies (Triage, Armor, Equipment, Restock, SERE kits)
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-callofduty-ready-for-launch-progression-2026-10-19, src-dmzhub-items-2026-10-31, clm_d79723694987]
+sources: [clm_d79723694987, clm_49f22644ec29, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-callofduty-ready-for-launch-progression-2026-10-19, src-dmzhub-items-2026-10-31]
 aliases: ["Survival Kit", "Triage Kit", "SERE Kit", "Restock Kit", "Armor Kit", "Recon Equipment Kit", "Explosives Equipment Kit", "Deployment Kit", "Vault Edition bonus"]
-stale_after: 2026-11-13
 station: survival-kits
 unlock: start
 ---
 <!-- generated:start -->
-Survival Kits allow players to claim the DMZ Vault Edition Bonus to add it to their Stash, according to player reports.
+Survival Kits provide items for player inventories, with the DMZ Vault Edition Bonus reported by players to be added directly to their Stash.
 
-## Where is the Survival Kits station located?
+## Where are Survival Kits claimed?
 
 Players report that the DMZ Vault Edition Bonus can be claimed at the Survival Kits Station.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+## How do players unlock Survival Kits?
+
+Players report that DMZ Survival Kits will be available in the Season 1 Battle Pass.
+
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

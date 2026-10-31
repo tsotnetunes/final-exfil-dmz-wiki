@@ -5,9 +5,8 @@ description: "Killing players puts a Bounty on your Dog Tag; four kills make you
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-cod-dmz-bounty-systems-video-2026-10-08, src-callofduty-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-traits-2026-10-30, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, clm_bb4b2157af60, clm_162bac1414e5, clm_8ed714d7c354, clm_1dda32204130, clm_8c1bbf558597]
+sources: [clm_bb4b2157af60, clm_162bac1414e5, clm_8ed714d7c354, clm_fc75f811681c, clm_25cf22beb910, clm_c80b93d2008f, clm_d240548672df, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-cod-dmz-bounty-systems-video-2026-10-08, src-callofduty-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-traits-2026-10-30, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["notoriety", "bounty", "Bounty Station", "pay off bounty", "Reduce Bounty", "Most Wanted", "bounty hunter", "Killer", "vultures", "bounty payout", "how to claim a bounty"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 The bounty system is a gameplay mechanic in Modern Warfare 4 DMZ that targets operators who eliminate other players. It introduces active targets and competitive tracking during matches.

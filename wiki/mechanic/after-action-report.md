@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["AAR", "deployment rating", "S-Tier", "S++", "End Game Report", "Rating tab", "Deployment Bonus", "Extracted Bonus"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

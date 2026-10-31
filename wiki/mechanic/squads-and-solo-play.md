@@ -5,9 +5,8 @@ description: "Squads hold up to three Operators, and up to 20 squads share a dep
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-gamerfuzion-dmz-solo-play-2026-10-03, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-guide-2026-10-24, src-destructoid-dmz-interview-2026-06-06, src-gamingtrend-dmz-interview-2026-06-06, src-activision-campaign-early-access-live-2026-10-16, src-mw4-launch-patch-notes-2026-10-29, clm_30653443233a, clm_d5a1dc3ae648, clm_a6788c608374, clm_5b76bd4676ec]
+sources: [src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-gamerfuzion-dmz-solo-play-2026-10-03, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-guide-2026-10-24, src-destructoid-dmz-interview-2026-06-06, src-gamingtrend-dmz-interview-2026-06-06, src-activision-campaign-early-access-live-2026-10-16, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["solo", "solo play", "playing solo", "solo DMZ", "Squad Fill", "squad size", "players per squad", "squad", "squads", "duos", "trios", "join another squad", "assimilate", "truce", "betray", "party", "max squad size"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

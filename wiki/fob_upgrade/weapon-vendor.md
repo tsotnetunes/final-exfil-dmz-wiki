@@ -5,8 +5,7 @@ description: "The FOB Vendor opens at DMZ level 5 (not 10) and sells weapons and
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_2388562c52bf, clm_13dd447ee402, clm_b5908fa8c1b3, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-activision-mw4-season-1-2026-10-28, src-codmunity-dmz-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-dmztracker-gunsmith-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-dmzhub-upgrades-2026-10-31, src-dmzhub-weapons-2026-10-31]
-stale_after: 2026-11-13
+sources: [clm_2388562c52bf, clm_13dd447ee402, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-activision-mw4-season-1-2026-10-28, src-codmunity-dmz-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-dmztracker-gunsmith-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-dmzhub-upgrades-2026-10-31, src-dmzhub-weapons-2026-10-31]
 station: weapon-vendor
 unlock: "DMZ level 5"
 aliases: ["Vendor", "FOB Vendor", "DMZ vendor", "Vendor Item Upgrade", "vendor reset", "vendor stock"]

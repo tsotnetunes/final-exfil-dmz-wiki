@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["Type73", "Type 73 LMG", "Type 73 Assault", "Dreadnought", "Dreadnought LMG", "Legendary Dreadnought"]
-stale_after: 2026-11-13
 class: "LMG"
 manual_source: "Weapon Manual, looted in Hajin"
 ---

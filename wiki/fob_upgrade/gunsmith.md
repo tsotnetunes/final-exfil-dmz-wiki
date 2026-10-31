@@ -5,9 +5,8 @@ description: "Opens at DMZ level 10: buy guns whose Manual you extracted, then s
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_7bd9889680ab, clm_6ecd75a4da6f, clm_311263850855, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmzradar-gunsmith-2026-10-20, src-dmzcodex-gunsmith-2026-10-29, src-dmztracker-gunsmith-2026-10-29, src-codmunity-dmz-progression-2026-10-19, src-gamerfuzion-dmz-prices-2026-10-08, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-upgrades-2026-10-31, src-dmzhub-orders-2026-10-31]
+sources: [clm_7bd9889680ab, clm_6ecd75a4da6f, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmzradar-gunsmith-2026-10-20, src-dmzcodex-gunsmith-2026-10-29, src-dmztracker-gunsmith-2026-10-29, src-codmunity-dmz-progression-2026-10-19, src-gamerfuzion-dmz-prices-2026-10-08, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-upgrades-2026-10-31, src-dmzhub-orders-2026-10-31]
 aliases: ["Gunny", "weapon bench", "Gunsmith discount", "Gunsmith Upgrade", "Gunsmith Upgrade I", "Gunsmith Upgrade II", "attachment slot cost", "Buy New Weapon"]
-stale_after: 2026-11-13
 station: gunsmith
 unlock: "DMZ level 10"
 ---

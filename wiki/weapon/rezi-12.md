@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-gamerfuzion-dmz-free-blueprints-2026-10-21, src-conquestcapped-mw4-weapons-2026-10-26, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["Rezi", "Rezi12", "Rezi 12 Enforcer", "Enforcer", "Shattered Code"]
-stale_after: 2026-11-13
 class: "Shotgun"
 manual_source: "Weapon Manual, looted in Hajin"
 ---

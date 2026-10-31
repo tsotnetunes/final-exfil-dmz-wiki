@@ -5,9 +5,8 @@ description: "Every permanent FOB upgrade printed at the 3D Printer, with what e
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-callofduty-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, clm_06c3db0d22f9, clm_1d5b2eabae74, clm_4903d57a964d, clm_b90e9b9a3636, clm_5f55c9bd182e, clm_0217c096a2ca, clm_c712a62e76ae, clm_7b0306c946e3]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-callofduty-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["FOB Upgrades", "station upgrades", "Bank Upgrade", "Stash Item Upgrade", "Stash Weapon Upgrade", "MIA Recovery Discount", "Gunsmith Upgrade", "Vendor Item Upgrade", "Dog Tag Case Upgrade", "Uncommon Ingredient Printing", "Epic Ingredient Printing", "upgrade the FOB", "bank cap upgrade"]
-stale_after: 2026-11-13
 station: 3d-printer
 unlock: "3D Printer"
 ---

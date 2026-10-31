@@ -5,9 +5,8 @@ description: "Season 1 SMG arriving 6 Nov 2026 at Battle Pass tier 36: 1,200 rou
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_821962c22a68, clm_1c8be2a1f8bc, src-activision-mw4-season-1-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-gunsmith-2026-10-29, src-dmzhub-weapons-2026-10-31]
+sources: [clm_821962c22a68, src-activision-mw4-season-1-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-gunsmith-2026-10-29, src-dmzhub-weapons-2026-10-31]
 aliases: ["CSG-35", "CSG 35", "CSG35", "CSG Crossfire", "new Season 1 SMG"]
-stale_after: 2026-11-13
 class: "SMG"
 manual_source: "not confirmed"
 ---

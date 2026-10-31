@@ -5,22 +5,20 @@ description: "DMZ has 70 levels with a reward at each, from the 3D Printer to bi
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-callofduty-ready-for-launch-progression-2026-10-19, src-callofduty-ready-for-launch-operators-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-codcentral-dmz-xp-strategies-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codmunity-dmz-traits-2026-10-30, src-mw4-launch-patch-notes-2026-10-29, clm_ddf327b1e62d, clm_43eb9661dfec, clm_ec258e1f0cc1, clm_7395536c245c, clm_5153b4480340]
+sources: [clm_ddf327b1e62d, clm_43eb9661dfec, clm_7395536c245c, clm_bd9383775a93, clm_5153b4480340, clm_33babd127a04, src-callofduty-ready-for-launch-progression-2026-10-19, src-callofduty-ready-for-launch-operators-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-codcentral-dmz-xp-strategies-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codmunity-dmz-traits-2026-10-30, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["DMZ Player Level", "Progression Track", "DMZ level", "level 70", "Dog Tag level", "Onyx III", "DMZ XP", "DMZ Progression", "level rewards", "DMZ level unlocks", "how to level up fast in DMZ", "Operator level", "Operator XP", "fastest XP", "fastest leveling"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
-DMZ progression spans 70 levels and is used to unlock FOB stations, upgrades, and crafting recipes. Advancing through this system allows operators to expand their capabilities and resources.
+DMZ progression is a 70-level advancement track that unlocks FOB stations, upgrades, and crafting recipes. Advancing through these ranks determines what facilities and crafting options are available to the player.
 
-## How does DMZ progression work?
-
-* DMZ progression was confirmed on 9 Oct 2026 to span 70 levels.
-* Levels unlock FOB stations, upgrades, and crafting recipes.
+* DMZ progression spans 70 levels, confirmed on 9 Oct 2026.
+* On 9 Oct 2026, it was confirmed that this progression unlocks FOB stations, upgrades, and crafting recipes.
 * Players earn DMZ XP even if they fail to exfil, confirmed on 9 Oct 2026.
-* Players report that DMZ features a 1–70 level track dedicated to FOB stations.
+* Players report that DMZ has a 1-70 level track for FOB stations.
+* Players report that the max player level in DMZ is 70.
 * Players report that playing DMZ awards levels for multiplayer and guns.
 
-_Generated from 2 confirmed and 2 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 2 confirmed and 3 reported claims across 5 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

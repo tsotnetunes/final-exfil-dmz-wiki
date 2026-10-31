@@ -5,9 +5,8 @@ description: "Warfighter Major Trait, row 9: once per match, revive yourself fro
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, clm_b4248fd85709, clm_6cd27932726d, clm_902fc3081685, clm_4d662dbb6a40, clm_16115b4491dd, clm_2c5d28cefa18, clm_0d5fa6dad722, clm_9d97c2d998df, clm_f1102b42c29e, clm_c31d86f01350, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-gamerfuzion-dmz-best-traits-2026-10-23, src-dexerto-possum-complaints-2026-10-21, src-destructoid-possum-debate-2026-10-24, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-dexerto-best-operator-traits-2026-10-31, src-playhub-best-traits-2026-10-28]
+sources: [clm_b4248fd85709, clm_6cd27932726d, clm_902fc3081685, clm_4d662dbb6a40, clm_16115b4491dd, src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-gamerfuzion-dmz-best-traits-2026-10-23, src-dexerto-possum-complaints-2026-10-21, src-destructoid-possum-debate-2026-10-24, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-dexerto-best-operator-traits-2026-10-31, src-playhub-best-traits-2026-10-28]
 aliases: ["Possum Trait", "Possum Perk", "Possum Pro", "second life trait", "self revive trait", "opossum"]
-stale_after: 2026-11-13
 tree: Warfighter
 tier: "Major, row 9"
 ---
