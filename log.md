@@ -1089,3 +1089,7 @@
 ## [2026-10-31 12:19 EDT] ingest | 31 Oct research, core mechanics: squads and solo, infil, death and loss, PvP, HUD, pings, Ricochet, server issues, match length, extraction rules; vehicles (19), 6 junk pages retired, 22 sources, census, 6 golden questions
 - changed: .kac 1, evals 1, index 5, index.md 1, raw 23, wiki 46
 - run: r-20261031-121920-4e45
+
+## [2026-10-31 12:21 EDT] ingest | 31 Oct: DMZHub source pages for its 14 sections (missions, orders, keys, items, recipes, upgrades, traits, weapons, manuals, bosses, vehicles, locations, map, guides), read in a browser; facts used in pages are in our own words
+- changed: .kac 1, index 2, index.md 1, raw 14, wiki 14
+- run: r-20261031-122110-26a2
