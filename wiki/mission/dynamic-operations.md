@@ -1,24 +1,30 @@
 ---
 type: mission
 title: "Dynamic Operations"
-description: "Dynamic Operations feature squad objectives across Hajin, confirmed on 6 Oct 2026, and reward cash, XP, and supply drops."
+description: "Dynamic Operations are squad objectives across Hajin that award XP, a supply drop of increasing rarity, and bankable cash for each step."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_cacbc287b445, clm_809579d8a58f, clm_1bf2a7b7a270, clm_6692ae50b2d4, clm_4928d0e05723, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-fpsjp-dynamic-ops-trailer-2026-10-07]
+sources: [clm_cacbc287b445, clm_809579d8a58f, clm_1bf2a7b7a270, clm_6692ae50b2d4, clm_4928d0e05723, clm_fbe6f3abea31, clm_4826722df4cd, clm_f17f3ff635f7, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-fpsjp-dynamic-ops-trailer-2026-10-07]
 aliases: ["dynamic operation", "dynamic ops", "Dynamic Ops phone", "Hunt Operators", "Supply Drop"]
 mission_kind: dynamic
 ---
 <!-- generated:start -->
-Dynamic Operations involve squad objectives across Hajin, confirmed on 6 Oct 2026.
+Dynamic Operations are squad objectives set across Hajin. Dynamic Operations were confirmed to involve squad objectives across Hajin on 6 Oct 2026.
 
-## What rewards do you earn?
+## What rewards do Dynamic Operations provide?
 
-Players report that Dynamic Operations award cash and XP.
+Dynamic Operations award cash and XP, according to players.
 
-Players also report that Dynamic Operations provide a supply drop of increasing rarity after every op.
+Players report that Dynamic Operations grant a supply drop of increasing rarity after every completed operation.
 
-_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-31._
+Following an update, players report that the cash payout from Dynamic Operations was doubled.
+
+Each in-game step for Dynamic Operations now awards $500, as reported by players.
+
+Players report that cash earned from Dynamic Operations is automatically deposited into the bank without requiring an exfil.
+
+_Generated from 1 confirmed and 4 reported claims across 5 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->
