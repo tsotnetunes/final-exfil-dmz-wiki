@@ -15,7 +15,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-The Type 73 is a Korean-made 7.62x54r machine gun for middle and long range; Multiplayer unlocks it at player level 9 [[src-activision-mw4-launch-weapons-2026-10-19]], and it has 65 weapon levels [[src-conquestcapped-mw4-weapons-2026-10-26]] [[src-dmzcodex-gunsmith-2026-10-29]]. A press list and a stats site put it in their second tier (the press list cites good damage and range held back by poor handling); a community list puts it in C [[src-destructoid-dmz-weapons-tier-list-2026-10-22]] [[src-wzstats-dmz-meta-2026-10-31]] [[src-codmunity-dmz-tier-list-2026-10-28]].
+The Type 73, made in Korea, is a 7.62x54r machine gun for middle and long range; Multiplayer unlocks it at player level 9 [[src-activision-mw4-launch-weapons-2026-10-19]], and it has 65 weapon levels [[src-conquestcapped-mw4-weapons-2026-10-26]] [[src-dmzcodex-gunsmith-2026-10-29]]. A press list and a stats site put it in their second tier (the press list cites good damage and range held back by poor handling); a community list puts it in C [[src-destructoid-dmz-weapons-tier-list-2026-10-22]] [[src-wzstats-dmz-meta-2026-10-31]] [[src-codmunity-dmz-tier-list-2026-10-28]].
 
 ## How do you get it in DMZ?
 
@@ -25,7 +25,7 @@ The Lieutenant Bale carries one [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src
 
 ## What is its Apex Attachment?
 
-**Type 73 Assault:** a top-mounted magazine loaded with explosive rounds; it takes the place of the Magazine and Ammunition [[src-activision-mw4-launch-weapons-2026-10-19]]. See [[apex-attachments]].
+**Type 73 Assault:** a magazine mounted on top that holds explosive rounds; it takes the place of the Magazine and Ammunition [[src-activision-mw4-launch-weapons-2026-10-19]]. See [[apex-attachments]].
 
 ## What changed on 28 Oct 2026?
 

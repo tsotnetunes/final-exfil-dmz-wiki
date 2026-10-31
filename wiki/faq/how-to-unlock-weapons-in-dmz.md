@@ -25,7 +25,7 @@ Extract its Weapon Manual. Once you exfil with a weapon's Manual, you can buy th
 - Blueprints, each usable once for free and bought back at a discount if lost [[src-activision-dmz-guide-part2-2026-10-09]].
 
 ## What does a gun cost?
-A base M4 costs about 5,000 DMZ Cash, and each attachment slot and attachment costs extra [[src-activision-dmz-guide-part2-2026-10-09]]. Weapons found in Hajin can have up to eight attachment slots, while Gunsmith builds take up to five plus the Apex slot [[src-activision-dmz-guide-part2-2026-10-09]]. The Vendor's best guns cost over 100,000 (reported) [[src-gamerfuzion-dmz-money-2026-10-26]].
+A base M4 costs about 5,000 DMZ Cash, and each attachment slot and attachment costs extra [[src-activision-dmz-guide-part2-2026-10-09]]. A weapon you pick up in Hajin may come with as many as eight attachment slots, while Gunsmith builds take up to five plus the Apex slot [[src-activision-dmz-guide-part2-2026-10-09]]. The Vendor's best guns cost over 100,000 (reported) [[src-gamerfuzion-dmz-money-2026-10-26]].
 
 ## Anything new in Season 1?
 From 6 Nov 2026 the Vendor sells more weapons and gear for DMZ Cash to players with the Season 1 BlackCell, and the Wager Match Event can award the Hyeon Auto and Kastov 545 Apex Attachments for DMZ [[src-activision-season-1-announcement-2026-10-28]].

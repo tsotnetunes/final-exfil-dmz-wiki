@@ -31,7 +31,7 @@ Letters run west to east and numbers north to south; D7, for example, is [[imjin
 
 ## What do the markers mean?
 
-- Buildings: red for Fire Stations, blue for Police Stations, green for Clinics [[src-activision-dmz-guide-part1-2026-10-05]]; police stations carry a white badge marker [[src-gameshorizon-police-stations-2026-10-21]].
+- Buildings are colour-coded: Fire Stations are red, Police Stations blue and Clinics green [[src-activision-dmz-guide-part1-2026-10-05]]; police stations carry a white badge marker [[src-gameshorizon-police-stations-2026-10-21]].
 - Exfil sites carry an exit-door icon and green smoke in the world [[src-gfinity-exfil-2026-10-20]]; the [[final-exfil]] turns white [clm_c772bf67ab75].
 - The [[silo-bunkers]] are unnamed circles in the west (reported) [[src-techwiser-silo-bunkers-2026-10-27]].
 
@@ -41,5 +41,5 @@ Time Remaining; Objectives (Story Missions, Dynamic Ops and Side Ops on the left
 
 ## Known map bugs
 
-Fixed on 25 Oct 2026: a Sedan could be missing from its marked spot on the Tac-Map, and the Last Stand icon was oversized on the minimap [[src-mw4-launch-patch-notes-2026-10-29]].
+Fixed on 25 Oct 2026: a Sedan was sometimes absent from the spot the Tac-Map marked for it, and the Last Stand icon was oversized on the minimap [[src-mw4-launch-patch-notes-2026-10-29]].
 <!-- human:end -->

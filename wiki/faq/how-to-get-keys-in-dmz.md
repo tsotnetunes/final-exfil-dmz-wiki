@@ -17,7 +17,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 Keys come from loot. Search containers such as duffel bags, jackets, military bags and lockers, and kill enemies and Lieutenants, who can drop the key to their own loot room [[src-conquestcapped-dmz-keys-2026-10-28]] [[src-activision-dmz-guide-part1-2026-10-05]]. Story Missions and some Survival Kits also give keys [[src-dmzhub-keys-2026-10-31]] [[src-conquestcapped-dmz-keys-2026-10-28]].
 
 ## Where is a key used?
-Each key's description names a grid square on the Tac-Map, with letters running west to east and numbers north to south [[src-activision-dmz-guide-part1-2026-10-05]]. A door locked from the inside has another way in, and rural areas hide underground entrances [[src-activision-dmz-guide-part1-2026-10-05]]. dmzhub lists 46 keys: 4 Uncommon, 20 Rare, 11 Epic, 8 Legendary and 3 Ultra (reported) [[src-dmzhub-keys-2026-10-31]].
+Each key's description names a grid square on the Tac-Map, whose columns are lettered from west to east and whose rows are numbered from north to south [[src-activision-dmz-guide-part1-2026-10-05]]. A door that is locked from the inside has another way in, and rural areas hide underground entrances [[src-activision-dmz-guide-part1-2026-10-05]]. dmzhub lists 46 keys: 4 Uncommon, 20 Rare, 11 Epic, 8 Legendary and 3 Ultra (reported) [[src-dmzhub-keys-2026-10-31]].
 
 ## Which Story Missions give keys?
 | Story Mission | Key reward |

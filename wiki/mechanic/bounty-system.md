@@ -51,7 +51,7 @@ Vultures circle the bodies of Operators who died in Hajin, so you can spot from 
 
 ## Does hunting lower your own Bounty?
 
-Not known. The June intel said hunting bounty targets could lessen the target on your own back [[src-activision-dmz-deep-dive-2026-06]]; the 9 Oct guide does not say how ([[open-questions]]). The FOB's [[bounty-leaderboard]] ranks the top hunters and killers.
+Not known. The June intel said that chasing bounty targets could make you less of a target yourself [[src-activision-dmz-deep-dive-2026-06]]; the 9 Oct guide does not say how ([[open-questions]]). The FOB's [[bounty-leaderboard]] ranks the top hunters and killers.
 
 ## Known problems
 

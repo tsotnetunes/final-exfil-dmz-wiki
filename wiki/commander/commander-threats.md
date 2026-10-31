@@ -65,5 +65,5 @@ The Captain and Wheelson join the Boss Board's Commanders [[src-activision-seaso
 
 ## What did Activision list before launch?
 
-The June deep dive named tanks, drone swarms, Deathstalker helicopters, Juggernauts and Elite Strike Teams among the Commander enemies, with attack and Deathstalker helicopters as reinforcements at high threat [[src-activision-dmz-deep-dive-2026-06]]. By October drone swarms were listed with the regular enemies instead [[src-activision-dmz-guide-part1-2026-10-05]] ([[north-korean-forces]]), and players report them hovering around buildings [clm_45a3d3d59bfc]. A Juggernaut arrives as The Captain in Season 1 [[src-activision-season-1-announcement-2026-10-28]]. No launch source mentions Elite Strike Teams yet.
+The June deep dive put Juggernauts, tanks, Elite Strike Teams, Deathstalker helicopters and drone swarms among the Commander enemies, with attack and Deathstalker helicopters as reinforcements at high threat [[src-activision-dmz-deep-dive-2026-06]]. By October drone swarms were listed with the regular enemies instead [[src-activision-dmz-guide-part1-2026-10-05]] ([[north-korean-forces]]), and players report them hovering around buildings [clm_45a3d3d59bfc]. A Juggernaut arrives as The Captain in Season 1 [[src-activision-season-1-announcement-2026-10-28]]. No launch source mentions Elite Strike Teams yet.
 <!-- human:end -->

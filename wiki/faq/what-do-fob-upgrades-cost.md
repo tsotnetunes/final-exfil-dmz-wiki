@@ -14,7 +14,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-FOB upgrades are permanent and each needs several prints: Bank capacity, Stash item and weapon space, MIA recovery discounts, rarer Ingredient printing, Dog Tag Case storage, Gunsmith discounts and more Vendor offers [[src-activision-dmz-guide-part2-2026-10-09]]. Community data lists nine upgrades with 31 levels, each paid in DMZ Cash, Ingredients, valuables or a mix [[src-dmzhub-upgrades-2026-10-31]].
+Every FOB upgrade is permanent and needs several prints: Bank capacity, Stash item and weapon space, MIA recovery discounts, rarer Ingredient printing, more room in the Dog Tag Case, lower Gunsmith prices and more Vendor offers [[src-activision-dmz-guide-part2-2026-10-09]]. Community data lists nine upgrades with 31 levels, each paid in DMZ Cash, Ingredients, valuables or a mix [[src-dmzhub-upgrades-2026-10-31]].
 
 ## What does each upgrade cost at level I?
 | Upgrade | Levels | Each level gives | Level I needs |

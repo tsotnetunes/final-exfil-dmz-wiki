@@ -26,7 +26,7 @@ Side Ops are short, optional tasks marked around Hajin that pay DMZ XP and DMZ C
 
 ## How do Side Ops work?
 
-They show as white markers on the [[tac-map]], while Dynamic Ops use green phone icons [[src-dmztracker-dynamic-side-ops-2026-10-20]] (reported). Walk up to one, or start its interaction, and it joins the Side Ops list on the left of your HUD with its own counter [[src-allthingshow-dmz-orders-2026-10-31]] [[src-allthingshow-dmz-story-missions-2026-10-31]]. You can do them during any deployment, alongside a Story Mission or a Dynamic Op, and their XP counts toward your DMZ level even if you fail to exfil [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]]. The cash arrives at extraction on a Side Ops Payout line [[src-dmztracker-dynamic-side-ops-2026-10-20]] [[src-allthingshow-dmz-story-missions-2026-10-31]].
+They show as white markers on the [[tac-map]], while Dynamic Ops use green phone icons [[src-dmztracker-dynamic-side-ops-2026-10-20]] (reported). Walk up to one, or start its interaction, and it joins the Side Ops list on the left of your HUD with its own counter [[src-allthingshow-dmz-orders-2026-10-31]] [[src-allthingshow-dmz-story-missions-2026-10-31]]. You can do them during any deployment, alongside a Story Mission or a Dynamic Op, and their XP counts toward your DMZ level even when the exfil fails [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]]. The cash arrives at extraction on a Side Ops Payout line [[src-dmztracker-dynamic-side-ops-2026-10-20]] [[src-allthingshow-dmz-story-missions-2026-10-31]].
 
 ## Which Side Ops are there?
 

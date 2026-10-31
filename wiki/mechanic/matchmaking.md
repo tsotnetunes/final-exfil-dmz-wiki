@@ -34,7 +34,7 @@ _Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch not
 **Crossplay.** Squads can party up across platforms, and friends are added in game by their Activision ID (official, 16 Oct) [[src-activision-campaign-early-access-live-2026-10-16]]. On consoles crossplay can be set to On, Off or Console Only, and PC players cannot switch it off; the listed settings are named for Multiplayer and Warzone Ranked, none for DMZ (reported) [[src-dexerto-mw4-crossplay-2026-10-31]]. See [[is-dmz-cross-play]].
 
 **Since launch.**
-- A fix on 24 Oct 2026 stopped party leaders pulling teammates out of DMZ without their consent, which had left those teammates' Operators MIA [[src-mw4-launch-patch-notes-2026-10-29]].
+- A fix on 24 Oct 2026 stopped party leaders removing teammates from DMZ without their agreement, which had left those teammates' Operators MIA [[src-mw4-launch-patch-notes-2026-10-29]].
 - A fix on 29 Oct lets you pick up a hostage after assimilating [[src-mw4-launch-patch-notes-2026-10-29]].
 - After the 28 Oct update, press reported Story Mission queues landing in fuller Free Roam and Dynamic Ops lobbies, and replays of finished missions going to regular lobbies, with PvP given more weight [[src-detonated-dmz-story-matchmaking-2026-10-29]] [[src-ixbt-dmz-pvp-matchmaking-2026-10-30]]. Players then reported Story Missions back on launch settings (reported) [clm_2738483c8aa0]. None of it is in the patch notes, and Infinity Ward has not commented; see [[pvp-matchmaking-prioritization]].
 

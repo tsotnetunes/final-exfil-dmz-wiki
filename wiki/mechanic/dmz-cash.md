@@ -19,7 +19,7 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-DMZ Cash is the mode's currency. It sits in your Bank ([[wallet]]), shared by all your Active Duty Operators, and pays for nearly everything at the FOB [[src-activision-dmz-guide-part2-2026-10-09]]. Cash you find in Hajin counts only once you extract, while Dynamic Op rewards go straight to the Bank (reported) [[src-gamerfuzion-dmz-level-up-fast-2026-10-21]] [[src-codmunity-dmz-guide-2026-10-24]] [clm_f17f3ff635f7].
+DMZ Cash is the mode's currency. It sits in your Bank ([[wallet]]), which all of your Active Duty Operators share, and pays for nearly everything at the FOB [[src-activision-dmz-guide-part2-2026-10-09]]. Cash you find in Hajin counts only once you extract, while Dynamic Op rewards go straight to the Bank (reported) [[src-gamerfuzion-dmz-level-up-fast-2026-10-21]] [[src-codmunity-dmz-guide-2026-10-24]] [clm_f17f3ff635f7].
 
 ## How do you earn DMZ Cash?
 

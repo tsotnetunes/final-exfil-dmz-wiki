@@ -25,7 +25,7 @@ _Generated from 1 confirmed and 5 reported claims across 6 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-The Stash is your storage at the FOB, open from the start and kept between deployments; you also set your next loadout here [[src-activision-dmz-deep-dive-2026-06]] [[src-activision-dmz-guide-part1-2026-10-05]]. It is shared by all your Active Duty Operators [[src-activision-dmz-guide-part2-2026-10-09]], and what you extract is what builds it up [clm_fe49071395d4].
+The Stash is your storage at the FOB, open from the start and kept between deployments; you also set your next loadout here [[src-activision-dmz-deep-dive-2026-06]] [[src-activision-dmz-guide-part1-2026-10-05]]. Every one of your Active Duty Operators uses this same Stash [[src-activision-dmz-guide-part2-2026-10-09]], and what you extract is what builds it up [clm_fe49071395d4].
 
 ## How much does the Stash hold?
 
@@ -33,7 +33,7 @@ At first 40 items and 12 weapons, counted separately [[src-activision-dmz-guide-
 
 ## What goes in the Stash?
 
-Weapons, gear, consumables, 3D Printer Ingredients, keys and valuables; you can sort by type or rarity and merge stacks [[src-activision-dmz-guide-part2-2026-10-09]]. The four Resources (Synthetics, Electronics, Chemicals, Metals) are broken down the moment you loot them and take no Stash slots [[src-activision-dmz-guide-part2-2026-10-09]]. After every exfil, move what you will need later into the Stash and set the loadout for your next infil [[src-activision-dmz-guide-part1-2026-10-05]].
+Keys, weapons, valuables, gear, consumables and 3D Printer Ingredients; you can sort by type or rarity and merge stacks [[src-activision-dmz-guide-part2-2026-10-09]]. The four Resources (Synthetics, Electronics, Chemicals, Metals) are broken down the moment you loot them and take no Stash slots [[src-activision-dmz-guide-part2-2026-10-09]]. After every exfil, move what you will need later into the Stash and set the loadout for your next infil [[src-activision-dmz-guide-part1-2026-10-05]].
 
 ## What is the Overflow Stash?
 
@@ -41,7 +41,7 @@ Items that land in the Overflow Stash have to be sorted out before your next dep
 
 ## What do you carry into Hajin?
 
-Without a backpack you carry the Basic Pack with 8 slots. Better backpacks add slots, weapon slots and [[secure-slots]]; anything outside Secure Slots is lost if you fail to exfil ([[what-carries-over]]) [[src-activision-dmz-guide-part2-2026-10-09]]. Backpack recipes come with DMZ levels 1 and 2, the Large Backpack at 34 and the Medium Weapon Backpack at 61 [[src-activision-ready-for-launch-progression-2026-10-19]].
+Without a backpack you carry the Basic Pack with 8 slots. Better backpacks add slots, weapon slots and [[secure-slots]]; a failed exfil costs you anything outside Secure Slots ([[what-carries-over]]) [[src-activision-dmz-guide-part2-2026-10-09]]. Backpack recipes come with DMZ levels 1 and 2, the Large Backpack at 34 and the Medium Weapon Backpack at 61 [[src-activision-ready-for-launch-progression-2026-10-19]].
 
 ## What happens to duplicated items?
 

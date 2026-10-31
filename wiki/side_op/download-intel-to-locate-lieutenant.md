@@ -14,7 +14,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Download Intel To Locate Lieutenant is the Side Op at a Lieutenant Hunt tower: you climb the tall lattice tower, use the laptop or upload station at the top, and the game marks the general area of the nearest active Lieutenant [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]] [[src-dmzcodex-com-operations-2026-10-31]]. It is the free way to start a Lieutenant hunt ([[lieutenants]]); the paid way is Boss Board intel ([[paid-intel]]) [[src-activision-dmz-guide-part2-2026-10-09]]. Since 30 Oct 2026 every Side Op pays 2,000 DMZ Cash [[src-mw4-launch-patch-notes-2026-10-29]].
+Download Intel To Locate Lieutenant is the Side Op at a Lieutenant Hunt tower: you climb the tall lattice tower, use the laptop or upload station once you reach the top, and the game then marks the general area of the nearest active Lieutenant [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]] [[src-dmzcodex-com-operations-2026-10-31]]. It is the free way to start a Lieutenant hunt ([[lieutenants]]); the paid way is Boss Board intel ([[paid-intel]]) [[src-activision-dmz-guide-part2-2026-10-09]]. Since 30 Oct 2026 every Side Op pays 2,000 DMZ Cash [[src-mw4-launch-patch-notes-2026-10-29]].
 
 ## How do you find and use a tower?
 

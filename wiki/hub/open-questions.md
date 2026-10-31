@@ -41,6 +41,6 @@ What the Codex cannot answer yet, as of 31 Oct 2026. When one of these is settle
 - **Long-term support.** Developers plan to support and evolve DMZ without commitments beyond the early seasons [[src-westie-dmz-ama-recap-2026-10-11]]. See [[what-post-launch-support-is-planned-for-dmz]].
 
 ## Enemies and PvP
-- **Hunters and their own Bounty.** The June intel said hunting bounty targets can lessen the target on your own back; the 9 Oct guide does not say whether killing a Wanted player lowers your own Bounty ([[bounty-system]]).
+- **Hunters and their own Bounty.** The June intel said that going after bounty targets can make you less of a target yourself; the 9 Oct guide does not say whether killing a Wanted player lowers your own Bounty ([[bounty-system]]).
 - **The hooded Lieutenant.** The 9 Oct guide shows a hooded Lieutenant with a sniper rifle without naming her; community databases list a Lieutenant named Iskra (reported) [[src-dmzhub-bosses-2026-10-31]], but no official text names her ([[lieutenants]]).
 <!-- human:end -->

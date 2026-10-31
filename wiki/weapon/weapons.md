@@ -99,7 +99,7 @@ Not stated. The 28 Oct weapon changes sit under Multiplayer in the patch notes, 
 From the launch patch notes [[src-mw4-launch-patch-notes-2026-10-29]]:
 
 - **20 Oct:** the ISO Nightshade's Apex did not work as intended in DMZ.
-- **21 Oct:** on PC, holding a Heartbeat Sensor with a weapon equipped hurt performance.
+- **21 Oct:** on PC, performance suffered when a Heartbeat Sensor was held while a weapon was equipped.
 - **28 Oct:** guns could drop when you moved them from the primary slot into a Backpack, or vanish after repeated swaps with a Backpack that stores weapons; and adding items to your Backpack with the 3D Printer during a deployment could send you in without your Free Loadout weapons.
 
 Gunsmith fixes are on [[gunsmith]].

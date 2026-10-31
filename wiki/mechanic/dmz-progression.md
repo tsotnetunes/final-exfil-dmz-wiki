@@ -26,7 +26,7 @@ DMZ has its own player level from 1 to 70, separate from the 1 to 55 player leve
 
 ## How does DMZ XP work?
 
-DMZ XP comes from Story Missions, Dynamic Operations, Side Ops and other activities [[src-activision-ready-for-launch-progression-2026-10-19]]: opening loot containers, DMZ Orders, Lieutenants, Commanders and combat, where rival Operators pay more than AI [[src-activision-dmz-guide-part1-2026-10-05]]. It also counts toward the 1 to 55 player level, but Multiplayer and Warzone XP never raise the DMZ level [[src-activision-ready-for-launch-progression-2026-10-19]] [clm_5153b4480340]. You keep it even when you fail to exfil [[src-activision-dmz-guide-part2-2026-10-09]] [clm_43eb9661dfec]. One fan site saw no XP from Orders (reported) [[src-codcentral-dmz-xp-strategies-2026-10-30]], against the official list.
+DMZ XP comes from Dynamic Operations, Story Missions and Side Ops, among other things [[src-activision-ready-for-launch-progression-2026-10-19]]: opening loot containers, DMZ Orders, Lieutenants, Commanders and combat, where rival Operators pay more than AI [[src-activision-dmz-guide-part1-2026-10-05]]. It also counts toward the 1 to 55 player level, but Multiplayer and Warzone XP never raise the DMZ level [[src-activision-ready-for-launch-progression-2026-10-19]] [clm_5153b4480340]. You keep it even when you fail to exfil [[src-activision-dmz-guide-part2-2026-10-09]] [clm_43eb9661dfec]. One fan site saw no XP from Orders (reported) [[src-codcentral-dmz-xp-strategies-2026-10-30]], against the official list.
 
 ## What does each DMZ level unlock?
 

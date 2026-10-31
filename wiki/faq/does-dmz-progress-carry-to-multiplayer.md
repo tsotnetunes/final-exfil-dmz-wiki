@@ -26,5 +26,5 @@ Yes: finishing Campaign missions unlocks eight base Operators, a calling card, a
 From 6 Nov 2026 Modern Warfare 4 is fully integrated with Warzone [[src-activision-season-1-announcement-2026-10-28]]; the post does not say how that touches DMZ progress. See [[is-dmz-part-of-warzone]].
 
 ## Any known problems?
-Entering player Prestige from the DMZ FOB has upset Multiplayer loadouts: a fix on 28 Oct 2026 made it reset them correctly, and a known issue remains for players who prestiged from DMZ menus [[src-mw4-launch-patch-notes-2026-10-29]]. Killstreak indicators from a previous Multiplayer match could carry into DMZ until a fix on 23 Oct [[src-mw4-launch-patch-notes-2026-10-29]]. The DMZ level track: [[what-is-the-max-level-in-dmz]].
+Entering player Prestige from the DMZ FOB has upset Multiplayer loadouts: a fix on 28 Oct 2026 made it reset them correctly, and a known issue remains for players who prestiged from DMZ menus [[src-mw4-launch-patch-notes-2026-10-29]]. Until a fix on 23 Oct, DMZ could show Killstreak indicators left over from your last Multiplayer match [[src-mw4-launch-patch-notes-2026-10-29]]. The DMZ level track: [[what-is-the-max-level-in-dmz]].
 <!-- human:end -->

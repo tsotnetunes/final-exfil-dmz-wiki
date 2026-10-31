@@ -32,7 +32,7 @@ Once it is destroyed, loot three spots: the front, the back and the top [[src-al
 
 ## What is the Battle Tank Threat Briefing?
 
-An event in the first part of Season 1, which starts on 6 Nov 2026 (no event dates yet): take one tank part per deployment, and the more parts you collect over several deployments, the better the reward. When one squad member exfils with a part, the whole squad gets credit [[src-activision-season-1-announcement-2026-10-28]].
+An event in Season 1's first part (the season starts on 6 Nov 2026; no event dates yet): take one tank part per deployment, and the more parts you collect over several deployments, the better the reward. When one squad member exfils with a part, the whole squad gets credit [[src-activision-season-1-announcement-2026-10-28]].
 
 The other Commanders are on [[commander-threats]].
 <!-- human:end -->

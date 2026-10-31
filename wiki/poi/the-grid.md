@@ -48,7 +48,7 @@ Central Hajin City, former South Korean side, between [[nurigo-mall]] to the nor
 
 ## What is there?
 
-Donpyeong Gate, the Hanex Bank tower, the DBN TV tower (the tallest building in Hajin), the red-roofed twin towers of the Nenshin Tech Complex, the Minsok Art School, a construction zone and Hotel Lucera [[src-activision-dmz-guide-part1-2026-10-05]]; fights run between rooftops [clm_c72f996bc161]. A bank vault holds two safes behind a code (reported) [[src-codmunity-hajin-map-2026-10-31]] [[src-gamerfuzion-orders-page-14-2026-10-30]] ([[bank-vaults]]). The construction zone covers several blocks on The Grid's east side, and the 3D Printer points to it for Stock Rods (reported) [[src-dmzhub-locations-2026-10-31]] [[src-gamerfuzion-solo-vault-run-2026-10-25]].
+Donpyeong Gate, the DBN TV tower (no building in Hajin is taller), the Hanex Bank tower, the red-roofed twin towers of the Nenshin Tech Complex, the Minsok Art School, a construction zone and Hotel Lucera [[src-activision-dmz-guide-part1-2026-10-05]]; fights run between rooftops [clm_c72f996bc161]. A bank vault holds two safes behind a code (reported) [[src-codmunity-hajin-map-2026-10-31]] [[src-gamerfuzion-orders-page-14-2026-10-30]] ([[bank-vaults]]). The construction zone covers several blocks on The Grid's east side, and the 3D Printer points to it for Stock Rods (reported) [[src-dmzhub-locations-2026-10-31]] [[src-gamerfuzion-solo-vault-run-2026-10-25]].
 
 ## Which locked rooms are here?
 

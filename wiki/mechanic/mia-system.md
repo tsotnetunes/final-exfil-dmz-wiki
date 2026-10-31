@@ -19,7 +19,7 @@ _Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-An Operator who dies in a deployment goes MIA (missing in action) and cannot deploy again until you recover them or dismiss them [[src-activision-dmz-guide-part2-2026-10-09]] [clm_15b35293c60f]. Meanwhile you can swap in another Active Duty Operator at Ready Up ([[active-duty]]) [[src-activision-dmz-guide-part2-2026-10-09]].
+An Operator who dies in a deployment is listed as missing in action (MIA) and cannot be deployed again until you recover them or dismiss them [[src-activision-dmz-guide-part2-2026-10-09]] [clm_15b35293c60f]. Meanwhile you can switch to another Active Duty Operator at Ready Up ([[active-duty]]) [[src-activision-dmz-guide-part2-2026-10-09]].
 
 ## How do you get an MIA Operator back?
 

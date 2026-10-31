@@ -25,7 +25,7 @@ Once, for one bug. On 21 Oct 2026, during early access, Activision said that pla
 | 20 Oct 2026 | various crashes and stability problems in early access [[src-mw4-launch-patch-notes-2026-10-29]] |
 | 21 Oct | server-side changes for DMZ disconnects [clm_2e81dbaa4c19] |
 | 23 Oct | stability work, including disconnects [[src-mw4-launch-patch-notes-2026-10-29]] |
-| 24 Oct | party leaders could pull teammates out of DMZ without consent, leaving their Operators MIA [[src-mw4-launch-patch-notes-2026-10-29]] |
+| 24 Oct | a party leader could remove teammates from DMZ without their agreement, leaving their Operators MIA [[src-mw4-launch-patch-notes-2026-10-29]] |
 | 27 Oct | the network error some PC players got when extracting with a Dog Tag, fixed for all PC players [[src-codupdates-pc-dog-tag-network-error-2026-10-27]] [clm_6155f83bd127] |
 | 29 Oct | extracting with a disconnected teammate's Dog Tag no longer works [[src-mw4-launch-patch-notes-2026-10-29]] |
 | 30 Oct | problems that could crash servers during play [[src-mw4-launch-patch-notes-2026-10-29]] |

@@ -35,7 +35,7 @@ Eastern Hajin City, former South Korean side, between the nuclear plant to the n
 
 ## What is there?
 
-Homes around the luxury La Grande Vie tower, a tented market by the sea, a bridge to a pier and lighthouse, a train station, a small park and the rock outcrop of Oamsik Turtle Island; the train and the monorail still run here, and the southern tip shows signs of an amphibious landing [[src-activision-dmz-guide-part1-2026-10-05]].
+Homes around the luxury La Grande Vie tower, a tented market by the sea, a bridge out to a pier with a lighthouse, a train station, a small park and the rock outcrop of Oamsik Turtle Island; the train and the monorail still run here, and the southern tip shows signs of an amphibious landing [[src-activision-dmz-guide-part1-2026-10-05]].
 
 | Spot | What players report |
 | --- | --- |

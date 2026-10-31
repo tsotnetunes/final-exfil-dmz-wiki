@@ -31,7 +31,7 @@ A Dog Tag is two things in DMZ: the tag every Operator wears, which levels up an
 
 ## What is your Operator's Dog Tag?
 
-Each Active Duty Operator has their own tag with 18 levels in six tiers (Steel, Bronze, Silver, Gold, Damascus, Onyx, each I to III); every level gives one Trait Point ([[trait-points]]) [[src-activision-dmz-guide-part2-2026-10-09]]. It rises with the DMZ XP you earn with that Operator [[src-gamerfuzion-dmz-level-up-fast-2026-10-21]]; XP per level is on [[dmz-progression]]. The tag also shows the Operator's Bounty and how many Operators they have killed, and another player who kills you can take it [[src-activision-dmz-guide-part2-2026-10-09]].
+Each Active Duty Operator carries a separate tag with 18 levels in six tiers (Steel, Bronze, Silver, Gold, Damascus, Onyx, each I to III); every level gives one Trait Point ([[trait-points]]) [[src-activision-dmz-guide-part2-2026-10-09]]. It rises with the DMZ XP you earn with that Operator [[src-gamerfuzion-dmz-level-up-fast-2026-10-21]]; XP per level is on [[dmz-progression]]. The tag also shows the Operator's Bounty and how many Operators they have killed, and another player who kills you can take it [[src-activision-dmz-guide-part2-2026-10-09]].
 
 ## What do you get for extracting someone's tag?
 

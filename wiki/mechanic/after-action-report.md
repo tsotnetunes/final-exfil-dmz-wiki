@@ -18,7 +18,7 @@ The After Action Report appears after every deployment, whether you extracted or
 ## What is on each page?
 
 - **Report:** what you brought back (valuables, 3D Printer Ingredients, rare finds) and the DMZ Cash you picked up or earned, which goes into your Bank ([[wallet]]); the Backpack and Loadout contents are listed too [[src-activision-dmz-guide-part1-2026-10-05]].
-- **Rating:** a grade from F to S++ built from Objectives, Combat and Looting, with totals for AI kills, missions completed, loot containers opened and Side Ops completed, each with its XP [[src-activision-dmz-guide-part1-2026-10-05]].
+- **Rating:** a grade from F to S++ built from Objectives, Combat and Looting, with counts of the missions and Side Ops you completed, the AI you killed and the loot containers you opened, each with its XP [[src-activision-dmz-guide-part1-2026-10-05]].
 - **Level:** the XP added to your DMZ Player Level and to the Operator's Dog Tag level ([[dmz-progression]], [[dog-tags]]) [[src-activision-dmz-guide-part1-2026-10-05]].
 - **Summary:** the DMZ Orders you completed and their rewards; weapon level-ups follow back at the [[fob]] [[src-activision-dmz-guide-part1-2026-10-05]].
 

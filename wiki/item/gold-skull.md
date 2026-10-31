@@ -32,5 +32,5 @@ In high-tier key rooms. Guides found them in the Counting Room Vault on the main
 
 ## How do you keep one safe?
 
-Carry it out in a Secure Slot: a guide's rule of thumb is that every red (Ultra) item belongs there, because the rest of your backpack is lost if you fail to exfil [[src-codmunity-dmz-guide-2026-10-24]]. All other valuables are compared on [[valuables]].
+Carry it out in a Secure Slot: a guide's rule of thumb is that every red (Ultra) item belongs there, because a failed exfil costs you the rest of your backpack [[src-codmunity-dmz-guide-2026-10-24]]. All other valuables are compared on [[valuables]].
 <!-- human:end -->

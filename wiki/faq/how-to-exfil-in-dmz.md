@@ -14,7 +14,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Head for an exfil site, shown on the Tac-Map and by green smoke, call in the Twin Heli, defend the spot until it lands, then board [[src-activision-dmz-guide-part1-2026-10-05]]. A Fulton balloon or a Flare are other ways out [[src-activision-dmz-guide-part1-2026-10-05]]. What you carry out is yours to keep, while a failed exfil loses everything outside Secure Slots [[src-activision-dmz-guide-part2-2026-10-09]].
+Head for an exfil site (the Tac-Map shows it, and it gives off green smoke), summon the Twin Heli, defend the spot until it lands, then board [[src-activision-dmz-guide-part1-2026-10-05]]. A Fulton balloon or a Flare are other ways out [[src-activision-dmz-guide-part1-2026-10-05]]. What you carry out is yours to keep, while a failed exfil loses everything outside Secure Slots [[src-activision-dmz-guide-part2-2026-10-09]].
 
 ## How long does it take?
 Players report about 90 seconds from the call until the helicopter is down (reported) [clm_0654da754a95]. Once you are aboard, a community guide reports a 5-second countdown when you are solo and about 30 to 45 seconds with a squad until everyone is on board (reported) [[src-codmunity-dmz-guide-2026-10-24]]. You can still be shot inside the helicopter (reported) [clm_cf56ba61e6f8].
@@ -24,7 +24,7 @@ Radiation spreads across Hajin during a match, and the Time Remaining timer show
 
 ## What can go wrong?
 - Squads wait near exfils; watch the site from cover before you call it in [[src-conquestcapped-dmz-solo-2026-10-26]].
-- Enemy helicopters could crash into the exfil helicopter and kill players until a fix on 29 Oct 2026 [[src-mw4-launch-patch-notes-2026-10-29]].
+- Until a fix on 29 Oct 2026, an enemy helicopter could collide with the exfil helicopter and kill players [[src-mw4-launch-patch-notes-2026-10-29]].
 - The exfil helicopter could disappear with players inside until a fix on 24 Oct [[src-mw4-launch-patch-notes-2026-10-29]].
 
 ## Are there shortcuts?

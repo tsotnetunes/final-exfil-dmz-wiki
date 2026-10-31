@@ -24,7 +24,7 @@ The 3-Plate Armor Vest is the standard plate carrier for three armour plates, an
 
 ## What happened to the level 37 reward?
 
-At launch the level 37 reward did not arrive. The developers fixed it on 28 Oct 2026, but the fix only worked for players who had not reached level 37 yet; on 29 Oct they said they were working on granting the vest to everyone who had passed the level earlier [[src-mw4-launch-patch-notes-2026-10-29]]. Whether those players have received it is not confirmed yet.
+At launch the level 37 reward did not arrive. The developers fixed it on 28 Oct 2026, but the fix only helped players still below level 37; on 29 Oct they said they were working on granting the vest to everyone who had passed the level earlier [[src-mw4-launch-patch-notes-2026-10-29]]. Whether those players have received it is not confirmed yet.
 
 ## How rare and how valuable is it?
 

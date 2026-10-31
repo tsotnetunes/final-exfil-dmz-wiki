@@ -39,5 +39,5 @@ Early access: 5,000 DMZ Cash and about 3,000 XP, with two crates of stims, an in
 ## Known bugs and fixes
 
 - 20 Oct 2026: safes holding keypad codes could spawn in rooms you could not open [[src-mw4-launch-patch-notes-2026-10-29]].
-- 30 Oct 2026: the bomb could be missing from the marked vehicle's trunk [[src-mw4-launch-patch-notes-2026-10-29]].
+- 30 Oct 2026: sometimes the bomb was not in the trunk of the marked vehicle [[src-mw4-launch-patch-notes-2026-10-29]].
 <!-- human:end -->

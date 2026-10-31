@@ -40,5 +40,5 @@ His camp is full of ghillie-suited guards and decoys that look like him, and kil
 
 ## What did the field report say?
 
-The 5 Oct guide's short story "The Forest Phantom" gave him an M4 and camouflaged escorts, and put him in the high woodland above Hanrim Village [[src-activision-dmz-guide-part1-2026-10-05]]. In the game he carries a marksman rifle instead [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-gfinity-dmz-lieutenants-2026-10-22]]. All Lieutenants: [[lieutenants]].
+The 5 Oct guide's short story "The Forest Phantom" gave him an M4 and camouflaged escorts, and placed him in the wooded high ground above Hanrim Village [[src-activision-dmz-guide-part1-2026-10-05]]. In the game he carries a marksman rifle instead [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-gfinity-dmz-lieutenants-2026-10-22]]. All Lieutenants: [[lieutenants]].
 <!-- human:end -->

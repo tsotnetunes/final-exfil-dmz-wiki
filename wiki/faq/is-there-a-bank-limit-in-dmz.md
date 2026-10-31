@@ -34,5 +34,5 @@ It is reported to be lost without a warning (reported) [[src-codmunity-dmz-guide
 Buy the next Bank Upgrade and keep the valuables it asks for, such as Infantry Invasion Plans for level III, instead of selling them [[src-dmzhub-upgrades-2026-10-31]] [[src-gamerfuzion-dmz-money-2026-10-26]]. DMZ levels also give Bank capacity rewards [[src-activision-dmz-guide-part2-2026-10-09]]. See [[wallet]] and [[3d-printer]].
 
 ## Is the Bank shared?
-Yes: the Bank, Stash, Resources and Ingredients are shared by all your Active Duty Operators [[src-activision-dmz-guide-part2-2026-10-09]]. Earning more: [[how-to-make-money-in-dmz]].
+Yes: every one of your Active Duty Operators draws on the same Bank, Stash, Resources and Ingredients [[src-activision-dmz-guide-part2-2026-10-09]]. Earning more: [[how-to-make-money-in-dmz]].
 <!-- human:end -->

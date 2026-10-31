@@ -17,7 +17,7 @@ DMZ keeps your long-term progress between deployments: the FOB, your Stash and B
 
 ## What do you keep between deployments?
 
-- **FOB and storage.** Station unlocks and upgrades, the [[stash]] and the Bank ([[wallet]]); Stash, Bank, Resources and Ingredients are shared by all your Active Duty Operators [[src-activision-dmz-deep-dive-2026-06]] [[src-activision-dmz-guide-part2-2026-10-09]].
+- **FOB and storage.** Station unlocks and upgrades, the [[stash]] and the Bank ([[wallet]]); every Active Duty Operator you have draws on the same Stash, Bank, Resources and Ingredients [[src-activision-dmz-deep-dive-2026-06]] [[src-activision-dmz-guide-part2-2026-10-09]].
 - **Operators.** Each keeps their Traits, Dog Tag level, backpack and loadout [[src-activision-dmz-deep-dive-2026-06]] [[src-activision-dmz-guide-part2-2026-10-09]] [[src-cod-dmz-progression-video-2026-10-07]].
 - **Unlocks.** Recipes and Weapon Manuals become permanent once extracted ([[weapon-manuals]]) [[src-activision-dmz-guide-part2-2026-10-09]].
 - **Levels.** DMZ XP counts even when you fail to exfil [[src-activision-dmz-guide-part2-2026-10-09]] [clm_43eb9661dfec]. Weapon levels and attachments are shared with Multiplayer, and anything unlocked in either mode can be bought at the Gunsmith with DMZ Cash [[src-activision-mw4-launch-weapons-2026-10-19]].

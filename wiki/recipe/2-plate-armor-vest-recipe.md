@@ -32,5 +32,5 @@ An early page of [[dmz-orders]] (page 4) asks you to print a Medium Backpack and
 
 ## Other ways to get one, and what comes next
 
-The Basic Armor Kit, a reward at DMZ levels 6 and 21, contains 2-Plate Carriers and an Armor Box [[src-activision-ready-for-launch-progression-2026-10-19]]. The next step up are the 2-Plate Ballistic Gel Vest and 2-Plate Helmet Armor Vest, whose recipes you find in Hajin, and the 3-Plate Armor Vest from DMZ Orders [[src-codcentral-3d-printer-recipes-2026-10-20]]; see [[recipes]] and [[3-plate-armor-vest-recipe]].
+The Basic Armor Kit, a reward at DMZ levels 6 and 21, holds an Armor Box along with 2-Plate Carriers [[src-activision-ready-for-launch-progression-2026-10-19]]. The next step up are the 2-Plate Ballistic Gel Vest and 2-Plate Helmet Armor Vest, whose recipes you find in Hajin, and the 3-Plate Armor Vest from DMZ Orders [[src-codcentral-3d-printer-recipes-2026-10-20]]; see [[recipes]] and [[3-plate-armor-vest-recipe]].
 <!-- human:end -->

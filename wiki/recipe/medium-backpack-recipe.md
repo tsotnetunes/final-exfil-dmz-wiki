@@ -20,7 +20,7 @@ The Medium Backpack costs 50 Synthetics and 5 [[rigid-synthetics]] at the [[3d-p
 
 ## Why does it matter?
 
-Without a backpack you carry the Basic Pack with 8 slots. Better backpacks add slots, weapon slots and [[secure-slots]], and whatever sits outside the Secure Slots is lost if you fail to exfil [[src-activision-dmz-guide-part2-2026-10-09]]. The Small Backpack (25 Synthetics, 25 Metals) is cheaper but is not described with Secure Slots [[src-activision-dmz-guide-part2-2026-10-09]].
+Without a backpack you carry the Basic Pack with 8 slots. Better backpacks add slots, weapon slots and [[secure-slots]], and a failed exfil loses whatever sits outside the Secure Slots [[src-activision-dmz-guide-part2-2026-10-09]]. The Small Backpack (25 Synthetics, 25 Metals) is cheaper but is not described with Secure Slots [[src-activision-dmz-guide-part2-2026-10-09]].
 
 ## Where do you get Rigid Synthetics?
 

@@ -81,7 +81,7 @@ DMZ's story follows the Modern Warfare 4 Campaign: a power vacuum in Hajin and a
 | 23 Oct 2026 | Enemy helicopters could hang in midair during a mission the notes call "Fallout". |
 | 24 Oct 2026 | Too many reinforcements in the Shopping mission ([[operation-shopping-hacks]]); objective markers on the wrong enemy in the code steps of a Story Mission the notes call "Dark Zone". |
 | 25 Oct 2026 | The hospital lift objective in [[operation-critical-extraction]] could be skipped. |
-| 28 Oct 2026 | The Airbase Access Card could not be upgraded during a Story Mission while in the Secure Slot ([[operation-iron-citadel]]). |
+| 28 Oct 2026 | An Airbase Access Card kept in the Secure Slot could not be upgraded while a Story Mission was under way ([[operation-iron-citadel]]). |
 
 All rows: [[src-mw4-launch-patch-notes-2026-10-29]]. "Fallout" and "Dark Zone" match no mission name in the menu; which missions they mean is not confirmed.
 

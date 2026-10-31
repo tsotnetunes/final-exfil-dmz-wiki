@@ -22,7 +22,7 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-The Bank is where your DMZ Cash lives between deployments; it is shared by all your Active Duty Operators [[src-activision-dmz-guide-part2-2026-10-09]]. The June intel called it the Wallet [[src-activision-dmz-deep-dive-2026-06]]. How to earn and spend the cash: [[dmz-cash]].
+The Bank is where your DMZ Cash lives between deployments, and all of your Active Duty Operators draw on that one Bank [[src-activision-dmz-guide-part2-2026-10-09]]. The June intel called it the Wallet [[src-activision-dmz-deep-dive-2026-06]]. How to earn and spend the cash: [[dmz-cash]].
 
 ## How does cash get into the Bank?
 

@@ -38,7 +38,7 @@ Effects: [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-202
 - On loot cards Tacticals are cheap, 50 to 200 DMZ Cash, so they are rarely worth selling [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]].
 - Players report taking down the Colossus solo with two Shock Sticks and seven or eight Thermite [clm_d12acdac5305]; see [[commander-threats]].
 - The Warfighter Trait Equipment Professional slowly recharges your Lethals and Tacticals, and Combat Resistance weakens enemy Tacticals used on you [[src-activision-dmz-guide-part2-2026-10-09]]. See also [[auto-fill]].
-- Fixed on 21 Oct 2026: a PC performance drop while holding a Heartbeat Sensor with a weapon equipped [[src-mw4-launch-patch-notes-2026-10-29]].
+- Fixed on 21 Oct 2026: performance dropped on PC when you held a Heartbeat Sensor while a weapon was equipped [[src-mw4-launch-patch-notes-2026-10-29]].
 
 Lethal equipment is on [[lethal-equipment]].
 <!-- human:end -->

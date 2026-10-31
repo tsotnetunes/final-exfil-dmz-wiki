@@ -35,7 +35,7 @@ Hajin River Heights is a battered, Medium-threat housing district in the southea
 
 ## Where is it?
 
-Southeast Hajin, former South Korean side, south of [[wolves-stadium]] and bounded by the south fork of the Hajin River [[src-activision-dmz-guide-part1-2026-10-05]].
+Southeast Hajin, former South Korean side, south of [[wolves-stadium]] and bounded by the Hajin River's south fork [[src-activision-dmz-guide-part1-2026-10-05]].
 
 ## How dangerous is it?
 

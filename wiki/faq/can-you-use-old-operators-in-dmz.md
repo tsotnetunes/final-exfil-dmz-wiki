@@ -23,7 +23,7 @@ No. The developers say DMZ belongs to Modern Warfare 4 rather than Warzone, so O
 - Season 1 BlackCell includes the XERO Operator [[src-activision-season-1-announcement-2026-10-28]].
 
 ## Can you change an Operator's skin?
-Yes: an Active Duty Operator's skin can be changed, and their permanent Prestige Traits stay with them when you do [[src-activision-dmz-guide-part2-2026-10-09]]. A fix on 20 Oct 2026 let players equip an Active Duty Operator in their Showcase again [[src-mw4-launch-patch-notes-2026-10-29]].
+Yes: an Active Duty Operator's skin can be changed, and their permanent Prestige Traits stay with them when you do [[src-activision-dmz-guide-part2-2026-10-09]]. Since a fix on 20 Oct 2026, an Active Duty Operator can be placed in your Showcase again [[src-mw4-launch-patch-notes-2026-10-29]].
 
 ## Does the Operator you pick matter?
 Yes, because each Active Duty Operator carries their own Dog Tag, Traits, backpack and loadout [[src-activision-dmz-guide-part2-2026-10-09]] [[src-cod-dmz-progression-video-2026-10-07]]. Changing a skin does not reset any of it [[src-activision-dmz-guide-part2-2026-10-09]]. See [[active-duty]] and [[how-to-get-more-active-duty-slots]].

@@ -77,7 +77,7 @@ Two ways. DMZ levels add station upgrades such as printer categories, a third Op
 
 ## What is shared, and how does it work in a party?
 
-The Bank, Stash, Resources and Ingredients are shared by all your Active Duty Operators [[src-activision-dmz-guide-part2-2026-10-09]]. The FOB is a base you walk around with your squad [clm_dffa557cf032] [clm_9f8c8b6646c3]; in a party it looks like the party leader's progress, while each station's menu shows your own progress and items (the developers' Q&A via a video recap) [[src-westie-dmz-ama-recap-2026-10-11]] [clm_f5097de48b29]. What persists between matches: [[what-carries-over]].
+All of your Active Duty Operators use one shared Bank, Stash, Resources and Ingredients [[src-activision-dmz-guide-part2-2026-10-09]]. The FOB is a base you walk around with your squad [clm_dffa557cf032] [clm_9f8c8b6646c3]; in a party it looks like the party leader's progress, while each station's menu shows your own progress and items (the developers' Q&A via a video recap) [[src-westie-dmz-ama-recap-2026-10-11]] [clm_f5097de48b29]. What persists between matches: [[what-carries-over]].
 
 ## Known problems
 

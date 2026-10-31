@@ -14,7 +14,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Open the Ping Wheel: it can request a Truce or ask to join up with another squad, and proximity chat is the fastest way to talk to Operators near you [[src-activision-dmz-guide-part1-2026-10-05]]. The developers say squads can truce, betray or assimilate, and an assimilated squad is capped at four players (as relayed) [[src-westie-dmz-ama-recap-2026-10-11]].
+Open the Ping Wheel: it can request a Truce or ask to join up with another squad, and proximity chat is the quickest way to talk to Operators near you [[src-activision-dmz-guide-part1-2026-10-05]]. The developers say squads can truce, betray or assimilate, and an assimilated squad is capped at four players (as relayed) [[src-westie-dmz-ama-recap-2026-10-11]].
 
 ## Truce or assimilation?
 A truce is an agreement not to fight; players report the truce function lets two squads work through a deployment together (reported) [clm_3f9c4cb39462]. Assimilation means joining the other squad after you have spawned, up to the cap of four [[src-westie-dmz-ama-recap-2026-10-11]] [clm_5b76bd4676ec]. A fix on 29 Oct 2026 lets you pick up a hostage after assimilating, which used to fail [[src-mw4-launch-patch-notes-2026-10-29]].

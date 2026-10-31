@@ -33,5 +33,5 @@ Not before your upgrades are done. Players report that end-game FOB upgrades tak
 
 ## How do you keep one safe?
 
-Put it in a Secure Slot on the way out: Ultra items are worth protecting, and anything outside the Secure Slots is lost if you fail to exfil [[src-codmunity-dmz-guide-2026-10-24]]. See [[backpacks]] and [[secure-slots]]. Every other valuable is on [[valuables]].
+Put it in a Secure Slot on the way out: Ultra items are worth protecting, and a failed exfil costs you anything outside the Secure Slots [[src-codmunity-dmz-guide-2026-10-24]]. See [[backpacks]] and [[secure-slots]]. Every other valuable is on [[valuables]].
 <!-- human:end -->
