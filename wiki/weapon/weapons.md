@@ -82,7 +82,7 @@ Each Lieutenant carries one gun and can drop it, usually as the plain gun and ra
 | [[the-doctor]] | [[patriot-xmr]] | Doctor's Salve (Legendary) |
 | [[the-warden]] | [[x-58-nyx]] | Incarcerator (Ultra) |
 | [[the-scavenger]] | Oris 8.6 | none reported |
-| The Chemist ([[the-chemist-abu-nassar]]) | not settled: Oris 8.6 or [[kastov-762]] | Revenant (Legendary marksman rifle) |
+| [[the-chemist-abu-nassar]] | not settled: Oris 8.6 or [[kastov-762]] | Revenant (Legendary marksman rifle) |
 
 The guns are the same in two or more guides [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]], except the Chemist's: two guides give an Oris 8.6 and one a Kastov 762 [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. The named versions come from a guide that read them from its drops [[src-allthingshow-dmz-bosses-2026-10-21]], High Roller's Fortune from two others [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]], and players also report the Kraken dropping from Roze [clm_3359237cd043]. A DMZ Order suggests Lieutenants also keep a gun in their loot rooms (reported) [[src-dmzhub-weapons-2026-10-31]]. Where each one fights: [[lieutenants]]. Weapons you find come in rarities from Common to Ultra ([[weapon-customization]]) [[src-codmunity-dmz-guide-2026-10-24]].
 

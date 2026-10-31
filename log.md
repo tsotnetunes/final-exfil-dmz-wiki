@@ -1125,3 +1125,7 @@
 ## [2026-10-31 14:35 EDT] edit | 31 Oct reconciliation: facts each area found for other areas applied across 61 pages (Lieutenant guns and Legendaries, Season 1 bosses as announced, payouts, infil unlocks, printer at level 1, Bank caps both sourced), tank-looting folded into the tank Commander, a proposal to dispute a misread claim, 3 golden questions
 - changed: .kac 1, evals 1, index 11, index.md 1, proposals 1, raw 1, wiki 63
 - run: r-20261031-143556-ed97
+
+## [2026-10-31 14:37 EDT] edit | 31 Oct: the Chemist's name no longer shows twice in the Lieutenants, weapons and Legendary Dog Tag tables
+- changed: wiki 3
+- run: r-20261031-143709-31de

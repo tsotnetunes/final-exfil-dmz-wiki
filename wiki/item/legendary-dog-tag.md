@@ -36,7 +36,7 @@ Each named Lieutenant or boss drops a dog tag of their own, and these boss tags 
 | [[roze]] | [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] |
 | The Scavenger | [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] [clm_1b11a0105ecd] |
 | Iskra, Jin-Tae, The Doctor | [[src-dmzhub-items-2026-10-31]] |
-| The Chemist ([[the-chemist-abu-nassar]]) | [[src-dmzhub-items-2026-10-31]] |
+| [[the-chemist-abu-nassar]] | [[src-dmzhub-items-2026-10-31]] |
 | Jang-Ui | [clm_cd725da0354e] |
 
 ## What is it for?
