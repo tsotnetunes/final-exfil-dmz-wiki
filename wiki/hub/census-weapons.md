@@ -35,7 +35,9 @@ Launch weapons (33) and their Apex Attachments come from the official launch gui
 | APOC-338 | [[apoc-338]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |
 | Mosin-Nagant | [[mosin-nagant]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-activision-season-1-announcement-2026-10-28]] | published |
 | Axion, Cronen Squall | rows in [[weapons]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-codmunity-dmz-items-2026-10-26]] | published (rows; DMZ prices not confirmed) |
-| MAR-9, Oris 8.6, KG-7 Vulcan, Astaroth .57, Signal 50 | rows in [[weapons]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzcodex-gunsmith-2026-10-29]] | published (rows) |
+| KG-7 Vulcan | [[kg-7-vulcan]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzcodex-gunsmith-2026-10-29]] [[src-wzstats-dmz-meta-2026-10-31]] | published |
+| Astaroth .57 | [[astaroth-57]], alias Astraoth 57 on retired [[astraoth-57]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzcodex-gunsmith-2026-10-29]] [[src-allthingshow-roze-2026-10-21]] | published |
+| MAR-9, Oris 8.6, Signal 50 | rows in [[weapons]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzcodex-gunsmith-2026-10-29]] | published (rows) |
 | SANG 9mm, Krait P68, .50 GS, Mojave .357 | rows in [[weapons]] | [[src-activision-mw4-launch-weapons-2026-10-19]] | published (rows; DMZ prices not confirmed) |
 | PILA, RPG-8, JOKR, PM-40 Anvil, FSS Carbon Edge 1095 | rows in [[weapons]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-codmunity-dmz-items-2026-10-26]] | published (rows) |
 | Cronen Osprey (Season 1) | [[cronen-osprey-assault-rifle]] | [[src-activision-season-1-announcement-2026-10-28]] | published (out 6 Nov; DMZ route not confirmed) |

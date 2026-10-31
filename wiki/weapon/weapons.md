@@ -42,8 +42,8 @@ Names, classes and Apex Attachments are official [[src-activision-mw4-launch-wea
 | MAR-9 | Marksman rifle | MAR-9 Auto | 6,500 | none |
 | Oris 8.6 | Marksman rifle | Oris 8.6 Razor | 7,000 | none |
 | [[mosin-nagant]] | Marksman rifle | Mosin Harpoon | 7,500 | none |
-| KG-7 Vulcan | Sniper rifle | KG-7 Drillcharge | 16,000 | none |
-| Astaroth .57 | Sniper rifle | Astaroth .57 Infiltrator | 24,000 | none |
+| [[kg-7-vulcan]] | Sniper rifle | KG-7 Drillcharge | 16,000 | none |
+| [[astaroth-57]] | Sniper rifle | Astaroth .57 Infiltrator | 24,000 | none |
 | Signal 50 | Sniper rifle | Signal Inferno | 14,000 | none |
 | SANG 9mm | Pistol | SANG Breach | not listed | none |
 | Krait P68 | Pistol | Krait P68 Commando | not listed | none |

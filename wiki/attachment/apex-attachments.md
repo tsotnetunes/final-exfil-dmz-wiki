@@ -5,7 +5,7 @@ description: "Every Apex Attachment: 28 at launch, one per weapon except launche
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmzradar-gunsmith-2026-10-20, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-gamerfuzion-dmz-free-blueprints-2026-10-21]
+sources: [clm_e384ad820ccc, src-activision-mw4-launch-weapons-2026-10-19, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmzradar-gunsmith-2026-10-20, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-gamerfuzion-dmz-free-blueprints-2026-10-21]
 aliases: ["Apex", "Apex slot", "Apex list", "all Apex Attachments", "Han X20 Skybreaker", "M4 Hurricane", "Hyeon Hyperburst", "Hyperburst", "Patriot XMR Volt", "Kastov ARC", "Oden Sentinel", "Axion Clearcut", "Axion Reaver", "Cronen Maelstrom", "ISO Trace", "VEL 46 Snap", "Striga Rampage", "PPSh-41 Ember", "X-58 Void", "Rezi 12 Enforcer", "Warlord Lumen", "FiNN Adverse", "Type 73 Assault", "APOC-338 Praetor", "MAR-9 Auto", "Oris 8.6 Razor", "Mosin Harpoon", "KG-7 Drillcharge", "Astaroth .57 Infiltrator", "Signal Inferno", "SANG Breach", "Krait P68 Commando", "GS Magna", "Mojave Lawless", "Cronen Helix Mk. II", "CSG Crossfire", "JAK Barrage", "Hyeon Auto", "Kastov 545"]
 ---
 <!-- generated:start -->
@@ -54,8 +54,8 @@ Launch list from the official guide, effects in our words [[src-activision-mw4-l
 | MAR-9 Auto | MAR-9 | full-auto conversion, faster fire | Trigger Action |
 | Oris 8.6 Razor | Oris 8.6 | blade on the receiver holding up to three throwing knives | Underbarrel |
 | Mosin Harpoon | [[mosin-nagant]] | spring bayonet you can launch and pick back up | Barrel, Muzzle |
-| KG-7 Drillcharge | KG-7 Vulcan | side-loaded rounds drill into surfaces, then explode | none listed |
-| Astaroth .57 Infiltrator | Astaroth .57 | shows enemies through cover and walls at limited range; one-round magazine | Optic |
+| KG-7 Drillcharge | [[kg-7-vulcan]] | side-loaded rounds drill into surfaces, then explode; players report the rounds cannot be refilled in DMZ (reported) [clm_e384ad820ccc] | none listed |
+| Astaroth .57 Infiltrator | [[astaroth-57]] | shows enemies through cover and walls at limited range; one-round magazine | Optic |
 | Signal Inferno | Signal 50 | incendiary rounds, extra damage to vehicles and Killstreaks | Ammunition |
 | SANG Breach | SANG 9mm | one-shell 12-gauge underbarrel shotgun | Laser |
 | Krait P68 Commando | Krait P68 | icepick-grip knife: more melee damage and lunge range | none listed |

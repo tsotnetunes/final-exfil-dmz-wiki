@@ -1,9 +1,9 @@
 ---
 type: glossary
 title: "Astraoth 57"
-description: "The Astraoth 57 is a sniper rifle reported in DMZ that features side magazines."
-status: draft
-brain_status: candidate
+description: "Retired: a misspelling of the Astaroth .57 sniper rifle; see astaroth-57 for the weapon, its Apex and where to get it."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_43d0dc921527]
 ---
@@ -19,4 +19,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 31 Oct 2026: this is the Astaroth .57, a sniper rifle with its own page, [[astaroth-57]].
 <!-- human:end -->

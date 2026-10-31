@@ -335,3 +335,9 @@
 - id: g112
   question: Which Story Mission unlocks the helicopter infil?
   must_retrieve: [paid-infil]
+- id: g113
+  question: Where do you get the KG-7 Vulcan in DMZ and what does its Apex do?
+  must_retrieve: [kg-7-vulcan]
+- id: g114
+  question: How do you get the Astaroth .57 sniper in DMZ?
+  must_retrieve: [astaroth-57]
