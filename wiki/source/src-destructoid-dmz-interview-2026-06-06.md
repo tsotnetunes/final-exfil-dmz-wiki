@@ -16,4 +16,6 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 <!-- human:start -->
 A press interview published on 6 Jun 2026 with Infinity Ward's multiplayer creative director and a multiplayer technical designer. We took what they said about solo play and stealth: that a solo player can do all the content, that a warning shows just before an AI spots you, and that full stealth runs are possible. Developer statements from before launch.
+
+Published 6 Jun 2026 from interviews at Infinity Ward in late May, read on 31 Oct. The developers' own words on solo play and squad size, before launch. Used for [[can-you-play-dmz-solo]], [[how-many-players-in-a-dmz-squad]] and [[what-post-launch-support-is-planned-for-dmz]].
 <!-- human:end -->

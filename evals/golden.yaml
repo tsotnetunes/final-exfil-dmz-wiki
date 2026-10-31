@@ -115,7 +115,7 @@
   must_retrieve: [north-korean-forces]
 - id: g39
   question: What time does DMZ early access go live on 20 October?
-  must_retrieve: [dmz, src-iw-dmz-early-access-time-2026-10-19]
+  must_retrieve: [when-does-dmz-go-live, src-iw-dmz-early-access-time-2026-10-19]
 - id: g40
   question: How do Double XP tokens count down in MW4 and how much can be used a day?
   must_retrieve: [double-xp-tokens]
@@ -148,7 +148,7 @@
   must_retrieve: [weapon-manuals]
 - id: g50
   question: What are the best DMZ weapons?
-  must_retrieve: [weapons]
+  must_retrieve: [best-weapons-in-dmz]
 - id: g51
   question: What do Apex Attachments do?
   must_retrieve: [apex-attachments]
@@ -308,3 +308,21 @@
 - id: g103
   question: Can you print Rare ingredients?
   must_retrieve: [3d-printer]
+- id: g104
+  question: Is DMZ free to play?
+  must_retrieve: [is-dmz-free]
+- id: g105
+  question: Does DMZ wipe?
+  must_retrieve: [does-dmz-wipe]
+- id: g106
+  question: What does the Fulton Drop Marker do?
+  must_retrieve: [what-does-the-fulton-drop-marker-do]
+- id: g107
+  question: Is the Vault Edition worth it for DMZ?
+  must_retrieve: [is-the-vault-edition-worth-it-for-dmz]
+- id: g108
+  question: What post-launch support is planned for DMZ?
+  must_retrieve: [what-post-launch-support-is-planned-for-dmz]
+- id: g109
+  question: Where are the DMZ patch notes?
+  must_retrieve: [where-to-find-dmz-patch-notes]

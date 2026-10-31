@@ -1,7 +1,7 @@
 ---
 type: glossary
 title: "DMZ FOB Mastery Calling Card"
-description: "The DMZ FOB Mastery Calling Card is a calling card reported by players in DMZ."
+description: "A DMZ calling card that players report by this name; how you earn it is not confirmed yet."
 status: draft
 brain_status: draft
 sensitivity: public
@@ -19,4 +19,5 @@ _Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+A calling card that players report under the name DMZ FOB Mastery Calling Card (reported) [clm_2194556d037a]. No official source names it yet, and how to earn it is not confirmed. This is a reward item rather than a term, so its natural home is with DMZ rewards; see [[dmz-camos]] and [[fob]].
 <!-- human:end -->

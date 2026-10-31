@@ -1113,3 +1113,7 @@
 ## [2026-10-31 13:54 EDT] ingest | 31 Oct research, crafting: all 81 item recipes on a recipes list, 17 recipe pages, printer upgrades (31 levels), 44 materials on a materials list with 17 material pages, 3D Printer rewritten, 16 sources, census, 6 golden questions
 - changed: .kac 1, evals 1, index 7, index.md 1, raw 16, wiki 55
 - run: r-20261031-135425-2d36
+
+## [2026-10-31 13:55 EDT] ingest | 31 Oct research, players' questions: 52 FAQ pages from Search Console, X and guide titles, a glossary of about 66 terms, beginner and solo guides, events (Season 1, Halloween), open questions refreshed, 4 retired, 30 sources, census; golden questions tuned to 109 at 100%
+- changed: .kac 1, evals 1, index 10, index.md 1, raw 30, wiki 109
+- run: r-20261031-135529-27e7

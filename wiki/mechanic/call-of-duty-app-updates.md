@@ -1,9 +1,9 @@
 ---
 type: mechanic
 title: "Call of Duty app updates"
-description: "Call of Duty app updates are required to install MW4 and prepare the application for Modern Warfare 4 Campaign Early Access."
-status: draft
-brain_status: candidate
+description: "Retired: launcher updates are not a DMZ mechanic. How updates arrive and where their notes are is on where-to-find-dmz-patch-notes."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_d86d1cec07d3, clm_3fc3a2e2d21e]
 ---
@@ -19,4 +19,5 @@ _Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 31 Oct 2026: updates to the Call of Duty launcher are not a DMZ mechanic. How game updates reach you, and where each day's notes are published, is on [[where-to-find-dmz-patch-notes]], which carries "Call of Duty app updates" as an alias.
 <!-- human:end -->

@@ -16,4 +16,6 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 <!-- human:start -->
 DMZTracker's levelling guide, published 22 Oct 2026 and modified 25 Oct, read on 31 Oct. Its XP numbers are examples from runs; they agree in size with COD Central's measurements. It does not settle whether 2XP tokens raise the DMZ level or Operator XP. Used for [[dmz-progression]] and [[double-xp-tokens]].
+
+Published 22 Oct 2026, checked 25 Oct, read on 31 Oct. Its XP numbers are press observations, not an official table, and it says openly that the effect of a Rank 2XP token on DMZ level and Dog Tags is unconfirmed. Used for [[how-to-level-up-fast-in-dmz]] and [[does-double-xp-work-on-operator-dog-tags]].
 <!-- human:end -->

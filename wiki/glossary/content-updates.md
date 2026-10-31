@@ -1,9 +1,9 @@
 ---
 type: glossary
 title: "content updates"
-description: "Content updates bring fixes and improvements to MW4, including a round of changes confirmed on 28 Oct 2026."
-status: draft
-brain_status: draft
+description: "Retired: not a DMZ term. Updates and patch notes are covered on where-to-find-dmz-patch-notes."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_e0dbd65fc624, clm_922676219809]
 ---
@@ -18,4 +18,5 @@ _Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 31 Oct 2026: "content updates" is a general phrase, not a DMZ term. Where updates and their notes are published, and what each day changed, is on [[where-to-find-dmz-patch-notes]], which carries this name as an alias.
 <!-- human:end -->

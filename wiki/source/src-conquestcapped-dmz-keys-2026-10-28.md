@@ -16,4 +16,6 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 <!-- human:start -->
 A guide to DMZ keys last updated 28 Oct 2026. Beyond a list of doors, it explains the rules players ask about: keys are used up when their door opens, a key in a Secure Slot returns to the Stash if you die, keys sell for about 100, and where keys drop. It is the only source for some prison and air base doors, which are marked as reported.
+
+A guide updated 28 Oct 2026 and read on 31 Oct, from a site that also sells boosting services. Its key sources and Secure Slot advice fit the official guide and dmzhub's key list; drop rates and room contents are player reports. Used for [[how-to-get-keys-in-dmz]].
 <!-- human:end -->

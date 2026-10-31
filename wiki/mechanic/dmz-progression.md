@@ -6,7 +6,7 @@ status: stable
 brain_status: published
 sensitivity: public
 sources: [clm_ddf327b1e62d, clm_43eb9661dfec, clm_7395536c245c, clm_bd9383775a93, clm_5153b4480340, clm_33babd127a04, src-callofduty-ready-for-launch-progression-2026-10-19, src-callofduty-ready-for-launch-operators-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-codcentral-dmz-xp-strategies-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codmunity-dmz-traits-2026-10-30, src-mw4-launch-patch-notes-2026-10-29]
-aliases: ["DMZ Player Level", "Progression Track", "DMZ level", "level 70", "Dog Tag level", "Onyx III", "DMZ XP", "DMZ Progression", "level rewards", "DMZ level unlocks", "how to level up fast in DMZ", "Operator level", "Operator XP", "fastest XP", "fastest leveling"]
+aliases: ["DMZ Player Level", "Progression Track", "DMZ level", "level 70", "Dog Tag level", "Onyx III", "DMZ XP", "DMZ Progression", "level rewards", "DMZ level unlocks", "how to level up fast in DMZ", "Operator level", "Operator XP", "fastest XP", "fastest leveling", "what each DMZ level unlocks", "DMZ level rewards", "level unlocks", "level 1 to 70 rewards"]
 ---
 <!-- generated:start -->
 DMZ progression is a 70-level advancement track that unlocks FOB stations, upgrades, and crafting recipes. Advancing through these ranks determines what facilities and crafting options are available to the player.

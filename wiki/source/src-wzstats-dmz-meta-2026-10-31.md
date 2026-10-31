@@ -16,4 +16,6 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 <!-- human:start -->
 A loadout and stats site's DMZ meta page, updated 31 Oct 2026, after the 28 Oct Multiplayer tuning. We took the top five and each weapon's tier. Third-party with no stated method; we compare it with two other lists.
+
+A live meta page that said it was updated on 31 Oct 2026 when read the same day. It does not explain how its tiers are set and changes with every balance patch, so it is a snapshot of community opinion, not a game fact. Used for [[best-weapons-in-dmz]].
 <!-- human:end -->

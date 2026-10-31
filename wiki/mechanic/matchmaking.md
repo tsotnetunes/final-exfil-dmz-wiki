@@ -5,8 +5,9 @@ description: "Queue by deployment type; up to 60 players in 20 squads of three; 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_5b76bd4676ec, clm_fd56c4d77fd9, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-activision-campaign-early-access-live-2026-10-16]
-aliases: ["Lobbies", "Squad size", "Player count", "Assimilation", "Reconnect"]
+sources: [clm_5b76bd4676ec, clm_fd56c4d77fd9, clm_2738483c8aa0, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-activision-campaign-early-access-live-2026-10-16, src-thexclusiveace-bounty-video-2026-10-12, src-mw4-launch-patch-notes-2026-10-29, src-detonated-dmz-story-matchmaking-2026-10-29, src-ixbt-dmz-pvp-matchmaking-2026-10-30, src-dexerto-mw4-crossplay-2026-10-31]
+aliases: ["Lobbies", "Squad size", "Player count", "Assimilation", "Reconnect", "DMZ matchmaking", "SBMM DMZ"]
+stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 Matchmaking, squads and lobbies handle player grouping and session entry in DMZ. Understanding these systems helps players manage team composition during deployment.
@@ -30,5 +31,12 @@ _Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch not
 - **Operators.** No skin toggle: DMZ lives in MW4, not Warzone, so Operators from older games do not appear.
 - **No solo-only or PvE playlist** at launch: the "Single Squad Mission" option seen in a promotional screenshot was for internal testing, as the developers said in the Q&A (also relayed by [[src-thexclusiveace-bounty-video-2026-10-12]]).
 
-**Crossplay.** Squads can party up across platforms, and friends are added in game by their Activision ID (official, 16 Oct) [[src-activision-campaign-early-access-live-2026-10-16]].
+**Crossplay.** Squads can party up across platforms, and friends are added in game by their Activision ID (official, 16 Oct) [[src-activision-campaign-early-access-live-2026-10-16]]. On consoles crossplay can be set to On, Off or Console Only, and PC players cannot switch it off; the listed settings are named for Multiplayer and Warzone Ranked, none for DMZ (reported) [[src-dexerto-mw4-crossplay-2026-10-31]]. See [[is-dmz-cross-play]].
+
+**Since launch.**
+- A fix on 24 Oct 2026 stopped party leaders pulling teammates out of DMZ without their consent, which had left those teammates' Operators MIA [[src-mw4-launch-patch-notes-2026-10-29]].
+- A fix on 29 Oct lets you pick up a hostage after assimilating [[src-mw4-launch-patch-notes-2026-10-29]].
+- After the 28 Oct update, press reported Story Mission queues landing in fuller Free Roam and Dynamic Ops lobbies, and replays of finished missions going to regular lobbies, with PvP given more weight [[src-detonated-dmz-story-matchmaking-2026-10-29]] [[src-ixbt-dmz-pvp-matchmaking-2026-10-30]]. Players then reported Story Missions back on launch settings (reported) [clm_2738483c8aa0]. None of it is in the patch notes, and Infinity Ward has not commented; see [[pvp-matchmaking-prioritization]].
+
+Questions players ask: [[how-many-players-in-a-dmz-squad]], [[can-you-play-dmz-solo]], [[what-happens-if-you-disconnect-in-dmz]].
 <!-- human:end -->

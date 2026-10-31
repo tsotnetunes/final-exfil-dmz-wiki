@@ -26,4 +26,6 @@ The beginner guide of codmunity.gg, a community database for MW4 DMZ, updated on
 CODMunity's beginner guide, updated 24 Oct 2026. We took its exfil and radiation rules and its helicopter warning about SAM sites. Numbers from it alone are reported.
 
 A community beginner guide, updated 24 Oct 2026, a day after launch. The Codex takes its practical item facts: what the Free Loadout gives, how plates and Ballistic Gel vests behave, what each healing item does, where radiation gear and parachutes are found, and which valuables to keep for FOB upgrades. It is third-party; facts that only it states are marked as reported.
+
+A codmunity.gg guide updated 24 Oct 2026 and read on 31 Oct. Its rules repeat the official guides; its numbers (exfil countdowns, Bank cap, intel prices) come from launch-week play and streams, so a number from here alone is written as reported. Used for [[can-you-play-dmz-solo]], [[how-to-exfil-in-dmz]] and [[is-there-a-bank-limit-in-dmz]].
 <!-- human:end -->
