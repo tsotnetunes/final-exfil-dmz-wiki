@@ -1,11 +1,12 @@
 ---
 type: mechanic
 title: "DMZ Exfil Area"
-description: "Players have suggested that the DMZ exfil area should function as a safe zone during match extractions."
-status: draft
-brain_status: candidate
+description: "Retired 31 Oct 2026: not a separate subject. Exfil sites and how they work are on the exfil page."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_5468bb6fe7db]
+aliases: ["exfil area"]
 ---
 <!-- generated:start -->
 The DMZ exfil area is an extraction point where players attempt to leave a match. Player discussions around this location often focus on combat rules during extraction.
@@ -18,4 +19,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 31 Oct 2026: exfil sites are covered on [[exfil]]. The idea that an exfil site should be a safe zone is a player suggestion, not a game rule [clm_5468bb6fe7db].
 <!-- human:end -->

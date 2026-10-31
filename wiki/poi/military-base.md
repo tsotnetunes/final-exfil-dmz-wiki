@@ -1,9 +1,9 @@
 ---
 type: poi
 title: "Military base"
-description: "A military base POI on Hajin, named by Activision; likely source of the abandoned military technology the factions fight over, but no official detail before launch."
-status: stable
-brain_status: published
+description: "Retired: no MW4 DMZ location is called Military Base. The June intel's military base is Chang-san Air Base; smaller military positions are the compounds."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
 region: Hajin
@@ -15,5 +15,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Named in the June intel [[src-activision-dmz-deep-dive-2026-06]]. The 5 Oct guide has no POI by this name [[src-activision-dmz-guide-part1-2026-10-05]]: its large military site is [[chang-san-air-base]], and smaller fortified military positions (Compounds, such as Compound Delta and Compound Echo) are spread across the map ([[locations-of-interest]]). This page stays until launch shows which one the June list meant.
+Retired on 31 Oct 2026: the "military base" in the June intel [[src-activision-dmz-deep-dive-2026-06]] has no POI of that name on the map. The only military base among the 13 major POIs is [[chang-san-air-base]] [[src-activision-dmz-guide-part1-2026-10-05]], which carries "Military base" as an alias; smaller fortified positions are the [[compounds]].
 <!-- human:end -->

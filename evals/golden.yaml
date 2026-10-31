@@ -248,3 +248,24 @@
 - id: g83
   question: How do UAV towers work?
   must_retrieve: [uav-towers]
+- id: g84
+  question: Where are the silo bunkers in Hajin?
+  must_retrieve: [silo-bunkers]
+- id: g85
+  question: How do you open a bank vault?
+  must_retrieve: [bank-vaults]
+- id: g86
+  question: Where are the compounds?
+  must_retrieve: [compounds]
+- id: g87
+  question: How long until radiation closes the map?
+  must_retrieve: [radiation-storm]
+- id: g88
+  question: What is the final exfil?
+  must_retrieve: [final-exfil]
+- id: g89
+  question: Where are the police stations?
+  must_retrieve: [police-stations]
+- id: g90
+  question: What is X01?
+  must_retrieve: [x01]

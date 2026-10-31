@@ -22,4 +22,6 @@ A community database's beginner guide, updated 24 Oct 2026. For the weapons area
 codmunity.gg's general DMZ guide as updated on 24 Oct 2026, read on 31 Oct. Much of it restates the official guides; the new details (Bank cap seen in a creator's footage, cash lost over the cap, recovery slots, the Free Loadout's contents, which Story Missions unlock infils, Bounty amounts from the trailer) are a community site's reading and are marked reported unless another source agrees. Used for [[wallet]], [[dmz-cash]], [[mia-system]], [[secure-slots]], [[bounty-system]] and [[paid-infil]].
 
 The beginner guide of codmunity.gg, a community database for MW4 DMZ, updated on 24 Oct 2026 and read on 31 Oct. We took its practical rules: how to play solo, what the Free Loadout holds, exfil countdowns, cache refill times, MIA recovery costs and the tells of a Possum user. Several points are credited to YouTube creators who tested them in launch week, so the Codex marks anything found only here as reported and looks for a second source.
+
+CODMunity's beginner guide, updated 24 Oct 2026. We took its exfil and radiation rules and its helicopter warning about SAM sites. Numbers from it alone are reported.
 <!-- human:end -->

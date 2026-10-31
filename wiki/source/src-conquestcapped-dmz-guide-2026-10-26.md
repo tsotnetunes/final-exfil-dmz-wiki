@@ -16,4 +16,6 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 <!-- human:start -->
 A DMZ guide last updated on 26 Oct 2026 on a site that also sells boosting services. It is one of the few written sources with timings after launch (the radiation clock, exfil countdowns, how many exfils are open), and with unlock missions for two paid infils. It names no sources for most of this, so the Codex writes its facts as reported unless a second source agrees.
+
+A general DMZ guide updated 26 Oct 2026. We took its match timings and exfil rules, which agree with player reports the Brain holds and with other guides. It gives no test method, so numbers from it alone are reported.
 <!-- human:end -->

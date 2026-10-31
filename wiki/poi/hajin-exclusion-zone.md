@@ -1,12 +1,13 @@
 ---
 type: poi
 title: "Hajin Exclusion Zone"
-description: "DMZ's launch map: a radiation-scarred zone on the former NK and SK border with 13 major POIs and over 60 locations, up to 60 players; a Russian area opens in Season 2."
+description: "DMZ's launch map and its 13 named points of interest on the old NK and SK border, Low to Extreme threat; about 60 smaller places, up to 60 players; X01 in Season 1."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_8accaa3d7831, clm_30653443233a, clm_60ec641390e2, clm_d81ecfda94de, clm_ebf7085229f9, clm_3816e02ae781, clm_d7748e7ec8bb, clm_a15a34d449f0, clm_75bb19ee9527, clm_055bb42b8019, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-westie-dmz-ama-recap-2026-10-11]
-aliases: ["Hajin", "the Exclusion Zone"]
+sources: [clm_34cd336f3bfa, clm_12a1524f7169, clm_88179a380fbb, src-dmzhub-maps-2026-10-31, clm_8accaa3d7831, clm_30653443233a, clm_60ec641390e2, clm_d81ecfda94de, clm_ebf7085229f9, clm_3816e02ae781, clm_d7748e7ec8bb, clm_a15a34d449f0, clm_75bb19ee9527, clm_055bb42b8019, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-dexerto-hajin-map-2026-10-05, src-activision-season-1-blog-2026-10-28, src-gfinity-lieutenant-locations-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-conquestcapped-dmz-guide-2026-10-26, src-gamespot-from-the-ward-ep7-2026-10-05, src-dmzhub-locations-2026-10-31]
+aliases: ["Hajin", "the Exclusion Zone", "Hajin map", "DMZ map", "Hajin POIs", "Hajin points of interest", "named points of interest", "major POIs", "Vondel"]
+stale_after: 2026-11-13
 region: Hajin
 danger: varies
 loot_profile: all
@@ -40,13 +41,44 @@ _Generated from 3 confirmed and 4 reported claims across 7 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-The only map at launch: a contested exclusion zone left by the events of the MW4 campaign [[src-activision-dmz-deep-dive-2026-06]], spread across former North Korean (NK) and South Korean (SK) ground, with the Russian border fogged in to the north [[src-activision-dmz-guide-part1-2026-10-05]].
+The Hajin Exclusion Zone is the only DMZ map at launch: a contested zone left by the events of the MW4 campaign on the old border between North and South Korea, with 13 major POIs and about 60 named places in all [[src-activision-dmz-deep-dive-2026-06]] [[src-activision-dmz-guide-part1-2026-10-05]] [[src-dexerto-hajin-map-2026-10-05]].
 
-**Major POIs** (threat levels on each page): [[prison-complex]] (14th Political Prison), [[chang-san-air-base]], [[deadtown]], [[imjin-farmland]], [[cheongun-village]] with the [[casino]] (Heavenly Luck Casino), [[mirae-general-hospital]], [[cheonwang-peak-array]], [[haneul-nuclear-reactor]], Hajin City ([[hajin-city-remains]]): [[nurigo-mall]], [[the-grid]], [[songdo-wharf]], [[wolves-stadium]]; and, in the southeast, [[hajin-river-heights]].
+## What does the map look like?
 
-**Smaller places.** Over 60 named locations in all; minor POIs named so far: Hajin River, Tong-il Village, Revolution Dam (a dam with a strong military police presence), Pyonghwa Village, Imjin Suburb, Mujin Pass, Daesong Ridge, Namjin Riverside. Recurring map markers (gas, fire and police stations, clinics, caches, towers, compounds, SAM sites) are on [[locations-of-interest]].
+The western POIs were North Korean, rural and military; the rest was South Korean, urban and modern, with the ruined Hajin City in the east ([[hajin-city-remains]]). The Russian border to the north is fogged in and closed [[src-activision-dmz-guide-part1-2026-10-05]] [[src-dexerto-hajin-map-2026-10-05]].
 
-**Reading the map.** The [[tac-map]] grid runs letters west to east and numbers north to south. Every area shows a threat level from Low to Extreme ([[threat-escalation]]); radiation spreads during a deployment ([[radiation-storm]]). Dynamic weather, convoys and air traffic as in the June intel ([[dynamic-weather]]).
+## What are the major POIs?
 
-**Players and size.** Up to 60 players per match, 20 squads of three, at launch ([[matchmaking]]). Developers say Hajin is larger than Al Mazrah; a Russian landmass, already part of the map but closed at launch, opens in Season 2 with its own story, missions and Dynamic Ops, and then Hajin becomes the largest Call of Duty map. More maps are planned, starting with X01 soon after launch (the developers' Q&A, via a video recap [[src-westie-dmz-ama-recap-2026-10-11]]).
+| POI | Area | Threat | Lieutenant met there |
+| --- | --- | --- | --- |
+| [[prison-complex]] (14th Political Prison) | Northwest, NK | High; the Citadel Critical | The Warden |
+| [[chang-san-air-base]] | West, NK | Critical; bunker Extreme | Bale (also reported at Deadtown) |
+| [[deadtown]] | Southwest, NK | Low; Re-Education Center Medium | |
+| [[imjin-farmland]] | South-southwest, SK | Low; Rice Mill Medium | |
+| [[cheongun-village]] with the [[casino]] | North, SK | Low; casino High | Jin-Tae |
+| [[mirae-general-hospital]] | North-central, SK | Low | The Doctor |
+| [[cheonwang-peak-array]] | Centre, SK | Medium | Iskra |
+| [[haneul-nuclear-reactor]] | Northeast, SK | High, with radiation | The Chemist |
+| [[nurigo-mall]] | Northeast Hajin City | East Medium; West High | Jang-Ui (disputed) |
+| [[the-grid]] | Central Hajin City | Critical; Nenshin Tech Complex Extreme | Roze |
+| [[songdo-wharf]] | East Hajin City | Low | |
+| [[wolves-stadium]] | South-central Hajin City | Medium | |
+| [[hajin-river-heights]] | Southeast | Medium | |
+
+Areas and threat levels: [[src-activision-dmz-guide-part1-2026-10-05]]. Lieutenants: [[src-gfinity-lieutenant-locations-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]]; Gorani roams the woods between the hospital and the array, and the Scavenger has no home ([[lieutenants]]).
+
+## What else is on the map?
+
+The smaller places are on [[minor-pois]]; one community map holds over 400 map pins in 34 categories, from key rooms to gas stations [[src-dmzhub-maps-2026-10-31]]. Recurring locations, from police stations to UAV towers, are on [[locations-of-interest]], with their own pages for [[compounds]], [[bank-vaults]], [[safes]], [[bunkers]] and [[silo-bunkers]]. Roaming bosses: [[commander-threats]].
+
+## How does a match here work?
+
+Up to 60 players, 20 squads of three [[src-westie-dmz-ama-recap-2026-10-11]] ([[matchmaking]]). About 30 minutes after landing the radiation starts to spread and closes the map in roughly 15 more ([[radiation-storm]]) [[src-conquestcapped-dmz-guide-2026-10-26]]; get out through an [[exfil]]. Read the map with the [[tac-map]] grid; threat runs from Low to Extreme ([[threat-escalation]]); the weather changes per match ([[dynamic-weather]]).
+
+## What is coming next?
+
+- **Season 1, 6 Nov 2026:** [[x01]], a former Russian black site in the northern reaches of the Exclusion Zone, reached by deploying through Hajin [clm_88179a380fbb], and a Threat Briefing event that has you collect parts of an NK battle tank in Hajin. Hajin also becomes a Warzone battle royale map [[src-activision-season-1-blog-2026-10-28]].
+- **Season 2:** a Russian area, already part of the map but closed at launch, opens with its own story, missions and Dynamic Ops; the developers say Hajin, already larger than Al Mazrah, then becomes the largest Call of Duty map [[src-westie-dmz-ama-recap-2026-10-11]]. Players report that the cutscene after the last of the 24 Order pages teases this Russian expansion [clm_34cd336f3bfa] [clm_12a1524f7169].
+
+Earlier DMZ places such as Building 21 and Vondel are not part of these plans; X01 is the location Infinity Ward compares to Building 21 [[src-gamespot-from-the-ward-ep7-2026-10-05]] [[src-westie-dmz-ama-recap-2026-10-11]].
 <!-- human:end -->
