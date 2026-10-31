@@ -5,12 +5,18 @@ description: "Small optional tasks in a match (truck repairs, finding a supply d
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_3e41f6f87745, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_3e41f6f87745, clm_2632001aa873, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["side op", "UAV Tower", "SAM Site", "radio tower"]
 mission_kind: side
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Side Ops are missions in Modern Warfare 4.
+
+## What rewards do you get?
+
+Players report that the cash reward for Side Ops was increased from 500 to 2,000 in the latest MW4 update.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->
