@@ -5,19 +5,19 @@ description: "Side Ops are short optional map tasks: UAV Towers, Lieutenant Hunt
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_3e41f6f87745, clm_2632001aa873, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-dmztracker-dynamic-side-ops-2026-10-20, src-dmzcodex-com-operations-2026-10-31, src-patchcrazy-crashed-crate-2026-10-22, src-allthingshow-dmz-story-missions-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-codcentral-dmz-orders-2026-10-21, src-codmunity-dmz-missions-2026-10-31]
+sources: [clm_3e41f6f87745, clm_2632001aa873, clm_054ca0da5fec, clm_40208f4cc36c, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-dmztracker-dynamic-side-ops-2026-10-20, src-dmzcodex-com-operations-2026-10-31, src-patchcrazy-crashed-crate-2026-10-22, src-allthingshow-dmz-story-missions-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-codcentral-dmz-orders-2026-10-21, src-codmunity-dmz-missions-2026-10-31]
 aliases: ["side op", "side operations", "side ops payout", "Loot Radio Tower", "radio tower", "Tower Drop crate", "Loot Crashed Drone", "Kill Lieutenant side op", "side ops cash"]
 mission_kind: side_op
 steps: "1 to 3 steps each"
 ---
 <!-- generated:start -->
-Side Ops are missions in Modern Warfare 4.
+Side Ops provide cash rewards upon completion.
 
 ## What rewards do you get?
 
-Players report that the cash reward for Side Ops was increased from 500 to 2,000 in the latest MW4 update.
+Players report that Side Ops pay 2,000 cash per completion. Players report that this cash reward was increased from 500 to 2,000 in the latest MW4 update.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -1149,3 +1149,7 @@
 ## [2026-10-31 18:14 EDT] edit | 31 Oct: the Double XP and Dog Tags FAQ gives the same answer as the 2XP page (probably not, one test, Fast Learner Traits) and is published
 - changed: index 4, index.md 1, wiki 1
 - run: r-20261031-181415-f483
+
+## [2026-10-31 19:17 EDT] render | 5 pages rendered, 837 claims, 794 evidence
+- changed: wiki 5, claims 1, evidence 1, index.md 1
+- run: r-20261031-231546-815f

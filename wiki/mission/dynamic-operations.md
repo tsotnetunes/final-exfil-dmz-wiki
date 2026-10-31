@@ -5,32 +5,33 @@ description: "Dynamic Operations are multi-step jobs generated each match: start
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_cacbc287b445, clm_809579d8a58f, clm_1bf2a7b7a270, clm_6692ae50b2d4, clm_4928d0e05723, clm_fbe6f3abea31, clm_4826722df4cd, clm_f17f3ff635f7, clm_256c17a534c7, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamespark-tokyo-media-event-2026-10-01, src-mw4-launch-patch-notes-2026-10-29, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzmap-dynamic-ops-2026-10-31, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-pcgamer-dynamic-op-phone-2026-10-21, src-codmunity-dmz-missions-2026-10-31, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-playhub-best-traits-2026-10-28]
+sources: [clm_cacbc287b445, clm_809579d8a58f, clm_1bf2a7b7a270, clm_6692ae50b2d4, clm_4928d0e05723, clm_fbe6f3abea31, clm_4826722df4cd, clm_f17f3ff635f7, clm_256c17a534c7, clm_5e255fb07144, clm_e214a3e8e023, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamespark-tokyo-media-event-2026-10-01, src-mw4-launch-patch-notes-2026-10-29, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzmap-dynamic-ops-2026-10-31, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-pcgamer-dynamic-op-phone-2026-10-21, src-codmunity-dmz-missions-2026-10-31, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-playhub-best-traits-2026-10-28]
 aliases: ["dynamic operation", "dynamic ops", "dynamic op", "Dynamic Ops pay", "Dynamic Ops payout", "Dynamic Ops phone", "Dynamic Op phone", "Op phone", "Hunt Operators", "Hunt Operator", "Ignition Point", "Operation Ignition Point", "Supply Drop", "Dynamic Op crate", "best paying dynamic ops"]
 mission_kind: dynamic_op
 steps: "12 Ops, 1 to 10 steps each"
 ---
 <!-- generated:start -->
-Dynamic Operations require squads to complete objectives across Hajin. This was confirmed on 6 Oct 2026.
+Dynamic Operations ask players to complete squad objectives across Hajin. Dynamic Operations were confirmed to take place across Hajin on 6 Oct 2026.
 
-## How do you start Dynamic Operations?
-Dynamic Operations ask players to complete squad objectives across Hajin.
+## How do you start it?
 
-## What are the steps for Dynamic Operations?
-1. Players report that each in-game step for Dynamic Operations now provides $500.
+The claims do not state how to start Dynamic Operations.
 
-## What rewards do Dynamic Operations grant?
-Players report that Dynamic Operations award cash and XP.
+## What rewards do Dynamic Operations give?
 
-Players report that Dynamic Operations provide a supply drop of increasing rarity after every op.
+Dynamic Operations reward cash and XP according to player reports.
 
-Players report that cash earned from Dynamic Operations is automatically extracted to the bank without needing an exfil.
+Players report that Dynamic Operations award a supply drop of increasing rarity after every completed operation.
 
-Players report that an update on 31 Oct 2026 doubled the cash payout from Dynamic Operations.
+Cash earned from Dynamic Operations is reported by players to automatically extract to the bank without requiring an exfil.
 
-Players also report that the cash reward for Dynamic Operations increased to 10k-20k in an update on 31 Oct 2026.
+Players report that each in-game step for Dynamic Operations provides $500.
 
-_Generated from 1 confirmed and 5 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-31._
+An update on 31 Oct 2026 doubled the cash payout from Dynamic Operations, according to player reports.
+
+On 31 Oct 2026, players reported that the cash completion reward increased from $5,000–$10,000 to $10,000–$20,000.
+
+_Generated from 1 confirmed and 7 reported claims across 8 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

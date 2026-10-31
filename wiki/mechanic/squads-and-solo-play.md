@@ -5,11 +5,17 @@ description: "Squads hold up to three Operators, and up to 20 squads share a dep
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-gamerfuzion-dmz-solo-play-2026-10-03, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-guide-2026-10-24, src-destructoid-dmz-interview-2026-06-06, src-gamingtrend-dmz-interview-2026-06-06, src-activision-campaign-early-access-live-2026-10-16, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_5bb373ef1fd0, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-gamerfuzion-dmz-solo-play-2026-10-03, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-guide-2026-10-24, src-destructoid-dmz-interview-2026-06-06, src-gamingtrend-dmz-interview-2026-06-06, src-activision-campaign-early-access-live-2026-10-16, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["solo", "solo play", "playing solo", "solo DMZ", "Squad Fill", "squad size", "players per squad", "squad", "squads", "duos", "trios", "join another squad", "assimilate", "truce", "betray", "party", "max squad size"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Squads and solo play define team sizes for competitive events in DMZ. Competitive team structures determine how participants organize into groups during tournaments.
+
+## What squad sizes are used in tournaments?
+
+* Players report that the DMZ High Stakes Tournament will feature 14 trios, totaling 42 creators.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->
