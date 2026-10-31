@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-conquestcapped-dmz-keys-2026-10-28]
 aliases: ["3 plate vest", "three plate vest", "3-plate vest", "3 plate armor", "3-Plate Armour Vest", "level 37 vest"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

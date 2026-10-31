@@ -5,9 +5,8 @@ description: "On PS5, Xbox and Switch 2 you need the console's paid online servi
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-timesaver-mw4-subscriptions-2026-09-18, src-gfinity-mw4-game-pass-2026-06-17, src-windows-central-dmz-reveal-2026-06-06, src-westie-dmz-ama-recap-2026-10-11, src-activision-pc-specs-2026-09-29, clm_517e1fd9f5b2]
+sources: [src-timesaver-mw4-subscriptions-2026-09-18, src-gfinity-mw4-game-pass-2026-06-17, src-windows-central-dmz-reveal-2026-06-06, src-westie-dmz-ama-recap-2026-10-11, src-activision-pc-specs-2026-09-29]
 aliases: ["PS Plus DMZ", "do you need PS Plus for DMZ", "Game Pass DMZ", "is DMZ on Game Pass", "Nintendo Switch Online DMZ", "can you play DMZ offline", "DMZ subscription"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

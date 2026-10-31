@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-campaign-early-access-live-2026-10-16, src-playstation-blog-dmz-2026-10-05, src-xbox-wire-dmz-features-2026-10-09, src-windows-central-dmz-reveal-2026-06-06, src-cod-2xp-game-time-2026-09-28, src-activision-mw4-bonus-content-2026-10-23, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["campaign rewards DMZ", "campaign operators DMZ", "do I need to play the campaign for DMZ", "MW4 campaign unlocks", "No More Rules calling card"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-codcentral-dmz-orders-2026-10-21, src-game8-dmz-orders-2026-10-31, src-dmzmap-dmz-orders-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-gamerfuzion-dmz-orders-guides-2026-10-21, src-pcgamer-dynamic-op-phone-2026-10-21, src-dmzhub-orders-2026-10-31, src-codmunity-dmz-missions-2026-10-31]
 aliases: ["Human Intel", "Human Intel 1/2", "Human Intel 2/2", "CH. Human Intel", "Hunter", "Triage Protocol", "No One Left", "Blindness", "Payment Due", "Medical Extraction Intel"]
-stale_after: 2026-11-13
 mission_kind: order
 steps: "2 pages, 6 Orders"
 ---

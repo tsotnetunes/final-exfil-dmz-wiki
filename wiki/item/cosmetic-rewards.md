@@ -5,9 +5,8 @@ description: "DMZ cosmetic rewards: the Beta On Record emblem and Beta Squad cal
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_6f670e4e8c0a, clm_419fdf23b680, clm_9ba18817f5d1, clm_479eed447e3e, clm_2194556d037a, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-activision-ready-for-launch-progression-2026-10-19]
+sources: [src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-activision-ready-for-launch-progression-2026-10-19]
 aliases: ["DMZ beta rewards", "returning player rewards", "Beta On Record", "Beta On Record emblem", "Beta Squad", "Beta Squad calling card", "DMZ Beta 50 Hours Calling Card", "DMZ Beta 50 Hours Emblem", "Serpentine reward", "In-game rewards", "Twitch rewards", "calling cards", "emblems", "King Slayer"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

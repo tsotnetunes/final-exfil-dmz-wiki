@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-progression-2026-10-19, src-dmzhub-orders-2026-10-31, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-missions-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzhub-items-2026-10-31]
 aliases: ["3-Plate Armor Vest", "3 plate vest DMZ", "three plate vest", "level 37 reward DMZ", "3-Plate Carrier", "best armor DMZ"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

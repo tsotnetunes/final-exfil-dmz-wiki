@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-wzstats-dmz-meta-2026-10-31, src-playhub-dmz-tier-list-2026-10-21, src-westie-dmz-ama-recap-2026-10-11, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["best guns DMZ", "DMZ meta", "DMZ tier list", "best loadout DMZ", "best weapon MW4 DMZ", "DMZ weapon tier list", "best SMG DMZ"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

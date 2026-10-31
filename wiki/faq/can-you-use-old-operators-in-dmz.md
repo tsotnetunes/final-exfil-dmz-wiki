@@ -5,9 +5,8 @@ description: "No. DMZ lives in Modern Warfare 4, not Warzone, so there is no ski
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-activision-dmz-guide-part2-2026-10-09, src-activision-pc-specs-2026-09-29, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-cod-dmz-progression-video-2026-10-07, clm_6f670e4e8c0a]
+sources: [src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-activision-dmz-guide-part2-2026-10-09, src-activision-pc-specs-2026-09-29, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-cod-dmz-progression-video-2026-10-07]
 aliases: ["old operators DMZ", "skin toggle DMZ", "Warzone operators in DMZ", "change operator skin DMZ", "operator skins DMZ", "carry forward operators MW4"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

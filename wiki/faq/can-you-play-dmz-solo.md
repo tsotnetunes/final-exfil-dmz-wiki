@@ -5,9 +5,8 @@ description: "Yes. Turn Squad Fill off at Ready Up before you deploy. Matchmakin
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-solo-2026-10-26, src-destructoid-dmz-interview-2026-06-06, src-westie-dmz-ama-recap-2026-10-11, src-mw4-launch-patch-notes-2026-10-29, clm_cb80a507198b, clm_f17f3ff635f7, clm_a6788c608374]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-solo-2026-10-26, src-destructoid-dmz-interview-2026-06-06, src-westie-dmz-ama-recap-2026-10-11, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["DMZ solo", "solo DMZ", "play DMZ alone", "Squad Fill", "turn off squad fill", "solo queue DMZ", "is DMZ good solo"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

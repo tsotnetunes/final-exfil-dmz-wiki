@@ -5,9 +5,8 @@ description: "An Ultra consumable you print from 1 Experimental Compounds, 5 Sto
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-activision-ready-for-launch-progression-2026-10-19, src-gamingpromax-dmz-boss-locations-2026-10-23, src-codmunity-dmz-items-2026-10-26, clm_12f1ab2f7bf6, clm_0a8c285157c0, clm_6fc0235c2541, src-dmzhub-recipes-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-items-2026-10-31]
+sources: [src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-activision-ready-for-launch-progression-2026-10-19, src-gamingpromax-dmz-boss-locations-2026-10-23, src-codmunity-dmz-items-2026-10-26, src-dmzhub-recipes-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-items-2026-10-31]
 aliases: ["Door Breacher Charge", "breaching charge", "breacher charge", "door breach", "breacher recipe"]
-stale_after: 2026-11-13
 materials: "1 Experimental Compounds, 5 Stock Rods, 3 Volatile Explosives"
 printer_level: "Found in Hajin"
 ---

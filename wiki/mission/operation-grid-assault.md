@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-dmztracker-dynamic-side-ops-2026-10-20, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31]
 aliases: ["Grid Assault", "DBN Headquarters mission", "kill code", "kill switch", "drone tower mission", "Kill Roze", "hash key"]
-stale_after: 2026-11-13
 mission_kind: story
 steps: "6 HUD steps"
 ---

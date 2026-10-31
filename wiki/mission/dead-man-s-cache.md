@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [clm_fa5585a7795f, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzmap-dynamic-ops-2026-10-31, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Dead Mans Cache", "Operation Dead Man's Cache", "encrypted drive op", "ammo armor cache op"]
-stale_after: 2026-11-13
 mission_kind: dynamic_op
 steps: "6 to 7 steps, route varies"
 ---

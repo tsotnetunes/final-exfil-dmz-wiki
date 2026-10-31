@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-3d-printer-upgrades-2026-10-23]
 aliases: ["FOB upgrades", "FOB upgrade costs", "DMZ upgrades list", "materials for FOB upgrades", "what to upgrade first DMZ", "stash upgrade DMZ", "upgrade order DMZ"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

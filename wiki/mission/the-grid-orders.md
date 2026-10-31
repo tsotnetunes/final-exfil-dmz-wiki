@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-codcentral-dmz-orders-2026-10-21, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzmap-dmz-orders-2026-10-31, src-dmzhub-orders-2026-10-31, src-codmunity-dmz-missions-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-dmzcodex-com-operations-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["The Grid 1/2", "The Grid 2/2", "CH. The Grid", "Grid chapter", "I'm Over Here", "Worth Every Penny", "No Time", "Opulent", "Civil Service", "Financial Ledger Fragments"]
-stale_after: 2026-11-13
 mission_kind: order
 steps: "2 pages, 6 Orders"
 ---

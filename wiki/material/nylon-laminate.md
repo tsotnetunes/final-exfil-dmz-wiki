@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-codmunity-dmz-items-2026-10-26, src-destructoid-dmz-ingredient-guides-2026-10-22, src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-vgtimes-dmz-3d-printer-2026-10-27, src-techbloat-dmz-orders-2026-10-28, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-destructoid-nylon-farming-2026-10-23]
 aliases: ["Nylon Laminates", "laminate", "where to find Nylon Laminate"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

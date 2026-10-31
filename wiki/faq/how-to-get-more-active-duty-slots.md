@@ -5,9 +5,8 @@ description: "You start with two; a third unlocks at DMZ level 15. Vault Edition
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-progression-2026-10-19, src-cod-dmz-progression-video-2026-10-07, src-activision-campaign-early-access-live-2026-10-16, clm_37cdae5b1cba]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-progression-2026-10-19, src-cod-dmz-progression-video-2026-10-07, src-activision-campaign-early-access-live-2026-10-16]
 aliases: ["operator slots DMZ", "third operator slot", "4th operator slot", "fourth operator slot DMZ", "Active Duty slot", "more operators DMZ", "how to unlock operator slot"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

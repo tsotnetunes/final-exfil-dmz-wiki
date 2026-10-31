@@ -5,9 +5,8 @@ description: "Gas Can, Car Battery, Spark Plug, Alternator, and the Legendary Ta
 status: draft
 brain_status: draft
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-dtgre-dmz-ops-guides-2026-10-21, src-xboxplay-dmz-tank-2026-10-28, clm_1f94c720b316]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-dtgre-dmz-ops-guides-2026-10-21, src-xboxplay-dmz-tank-2026-10-28]
 aliases: ["repair item", "vehicle parts", "Gas Can", "Car Battery", "Spark Plug", "Alternator", "Tank Alternator", "Tank Water Pump", "fuel can"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

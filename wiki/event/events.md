@@ -5,9 +5,8 @@ description: "Every dated DMZ and Modern Warfare 4 event from DMZ Week to Season
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-iw-dmz-early-access-time-2026-10-19, src-activision-pc-specs-2026-09-29, src-cod-x-mw4-2xp-giveaway-2026-10-23, src-gamerfuzion-launch-roadmap-2026-10-14, src-mw4-launch-patch-notes-2026-10-29, clm_a58e0e4d94d1, clm_479eed447e3e, clm_9234c18268be, clm_1c82b2dd5121, clm_31e5b4ec0040, clm_beb7bce73ff1]
+sources: [src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-iw-dmz-early-access-time-2026-10-19, src-activision-pc-specs-2026-09-29, src-cod-x-mw4-2xp-giveaway-2026-10-23, src-gamerfuzion-launch-roadmap-2026-10-14, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["DMZ events", "DMZ calendar", "MW4 roadmap", "MW4 events", "DMZ schedule", "launch roadmap", "events list", "DMZ dates"]
-stale_after: 2026-11-13
 date: "2026-11-06"
 ---
 <!-- generated:start -->

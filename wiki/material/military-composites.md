@@ -5,9 +5,8 @@ description: "A Legendary 3D Printer ingredient that drops from Colossus and can
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_a4687df16ebf, clm_5f55c9bd182e, src-codmunity-dmz-items-2026-10-26, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-codcentral-3d-printer-recipes-2026-10-20, src-vgtimes-dmz-3d-printer-2026-10-27, src-destructoid-3d-printer-recipes-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31]
+sources: [clm_a4687df16ebf, src-codmunity-dmz-items-2026-10-26, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-codcentral-3d-printer-recipes-2026-10-20, src-vgtimes-dmz-3d-printer-2026-10-27, src-destructoid-3d-printer-recipes-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31]
 aliases: ["Military Composite", "MilComp", "Colossus drop", "Legendary material", "where to find Military Composites"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 Military Composites are a material reported by players to have Legendary rarity.

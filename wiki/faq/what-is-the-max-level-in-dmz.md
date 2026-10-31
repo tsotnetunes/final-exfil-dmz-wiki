@@ -5,9 +5,8 @@ description: "DMZ level 70. Beside it, each Operator's Dog Tag tops out at Onyx 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, clm_70618c5686b4]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["max DMZ level", "DMZ level cap", "DMZ level 70", "DMZ prestige", "what is the highest level in DMZ", "DMZ max rank", "Onyx III"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

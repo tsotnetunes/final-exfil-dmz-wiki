@@ -5,9 +5,8 @@ description: "Being checked. 2XP tokens run in DMZ matches, and an Operator's Do
 status: draft
 brain_status: draft
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-level-up-fast-2026-10-22, src-cod-2xp-game-time-2026-09-28, src-activision-mw4-bonus-content-2026-10-23, src-activision-campaign-early-access-live-2026-10-16, clm_7be12d197052]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-level-up-fast-2026-10-22, src-cod-2xp-game-time-2026-09-28, src-activision-mw4-bonus-content-2026-10-23, src-activision-campaign-early-access-live-2026-10-16]
 aliases: ["Double XP Dog Tag", "2XP Operator level", "does 2XP work in DMZ", "double XP trait points", "does double XP work in DMZ", "2XP Dog Tag level", "rank 2XP DMZ"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

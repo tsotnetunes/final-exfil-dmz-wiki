@@ -5,20 +5,21 @@ description: "The Bank holds the DMZ Cash shared by all your Operators: about 10
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_06c3db0d22f9, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-mw4-launch-patch-notes-2026-10-29, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-activision-ready-for-launch-progression-2026-10-19, clm_1dda32204130, clm_f17f3ff635f7]
+sources: [clm_06c3db0d22f9, clm_a914cc559257, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-mw4-launch-patch-notes-2026-10-29, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-activision-ready-for-launch-progression-2026-10-19]
 aliases: ["Bank", "DMZ Bank", "bank cap", "bank capacity", "how much bank space", "Bank Upgrade", "bank limit", "starting bank cap", "max bank"]
-stale_after: 2026-11-13
 station: bank
 unlock: start
 ---
 <!-- generated:start -->
-The Wallet upgrade allows players to store cash, with reports indicating the bank capacity is capped at 100K.
-
-## How much cash does the Wallet hold?
+## What is the bank capacity?
 
 Players report that the DMZ bank caps at 100K.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+## What is the bank requirement for prestige?
+
+Players report that activating the prestige button requires 200k in the player's bank.
+
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

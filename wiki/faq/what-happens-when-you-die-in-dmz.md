@@ -5,9 +5,8 @@ description: "You lose what you carried except Secure Slot items, your Operator 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-westie-dmz-ama-recap-2026-10-11, src-mw4-launch-patch-notes-2026-10-29, src-cod-dmz-bounty-systems-video-2026-10-08, clm_b83a508a7fac, clm_43eb9661dfec]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-westie-dmz-ama-recap-2026-10-11, src-mw4-launch-patch-notes-2026-10-29, src-cod-dmz-bounty-systems-video-2026-10-08]
 aliases: ["dying in DMZ", "what do you lose when you die DMZ", "DMZ death penalty", "lose gear DMZ", "what happens if you die in DMZ", "do you lose everything when you die DMZ"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

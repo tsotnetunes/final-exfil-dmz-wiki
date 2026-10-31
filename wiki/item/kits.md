@@ -5,9 +5,8 @@ description: "What is inside each DMZ kit, from the Basic Armor Kit (level 6) to
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-allthings-how-large-backpack-2026-10-21, src-codmunity-dmz-items-2026-10-26, clm_1672db379296, clm_d79723694987]
+sources: [src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-allthings-how-large-backpack-2026-10-21, src-codmunity-dmz-items-2026-10-26]
 aliases: ["kit", "Survival Kit contents", "Basic Armor Kit", "Restock Kit", "Basic Restock Kit", "Basic Triage Kit", "Triage Kit", "Explosives Equipment Kit", "Recon Equipment Kit", "Trap Equipment Kit", "SERE Kit", "Sere Kit", "Advanced SERE Kit", "Vault Edition Deployment Kit", "Deployment Kit", "Weapon Insurance Contract", "Operator Rescue Beacon"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

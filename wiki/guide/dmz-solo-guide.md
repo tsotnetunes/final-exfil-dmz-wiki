@@ -5,9 +5,8 @@ description: "How to play MW4 DMZ alone: switch Squad Fill off, expect other sol
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-destructoid-dmz-interview-2026-06-06, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-solo-2026-10-26, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-missions-2026-10-31, clm_cb80a507198b, clm_718706a12b71, clm_d12acdac5305]
+sources: [src-destructoid-dmz-interview-2026-06-06, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-solo-2026-10-26, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-missions-2026-10-31]
 aliases: ["DMZ solo guide", "solo DMZ tips", "how to play DMZ solo", "DMZ alone", "solo player DMZ", "best traits for solo DMZ"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

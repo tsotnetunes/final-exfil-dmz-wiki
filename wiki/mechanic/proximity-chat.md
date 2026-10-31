@@ -5,7 +5,7 @@ description: "Voice between nearby players with distance-based falloff, directio
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-destructoid-dmz-interview-2026-06-06, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-orders-2026-10-31, clm_3f9c4cb39462]
+sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-destructoid-dmz-interview-2026-06-06, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-orders-2026-10-31]
 aliases: ["prox chat", "Ping Wheel", "Truce", "voice chat DMZ", "talk to enemies DMZ"]
 ---
 <!-- generated:start -->

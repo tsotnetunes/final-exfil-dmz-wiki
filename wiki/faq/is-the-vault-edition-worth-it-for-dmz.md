@@ -5,9 +5,8 @@ description: "For DMZ it adds a third Active Duty slot from day one, a Deploymen
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-pc-specs-2026-09-29, src-activision-season-1-announcement-2026-10-28, src-windows-central-dmz-reveal-2026-06-06, src-wzstats-dmz-meta-2026-10-31, src-playhub-dmz-tier-list-2026-10-21, clm_37cdae5b1cba, clm_1672db379296, clm_b92ce0a1725f, clm_d79723694987]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-pc-specs-2026-09-29, src-activision-season-1-announcement-2026-10-28, src-windows-central-dmz-reveal-2026-06-06, src-wzstats-dmz-meta-2026-10-31, src-playhub-dmz-tier-list-2026-10-21]
 aliases: ["Vault Edition DMZ", "is DMZ worth the Vault Edition", "Vault Edition DMZ perks", "DMZ Deployment Bonus", "Vault Edition Deployment Kit", "Vault Edition worth it"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

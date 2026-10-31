@@ -5,7 +5,7 @@ description: "Retired 31 Oct 2026: a duplicate of the Main NK Battle Tank page, 
 status: deprecated
 brain_status: retired
 sensitivity: public
-sources: [clm_1f94c720b316, clm_d162a2f6766a, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-dmzhub-items-2026-10-31]
+sources: [clm_1f94c720b316, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-dmzhub-items-2026-10-31]
 ---
 <!-- generated:start -->
 Tank Looting is the process of retrieving high-tier rewards from destroyed tanks. This mechanic matters to players seeking rare equipment during combat encounters.

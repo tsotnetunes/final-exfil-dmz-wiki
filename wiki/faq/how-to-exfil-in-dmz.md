@@ -5,9 +5,8 @@ description: "Go to an exfil site (green smoke), call the Twin Heli, hold the ar
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-solo-2026-10-26, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, clm_0654da754a95, clm_cf56ba61e6f8, clm_c772bf67ab75]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-solo-2026-10-26, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28]
 aliases: ["how to extract DMZ", "exfil DMZ", "extraction DMZ", "how to leave DMZ", "final exfil", "exfil helicopter", "how to get out of DMZ"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

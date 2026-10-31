@@ -5,9 +5,8 @@ description: "No. MW4 DMZ is PvPvE only: every deployment can put rival squads i
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-westie-dmz-ama-recap-2026-10-11, src-thexclusiveace-bounty-video-2026-10-12, src-gamerfuzion-dmz-things-to-know-2026-10-03, src-activision-season-1-announcement-2026-10-28, src-detonated-dmz-story-matchmaking-2026-10-29, src-ixbt-dmz-pvp-matchmaking-2026-10-30, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-conquestcapped-dmz-solo-2026-10-26, clm_5925122b4bac, clm_cb80a507198b, clm_2738483c8aa0]
+sources: [src-westie-dmz-ama-recap-2026-10-11, src-thexclusiveace-bounty-video-2026-10-12, src-gamerfuzion-dmz-things-to-know-2026-10-03, src-activision-season-1-announcement-2026-10-28, src-detonated-dmz-story-matchmaking-2026-10-29, src-ixbt-dmz-pvp-matchmaking-2026-10-30, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-conquestcapped-dmz-solo-2026-10-26]
 aliases: ["PvE mode", "DMZ PvE", "PvE only DMZ", "PvE lobbies", "single squad mission", "DMZ without PvP", "PvE mode DMZ MW4"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

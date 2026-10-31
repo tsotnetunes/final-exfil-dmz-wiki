@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-wzstats-dmz-loot-2026-10-30]
 aliases: ["Killstreaks", "killstreak", "UAV", "Advanced UAV", "Care Package", "Combat Drone", "Bombing Run", "Crossfire", "Artillery Beacon", "Impact Warhead", "Bomb Glider", "Railgun Sentry", "airstrike"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

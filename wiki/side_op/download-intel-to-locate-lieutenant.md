@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-gamespot-from-the-ward-ep7-2026-10-05, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-allthingshow-dmz-orders-2026-10-31, src-gamerfuzion-dmz-orders-guides-2026-10-21, src-codcentral-dmz-orders-2026-10-21, src-game8-dmz-orders-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-dmzcodex-com-operations-2026-10-31, src-codmunity-dmz-missions-2026-10-31]
 aliases: ["Lieutenant Hunt tower", "Lieutenant Tower", "Hunt Lieutenant Tower", "Lieutenant tracker tower", "Upload Station", "download intel", "locate lieutenant", "Lieutenant Hunt"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

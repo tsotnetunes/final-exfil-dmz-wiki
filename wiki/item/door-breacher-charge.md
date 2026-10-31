@@ -5,9 +5,8 @@ description: "An Ultra one-use charge that opens a locked door without its key, 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-ready-for-launch-progression-2026-10-19, src-gamerfuzion-solo-vault-run-2026-10-25, src-criticalhits-dmz-keys-2026-10-26, src-conquestcapped-dmz-keys-2026-10-28, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-wzstats-dmz-loot-2026-10-30, clm_13dd447ee402, src-gfinity-door-breacher-2026-10-27]
+sources: [src-activision-ready-for-launch-progression-2026-10-19, src-gamerfuzion-solo-vault-run-2026-10-25, src-criticalhits-dmz-keys-2026-10-26, src-conquestcapped-dmz-keys-2026-10-28, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-wzstats-dmz-loot-2026-10-30, src-gfinity-door-breacher-2026-10-27]
 aliases: ["door breacher", "breaching charge", "Door Breach Charge", "breacher"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

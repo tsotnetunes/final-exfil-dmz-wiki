@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-dmzhub-maps-2026-10-31, src-dmzhub-locations-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27, src-gamingpromax-compounds-2026-10-26, src-gamerfuzion-solo-vault-run-2026-10-25, src-dmztracker-dynamic-side-ops-2026-10-20]
 aliases: ["Prison complex", "the Citadel", "Political Prison", "Fortress Prison Yard", "14th Political Prison", "prison", "Kang's Arms Incinerator", "Prison Encampment Storage", "The Citadel South Wing"]
-stale_after: 2026-11-13
 region: "northwest Hajin (former NK)"
 danger: "high (the Citadel: critical)"
 loot_profile: military

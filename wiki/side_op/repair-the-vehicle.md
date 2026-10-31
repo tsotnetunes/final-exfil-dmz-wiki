@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-dtgre-dmz-ops-guides-2026-10-21, src-allthingshow-dmz-orders-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-codcentral-dmz-orders-2026-10-21, src-codmunity-dmz-missions-2026-10-31, src-dmzhub-orders-2026-10-31]
 aliases: ["Repair a Truck", "repair trucks", "truck repair", "radar truck", "Radar Truck repair", "Car Battery", "Alternator", "Spark Plug", "Vehicle Water Pump"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

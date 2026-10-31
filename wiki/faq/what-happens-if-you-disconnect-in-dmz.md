@@ -5,9 +5,8 @@ description: "Rejoin the same match while it is still running. For one early-acc
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-westie-dmz-ama-recap-2026-10-11, src-codupdates-dmz-disconnect-gear-2026-10-21, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-codupdates-pc-dog-tag-network-error-2026-10-27, src-iw-mw4-trello-2026-10-19, clm_b83a508a7fac, clm_b6179531b351, clm_2e81dbaa4c19, clm_004ae083916b, clm_6155f83bd127]
+sources: [src-westie-dmz-ama-recap-2026-10-11, src-codupdates-dmz-disconnect-gear-2026-10-21, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-codupdates-pc-dog-tag-network-error-2026-10-27, src-iw-mw4-trello-2026-10-19]
 aliases: ["DMZ disconnect", "DMZ crash lost loot", "rejoin DMZ match", "DMZ server crash", "kicked from DMZ", "DMZ reconnect", "lost my operator disconnect", "do you lose gear if you disconnect"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

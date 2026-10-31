@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-mw4-launch-patch-notes-2026-10-29, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-keengamer-best-loot-2026-10-22]
 aliases: ["Gas Mask", "Durable Gas Mask", "gasmask", "gas mask durability", "Purple Gas Mask", "purple gas mask", "radiation mask", "Radiation Gear"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

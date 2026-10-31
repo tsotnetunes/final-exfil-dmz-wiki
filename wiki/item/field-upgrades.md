@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-allthings-how-large-backpack-2026-10-21, src-conquestcapped-dmz-keys-2026-10-28]
 aliases: ["Field Upgrade", "field upgrade", "Armor Box", "Ammo Box", "Munitions Box", "Portable Radar", "DDOS", "Fulton Drop Marker", "Fulton", "Inflatable Decoy", "Razor Wire Trap", "Rebreather", "Recon Drone", "Riot Shield", "SAM Airburst Turret", "Seeker Drone", "Smoke Wall", "Trophy System"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

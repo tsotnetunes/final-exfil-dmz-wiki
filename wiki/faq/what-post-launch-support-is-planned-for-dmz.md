@@ -5,9 +5,8 @@ description: "Season 1 on 6 Nov 2026 adds the X01 Black Site, new bosses, Threat
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-season-1-announcement-2026-10-28, src-westie-dmz-ama-recap-2026-10-11, src-gamespot-from-the-ward-ep7-2026-10-05, src-destructoid-dmz-interview-2026-06-06, clm_12a1524f7169, clm_34cd336f3bfa]
+sources: [src-activision-season-1-announcement-2026-10-28, src-westie-dmz-ama-recap-2026-10-11, src-gamespot-from-the-ward-ep7-2026-10-05, src-destructoid-dmz-interview-2026-06-06]
 aliases: ["DMZ roadmap", "DMZ future", "will DMZ be supported", "DMZ Season 2", "post-launch support MW4", "MW4 DMZ roadmap", "DMZ new maps"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

@@ -7,7 +7,6 @@ brain_status: draft
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-dmzcodex-armor-backpacks-guide-2026-10-24]
 aliases: ["Fulton", "Fulton marker", "Fulton balloon", "Fulton Drop", "fulton drop marker dmz"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

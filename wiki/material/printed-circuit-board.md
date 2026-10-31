@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-codmunity-dmz-items-2026-10-26, src-dtgre-dmz-crafting-guides-2026-10-24, src-xboxplay-dmz-crafting-guides-2026-10-23, src-codcentral-3d-printer-recipes-2026-10-20, src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-dmzhub-upgrades-2026-10-31, src-dmzhub-items-2026-10-31]
 aliases: ["PCB", "PCBs", "Printed Circuit Boards", "circuit board", "where to find PCB"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

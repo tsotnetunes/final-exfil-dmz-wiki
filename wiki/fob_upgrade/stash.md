@@ -5,23 +5,24 @@ description: "FOB storage shared by all your Operators: 40 items and 12 weapons 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_fe49071395d4, clm_52ae1fb94e2f, clm_972cffa0bd29, clm_cd43cdd0d14f, clm_1d5b2eabae74, clm_112b93b311ed, clm_4fd0c7201984, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, clm_304434c0da1f]
+sources: [clm_fe49071395d4, clm_52ae1fb94e2f, clm_972cffa0bd29, clm_cd43cdd0d14f, clm_1d5b2eabae74, clm_112b93b311ed, clm_4fd0c7201984, clm_9ac6093a89c7, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Stash/Loadout", "Loadout", "stash space", "stash size", "how big is the stash", "Overflow Stash", "stash upgrade", "weapon stash"]
 station: stash
 unlock: start
 ---
 <!-- generated:start -->
-The Stash provides inventory storage in Modern Warfare 4 DMZ that players build up using extracted items. Extracted items matter directly toward building up the Stash, as confirmed on 7 Oct 2026.
+The Stash stores extracted gear in Modern Warfare 4 DMZ. What players extract matters as they build up their Stash.
 
-## What does the Stash hold?
+## How much does the Stash hold?
+Players reported that the DMZ stash holds 12 weapons and 58 items. Players also reported that the Stash user interface can likely be updated for increased space.
 
-Players report that the DMZ stash holds 12 weapons and 58 items. Players also report that the Stash interface can likely be updated for increased space.
+## How do you upgrade the Stash?
+Players reported that DMZ stash upgrades require finding specific items.
 
-## How do Stash upgrades unlock?
+## What issues affect the Stash?
+Players reported that Stash Weapon Upgrade I continues to appear in the upgrade list after completion. A player also reported being unable to put items into their DMZ stash.
 
-Players report that DMZ stash upgrades require finding specific items. Stash Weapon Upgrade I continues to appear in the upgrade list after completion, according to player reports.
-
-_Generated from 1 confirmed and 5 reported claims across 6 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 1 confirmed and 6 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-vgtimes-dmz-3d-printer-2026-10-27, src-activision-ready-for-launch-progression-2026-10-19, src-techbloat-dmz-orders-2026-10-28, src-destructoid-dmz-ingredient-guides-2026-10-22, src-patchcrazy-dmz-crafting-guides-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-recipes-2026-10-31, src-dmzhub-items-2026-10-31, src-destructoid-nylon-farming-2026-10-23]
 aliases: ["Large Backpack", "large bag", "big backpack", "Hard Carry", "Hard Carry Order"]
-stale_after: 2026-11-13
 materials: "2 Nylon Laminate, 5 Structural Alloy, 10 Rigid Synthetics"
 printer_level: "DMZ Orders"
 ---

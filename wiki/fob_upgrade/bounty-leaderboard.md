@@ -5,23 +5,19 @@ description: "The FOB board of the top 50 Most Wanted players and top 50 Bounty 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_84fd4d1811bc, clm_0a8db7cc19eb, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24]
+sources: [clm_84fd4d1811bc, clm_0a8db7cc19eb, clm_76c6387a25e4, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24]
 aliases: ["Bounty Board", "Most Wanted leaderboard", "Bounty Hunters leaderboard", "DMZ leaderboard"]
 station: bounty-leaderboard
 unlock: start
 ---
 <!-- generated:start -->
-The Bounty Leaderboard features a target at the top of its rankings, confirmed on 24 Oct 2026.
+The Bounty Leaderboard displays a target at the top of the board, confirmed on 24 Oct 2026. Players report that unlocking the Bounty Board requires DMZ Level 17.
 
-## What does the upgrade unlock?
+## How do bounties increase?
 
-A target appears at the top of the Bounty Leaderboards.
+Players report that DMZ bounties only go up off kills in a single match.
 
-## How is it unlocked?
-
-Players report that the Bounty Board requires DMZ Level 17.
-
-_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

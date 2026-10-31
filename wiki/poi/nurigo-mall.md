@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-keys-2026-10-31, src-dmzhub-missions-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-solo-vault-run-2026-10-25, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-mw4-launch-patch-notes-2026-10-29, src-dmztracker-dynamic-side-ops-2026-10-20, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-allthingshow-dmz-orders-2026-10-31]
 aliases: ["NuriGO", "NuriGO East", "NuriGO West", "underground mall", "City Hall", "Han-Go Korean BBQ", "Coin Mining Den", "Jang-Ui's Converted Power Room", "Shopping DRC Locker", "DRC Labs"]
-stale_after: 2026-11-13
 region: "northeast Hajin City (former SK)"
 danger: "medium (west: high)"
 loot_profile: urban

@@ -5,9 +5,8 @@ description: "About 40 to 50 minutes, according to Infinity Ward before launch (
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-gamerfuzion-dmz-things-to-know-2026-10-03, src-activision-dmz-guide-part1-2026-10-05, src-conquestcapped-dmz-solo-2026-10-26, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-orders-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-cod-2xp-game-time-2026-09-28, src-activision-season-1-announcement-2026-10-28, clm_a15e34798a66, clm_0654da754a95]
+sources: [src-gamerfuzion-dmz-things-to-know-2026-10-03, src-activision-dmz-guide-part1-2026-10-05, src-conquestcapped-dmz-solo-2026-10-26, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-orders-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-cod-2xp-game-time-2026-09-28, src-activision-season-1-announcement-2026-10-28]
 aliases: ["DMZ match length", "how long does a DMZ game last", "DMZ match time", "radiation timer DMZ", "how long is a DMZ raid"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

@@ -5,9 +5,8 @@ description: "Print a Disposable Parachute (three uses) from 30 Chemicals and 3 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, clm_7e1b19e52f1e]
+sources: [src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["Disposable Parachute", "parachute uses", "how many uses parachute", "craft parachute", "limited parachute"]
-stale_after: 2026-11-13
 materials: "30 Chemicals, 3 Rigid Synthetics"
 printer_level: "DMZ level 55"
 ---

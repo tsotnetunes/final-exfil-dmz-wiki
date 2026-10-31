@@ -5,9 +5,8 @@ description: "What the words in MW4 DMZ mean, from Active Duty to X01: FOB, exfi
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-playstation-blog-dmz-2026-10-05, src-gamespark-tokyo-media-event-2026-10-01, src-cod-2xp-game-time-2026-09-28, src-activision-mw4-bonus-content-2026-10-23, src-codmunity-fulton-drop-marker-2026-10-21, clm_c772bf67ab75]
+sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-playstation-blog-dmz-2026-10-05, src-gamespark-tokyo-media-event-2026-10-01, src-cod-2xp-game-time-2026-09-28, src-activision-mw4-bonus-content-2026-10-23, src-codmunity-fulton-drop-marker-2026-10-21]
 aliases: ["DMZ glossary", "glossary", "DMZ terms", "what does it mean DMZ", "DMZ slang", "DMZ abbreviations", "DMZ words"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

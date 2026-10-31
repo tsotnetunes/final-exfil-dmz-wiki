@@ -5,9 +5,8 @@ description: "A Legendary 3D Printer ingredient that drops from the Deathstalker
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-codcentral-3d-printer-recipes-2026-10-20, src-vgtimes-dmz-3d-printer-2026-10-27, src-destructoid-3d-printer-recipes-2026-10-21, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-dmzhub-bosses-2026-10-31, src-dmzhub-upgrades-2026-10-31, clm_d162a2f6766a, clm_2709a2129c64, clm_855a0d332b7b, clm_33a4b2ec6e55]
+sources: [src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-codcentral-3d-printer-recipes-2026-10-20, src-vgtimes-dmz-3d-printer-2026-10-27, src-destructoid-3d-printer-recipes-2026-10-21, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-dmzhub-bosses-2026-10-31, src-dmzhub-upgrades-2026-10-31]
 aliases: ["Prototype RF Modules", "RF Module", "RF Modules", "Deathstalker drop", "where to find Prototype RF Module"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-solo-compound-run-2026-10-26, src-gamerfuzion-irradiated-container-2026-10-27, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-gameshorizon-police-stations-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-compounds-2026-10-26]
 aliases: ["Wolves", "Theatre", "Netshin Park stadium", "Baseball Stadium B Station", "Goh24", "Shop Records Room", "Police Weapon Depository"]
-stale_after: 2026-11-13
 region: "south-central Hajin City (former SK)"
 danger: medium
 loot_profile: urban

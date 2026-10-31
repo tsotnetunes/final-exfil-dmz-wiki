@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-progression-2026-10-19, src-activision-season-1-announcement-2026-10-28, src-activision-ready-for-launch-progression-2026-10-19]
 aliases: ["unlock 3D printer", "unlock gunsmith DMZ", "FOB unlocks", "when does the gunsmith unlock", "when does the vendor unlock", "Boss Board unlock", "Dog Tag Case unlock"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

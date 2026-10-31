@@ -5,9 +5,8 @@ description: "A Legendary suit that protects you from radiation, useful in the H
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_f28fa8554173, clm_f655e133d8dd, clm_b5db07dcfcba, clm_324a4cc7c490, clm_c7d324fb5557, clm_731aa7db3d8e, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_f28fa8554173, clm_b5db07dcfcba, clm_324a4cc7c490, clm_c7d324fb5557, clm_731aa7db3d8e, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["Hazmat", "hazmat suit", "radiation suit", "Legendary Hazmat Suit", "chemical suit"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 The Hazmat Suit is an item that players report is discarded upon exfil. This detail matters for players planning their inventory retention across extractions.

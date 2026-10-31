@@ -5,9 +5,8 @@ description: "Print a Medkit from 30 Chemicals, 1 Binding Catalyst and 5 Biomate
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-westie-dmz-ama-recap-2026-10-11, src-dtgre-dmz-crafting-guides-2026-10-24, src-techbloat-dmz-orders-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, clm_3fc45e2c36d0, src-dmzhub-items-2026-10-31]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-westie-dmz-ama-recap-2026-10-11, src-dtgre-dmz-crafting-guides-2026-10-24, src-techbloat-dmz-orders-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-items-2026-10-31]
 aliases: ["Medkit", "Med Kit", "medkit craft", "how to make a medkit", "Healer Order", "print a Medkit"]
-stale_after: 2026-11-13
 materials: "30 Chemicals, 1 Binding Catalyst, 5 Biomaterials"
 printer_level: "Start (DMZ level 1 reward)"
 ---

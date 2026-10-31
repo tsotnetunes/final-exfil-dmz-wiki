@@ -5,9 +5,8 @@ description: "An Epic 3D Printer ingredient for the Legendary Parachute, Impact 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, clm_6c7b8163cfc9, clm_0217c096a2ca, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzhub-upgrades-2026-10-31]
+sources: [src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzhub-upgrades-2026-10-31]
 aliases: ["Turned Component", "where to find Turned Components"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

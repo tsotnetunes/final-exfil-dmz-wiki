@@ -5,9 +5,8 @@ description: "Print a Medium Backpack from 50 Synthetics and 5 Rigid Synthetics.
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-vgtimes-dmz-3d-printer-2026-10-27, src-allthingshow-dmz-crafting-guides-2026-10-21, src-techbloat-dmz-orders-2026-10-28, clm_0a8ddc7fe171, src-dmzhub-items-2026-10-31]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-vgtimes-dmz-3d-printer-2026-10-27, src-allthingshow-dmz-crafting-guides-2026-10-21, src-techbloat-dmz-orders-2026-10-28, src-dmzhub-items-2026-10-31]
 aliases: ["Medium Backpack", "medium bag", "backpack recipe", "secure backpack", "how to get Secure Slots"]
-stale_after: 2026-11-13
 materials: "50 Synthetics, 5 Rigid Synthetics"
 printer_level: "Start (DMZ level 2)"
 ---

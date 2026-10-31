@@ -5,9 +5,8 @@ description: "Yes. Your Bank of DMZ Cash has a cap that ten Bank Upgrades raise:
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-dmz-money-2026-10-26, src-codmunity-dmz-guide-2026-10-24, clm_06c3db0d22f9]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-dmz-money-2026-10-26, src-codmunity-dmz-guide-2026-10-24]
 aliases: ["bank cap DMZ", "DMZ cash cap", "bank limit DMZ", "wallet limit DMZ", "max DMZ cash", "how to upgrade bank DMZ", "DMZ bank upgrade", "Bank Upgrade III"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

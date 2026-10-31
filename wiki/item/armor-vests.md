@@ -5,9 +5,8 @@ description: "DMZ has eight plate carriers holding 1 to 3 armour plates; the 3-P
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-conquestcapped-dmz-keys-2026-10-28, clm_bc3d420f777c, clm_8b9dad98699a, clm_2140d9f4cd1c, clm_6cdd88af06b9]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-conquestcapped-dmz-keys-2026-10-28]
 aliases: ["Plate Carriers", "plate carrier", "armor vest", "armour vest", "vests", "1-Plate Armor Vest", "2-Plate Armor Vest", "2-Plate Ballistic Gel Vest", "2-Plate Helmet Armor Vest", "3-Plate Ballistic Gel Vest", "3-Plate Helmet Armor Vest", "Ballistic Gel Vest", "Helmet Armor Vest", "Red Tier 3 Plate Vest", "red vest", "Armor Plate", "armor plates", "armour plates", "plates", "2-Plate Carrier"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

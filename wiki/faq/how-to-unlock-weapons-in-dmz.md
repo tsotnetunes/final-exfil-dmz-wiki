@@ -5,9 +5,8 @@ description: "Extract a weapon's Weapon Manual, then buy that weapon as often as
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-weapon-manuals-2026-10-31, src-playstation-blog-dmz-2026-10-05, src-gamerfuzion-dmz-money-2026-10-26, src-activision-season-1-announcement-2026-10-28, clm_ce6b0de65759, clm_4c4b5f9891b5, clm_2b05fa148d3c, clm_e153c3eb028f, clm_4f7ad24e07bb]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-weapon-manuals-2026-10-31, src-playstation-blog-dmz-2026-10-05, src-gamerfuzion-dmz-money-2026-10-26, src-activision-season-1-announcement-2026-10-28]
 aliases: ["unlock guns DMZ", "how to get weapons DMZ", "weapon manual DMZ", "how to unlock weapons in DMZ", "buy weapons DMZ", "DMZ gunsmith unlock"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

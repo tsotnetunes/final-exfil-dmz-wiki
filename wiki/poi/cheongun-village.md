@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-dmzhub-keys-2026-10-31, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamerfuzion-irradiated-container-2026-10-27, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-orders-page-14-2026-10-30, src-gamerfuzion-underground-orders-2026-10-23, src-gamerfuzion-solo-compound-run-2026-10-26, src-allthingshow-gun-store-key-2026-10-22, src-allthingshow-key-doors-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-gamingpromax-compounds-2026-10-26]
 aliases: ["Cheongun", "Cheongun Outskirts", "Russian Border Crossing", "Russian Border", "Rin Oil", "Mechanic's Shack", "Rail Depot Storage", "Cheongun police station"]
-stale_after: 2026-11-13
 region: "north Hajin (former SK)"
 danger: "low (casino: high)"
 loot_profile: mixed

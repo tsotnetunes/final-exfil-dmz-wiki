@@ -5,9 +5,8 @@ description: "Medium-threat Story Mission at Mirae General Hospital: find Genera
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_907d1988e248, clm_cb8896693cf8, clm_19763d29ca5b, clm_1cc7e4e33a63, src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-missions-2026-10-31, src-fpsjp-story-missions-trailer-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-gfinity-dmz-3d-printer-2026-10-22, src-codcentral-3d-printer-recipes-2026-10-20]
+sources: [src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-missions-2026-10-31, src-fpsjp-story-missions-trailer-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-gfinity-dmz-3d-printer-2026-10-22, src-codcentral-3d-printer-recipes-2026-10-20]
 aliases: ["Critical Extraction", "Operation Critical Execution", "hospital mission", "Hospital Mission", "General Kang", "Gen. Kang", "DMZ mission involving a cart", "gurney mission", "hospital bed mission", "Kill the Doctor"]
-stale_after: 2026-11-13
 mission_kind: story
 steps: "6 HUD steps"
 ---

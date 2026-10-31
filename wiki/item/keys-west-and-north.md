@@ -5,9 +5,8 @@ description: "Every DMZ key door in Cheongun Village and the casino, Imjin Farml
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-conquestcapped-dmz-keys-2026-10-28, src-dmzhub-keys-2026-10-31, src-gamingpromax-dmz-keys-2026-10-27, src-gfinity-story-mission-rewards-2026-10-23, src-criticalhits-dmz-keys-2026-10-26, src-codmunity-dmz-items-2026-10-26, src-xboxplay-dmz-keys-2026-10-22, src-activision-ready-for-launch-progression-2026-10-19, clm_2faa69935f53, clm_82e276dd1672, src-dexerto-jang-ui-power-room-2026-10-24]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-conquestcapped-dmz-keys-2026-10-28, src-dmzhub-keys-2026-10-31, src-gamingpromax-dmz-keys-2026-10-27, src-gfinity-story-mission-rewards-2026-10-23, src-criticalhits-dmz-keys-2026-10-26, src-codmunity-dmz-items-2026-10-26, src-xboxplay-dmz-keys-2026-10-22, src-activision-ready-for-launch-progression-2026-10-19, src-dexerto-jang-ui-power-room-2026-10-24]
 aliases: ["Counting Room Vault", "Vault Armory", "Jin-Tae's Private Lounge", "Rail Depot Storage", "Mechanic's Shack", "Imjin Mill Foreman's Office", "Hoesik Supply Room", "Mill Explosives Lab", "Rice Mill Bunker", "Gorani's Scout Overlook", "Haejeok Radio Station", "The Citadel South Wing", "The Citadel Main Control Room", "South Block Armory", "Kang's Arms Incinerator", "Prison Encampment Storage", "Commandant Office", "Weapons Mod Workshop", "Field Depot", "Air Base Access Card - Multi Use", "Supreme Leader's Bunker Access Card", "Air Base DRC Weapons Locker", "Underground Propaganda Store Room", "Haksan School Armory", "Re-Education Center Annex", "Airbase Access Card", "Air Base Armory Keycard", "Train Depot Storage Room", "Traindepot - Storageroom", "casino keys", "prison keys", "air base keys"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

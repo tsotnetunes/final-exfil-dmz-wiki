@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-season-1-announcement-2026-10-28, src-activision-pc-specs-2026-09-29, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["Battle Pass DMZ", "BlackCell", "BlackCell DMZ", "DMZ Survival Kits battle pass", "DMZ season pass", "Battle Pass and Store Station"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

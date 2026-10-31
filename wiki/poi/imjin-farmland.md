@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-dmzhub-keys-2026-10-31, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-allthingshow-key-doors-2026-10-21, src-allthingshow-hajin-gameplay-2026-10-21, src-gamerfuzion-irradiated-container-2026-10-27, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamingpromax-compounds-2026-10-26, src-dmztracker-dynamic-side-ops-2026-10-20, src-allthingshow-dmz-orders-2026-10-31]
 aliases: ["Rice Mill", "Jeong Loading Dock", "Farmland Exterior", "D7", "Imjin", "Gorani's Scout Overlook", "Hoesik Supply Room", "Mill Explosives Lab", "Imjin Mill Foreman's Office", "Haejeok Radio Station", "Rice Mill Bunker"]
-stale_after: 2026-11-13
 region: "south-southwest Hajin (former SK)"
 danger: "low (Rice Mill: medium)"
 loot_profile: mixed

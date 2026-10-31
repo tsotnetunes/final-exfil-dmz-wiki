@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-vgtimes-dmz-3d-printer-2026-10-27, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dtgre-dmz-crafting-guides-2026-10-24]
 aliases: ["Gas Mask", "Durable Gas Mask", "gas mask craft", "radiation mask", "how to get a gas mask"]
-stale_after: 2026-11-13
 materials: "30 Chemicals, 3 Rigid Synthetics"
 printer_level: "DMZ level 26"
 ---

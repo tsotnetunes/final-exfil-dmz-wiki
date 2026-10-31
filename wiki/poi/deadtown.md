@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-allthingshow-hajin-map-2026-10-21, src-allthingshow-key-doors-2026-10-21, src-dmzhub-keys-2026-10-31, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-gamerfuzion-irradiated-container-2026-10-27, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27, src-dmztracker-dynamic-side-ops-2026-10-20, src-allthingshow-dmz-orders-2026-10-31]
 aliases: ["Re-Education Center", "Deadtown Exterior", "Haksan School", "Haksan School Armory", "Re-Education Center Annex", "Underground Propaganda Store Room"]
-stale_after: 2026-11-13
 region: "southwest Hajin (former NK)"
 danger: "low (Re-Education Center: medium)"
 loot_profile: mixed

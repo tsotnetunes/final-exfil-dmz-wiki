@@ -5,9 +5,8 @@ description: "All 11 DMZ backpacks, from the 8-slot Basic Pack to Ultra packs wi
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-cod-dmz-progression-video-2026-10-07, src-dmzcodex-backpacks-2026-10-31, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-dmzradar-backpacks-2026-10-20, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-xboxplay-large-backpack-2026-10-23, src-allthings-how-large-backpack-2026-10-21, src-windowscentral-dmz-backpacks-2026-10-22, src-conquestcapped-dmz-keys-2026-10-28, clm_0a8ddc7fe171, clm_8f5d9e799304, clm_4f7ad24e07bb]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-cod-dmz-progression-video-2026-10-07, src-dmzcodex-backpacks-2026-10-31, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-dmzradar-backpacks-2026-10-20, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-xboxplay-large-backpack-2026-10-23, src-allthings-how-large-backpack-2026-10-21, src-windowscentral-dmz-backpacks-2026-10-22, src-conquestcapped-dmz-keys-2026-10-28]
 aliases: ["backpack", "backpack sizes", "backpack tiers", "Basic Pack", "Small Backpack", "Medium Backpack", "Medium Weapon Backpack", "Medium Scavenger Backpack", "Small Secure Backpack", "Large Scavenger Backpack", "Medium Secure Backpack", "Large Secure Backpack", "Secure Scavenger Backpack", "Scavenger Backpack", "Secure Backpack", "Weapon Backpack", "bag", "Safe Pocket", "secure pocket"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

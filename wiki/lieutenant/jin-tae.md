@@ -5,7 +5,7 @@ description: "Lieutenant on the upper floors of the Heavenly Luck Casino in Cheo
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-dmzhub-keys-2026-10-31, clm_c101e44b551c, clm_8e41bf518b21]
+sources: [src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-dmzhub-keys-2026-10-31]
 aliases: ["Jin Tae", "Jintae", "JIN-TAE", "Jin-tae's Dog Tag", "casino boss", "High Roller's Fortune", "Highroller's Fortune", "Jin-Tae's Private Lounge"]
 weapon: ISO Nightshade SMG
 location: Heavenly Luck Casino, Cheongun Village

@@ -5,9 +5,8 @@ description: "Side Op: clear a SAM site, hack its control computer and stay in t
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_c3633bb72757, clm_5cb5d20deed5, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-dmz-orders-2026-10-31, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-dtgre-dmz-ops-guides-2026-10-21, src-dmztracker-dynamic-side-ops-2026-10-20, src-dmzcodex-com-operations-2026-10-31, src-codcentral-dmz-orders-2026-10-21, src-codcentral-dmz-dynamic-ops-2026-10-21, src-gamerfuzion-dmz-orders-guides-2026-10-21]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-dmz-orders-2026-10-31, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-dtgre-dmz-ops-guides-2026-10-21, src-dmztracker-dynamic-side-ops-2026-10-20, src-dmzcodex-com-operations-2026-10-31, src-codcentral-dmz-orders-2026-10-21, src-codcentral-dmz-dynamic-ops-2026-10-21, src-gamerfuzion-dmz-orders-guides-2026-10-21]
 aliases: ["SAM Site", "SAM sites", "Capture a SAM Site", "Commandeer a SAM Site", "SAM site locations", "anti-air"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

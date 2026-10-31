@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-windows-central-dmz-reveal-2026-06-06, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["MIA DMZ", "rescue operator", "recover operator DMZ", "operator missing in action", "Operator Rescue Beacon", "MIA recovery cost", "how much to rescue operator"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

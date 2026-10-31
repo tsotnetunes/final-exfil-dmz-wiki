@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-dexerto-hajin-map-2026-10-05, src-dmzhub-locations-2026-10-31, src-dmzhub-keys-2026-10-31, src-codmunity-hajin-map-2026-10-31, src-allthingshow-hajin-map-2026-10-21, src-allthingshow-key-doors-2026-10-21, src-allthingshow-hajin-gameplay-2026-10-21, src-allthingshow-gun-store-key-2026-10-22, src-gfinity-dmz-lieutenants-2026-10-22, src-gamingpromax-compounds-2026-10-26, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27, src-gamerfuzion-irradiated-container-2026-10-27, src-gamerfuzion-underground-orders-2026-10-23, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamerfuzion-compound-echo-farm-2026-10-23, src-allthingshow-exfil-guide-2026-10-21]
 aliases: ["minor POI", "minor points of interest", "small POIs", "Hajin locations", "all Hajin locations", "Tong-il Village", "Revolution Dam", "Pyonghwa Village", "Pyeonghwa Village", "Imjin Suburb", "Mujin Pass", "Daesong Ridge", "Namjin Riverside", "Hajin River", "Hanrim Village", "La Grande Vie", "Admin Complex No. 2"]
-stale_after: 2026-11-13
 region: Hajin
 danger: varies
 loot_profile: varies

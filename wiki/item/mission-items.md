@@ -7,7 +7,6 @@ brain_status: draft
 sensitivity: public
 sources: [src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-conquestcapped-dmz-keys-2026-10-28, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-dtgre-dmz-ops-guides-2026-10-21, src-dtgre-dmz-radar-truck-2026-10-25]
 aliases: ["mission item", "quest items", "Mission Item slot", "Irradiated Container", "Encrypted Drive", "Encrypted Voice Logs", "K9 Battery Core", "K9 Battery Cores", "recipe item"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

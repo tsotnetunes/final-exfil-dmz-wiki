@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-vgtimes-dmz-3d-printer-2026-10-27, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-patchcrazy-dmz-crafting-guides-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31]
 aliases: ["Tempered Armor Vest", "Tempered vest", "Tempered Armor Vest recipe location", "Doctor's office recipe", "Command Office recipe"]
-stale_after: 2026-11-13
 materials: "2 Military Composites, 4 Ballistic Fabric, 10 Rigid Synthetics"
 printer_level: "Found in Hajin"
 ---

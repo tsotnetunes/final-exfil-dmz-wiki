@@ -5,9 +5,8 @@ description: "Hajin's weather changes from one deployment to the next (sun, clou
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_5716a58c7e46, clm_762f70bd4aec, src-activision-dmz-deep-dive-2026-06, src-westie-dmz-ama-recap-2026-10-11, src-gamespark-tokyo-media-event-2026-10-01, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-irradiated-container-2026-10-27, src-activision-season-1-announcement-2026-10-28]
+sources: [clm_5716a58c7e46, src-activision-dmz-deep-dive-2026-06, src-westie-dmz-ama-recap-2026-10-11, src-gamespark-tokyo-media-event-2026-10-01, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-irradiated-container-2026-10-27, src-activision-season-1-announcement-2026-10-28]
 aliases: ["weather", "convoys", "fog", "rain", "night mode", "day night cycle"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 Dynamic weather and world systems alter environmental conditions to provide variety across gameplay sessions. Players report that dynamic weather makes maps feel different each time a player loads in.

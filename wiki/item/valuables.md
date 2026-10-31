@@ -5,9 +5,8 @@ description: "DMZ valuables (intel documents, Gold Bars, Gold Skulls) sell for 1
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-whats-new-2026-10-05, src-allthings-how-solo-money-2026-10-21, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamingpromax-dmz-keys-2026-10-27, src-conquestcapped-dmz-keys-2026-10-28, src-keengamer-best-loot-2026-10-22, src-gfinity-story-mission-rewards-2026-10-23, src-activision-dmz-guide-part2-2026-10-09, clm_4903d57a964d, clm_b90e9b9a3636, clm_c712a62e76ae, clm_121f8118faaf]
+sources: [src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-whats-new-2026-10-05, src-allthings-how-solo-money-2026-10-21, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamingpromax-dmz-keys-2026-10-27, src-conquestcapped-dmz-keys-2026-10-28, src-keengamer-best-loot-2026-10-22, src-gfinity-story-mission-rewards-2026-10-23, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["valuable", "loot to sell", "what to sell", "intel items", "documents", "files", "Regional Combat Notes", "Ballistic Flight Logs", "Infantry Invasion Plans", "Degraded Execution Footage", "Nuclear Program Files", "Encrypted Archive", "Encrypted Archives", "Cipher Code Ledger", "W.M.D Manifest", "WMD Manifest", "Foreign Intelligence Targets", "Sanctioned Assassination List", "most valuable loot", "barter items"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part2-2026-10-09, src-allthings-how-dmz-traits-2026-10-21]
 aliases: ["respec traits DMZ", "trait reset DMZ", "reset skill tree DMZ", "change traits DMZ", "undo trait DMZ", "DMZ respec"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

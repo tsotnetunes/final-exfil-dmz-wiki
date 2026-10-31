@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-conquestcapped-dmz-keys-2026-10-28, src-dmzhub-keys-2026-10-31, src-dmzhub-missions-2026-10-31, src-dmztracker-story-missions-2026-10-20, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-orders-2026-10-31]
 aliases: ["DMZ keys", "key rooms DMZ", "where to use keys DMZ", "gold keys DMZ", "how to find keys DMZ", "DMZ key farm", "best place to find keys DMZ"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

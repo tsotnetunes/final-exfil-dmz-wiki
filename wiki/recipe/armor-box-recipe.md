@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-vgtimes-dmz-3d-printer-2026-10-27, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-techbloat-dmz-orders-2026-10-28, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31]
 aliases: ["Armor Box", "armour box", "plate box", "armor plates field upgrade", "how to get more plates"]
-stale_after: 2026-11-13
 materials: "30 Metals, 3 Reactive Metals"
 printer_level: "DMZ level 14"
 ---

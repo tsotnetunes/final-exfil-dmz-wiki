@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [clm_cde331b22aa0, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-codcentral-3d-printer-recipes-2026-10-20, src-codmunity-dmz-items-2026-10-26, src-destructoid-3d-printer-recipes-2026-10-21, src-techbloat-dmz-orders-2026-10-28, src-dtgre-dmz-crafting-guides-2026-10-24, src-dmzhub-items-2026-10-31]
 aliases: ["Reactive Metal", "reactive metals farm", "where to find reactive metals", "RM"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 Reactive Metals are a material used to feed the 3D printer. Players use them to supply printing operations.

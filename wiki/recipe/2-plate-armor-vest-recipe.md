@@ -5,9 +5,8 @@ description: "Print a 2-Plate Armor Vest from 50 Synthetics and 5 Reactive Metal
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-codmunity-dmz-items-2026-10-26, src-techbloat-dmz-orders-2026-10-28, clm_8b9dad98699a]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-codmunity-dmz-items-2026-10-26, src-techbloat-dmz-orders-2026-10-28]
 aliases: ["2-Plate Armor Vest", "2 plate vest", "two plate vest", "2-plate carrier", "how to craft armor", "plate carrier recipe"]
-stale_after: 2026-11-13
 materials: "50 Synthetics, 5 Reactive Metals"
 printer_level: "Start (DMZ level 2)"
 ---

@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-gamerfuzion-irradiated-container-2026-10-27, src-codmunity-hajin-map-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-dmzhub-keys-2026-10-31]
 aliases: ["Clinic", "clinic locations", "hospital", "pharmacy", "medical loot", "Chemical Storage", "yellow locker", "Irradiated Container"]
-stale_after: 2026-11-13
 region: Hajin
 danger: low
 loot_profile: medical

@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-allthingshow-hajin-map-2026-10-21, src-gamerfuzion-irradiated-container-2026-10-27, src-dmzhub-keys-2026-10-31, src-westie-dmz-ama-recap-2026-10-11, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-guide-2026-10-24]
 aliases: ["Fire Station", "fire station locations", "Fire Station Storage", "radiation gear", "where to find parachutes", "where to find gas masks"]
-stale_after: 2026-11-13
 region: Hajin
 danger: "low to medium"
 loot_profile: "radiation gear, parachutes"

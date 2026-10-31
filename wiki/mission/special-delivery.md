@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [clm_4e9050dad7e9, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dtgre-dmz-ops-guides-2026-10-21, src-dmzmap-dynamic-ops-2026-10-31, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Operation Special Delivery", "Mobile Launch Platform", "missile launcher op", "bomb parts op"]
-stale_after: 2026-11-13
 mission_kind: dynamic_op
 steps: "6 to 8 steps"
 ---

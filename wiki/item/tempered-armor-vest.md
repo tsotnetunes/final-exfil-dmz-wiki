@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [clm_bc3d420f777c, clm_7182ba17a6b0, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-gamingpromax-dmz-keys-2026-10-27, src-xboxplay-dmz-keys-2026-10-22, src-criticalhits-dmz-keys-2026-10-26, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["Tempered vest", "Tempered Armour Vest", "Tempered plate carrier"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 The Tempered Armor Vest is an armor vest found during raids. Players report that it is one of several vest options available in the game.

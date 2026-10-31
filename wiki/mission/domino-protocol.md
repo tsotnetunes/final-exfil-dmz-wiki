@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzmap-dynamic-ops-2026-10-31, src-dmzcodex-com-operations-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["Operation Domino Protocol", "two HVTs and a Lieutenant", "Lieutenant op"]
-stale_after: 2026-11-13
 mission_kind: dynamic_op
 steps: "8 steps"
 ---

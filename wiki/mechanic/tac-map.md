@@ -5,19 +5,18 @@ description: "The DMZ Tac-Map: objectives, POIs, threat areas, services and spre
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, clm_1388e898e92b, clm_e39fdc756114, clm_c772bf67ab75, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-gameshorizon-police-stations-2026-10-21, src-gfinity-exfil-2026-10-20, src-techwiser-silo-bunkers-2026-10-27, src-codmunity-hajin-map-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_1388e898e92b, clm_e39fdc756114, clm_07db6f377151, clm_6212bbf73d62, src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-gameshorizon-police-stations-2026-10-21, src-gfinity-exfil-2026-10-20, src-techwiser-silo-bunkers-2026-10-27, src-codmunity-hajin-map-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["map", "Tac Map", "tacmap", "grid", "coordinates", "grid square", "HUD", "minimap"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
-The Tac-Map and grid coordinates are map and interface elements tied to the in-game HUD. Interface changes directly shape how players track match events and navigate maps such as Zodiac.
+The Tac-Map and grid coordinates interface connects with the heads-up display features in Modern Warfare 4. Interface changes help players track match information through streamlined visual layouts.
 
-## What changes were reported for the HUD?
+## What HUD updates affect map and display tracking?
 
-* Players reported that the HUD in MW4 removes squad operator portraits.
-* Players reported that the HUD in MW4 uses more compact widgets.
-* Players reported that the kill feed in MW4 was moved to its original position.
-* Players reported on 31 Oct 2026 that Zodiac is a Warzone map.
+* Players report that the heads-up display in Modern Warfare 4 has been updated to remove squad operator portraits.
+* Modern Warfare 4 uses more compact widgets on the display, as reported by players.
+* Players report that the kill feed has been moved to its original position.
+* Players report that Zodiac is a Warzone map.
 
 _Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->

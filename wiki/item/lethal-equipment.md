@@ -5,9 +5,8 @@ description: "The eleven DMZ Lethals, from Frag and Semtex to Thermite, Drill Ch
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-gamingpromax-dmz-keys-2026-10-27, src-xboxplay-dmz-keys-2026-10-22, clm_d12acdac5305, clm_6aac9d9c7dc0]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-gamingpromax-dmz-keys-2026-10-27, src-xboxplay-dmz-keys-2026-10-22]
 aliases: ["Lethals", "lethal", "grenades", "Frag Grenade", "Semtex", "Sticky Grenade", "Throwing Knife", "Drill Charge", "Molotov Cocktail", "Molotov", "Thermite", "C4", "Proximity Mine", "Claymore", "Trip Wire", "Zip Gun"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

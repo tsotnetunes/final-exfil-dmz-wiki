@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-iw-dmz-early-access-time-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-activision-campaign-early-access-live-2026-10-16, src-activision-pc-specs-2026-09-29, src-activision-season-1-announcement-2026-10-28]
 aliases: ["when does DMZ go live", "DMZ early access", "how to get DMZ early", "DMZ launch day", "DMZ release date", "what time does DMZ unlock", "when does DMZ unlock", "DMZ early access start time", "when does DMZ come out"]
-stale_after: 2026-11-07
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db, clm_a0e50790b208, clm_2709a2129c64, clm_855a0d332b7b, clm_a4061b133053, clm_45a3d3d59bfc, clm_718706a12b71, clm_d12acdac5305, clm_6cb6f07bc3cc, clm_4970f5d4d3d4, clm_89c9ddba2341, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-boss-board-2026-10-21, src-allthingshow-colossus-2026-10-21, src-allthingshow-deathstalker-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31]
 aliases: ["Commanders", "Commander", "The Captain", "Captain", "Wheelson", "Juggernaut", "Elite Strike Team", "drone swarm", "King Slayer", "King Slayer calling card", "commander bosses", "roaming commanders"]
-stale_after: 2026-11-07
 ---
 <!-- generated:start -->
 Commander threats are hostile boss targets encountered during matches that yield specific rewards and require targeted tactics to eliminate. Knowing their behaviors and counters allows players to defeat them efficiently.

@@ -7,7 +7,6 @@ brain_status: draft
 sensitivity: public
 sources: [clm_beb7bce73ff1, clm_e99c7e477708, src-gamerfuzion-launch-roadmap-2026-10-14, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Infected mode", "MW4 Infected", "Infected Halloween"]
-stale_after: 2026-11-13
 date: "2026-10-30"
 ---
 <!-- generated:start -->

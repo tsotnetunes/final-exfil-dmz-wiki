@@ -5,9 +5,8 @@ description: "The last way out of a deployment: after the 30-minute radiation ti
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-gamerfuzion-orders-page-14-2026-10-30, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-hajin-gameplay-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, clm_c772bf67ab75, clm_a15e34798a66, clm_233daf06dc99, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, clm_f1f95e1b6f10, clm_51f7e1c5f386]
+sources: [src-dmzhub-maps-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-gamerfuzion-orders-page-14-2026-10-30, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-hajin-gameplay-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23]
 aliases: ["last exfil", "final extraction", "white exfil", "exfil after radiation"]
-stale_after: 2026-11-13
 method: helicopter
 ---
 <!-- generated:start -->

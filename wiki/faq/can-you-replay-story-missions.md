@@ -5,9 +5,8 @@ description: "Yes. Story Missions can be replayed from the Deploy station and re
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmztracker-story-missions-2026-10-20, src-dmzhub-orders-2026-10-31, src-ixbt-dmz-pvp-matchmaking-2026-10-30, src-detonated-dmz-story-matchmaking-2026-10-29, clm_2738483c8aa0]
+sources: [src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmztracker-story-missions-2026-10-20, src-dmzhub-orders-2026-10-31, src-ixbt-dmz-pvp-matchmaking-2026-10-30, src-detonated-dmz-story-matchmaking-2026-10-29]
 aliases: ["replay story missions DMZ", "story mission replay rewards", "random mission deploy", "Random Story Mission", "farm story missions DMZ", "repeat story missions"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-windows-central-dmz-reveal-2026-06-06, src-gamerfuzion-dmz-things-to-know-2026-10-03, src-westie-dmz-ama-recap-2026-10-11, src-activision-season-1-announcement-2026-10-28, src-dotesports-hajin-warzone-season-1-2026-10-16, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["DMZ Warzone", "is DMZ in Warzone", "Warzone DMZ", "Hajin Warzone", "DMZ vs Warzone", "is DMZ a Warzone mode"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

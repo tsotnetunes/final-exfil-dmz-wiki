@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-mw4-launch-patch-notes-2026-10-29, src-iw-mw4-trello-2026-10-19, src-activision-pc-specs-2026-09-29, src-activision-season-1-announcement-2026-10-28]
 aliases: ["DMZ patch notes", "DMZ updates", "MW4 patch notes", "DMZ update today", "content updates", "Call of Duty app updates", "DMZ known issues", "MW4 Trello", "latest DMZ update"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

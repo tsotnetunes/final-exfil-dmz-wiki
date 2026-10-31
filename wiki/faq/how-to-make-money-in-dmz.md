@@ -5,9 +5,8 @@ description: "Run Dynamic Operations (10,000 to 20,000 each since 30 Oct 2026), 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-missions-2026-10-31, src-gamerfuzion-dmz-money-2026-10-26, src-dmztracker-story-missions-2026-10-20, src-dmzhub-orders-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-solo-2026-10-26, src-dmzhub-bosses-2026-10-31, clm_1dda32204130, clm_f17f3ff635f7]
+sources: [src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-missions-2026-10-31, src-gamerfuzion-dmz-money-2026-10-26, src-dmztracker-story-missions-2026-10-20, src-dmzhub-orders-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-solo-2026-10-26, src-dmzhub-bosses-2026-10-31]
 aliases: ["DMZ cash", "make money DMZ", "DMZ money farm", "how to get cash in DMZ", "best money method DMZ", "DMZ cash farm", "earn DMZ Cash"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

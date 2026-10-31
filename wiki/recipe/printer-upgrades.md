@@ -5,9 +5,8 @@ description: "Every FOB upgrade you build at the MW4 DMZ 3D Printer, level by le
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-upgrades-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-allthingshow-dmz-crafting-guides-2026-10-21, src-xboxplay-dmz-crafting-guides-2026-10-23, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-vgtimes-dmz-3d-printer-2026-10-27, src-activision-ready-for-launch-progression-2026-10-19, clm_b90e9b9a3636, clm_4903d57a964d, clm_06c3db0d22f9, src-codmunity-dmz-guide-2026-10-24]
+sources: [src-dmzhub-upgrades-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-allthingshow-dmz-crafting-guides-2026-10-21, src-xboxplay-dmz-crafting-guides-2026-10-23, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-vgtimes-dmz-3d-printer-2026-10-27, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24]
 aliases: ["FOB upgrades", "printer upgrades", "upgrade costs", "Bank Upgrade", "Stash Item Upgrade", "Stash Weapon Upgrade", "MIA Recovery Discount", "Gunsmith Upgrade", "Vendor Item Upgrade", "Dog Tag Case Upgrade", "Bank limit", "how to increase stash space", "stash upgrade cost"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

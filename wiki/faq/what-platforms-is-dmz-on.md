@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-campaign-early-access-2026-06-12, src-gamerfuzion-vrr-performance-mode-2026-10-22, src-nintendolife-df-switch-2-2026-10-30, src-activision-pc-specs-2026-09-29]
 aliases: ["DMZ platforms", "is DMZ on PS4", "is DMZ on Xbox One", "DMZ Switch 2", "DMZ on Steam", "DMZ PS5 120Hz", "DMZ VRR", "DMZ Switch 2 frame rate"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

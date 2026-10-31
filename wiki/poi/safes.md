@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-dmzhub-maps-2026-10-31, src-gamingpromax-compounds-2026-10-26, src-gamerfuzion-solo-compound-run-2026-10-26, src-destructoid-best-loot-2026-10-25, src-codmunity-hajin-map-2026-10-31, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-orders-page-14-2026-10-30, src-allthingshow-hajin-gameplay-2026-10-21, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["safe", "wall safe", "safe locations", "Crack Safe", "open a safe", "safe code"]
-stale_after: 2026-11-13
 region: Hajin
 danger: varies
 loot_profile: high-value

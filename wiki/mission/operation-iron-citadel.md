@@ -5,9 +5,8 @@ description: "Critical-threat Story Mission at Chang-san Air Base, run by Bale: 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_aac399fada29, src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Iron Citadel", "Iron Citadel Story Mission", "air base mission", "Chang-san Air Base mission", "armory code", "Airbase Access Card", "Air Base Armory Card", "Armory Manifest"]
-stale_after: 2026-11-13
 mission_kind: story
 steps: "14 HUD steps"
 ---

@@ -5,9 +5,8 @@ description: "Irradiated nuclear plant on Hajin's northeast coast, High threat: 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, clm_9fe3feef9402, clm_d13ac5614025, clm_f655e133d8dd, clm_b9735f36bb0b, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-conquestcapped-dmz-guide-2026-10-26, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-gamerfuzion-reactor-02-2026-10-27, src-gamerfuzion-solo-compound-run-2026-10-26, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_9fe3feef9402, clm_d13ac5614025, clm_f655e133d8dd, clm_b9735f36bb0b, src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-conquestcapped-dmz-guide-2026-10-26, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-gamerfuzion-reactor-02-2026-10-27, src-gamerfuzion-solo-compound-run-2026-10-26, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Fallout reactor", "Haneul", "Reactor 02", "Reactor 01", "South Korean Border Zone", "nuclear reactor", "Power Plant", "power station", "nuclear power plant", "HNR machine", "Fallen Ember"]
-stale_after: 2026-11-13
 region: "northeast Hajin (former SK)"
 danger: "high (radiation)"
 loot_profile: "high-value, irradiated"

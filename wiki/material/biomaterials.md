@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-items-2026-10-26, src-codcentral-3d-printer-recipes-2026-10-20, src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-dtgre-dmz-crafting-guides-2026-10-24, src-allthingshow-dmz-crafting-guides-2026-10-21, src-vgtimes-dmz-3d-printer-2026-10-27, src-dmzhub-items-2026-10-31]
 aliases: ["Biomaterial", "bio materials", "where to find Biomaterials"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

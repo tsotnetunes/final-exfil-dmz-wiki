@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-keys-2026-10-31, src-destructoid-best-loot-2026-10-25, src-codmunity-hajin-map-2026-10-31]
 aliases: ["the Array", "DBN TV array", "Daesong Ridge", "Cheonwang Peak", "Iskra's Control Room"]
-stale_after: 2026-11-13
 region: "central Hajin (former SK)"
 danger: medium
 loot_profile: "tech, safes"

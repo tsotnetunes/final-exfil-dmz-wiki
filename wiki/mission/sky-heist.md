@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-allthingshow-dmz-dynamic-ops-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzmap-dynamic-ops-2026-10-31, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-hajin-map-2026-10-21, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["Operation Sky Heist", "helicopter heist", "steal the helicopter op"]
-stale_after: 2026-11-13
 mission_kind: dynamic_op
 steps: "8 to 10 steps"
 ---

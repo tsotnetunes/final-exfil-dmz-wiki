@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [clm_b9d5f0d9bab7, clm_7e1b19e52f1e, clm_ca51ba0b61c2, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-keengamer-best-loot-2026-10-22]
 aliases: ["Parachute", "Infinite parachute", "Disposable Parachute", "parachute uses", "chute", "reusable parachute"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 Parachutes are items in Modern Warfare 4 DMZ mode that players must find or craft. They allow players to survive long drops and flee dangerous positions.

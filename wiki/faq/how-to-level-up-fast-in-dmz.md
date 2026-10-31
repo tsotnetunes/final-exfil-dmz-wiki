@@ -5,9 +5,8 @@ description: "Stack objectives: DMZ Orders, Story Missions and Dynamic Operation
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-level-up-fast-2026-10-22, src-cod-2xp-game-time-2026-09-28, src-activision-mw4-bonus-content-2026-10-23, clm_43eb9661dfec]
+sources: [src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-level-up-fast-2026-10-22, src-cod-2xp-game-time-2026-09-28, src-activision-mw4-bonus-content-2026-10-23]
 aliases: ["level up fast DMZ", "DMZ XP farm", "DMZ XP", "how to rank up DMZ", "fastest leveling DMZ", "DMZ leveling"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-codmunity-dmz-missions-2026-10-31, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-allthingshow-dmz-story-missions-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-orders-2026-10-31]
 aliases: ["Paid Intel: Kill Bale", "Kill Bale", "Kill Roze", "Kill the Doctor", "Kill Chemist", "Kill Lieutenant", "Lieutenant intel", "buy Lieutenant intel", "First Lieutenant Takedown"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

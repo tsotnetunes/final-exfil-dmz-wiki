@@ -5,9 +5,8 @@ description: "Every kind of marked location in Hajin and what it is for: station
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_2faa69935f53, src-dmzhub-maps-2026-10-31, src-allthingshow-hajin-gameplay-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-hajin-map-2026-10-21, src-gamerfuzion-underground-orders-2026-10-23, src-gamerfuzion-compound-echo-farm-2026-10-23, src-allthingshow-gun-store-key-2026-10-22, src-dmzhub-keys-2026-10-31, clm_ae67c70adc88, clm_c3633bb72757]
+sources: [src-dmzhub-maps-2026-10-31, src-allthingshow-hajin-gameplay-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-hajin-map-2026-10-21, src-gamerfuzion-underground-orders-2026-10-23, src-gamerfuzion-compound-echo-farm-2026-10-23, src-allthingshow-gun-store-key-2026-10-22, src-dmzhub-keys-2026-10-31]
 aliases: ["Gas Station", "Marine Gas Station", "Fire Station", "Police Station", "Clinic", "Ammo & Armor Cache", "UAV Tower", "Compound", "Bounty Station", "SAM Site", "Lieutenant Hunt tower", "Lieutenant Tower", "radio tower", "Armory", "gun store", "Blackmarket Weapons Locker", "location types"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

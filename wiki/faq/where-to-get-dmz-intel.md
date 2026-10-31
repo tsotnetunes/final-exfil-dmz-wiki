@@ -5,9 +5,8 @@ description: "In game: the Boss Board sells Lieutenant intel, Bounty Stations li
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-iw-mw4-trello-2026-10-19, src-iw-dmz-early-access-time-2026-10-19, clm_51f7e1c5f386, clm_f1f95e1b6f10]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-iw-mw4-trello-2026-10-19, src-iw-dmz-early-access-time-2026-10-19]
 aliases: ["DMZ intel", "intel DMZ", "Final Intel", "Lieutenant intel", "bounty intel", "official DMZ intel", "DMZ news"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

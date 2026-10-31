@@ -5,9 +5,8 @@ description: "No. DMZ is a mode of Call of Duty: Modern Warfare 4, so you need t
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-windows-central-dmz-reveal-2026-06-06, src-gamerfuzion-dmz-things-to-know-2026-10-03, src-activision-dmz-guide-part2-2026-10-09, src-gfinity-mw4-game-pass-2026-06-17, src-timesaver-mw4-subscriptions-2026-09-18, src-activision-season-1-announcement-2026-10-28, clm_517e1fd9f5b2]
+sources: [src-windows-central-dmz-reveal-2026-06-06, src-gamerfuzion-dmz-things-to-know-2026-10-03, src-activision-dmz-guide-part2-2026-10-09, src-gfinity-mw4-game-pass-2026-06-17, src-timesaver-mw4-subscriptions-2026-09-18, src-activision-season-1-announcement-2026-10-28]
 aliases: ["is DMZ free", "is DMZ free to play", "do you need MW4 to play DMZ", "do I have to buy MW4 for DMZ", "DMZ price", "how much is DMZ", "DMZ F2P"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

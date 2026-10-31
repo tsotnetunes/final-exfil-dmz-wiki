@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-mw4-launch-patch-notes-2026-10-29, src-dmztracker-dynamic-side-ops-2026-10-20, src-dmzcodex-com-operations-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-codcentral-dmz-orders-2026-10-21, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dtgre-dmz-ops-guides-2026-10-21, src-dmzhub-orders-2026-10-31]
 aliases: ["safe", "safes", "open a safe", "how to open safes", "safe locations", "Robbery safe"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

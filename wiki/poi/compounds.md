@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-gamingpromax-compounds-2026-10-26, src-codmunity-hajin-map-2026-10-31, src-gamerfuzion-solo-compound-run-2026-10-26, src-gamerfuzion-compound-echo-farm-2026-10-23, src-gamerfuzion-irradiated-container-2026-10-27, src-allthingshow-hajin-gameplay-2026-10-21, src-destructoid-best-loot-2026-10-25, src-conquestcapped-dmz-guide-2026-10-26, src-dmzhub-keys-2026-10-31, src-keengamer-best-loot-2026-10-22, src-dmzhub-locations-2026-10-31]
 aliases: ["compound", "military compound", "Clear the Military Compound", "Compound Alpha", "Compound Bravo", "Compound Charlie", "Compound Delta", "Compound Echo", "Compound Foxtrot", "stronghold"]
-stale_after: 2026-11-13
 region: Hajin
 danger: "medium to high"
 loot_profile: military

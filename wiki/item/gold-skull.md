@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [clm_b90e9b9a3636, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-gamingpromax-dmz-keys-2026-10-27, src-conquestcapped-dmz-keys-2026-10-28, src-keengamer-best-loot-2026-10-22]
 aliases: ["Gold Skulls", "golden skull", "skull"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 The Gold Skull is an item needed for base progression. Players report that it matters because five of each are needed for end game FOB upgrades.

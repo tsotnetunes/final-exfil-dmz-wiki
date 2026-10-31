@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-pc-specs-2026-09-29, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["TPM 2.0 DMZ", "Secure Boot DMZ", "DMZ PC requirements", "DMZ PC specs", "can my PC run DMZ", "MW4 system requirements", "DMZ minimum specs"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

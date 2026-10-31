@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-orders-page-14-2026-10-30, src-gamerfuzion-underground-orders-2026-10-23, src-allthingshow-gun-store-key-2026-10-22, src-allthingshow-exfil-guide-2026-10-21, src-dmzhub-keys-2026-10-31]
 aliases: ["Songdo", "Oamsik Turtle Island", "Shoreline Station", "La Grande Vie", "Songdo Pier", "Old Barber Shop"]
-stale_after: 2026-11-13
 region: "east Hajin City (former SK)"
 danger: low
 loot_profile: mixed

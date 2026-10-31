@@ -5,9 +5,8 @@ description: "Print Night Vision Goggles from 50 Metals, 3 Printed Circuit Board
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-xboxplay-dmz-crafting-guides-2026-10-23, src-vgtimes-dmz-3d-printer-2026-10-27, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gfinity-dmz-3d-printer-2026-10-22, src-altchar-dmz-story-missions-2026-10-22, src-dtgre-dmz-crafting-guides-2026-10-24, src-westie-dmz-ama-recap-2026-10-11, clm_3086f62d37c7, src-dmzhub-items-2026-10-31]
+sources: [src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-xboxplay-dmz-crafting-guides-2026-10-23, src-vgtimes-dmz-3d-printer-2026-10-27, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gfinity-dmz-3d-printer-2026-10-22, src-altchar-dmz-story-missions-2026-10-22, src-dtgre-dmz-crafting-guides-2026-10-24, src-westie-dmz-ama-recap-2026-10-11, src-dmzhub-items-2026-10-31]
 aliases: ["Night Vision Goggles", "NVG", "NVGs", "night vision", "Weak Night Vision Goggles", "Elite Night Vision Goggles", "NVG recipe"]
-stale_after: 2026-11-13
 materials: "50 Metals, 3 Printed Circuit Boards, 10 Control Units"
 printer_level: "DMZ Orders (Underground)"
 ---

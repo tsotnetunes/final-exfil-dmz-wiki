@@ -5,9 +5,8 @@ description: "The ten DMZ Tacticals, from Smoke and Flash grenades to the Heartb
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, clm_d12acdac5305]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24]
 aliases: ["Tacticals", "tactical", "Smoke Grenade", "Flash Grenade", "Flash", "Concussion Grenade", "Stun Grenade", "Snapshot Grenade", "Decoy Grenade", "Screamer Mine", "Shock Stick", "Heartbeat Sensor", "heartbeat", "Spotter Scope"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

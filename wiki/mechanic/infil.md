@@ -5,7 +5,7 @@ description: "How a DMZ deployment starts: pick a mission type at Deploy, ready 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-codmunity-dmz-guide-2026-10-24, src-codmunity-hajin-map-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-dmzhub-vehicles-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-altchar-dmz-story-missions-2026-10-22, src-dtgre-dmz-infil-costs-2026-10-22, clm_b9d5f0d9bab7, clm_94e4a795c9a7]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-codmunity-dmz-guide-2026-10-24, src-codmunity-hajin-map-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-dmzhub-vehicles-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-altchar-dmz-story-missions-2026-10-22, src-dtgre-dmz-infil-costs-2026-10-22]
 aliases: ["infiltration", "deploying", "how to deploy", "drop in", "spawn", "spawning", "spawn point", "Ready Up", "Free Loadout", "infil options"]
 ---
 <!-- generated:start -->

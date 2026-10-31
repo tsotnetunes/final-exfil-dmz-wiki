@@ -5,9 +5,8 @@ description: "Five Hanex Bank branch vaults (Cheongun Village, NuriGO West, Song
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_82e276dd1672, src-dmzhub-maps-2026-10-31, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-orders-page-14-2026-10-30, src-codmunity-hajin-map-2026-10-31, src-dmzhub-keys-2026-10-31, src-activision-dmz-guide-part1-2026-10-05]
+sources: [src-dmzhub-maps-2026-10-31, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-orders-page-14-2026-10-30, src-codmunity-hajin-map-2026-10-31, src-dmzhub-keys-2026-10-31, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["bank vault", "Hanex Bank", "Hanex Bank vault", "bank branch vault", "Bank Branch Vault Access", "vault code", "gold bar route", "car battery"]
-stale_after: 2026-11-13
 region: "Cheongun Village and Hajin City"
 danger: "low to high"
 loot_profile: high-value

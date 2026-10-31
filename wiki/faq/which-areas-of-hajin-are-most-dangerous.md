@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-conquestcapped-dmz-solo-2026-10-26]
 aliases: ["most dangerous areas DMZ", "safest areas DMZ", "Hajin threat levels", "where to go first DMZ", "Extreme areas DMZ", "Critical areas DMZ", "low threat areas Hajin"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

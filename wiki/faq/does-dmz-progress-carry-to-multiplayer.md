@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-activision-season-1-announcement-2026-10-28]
 aliases: ["does DMZ XP count for multiplayer", "weapon levels DMZ multiplayer", "shared progression DMZ", "does multiplayer XP count in DMZ", "DMZ weapon XP", "level guns in DMZ"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

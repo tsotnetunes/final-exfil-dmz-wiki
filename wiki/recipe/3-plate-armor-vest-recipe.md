@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-vgtimes-dmz-3d-printer-2026-10-27, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-destructoid-dmz-ingredient-guides-2026-10-22, src-dtgre-dmz-crafting-guides-2026-10-24, src-dmzhub-items-2026-10-31, src-destructoid-nylon-farming-2026-10-23]
 aliases: ["3-Plate Armor Vest", "3 plate vest", "three plate vest", "3-plate carrier", "3 plate recipe", "level 37 vest"]
-stale_after: 2026-11-13
 materials: "2 Ballistic Fabric, 5 Nylon Cloth, 10 Reactive Metals"
 printer_level: "DMZ Orders"
 ---

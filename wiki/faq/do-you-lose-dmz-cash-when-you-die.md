@@ -5,9 +5,8 @@ description: "Only the cash you carry. Your Bank is safe; cash picked up in a ma
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-solo-2026-10-26, clm_f17f3ff635f7]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-solo-2026-10-26]
 aliases: ["lose cash on death DMZ", "do you keep money when you die DMZ", "DMZ cash on death", "Free Loadout", "is the free loadout free", "bank safe DMZ"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

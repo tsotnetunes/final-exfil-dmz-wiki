@@ -5,9 +5,8 @@ description: "Queue by deployment type; up to 60 players in 20 squads of three; 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_5b76bd4676ec, clm_fd56c4d77fd9, clm_2738483c8aa0, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-activision-campaign-early-access-live-2026-10-16, src-thexclusiveace-bounty-video-2026-10-12, src-mw4-launch-patch-notes-2026-10-29, src-detonated-dmz-story-matchmaking-2026-10-29, src-ixbt-dmz-pvp-matchmaking-2026-10-30, src-dexerto-mw4-crossplay-2026-10-31]
+sources: [clm_5b76bd4676ec, clm_fd56c4d77fd9, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-activision-campaign-early-access-live-2026-10-16, src-thexclusiveace-bounty-video-2026-10-12, src-mw4-launch-patch-notes-2026-10-29, src-detonated-dmz-story-matchmaking-2026-10-29, src-ixbt-dmz-pvp-matchmaking-2026-10-30, src-dexerto-mw4-crossplay-2026-10-31]
 aliases: ["Lobbies", "Squad size", "Player count", "Assimilation", "Reconnect", "DMZ matchmaking", "SBMM DMZ"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 Matchmaking, squads and lobbies handle player grouping and session entry in DMZ. Understanding these systems helps players manage team composition during deployment.

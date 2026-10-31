@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-orders-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-dmz-money-2026-10-26, src-conquestcapped-dmz-solo-2026-10-26, src-activision-ready-for-launch-progression-2026-10-19]
 aliases: ["DMZ beginner guide", "DMZ tips", "how to play DMZ", "DMZ for beginners", "DMZ guide", "new to DMZ", "DMZ how to", "DMZ first steps"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

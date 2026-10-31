@@ -5,9 +5,8 @@ description: "The DMZ deployment clock: about 30 minutes of Time Remaining, then
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_a15e34798a66, clm_f268ff9d3ad6, clm_c772bf67ab75, clm_f655e133d8dd, clm_f28fa8554173, src-activision-dmz-guide-part1-2026-10-05, src-conquestcapped-dmz-guide-2026-10-26, src-gamerfuzion-orders-page-14-2026-10-30, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamerfuzion-underground-orders-2026-10-23, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-hajin-gameplay-2026-10-21, src-mw4-launch-patch-notes-2026-10-29, src-gamerfuzion-reactor-02-2026-10-27]
+sources: [clm_a15e34798a66, clm_f268ff9d3ad6, src-activision-dmz-guide-part1-2026-10-05, src-conquestcapped-dmz-guide-2026-10-26, src-gamerfuzion-orders-page-14-2026-10-30, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamerfuzion-underground-orders-2026-10-23, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-hajin-gameplay-2026-10-21, src-mw4-launch-patch-notes-2026-10-29, src-gamerfuzion-reactor-02-2026-10-27]
 aliases: ["radiation", "Time Remaining", "storm", "radiation storm", "radiation countdown", "Radiation Spreading", "deployment timer", "time limit"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 The radiation storm and Time Remaining mechanic dictates match duration in DMZ, as a spreading hazard forces players to manage their remaining survival time.

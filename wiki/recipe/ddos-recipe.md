@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-codcentral-3d-printer-recipes-2026-10-20, src-xboxplay-dmz-crafting-guides-2026-10-23, src-destructoid-3d-printer-recipes-2026-10-21, src-allthingshow-dmz-crafting-guides-2026-10-21, src-techbloat-dmz-orders-2026-10-28, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-recipes-2026-10-31, src-dmzhub-items-2026-10-31]
 aliases: ["DDOS", "DDoS field upgrade", "Dead Battery", "Dead Battery Order", "how to print DDOS"]
-stale_after: 2026-11-13
 materials: "30 Electronics, 3 Detonators"
 printer_level: "DMZ Orders (Underground)"
 ---

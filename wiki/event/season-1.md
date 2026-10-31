@@ -5,34 +5,26 @@ description: "Season 1 starts at midnight ET on 6 Nov 2026 (9 PM PT on 5 Nov). D
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, clm_bef876bdc624, clm_c1024f2fb281, clm_4ae545748dba, clm_3044325b8a18, clm_64b8588379af, clm_033219bea076, clm_7add6878604a, clm_58be93f33be7, clm_309415af8c86, clm_60448f273823, clm_86ec75d9e1ba, clm_88179a380fbb, clm_0b485450cfd7, clm_3ca7ca230411, clm_93fc23c7a474, clm_6f77b93c726e, src-activision-season-1-announcement-2026-10-28, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16, src-westie-dmz-ama-recap-2026-10-11, clm_7f843bb01556]
+sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, clm_bef876bdc624, clm_c1024f2fb281, clm_4ae545748dba, clm_3044325b8a18, clm_64b8588379af, clm_033219bea076, clm_7add6878604a, clm_58be93f33be7, clm_309415af8c86, clm_60448f273823, clm_86ec75d9e1ba, clm_7f843bb01556, src-activision-season-1-announcement-2026-10-28, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["DMZ Season 1", "MW4 Season 1", "when does Season 1 start", "Season 1 release time", "what does Season 1 add to DMZ", "X01 release date", "Season 1 DMZ content"]
-stale_after: 2026-11-07
 date: "2026-11-06"
 ---
 <!-- generated:start -->
-Season 1 is an upcoming content season that officially kicks off on 6 Nov. It brings new maps and playable locations across multiple game modes.
+Season 1 is an upcoming content season that kicks off on 6 Nov. It brings new environments to the game, including a fresh infiltration target for DMZ players.
 
 ## When does Season 1 start?
 
-* Season 1 officially kicks off and launches on 6 Nov, confirmed on 28 Oct 2026.
+* Season 1 launches on 6 Nov, which was confirmed on 28 Oct 2026.
 * Players report that Call of Duty: Modern Warfare 4 Season 1 starts on 6 Nov 2026.
 * Players report that MW4 Season 1 lands on 6 Nov.
 
-## What maps are coming in Season 1?
+## What does Season 1 add to DMZ?
 
-* X01 is confirmed as a new DMZ Blacksite coming in Season 1.
+* X01 is a new DMZ Blacksite arriving in Season 1, as confirmed on 28 Oct 2026.
 * Players report that the X01 map releases with Season 01 on 6 Nov.
+* Players report that Call of Duty: Modern Warfare 4 Season 1 includes new maps, facilities, and a battle pass catch-up system.
 
-The following maps are reported by players to be available in Warzone at Season 1 launch:
-
-| Map | Mode |
-| --- | --- |
-| Verdansk | Battle Royale |
-| Rebirth Island | Resurgence |
-| Zodiac | Resurgence |
-
-_Generated from 4 confirmed and 6 reported claims across 10 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 4 confirmed and 3 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

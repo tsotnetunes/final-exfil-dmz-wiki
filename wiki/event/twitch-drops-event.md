@@ -5,9 +5,8 @@ description: "Watch Modern Warfare 4 on Twitch from 23 Oct 2026, 10 AM PT, with 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_7427d4485522, clm_479eed447e3e, clm_9234c18268be, src-dexerto-mw4-twitch-drops-2026-10-31, src-activision-mw4-bonus-content-2026-10-23]
+sources: [clm_7427d4485522, src-dexerto-mw4-twitch-drops-2026-10-31, src-activision-mw4-bonus-content-2026-10-23]
 aliases: ["MW4 Twitch drops", "Twitch drops", "how to get Twitch drops MW4", "link Twitch Activision", "Twitch badge MW4", "DMZ Twitch drops"]
-stale_after: 2026-11-13
 date: "2026-10-23"
 ---
 <!-- generated:start -->

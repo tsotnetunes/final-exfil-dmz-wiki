@@ -5,9 +5,8 @@ description: "DMZ's launch map and its 13 named points of interest on the old NK
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_34cd336f3bfa, clm_12a1524f7169, clm_88179a380fbb, src-dmzhub-maps-2026-10-31, clm_8accaa3d7831, clm_30653443233a, clm_60ec641390e2, clm_d81ecfda94de, clm_ebf7085229f9, clm_3816e02ae781, clm_d7748e7ec8bb, clm_a15a34d449f0, clm_75bb19ee9527, clm_055bb42b8019, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-dexerto-hajin-map-2026-10-05, src-activision-season-1-announcement-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-conquestcapped-dmz-guide-2026-10-26, src-gamespot-from-the-ward-ep7-2026-10-05, src-dmzhub-locations-2026-10-31]
+sources: [clm_8accaa3d7831, clm_30653443233a, clm_60ec641390e2, clm_d81ecfda94de, clm_ebf7085229f9, clm_3816e02ae781, clm_d7748e7ec8bb, clm_a15a34d449f0, clm_75bb19ee9527, clm_055bb42b8019, src-dmzhub-maps-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-dexerto-hajin-map-2026-10-05, src-activision-season-1-announcement-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-conquestcapped-dmz-guide-2026-10-26, src-gamespot-from-the-ward-ep7-2026-10-05, src-dmzhub-locations-2026-10-31]
 aliases: ["Hajin", "the Exclusion Zone", "Hajin map", "DMZ map", "Hajin POIs", "Hajin points of interest", "named points of interest", "major POIs", "Vondel"]
-stale_after: 2026-11-13
 region: Hajin
 danger: varies
 loot_profile: all

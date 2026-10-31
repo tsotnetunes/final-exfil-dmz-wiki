@@ -5,9 +5,8 @@ description: "Guarded map towers: hack the laptop for a Side Op (2,000 DMZ Cash 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_ae67c70adc88, clm_0b7cfd4fc000, clm_1d639bef64e0, clm_03b714b0fbe6, clm_c3633bb72757, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-allthingshow-dmz-orders-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-codcentral-dmz-dynamic-ops-2026-10-21, src-codcentral-dmz-orders-2026-10-21, src-dtgre-dmz-ops-guides-2026-10-21, src-codmunity-dmz-missions-2026-10-31, src-codmunity-hajin-map-2026-10-31]
+sources: [clm_ae67c70adc88, clm_0b7cfd4fc000, clm_1d639bef64e0, clm_03b714b0fbe6, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-allthingshow-dmz-orders-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-codcentral-dmz-dynamic-ops-2026-10-21, src-codcentral-dmz-orders-2026-10-21, src-dtgre-dmz-ops-guides-2026-10-21, src-codmunity-dmz-missions-2026-10-31, src-codmunity-hajin-map-2026-10-31]
 aliases: ["UAV Tower", "Activate UAV Tower", "activate a UAV tower", "UAV tower side op", "hack a UAV tower"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 UAV Towers are interactive tactical stations in DMZ that provide reconnaissance control over an area. Understanding how to capture and contest UAV Towers allows squads to track threats or reclaim territory from opponents.

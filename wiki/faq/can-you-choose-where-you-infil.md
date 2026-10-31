@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-missions-2026-10-31, src-dmztracker-story-missions-2026-10-20, src-dmzhub-vehicles-2026-10-31, src-activision-dmz-deep-dive-2026-06]
 aliases: ["choose spawn DMZ", "pick infil location DMZ", "paid infil", "cargo plane infil", "helicopter infil DMZ", "where do you spawn in DMZ", "infil options DMZ"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

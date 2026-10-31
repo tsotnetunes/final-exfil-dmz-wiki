@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-campaign-early-access-live-2026-10-16, src-activision-dmz-guide-part2-2026-10-09, src-dexerto-mw4-crossplay-2026-10-31, src-westie-dmz-ama-recap-2026-10-11, src-mw4-launch-patch-notes-2026-10-29, src-nintendolife-df-switch-2-2026-10-30]
 aliases: ["DMZ crossplay", "cross play DMZ", "crossplay DMZ PS5 PC", "turn off crossplay DMZ", "play DMZ with friends on other platforms", "DMZ cross platform"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

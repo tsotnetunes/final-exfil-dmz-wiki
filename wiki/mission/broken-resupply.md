@@ -5,9 +5,8 @@ description: "Dynamic Op: hack and hold a comms server, take a bomb from a car t
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_d1ca7e76878b, src-mw4-launch-patch-notes-2026-10-29, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzmap-dynamic-ops-2026-10-31, src-dtgre-dmz-ops-guides-2026-10-21, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20]
+sources: [src-mw4-launch-patch-notes-2026-10-29, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzmap-dynamic-ops-2026-10-31, src-dtgre-dmz-ops-guides-2026-10-21, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20]
 aliases: ["Broken Supply", "Operation Broken Resupply", "keypad op", "comms server op"]
-stale_after: 2026-11-13
 mission_kind: dynamic_op
 steps: "6 steps"
 ---

@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-dmzcodex-backpacks-2026-10-31, src-dmzradar-backpacks-2026-10-20, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-xboxplay-large-backpack-2026-10-23, src-allthings-how-large-backpack-2026-10-21, src-windowscentral-dmz-backpacks-2026-10-22, src-codmunity-dmz-items-2026-10-26, src-wzstats-dmz-loot-2026-10-30]
 aliases: ["large bag", "big backpack", "level 34 backpack"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31]
 aliases: ["Fallen Ember", "reactor mission", "nuclear reactor mission", "fuel rods", "uranium rods", "Kill Chemist", "final story mission", "last DMZ mission"]
-stale_after: 2026-11-13
 mission_kind: story
 steps: "17 HUD steps"
 ---

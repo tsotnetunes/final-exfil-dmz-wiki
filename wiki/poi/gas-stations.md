@@ -5,9 +5,8 @@ description: "Where to repair and refuel vehicles in Hajin: 18 Gas Stations (two
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-gamerfuzion-underground-orders-2026-10-23, src-codmunity-hajin-map-2026-10-31, src-allthingshow-gun-store-key-2026-10-22, src-dmzhub-keys-2026-10-31, clm_d8792d42a945]
+sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-gamerfuzion-underground-orders-2026-10-23, src-codmunity-hajin-map-2026-10-31, src-allthingshow-gun-store-key-2026-10-22, src-dmzhub-keys-2026-10-31]
 aliases: ["Gas Station", "Marine Gas Station", "refuel", "repair vehicle", "Rin Oil", "Gas Can", "fuel station", "Gas Station Electrical Room"]
-stale_after: 2026-11-13
 region: Hajin
 danger: low
 loot_profile: none

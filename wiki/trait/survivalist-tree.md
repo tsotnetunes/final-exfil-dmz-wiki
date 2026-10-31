@@ -5,7 +5,7 @@ description: "The staying-alive Trait tree: six fixed Major Traits for revives, 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-dexerto-best-operator-traits-2026-10-31, src-gamerfuzion-dmz-best-traits-2026-10-23, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzhub-vehicles-2026-10-31, clm_24b10c8643de, clm_51f7e1c5f386]
+sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-dexerto-best-operator-traits-2026-10-31, src-gamerfuzion-dmz-best-traits-2026-10-23, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzhub-vehicles-2026-10-31]
 aliases: ["Survivalist", "Survivalist traits", "Survivalist trait tree", "Survivalist skill tree", "survival tree", "quick exfil trait"]
 tree: Survivalist
 tier: all

@@ -5,9 +5,8 @@ description: "Medium-threat Story Mission at the Heavenly Luck Casino: restore p
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9eae7e022413, clm_cc5286446ac5, clm_27bf4044d2d2, src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-game8-dmz-orders-2026-10-31, src-gamingtrend-dmz-interview-2026-06-06, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31, src-fpsjp-story-missions-trailer-2026-10-09, src-allthingshow-dmz-dynamic-ops-2026-10-31]
+sources: [clm_9eae7e022413, clm_cc5286446ac5, src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-game8-dmz-orders-2026-10-31, src-gamingtrend-dmz-interview-2026-06-06, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31, src-fpsjp-story-missions-trailer-2026-10-09, src-allthingshow-dmz-dynamic-ops-2026-10-31]
 aliases: ["Silent Ledger", "casino mission", "casino heist", "casino vault", "Heavenly Luck Casino mission", "printing plates", "cash bags"]
-stale_after: 2026-11-13
 mission_kind: story
 steps: "8 HUD steps"
 ---

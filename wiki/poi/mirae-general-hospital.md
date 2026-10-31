@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [clm_1cc7e4e33a63, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-fpsjp-story-missions-trailer-2026-10-09, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-hajin-map-2026-10-31]
 aliases: ["Mirae", "hospital", "Mujin Pass", "The Doctor's Command Office", "Mirae Electrical Room", "Critical Extraction"]
-stale_after: 2026-11-13
 region: "north-central Hajin (former SK)"
 danger: low
 loot_profile: medical

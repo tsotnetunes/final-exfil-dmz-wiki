@@ -5,9 +5,8 @@ description: "Yes, from Season 1: Threat Briefings and the Resupply Run are DMZ 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-season-1-announcement-2026-10-28, src-gamerfuzion-launch-roadmap-2026-10-14, src-cod-x-mw4-2xp-giveaway-2026-10-23, clm_beb7bce73ff1, clm_479eed447e3e, clm_1c82b2dd5121]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-season-1-announcement-2026-10-28, src-gamerfuzion-launch-roadmap-2026-10-14, src-cod-x-mw4-2xp-giveaway-2026-10-23]
 aliases: ["DMZ events", "DMZ event", "limited time events DMZ", "Threat Briefing", "Resupply Run", "DMZ Halloween event", "Events station"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

@@ -5,9 +5,8 @@ description: "DMZ Orders are 24 pages of three tasks that guide you through DMZ.
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_2bfe53b8ed23, clm_a847abe87f0f, clm_902c3c2536e9, clm_6b367e87891f, clm_34cd336f3bfa, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-gamespark-tokyo-media-event-2026-10-01, src-mw4-launch-patch-notes-2026-10-29, src-codcentral-dmz-orders-2026-10-21, src-dmzmap-dmz-orders-2026-10-31, src-game8-dmz-orders-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-gamerfuzion-dmz-orders-guides-2026-10-21, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-codmunity-dmz-missions-2026-10-31, src-dmzhub-orders-2026-10-31, clm_12a1524f7169, src-westie-dmz-ama-recap-2026-10-11]
+sources: [clm_2bfe53b8ed23, clm_a847abe87f0f, clm_902c3c2536e9, clm_6b367e87891f, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-gamespark-tokyo-media-event-2026-10-01, src-mw4-launch-patch-notes-2026-10-29, src-codcentral-dmz-orders-2026-10-21, src-dmzmap-dmz-orders-2026-10-31, src-game8-dmz-orders-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-gamerfuzion-dmz-orders-guides-2026-10-21, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-codmunity-dmz-missions-2026-10-31, src-dmzhub-orders-2026-10-31, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["Orders", "Orders Tablet", "Mission Directives", "DMZ Orders pages", "orders chapters", "choose a chapter", "how do orders work", "orders rewards"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 DMZ Orders are a type of gameplay objective in DMZ. They provide players with structured targets to track during a match.

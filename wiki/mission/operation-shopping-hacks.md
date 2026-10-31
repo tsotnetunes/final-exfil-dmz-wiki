@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [clm_c23dfbf1c4fe, clm_3086f62d37c7, src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31, src-fpsjp-story-missions-trailer-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-gfinity-dmz-3d-printer-2026-10-22]
 aliases: ["Shopping Hacks", "Shopping Mission", "mall mission", "NuriGO mission", "K9 Battery Cores", "robot cores", "lab door", "Robotics Lab", "Jang-ui"]
-stale_after: 2026-11-13
 mission_kind: story
 steps: "11 HUD steps"
 ---

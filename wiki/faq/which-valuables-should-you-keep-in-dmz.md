@@ -5,9 +5,8 @@ description: "Keep valuables that FOB upgrades need: Infantry Invasion Plans, Re
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-gamerfuzion-dmz-money-2026-10-26, src-activision-dmz-guide-part2-2026-10-09, clm_4903d57a964d, clm_b90e9b9a3636]
+sources: [src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-gamerfuzion-dmz-money-2026-10-26, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["what to sell DMZ", "don't sell DMZ", "keep or sell DMZ", "Gold Bars DMZ", "Gold Skulls DMZ", "Infantry Invasion Plans", "valuables DMZ"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

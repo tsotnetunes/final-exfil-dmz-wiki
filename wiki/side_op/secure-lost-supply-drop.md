@@ -5,9 +5,8 @@ description: "Side Op: find a lost supply crate (red smoke and an on-screen aler
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_a847abe87f0f, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-patchcrazy-crashed-crate-2026-10-22, src-allthingshow-dmz-story-missions-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-dmzcodex-com-operations-2026-10-31, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-orders-2026-10-31, src-allthingshow-dmz-orders-2026-10-31]
+sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-patchcrazy-crashed-crate-2026-10-22, src-allthingshow-dmz-story-missions-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-dmzcodex-com-operations-2026-10-31, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-orders-2026-10-31, src-allthingshow-dmz-orders-2026-10-31]
 aliases: ["lost supply drop", "lost supply drops", "Secure a lost Supply Drop", "red smoke crate", "Crashed Crate", "Lost Supply"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

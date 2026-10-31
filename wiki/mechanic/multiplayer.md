@@ -5,9 +5,8 @@ description: "Modern Warfare 4's Multiplayer shares weapon levels and the 1 to 5
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_230cf57eab26, clm_0118710cc881, clm_b10bff3030da, clm_3a168a2cca41, clm_02465ccbedc7, clm_aa55cf5aab1a, clm_6e5b27f5a3c3, clm_deb59d93e251, clm_f6684eb314f8, clm_a3891c38b401, clm_4d2a6927d4f1, clm_dd68d206c289, clm_31e5b4ec0040, src-activision-dmz-guide-part2-2026-10-09, src-activision-campaign-early-access-live-2026-10-16, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-launch-roadmap-2026-10-14]
+sources: [clm_230cf57eab26, clm_0118710cc881, clm_b10bff3030da, clm_3a168a2cca41, clm_02465ccbedc7, clm_aa55cf5aab1a, clm_6e5b27f5a3c3, clm_deb59d93e251, clm_f6684eb314f8, clm_a3891c38b401, clm_4d2a6927d4f1, clm_dd68d206c289, src-activision-dmz-guide-part2-2026-10-09, src-activision-campaign-early-access-live-2026-10-16, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-launch-roadmap-2026-10-14]
 aliases: ["MW4 Multiplayer", "Multiplayer and DMZ", "MP", "core multiplayer"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 Multiplayer is a live game mode in Call of Duty: Modern Warfare 4 where players compete in objective matches, test weapon builds, and earn progression. Multiplayer officially went live on 23 Oct 2026.

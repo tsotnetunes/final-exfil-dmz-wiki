@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [clm_8dae00f30bfd, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-gamerfuzion-compound-echo-farm-2026-10-23, src-gamerfuzion-underground-orders-2026-10-23, src-gamerfuzion-solo-compound-run-2026-10-26, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-hajin-gameplay-2026-10-21]
 aliases: ["River Heights", "South Island", "Jinseo Park Towers", "Compound Echo", "Gangbyeon Apartment B", "Militia Arms Depot"]
-stale_after: 2026-11-13
 region: "southeast Hajin (former SK)"
 danger: medium
 loot_profile: mixed

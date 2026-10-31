@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzmap-dynamic-ops-2026-10-31, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-dtgre-dmz-ops-guides-2026-10-21, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Operation Ghost Shipment", "SAM site op", "Classified Orders"]
-stale_after: 2026-11-13
 mission_kind: dynamic_op
 steps: "6 steps"
 ---

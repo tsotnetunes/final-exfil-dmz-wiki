@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-codmunity-fulton-drop-marker-2026-10-21, src-dmztracker-fulton-drop-marker-2026-10-15, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["Fulton Drop Marker", "Fulton drop marker DMZ", "Fulton", "Fulton balloon", "Fulton extraction", "how to use Fulton DMZ"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

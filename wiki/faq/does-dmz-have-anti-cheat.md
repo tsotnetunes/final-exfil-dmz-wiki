@@ -5,9 +5,8 @@ description: "Yes. RICOCHET protects DMZ with Server Culling, DMA detection and 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-cod-x-ricochet-week-one-2026-10-30, src-activision-pc-specs-2026-09-29, src-westie-dmz-ama-recap-2026-10-11, src-iw-mw4-trello-2026-10-19, clm_16b6ee610da3, clm_1f0839d8acfd, clm_dee5007d4538, clm_fed37aaa79dd, clm_754b64a3d133, clm_cd65cdd88e65]
+sources: [src-cod-x-ricochet-week-one-2026-10-30, src-activision-pc-specs-2026-09-29, src-westie-dmz-ama-recap-2026-10-11, src-iw-mw4-trello-2026-10-19]
 aliases: ["DMZ anti-cheat", "RICOCHET DMZ", "cheaters in DMZ", "server culling", "DMA detection", "hardware ban MW4", "are there hackers in DMZ"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

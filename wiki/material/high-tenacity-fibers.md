@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-codmunity-dmz-items-2026-10-26, src-allthingshow-dmz-crafting-guides-2026-10-21, src-patchcrazy-dmz-crafting-guides-2026-10-28, src-codcentral-3d-printer-recipes-2026-10-20, src-dtgre-dmz-crafting-guides-2026-10-24, src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-techbloat-dmz-orders-2026-10-28, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31]
 aliases: ["High Tenacity Fibers", "HTF", "High-Tenacity Fiber", "fibers", "where to find High-Tenacity Fibers"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

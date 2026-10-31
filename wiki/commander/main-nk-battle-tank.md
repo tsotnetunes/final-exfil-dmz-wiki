@@ -5,7 +5,7 @@ description: "Roaming Commander: a North Korean battle tank on the roads of Haji
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-season-1-announcement-2026-10-28, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-items-2026-10-31, src-xboxplay-dmz-tank-2026-10-28, clm_1f94c720b316]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-season-1-announcement-2026-10-28, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-items-2026-10-31, src-xboxplay-dmz-tank-2026-10-28]
 aliases: ["Tank", "Battle Tank", "NK tank", "North Korean tank", "Commander Tank", "NK Battle Tank", "tank boss", "Tank Looting", "tank loot", "battle tank loot", "Main NK Battle Tank loot", "loot from tanks", "what does the tank drop"]
 ---
 <!-- generated:start -->

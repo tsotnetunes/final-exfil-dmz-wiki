@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-gamespark-tokyo-media-event-2026-10-01, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-things-to-know-2026-10-03, src-detonated-dmz-story-matchmaking-2026-10-29]
 aliases: ["free roam DMZ", "DMZ free roam", "deploy without a mission", "exploration mode"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

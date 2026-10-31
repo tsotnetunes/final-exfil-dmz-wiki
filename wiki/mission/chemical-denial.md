@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-codmunity-dmz-missions-2026-10-31, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzmap-dynamic-ops-2026-10-31, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Operation Chemical Denial", "power outage op", "chemical components op"]
-stale_after: 2026-11-13
 mission_kind: dynamic_op
 steps: "3 to 5 steps, two versions"
 ---

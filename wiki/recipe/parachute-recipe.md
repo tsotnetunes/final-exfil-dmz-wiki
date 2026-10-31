@@ -5,9 +5,8 @@ description: "The Legendary Parachute prints from 2 Turned Components, 5 Nylon C
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-activision-ready-for-launch-progression-2026-10-19, src-westie-dmz-ama-recap-2026-10-11, src-destructoid-dmz-ingredient-guides-2026-10-22, clm_6c7b8163cfc9, src-dmzhub-items-2026-10-31]
+sources: [src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-activision-ready-for-launch-progression-2026-10-19, src-westie-dmz-ama-recap-2026-10-11, src-destructoid-dmz-ingredient-guides-2026-10-22, src-dmzhub-items-2026-10-31]
 aliases: ["Parachute", "Legendary Parachute", "infinite parachute recipe", "reusable parachute"]
-stale_after: 2026-11-13
 materials: "2 Turned Components, 5 Nylon Cloth, 10 Rigid Synthetics"
 printer_level: "Found in Hajin"
 ---

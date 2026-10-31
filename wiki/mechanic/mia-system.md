@@ -5,7 +5,7 @@ description: "An Operator killed in Hajin goes MIA: pay DMZ Cash at the Operator
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_15b35293c60f, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-xbox-wire-dmz-operator-guide-2026-10-20, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-upgrades-2026-10-31, src-destructoid-possum-debate-2026-10-24, clm_5765e08bf423, clm_ec258e1f0cc1, clm_b6179531b351]
+sources: [clm_15b35293c60f, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-xbox-wire-dmz-operator-guide-2026-10-20, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-upgrades-2026-10-31, src-destructoid-possum-debate-2026-10-24]
 aliases: ["MIA", "rescue team", "missing in action", "lost operator", "operator does not exfil", "died without exfil", "Rescue", "rescue an operator", "recover an Operator", "MIA recovery cost", "Operator Rescue Beacon", "recovery slots", "get an Operator back"]
 ---
 <!-- generated:start -->

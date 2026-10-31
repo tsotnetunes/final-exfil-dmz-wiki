@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-codcentral-dmz-orders-2026-10-21, src-dmzmap-dmz-orders-2026-10-31, src-dmzhub-orders-2026-10-31, src-codmunity-dmz-missions-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["Hornet's Nest", "Hornets Nest", "Hornet's Nest 1/2", "Hornet's Nest 2/2", "CH. Hornet's Nest", "Goliath", "Click, Boom", "Click Boom", "Navigate With Care", "Jail Break", "Jailbreak", "Keep Out"]
-stale_after: 2026-11-13
 mission_kind: order
 steps: "2 pages, 6 Orders"
 ---

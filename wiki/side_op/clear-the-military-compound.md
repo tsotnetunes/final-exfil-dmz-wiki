@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-gamerfuzion-dmz-orders-guides-2026-10-21, src-codcentral-dmz-orders-2026-10-21, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzhub-orders-2026-10-31]
 aliases: ["Clear the Compound", "military compound", "Compound", "Compound Alpha", "Compound Bravo", "Compound Charlie", "Compound Delta", "Compound Echo", "Compound Foxtrot", "clear a compound"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

@@ -5,13 +5,19 @@ description: "Halloween 2026 brought two Multiplayer modes, Possession (29 Oct) 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-gamerfuzion-launch-roadmap-2026-10-14, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, clm_beb7bce73ff1, clm_dd68d206c289, clm_7dfdfa33f3c7]
+sources: [clm_82a7ae555b45, src-gamerfuzion-launch-roadmap-2026-10-14, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28]
 aliases: ["Halloween Party Mode", "Possession", "MW4 Halloween event", "DMZ Halloween", "Halloween DMZ event", "Possession mode"]
-stale_after: 2026-11-13
 date: "2026-10-29"
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Halloween 2026 in Modern Warfare 4 is a seasonal event featuring special game modes. The event launched Possession followed by Infected.
+
+## When did the Halloween 2026 modes launch?
+
+* Players report that Possession went live on 29 Oct.
+* Players report that Infected followed on 30 Oct.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

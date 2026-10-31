@@ -5,9 +5,8 @@ description: "No. DMZ launched without night mode or a day-night cycle, but the 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-deep-dive-2026-06, src-gamespark-tokyo-media-event-2026-10-01, src-activision-dmz-guide-part2-2026-10-09, src-activision-season-1-announcement-2026-10-28, src-dmzhub-recipes-2026-10-31, clm_3086f62d37c7]
+sources: [src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-deep-dive-2026-06, src-gamespark-tokyo-media-event-2026-10-01, src-activision-dmz-guide-part2-2026-10-09, src-activision-season-1-announcement-2026-10-28, src-dmzhub-recipes-2026-10-31]
 aliases: ["night mode DMZ", "day night cycle DMZ", "DMZ weather", "night vision DMZ", "NVG DMZ", "is DMZ at night"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

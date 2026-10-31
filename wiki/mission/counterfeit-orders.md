@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-codcentral-dmz-orders-2026-10-21, src-game8-dmz-orders-2026-10-31, src-dmzmap-dmz-orders-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-dmzhub-orders-2026-10-31, src-codmunity-dmz-missions-2026-10-31]
 aliases: ["Counterfeit", "Counterfeit 1/2", "Counterfeit 2/2", "CH. Counterfeit", "Hostile Force", "Robbery", "Execute Intel", "Suit Breach", "Eyes Everywhere", "Counterfeit Cash"]
-stale_after: 2026-11-13
 mission_kind: order
 steps: "2 pages, 6 Orders"
 ---

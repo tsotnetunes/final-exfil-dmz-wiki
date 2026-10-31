@@ -5,9 +5,8 @@ description: "A Rare 3D Printer ingredient for Stash upgrades, the Door Breacher
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-codmunity-dmz-items-2026-10-26, src-codcentral-3d-printer-recipes-2026-10-20, src-dtgre-dmz-crafting-guides-2026-10-24, src-activision-ready-for-launch-progression-2026-10-19, src-techbloat-dmz-orders-2026-10-28, src-destructoid-3d-printer-recipes-2026-10-21, src-xboxplay-dmz-crafting-guides-2026-10-23, clm_6fc0235c2541, clm_0217c096a2ca, src-allthingshow-dmz-crafting-guides-2026-10-21, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzhub-upgrades-2026-10-31]
+sources: [src-codmunity-dmz-items-2026-10-26, src-codcentral-3d-printer-recipes-2026-10-20, src-dtgre-dmz-crafting-guides-2026-10-24, src-activision-ready-for-launch-progression-2026-10-19, src-techbloat-dmz-orders-2026-10-28, src-destructoid-3d-printer-recipes-2026-10-21, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzhub-upgrades-2026-10-31]
 aliases: ["Stock Rods", "stockrod", "where to find Stock Rods"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

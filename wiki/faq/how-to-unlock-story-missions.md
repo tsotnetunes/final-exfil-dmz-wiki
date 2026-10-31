@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-dmzhub-orders-2026-10-31, src-xbox-wire-dmz-features-2026-10-09, src-dmzhub-missions-2026-10-31, src-dmztracker-story-missions-2026-10-20, src-gamespark-tokyo-media-event-2026-10-01, src-fpsjp-story-missions-trailer-2026-10-09, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["unlock story missions DMZ", "how to unlock Iron Citadel", "how to unlock Fallen Ember", "how to unlock Grid Assault", "story missions locked DMZ", "DMZ story mission order"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

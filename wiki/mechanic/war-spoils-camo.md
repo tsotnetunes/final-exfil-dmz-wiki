@@ -5,9 +5,8 @@ description: "A DMZ weapon camo players report for extracting three Weapon Manua
 status: draft
 brain_status: draft
 sensitivity: public
-sources: [clm_4c4b5f9891b5, clm_ce6b0de65759, clm_2b05fa148d3c, clm_e153c3eb028f, clm_4f7ad24e07bb, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_4c4b5f9891b5, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["War Spoils", "weapon manual camo", "hidden camo", "War Spoils safe pocket", "extract 3 weapon manuals camo"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 The War Spoils Camo is a weapon finish available for the Pila launcher in MW4.
