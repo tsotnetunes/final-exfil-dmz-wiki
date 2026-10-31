@@ -1,9 +1,9 @@
 ---
 type: mechanic
 title: "Missing In Action"
-description: "The MIA status an Operator gets for not getting out of a deployment; recovery and what it costs are on the MIA system page."
-status: draft
-brain_status: candidate
+description: "Retired duplicate. Missing In Action (MIA), how to recover an Operator and what it costs are on the MIA system page."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_4fd415919e28, clm_a3dad09caa88]
 ---
@@ -18,5 +18,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-The same status as [[mia-system]]; see that page for recovery and costs.
+Retired on 31 Oct 2026 as a duplicate of [[mia-system]], which covers what MIA means, recovery costs, dismissal and the reported problems.
 <!-- human:end -->

@@ -1,9 +1,9 @@
 ---
 type: mechanic
 title: "Operator Prestige and permanent Prestige Traits"
-description: "Operator Prestige in Modern Warfare 4 DMZ lets players level operators up to ranks like Prestige 4, but players report issues with depleted resources and reset tags."
-status: draft
-brain_status: candidate
+description: "Retired duplicate. Operator Prestige, its costs, the Prestige Traits and the reported problems are on the Operator Prestige page."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_412306ad7d17, clm_b7e787712b21, clm_265401f47032, clm_11a821d78fe1, clm_4492bef2ee58, clm_a92a2067495e, clm_c9f987c1c562, clm_b6179531b351]
 ---
@@ -24,4 +24,5 @@ _Generated from 0 confirmed and 6 reported claims across 6 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 31 Oct 2026 as a duplicate of [[operator-prestige]], which covers the requirements, costs, the 12 Prestige Traits and the reported Prestige problems with sources.
 <!-- human:end -->

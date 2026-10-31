@@ -1,9 +1,9 @@
 ---
 type: mechanic
 title: "What carries over between matches"
-description: "Weapon levels, attachments, and camos in DMZ are reported by players to carry over into the game launch on 23 Oct."
-status: draft
-brain_status: candidate
+description: "Retired duplicate. What you keep between deployments, on death and between seasons is on the What carries over page."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_ab8878f43ec0]
 ---
@@ -22,4 +22,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 31 Oct 2026 as a duplicate of [[what-carries-over]]. Weapon levels, attachments and camos are shared with Multiplayer; that and the rest of what persists is on that page.
 <!-- human:end -->

@@ -185,3 +185,24 @@
 - id: g62
   question: Which Trait hides you from UAVs?
   must_retrieve: [thermal-padding]
+- id: g63
+  question: Does Double XP speed up Operator Prestige?
+  must_retrieve: [double-xp-tokens]
+- id: g64
+  question: How much can the Bank hold?
+  must_retrieve: [wallet]
+- id: g65
+  question: How do I get an MIA Operator back?
+  must_retrieve: [mia-system]
+- id: g66
+  question: What do I keep when I die, and does DMZ wipe?
+  must_retrieve: [what-carries-over]
+- id: g67
+  question: What does each DMZ level unlock?
+  must_retrieve: [dmz-progression]
+- id: g68
+  question: What do FOB upgrades cost?
+  must_retrieve: [fob-upgrades]
+- id: g69
+  question: How do I earn DMZ Cash?
+  must_retrieve: [dmz-cash]

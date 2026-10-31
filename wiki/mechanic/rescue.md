@@ -1,9 +1,9 @@
 ---
 type: mechanic
 title: "Rescue"
-description: "Rescuing an Operator returns them along with their progressed Skill Tree and deployment experience, and players report it costs 50."
-status: draft
-brain_status: draft
+description: "Retired duplicate. Rescuing (recovering) an MIA Operator, its cost and what comes back are on the MIA system page."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_bfbb935fbfc5, clm_ec258e1f0cc1, clm_bd9234fe0d96, src-activision-dmz-guide-part2-2026-10-09]
 ---
@@ -22,5 +22,5 @@ _Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Recovering an MIA Operator: see [[mia-system]]. Officially it costs DMZ Cash that rises with the Operator's Trait Points, and the Operator returns without gear [[src-activision-dmz-guide-part2-2026-10-09]]; the 50 in the generated text is a player report.
+Retired on 31 Oct 2026 as a duplicate of [[mia-system]]: rescue is the recovery of an MIA Operator. The official cost rises with the Operator's Trait Points; the figure of 50 in the generated zone was a single pre-launch player report.
 <!-- human:end -->

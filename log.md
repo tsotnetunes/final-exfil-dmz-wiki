@@ -1081,3 +1081,7 @@
 ## [2026-10-31 12:17 EDT] ingest | 31 Oct research, traits: all 66 Traits (18 Major pages, 48 Minor in three tree pages) and 12 Pro Traits, trait-points as the overview, skill-trees retired, 11 sources, census, 7 golden questions
 - changed: .kac 1, evals 1, index 5, index.md 1, raw 11, wiki 39
 - run: r-20261031-121726-8e45
+
+## [2026-10-31 12:18 EDT] ingest | 31 Oct research, progression: Double XP and Operator Dog Tags answered (not confirmed, a test points to no), DMZ Cash, FOB upgrades, 23 progression and FOB pages rewritten, 5 duplicates retired, 13 sources, census, 7 golden questions
+- changed: .kac 1, evals 1, index 6, index.md 1, raw 13, wiki 44
+- run: r-20261031-121827-da91

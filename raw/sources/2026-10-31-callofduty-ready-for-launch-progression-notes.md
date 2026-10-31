@@ -1,0 +1,86 @@
+# Call of Duty blog: Ready for Launch: Modern Warfare 4 Progression and Prestige
+URL: https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-ready-for-launch-progression-prestige
+Captured: 2026-10-31 (published 19 Oct 2026, Call of Duty Staff); read through a page-reading tool, not a browser
+Trust: official
+
+Facts taken, in our words:
+- DMZ has a separate track of 70 levels next to the 1 to 55 player levels. Story Missions, Dynamic Operations, Side Ops and other activities give DMZ XP.
+- DMZ XP also counts toward the 1 to 55 player level. Multiplayer and Warzone XP never raise the DMZ level.
+- Rewards per DMZ level (level: reward):
+  - 1: 3D Printer station; recipes for 1-Plate Armor Vest, Bandage, Small Backpack, Medkit
+  - 2: recipes for 2-Plate Armor Vest and Medium Backpack
+  - 3: Sedative Inhaler recipe
+  - 4: Operator Reece; printer upgrade Tacticals; Smoke Grenade and Concussion Grenade recipes
+  - 5: Vendor station
+  - 6: 2 Rigid Synthetics; Basic Armor Kit
+  - 7: printer upgrade Lethals; Frag Grenade and Throwing Knife recipes
+  - 8: Restock Kit
+  - 9: Operator Coffey; Snapshot Grenade recipe
+  - 10: Gunsmith station
+  - 11: 2 Reactive Metals; Basic Triage Kit
+  - 12: printer upgrade Field Upgrades; Ammo Box and Spotter Scope recipes
+  - 13: UAV (Epic Fire Support)
+  - 14: Armor Box recipe
+  - 15: Operator Simone; one more Operator slot (Active Duty upgrade)
+  - 16: Explosives Equipment Kit
+  - 17: Shock Stick recipe
+  - 18: Vendor upgrade
+  - 19: Operator Hector; Recon Equipment Kit
+  - 20: Dog Tag Case station
+  - 21: Basic Armor Kit
+  - 22: 18 more item Stash slots
+  - 23: Sticky Grenade recipe
+  - 24: Restock Kit
+  - 25: Gunsmith discount of 5%
+  - 26: Gas Mask recipe
+  - 27: Triage Kit
+  - 28: printer upgrade Fire Support; Care Package recipe
+  - 29: 2 Detonators
+  - 30: bounty payout +10%
+  - 31: UAV recipe
+  - 32: Vendor upgrade
+  - 33: 2 Electronics
+  - 34: Large Backpack
+  - 35: 6 more weapon Stash slots
+  - 36: Molotov Cocktail recipe
+  - 37: 3-Plate Armor Vest
+  - 38: 2 Control Units
+  - 39: 2 Biomaterials
+  - 40: a station upgrade the table does not name
+  - 41: Thermite recipe
+  - 42: Trap Equipment Kit
+  - 43: 2 Structural Alloy
+  - 44: 2 CPU
+  - 45: 18 more item Stash slots
+  - 46: Recon Equipment Kit
+  - 47: 2 Nitro Compounds
+  - 48: Self-Revive Kit recipe
+  - 49: 2 Binding Catalyst
+  - 50: bounty payout +50%
+  - 51: 2 Stock Rods
+  - 52: Inflatable Decoy recipe
+  - 53: 2 High-Tenacity Fibers
+  - 54: an Epic consumable the table does not name
+  - 55: Disposable Parachute recipe
+  - 56: 2 Printed Circuit Boards
+  - 57: 2 Nylon Cloth
+  - 58: Care Package (Rare Fire Support)
+  - 59: Combat Drone (Epic Fire Support)
+  - 60: 6 more weapon Stash slots
+  - 61: Medium Weapon Backpack
+  - 62: Door Breacher Charge (Ultra consumable)
+  - 63: 2-Plate Helmet Armor Vest
+  - 64: Revive Pistol (Field Upgrade)
+  - 65: UAV (Epic Fire Support)
+  - 66: Crossfire (Fire Support)
+  - 67: Defibrillator
+  - 68: Durable Gas Mask
+  - 69: Parachute (Legendary consumable)
+  - 70: 18 more Stash slots; bounty payout +100%; Advanced SERE Kit (Legendary consumable)
+- The table lists the 3D Printer at level 1; the 9 Oct FOB guide said level 2.
+- DMZ Mastery camos, in order: Chiral (after every Harmonic Break challenge and the Divergence camo, 2,500 kills of Tier 3 or higher enemies), Ripple Tide (after Chiral, extract two Lieutenant Dog Tags in one deployment 50 times), Helio (after Ripple Tide, 25,000 kills with Legendary weapons on a max-level Operator).
+- Special camo challenges adjust to the mode; DMZ asks for more kills because AI enemies count.
+- DMZ calling card Mastery: regular sets Combat, Mission, Exfil, Loot, Exploration and FOB; elite sets Final Showdown, High-Value Escort, King Slayer and Exterminator. Finishing a set gives an animated Mastery calling card.
+- MWII DMZ Beta rewards, claimable from 20 Oct on the same Activision account: Beta Squad calling card and Beta On Record emblem; DMZ Beta 50 Hours card and emblem for 50 or more hours; an animated card (DMZ Slither) and emblem (Beta Serpent) for those who unlocked Serpentine.
+- Player Prestige: 10 Prestige levels and 1,000 Prestige Master levels. Classic Prestige resets unlocks in exchange for a 20% XP boost, a Permanent Unlock Token and cosmetics; Regular Prestige keeps unlocks. The page does not say whether the 20% boost reaches DMZ or Operators.
+- The only XP token the page names is the Double Weapon XP token. It says nothing about Operator Dog Tag levels or Operator Prestige.
