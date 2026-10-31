@@ -1,0 +1,11 @@
+# DMZMap: MW4 DMZ Orders List: Every Order and Objective
+URL: https://dmzmap.com/orders
+Captured: 2026-10-31 (last updated 27 Oct 2026; no publish date shown)
+Trust: third-party (fan site; it marks some page rewards as unconfirmed)
+
+Facts taken, in our words:
+- 66 Orders listed: pages 1 to 19 and 22 (three each) plus six Orders whose page is not confirmed (The Vault, Ears Everywhere, Hard Carry, Massive Damage, Stalking the Stalker, Operation Fallen Ember). Page numbers can differ between players, so find yours by the Order names. A page's rewards are paid when all three of its Orders are done.
+- Chapter pages as listed: Human Intel pages 2 and 3, Counterfeit 5 and 6, Underground 8 and 9 (some early-access players saw Underground on pages 2 and 3), The Grid 12 and 13, Hornet's Nest 16 and 17.
+- Tasks agree with other lists for pages 1 to 19 and 22. Page 10's third Order is listed under the name Healer (metals and an Armor Box).
+- Rewards listed: page 1 Medkit, 2-Plate Armor Vest, 20,000; Human Intel 1/2 20,000, Basic Triage Kit, Flash Grenade (recipe or item not confirmed); Human Intel 2/2 20,000, UAV x3 (unconfirmed); Counterfeit 1/2 20,000, Recon Drone recipe, Explosives Equipment Kit (unconfirmed); Counterfeit 2/2 20,000; page 7 20,000, UAV, Armor Box; Underground 1/2 20,000 and the DDOS, Decoy Grenade and NVG recipes (unconfirmed); Underground 2/2 20,000, Basic Restock Kit, Operator Rescue Beacon, Weapon Insurance Contract (unconfirmed); page 10 20,000, Large Backpack, Basic Triage Kit; page 11 20,000, Defibrillator, Inflatable Decoy, C4 recipe (unconfirmed); The Grid 1/2 a 3-Plate Armor Vest; The Grid 2/2 20,000, Recon Equipment Kit, Operator Rescue Beacon, Weapon Insurance Contract (unconfirmed); page 14 20,000, Structural Alloy x2, Stock Rod x2; page 15 20,000, CPU x2, Nylon Cloth x2, Inflatable Decoy (unconfirmed); Hornet's Nest 1/2 20,000, Large Backpack recipe, Weapon Restock Kit (unconfirmed); Hornet's Nest 2/2 20,000, Armor Survival Kit, Operator Rescue Beacon, Weapon Insurance Contract (unconfirmed); page 18 20,000, Nitro Compounds x2, SERE Kit; page 19 20,000, Binding Catalyst x2, Explosives Equipment Kit (unconfirmed); page 22 20,000, High-Tenacity Fibers x2, Explosives Equipment Kit.
+- The Vault is reported to sit on page 20 (unconfirmed). The Vault: a Hanex Bank branch in Cheongun Village or at Wolves Stadium.

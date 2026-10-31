@@ -1,11 +1,11 @@
 ---
 type: mission
 title: "Broken Supply"
-description: "Broken Supply mission payouts were increased to $10,000 according to player reports."
-status: draft
-brain_status: candidate
+description: "Retired duplicate: the Dynamic Op is called Broken Resupply. See the Broken Resupply page."
+status: deprecated
+brain_status: retired
 sensitivity: public
-sources: [clm_d1ca7e76878b]
+sources: [clm_d1ca7e76878b, src-mw4-launch-patch-notes-2026-10-29]
 ---
 <!-- generated:start -->
 Broken Supply is a mission that offers cash payouts.
@@ -18,4 +18,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 31 Oct 2026. The Op's name in Infinity Ward's patch notes and on every guide site is Broken Resupply, so its facts now live on [[broken-resupply]], where Broken Supply is kept as an alias [[src-mw4-launch-patch-notes-2026-10-29]].
 <!-- human:end -->

@@ -224,3 +224,27 @@
 - id: g75
   question: What is done about cheaters in DMZ?
   must_retrieve: [ricochet-anti-cheat]
+- id: g76
+  question: How do you start Story Missions?
+  must_retrieve: [story-missions]
+- id: g77
+  question: What does each DMZ Order ask for?
+  must_retrieve: [dmz-orders-pages]
+- id: g78
+  question: How do DMZ Orders chapters work?
+  must_retrieve: [dmz-orders]
+- id: g79
+  question: What does the Payment Due order need?
+  must_retrieve: [human-intel-orders]
+- id: g80
+  question: Where do you get K9 battery cores for the lab door?
+  must_retrieve: [operation-shopping-hacks]
+- id: g81
+  question: What do Dynamic Ops pay?
+  must_retrieve: [dynamic-operations]
+- id: g82
+  question: How do you capture a SAM site?
+  must_retrieve: [capture-sam-site]
+- id: g83
+  question: How do UAV towers work?
+  must_retrieve: [uav-towers]

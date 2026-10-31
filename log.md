@@ -1097,3 +1097,7 @@
 ## [2026-10-31 13:16 EDT] render | 97 pages rendered, 807 claims, 767 evidence
 - changed: wiki 97, claims 1, evidence 1, index.md 1
 - run: r-20261031-171541-53ac
+
+## [2026-10-31 13:49 EDT] ingest | 31 Oct research, missions: 4 more Story Missions, 6 Orders pages covering all 69 Orders, 7 Dynamic Ops, 7 Side Ops, 12 mission pages rewritten with X-claim updates, 3 retired, 19 sources, census, 8 golden questions
+- changed: .kac 1, evals 1, index 9, index.md 1, raw 19, wiki 59
+- run: r-20261031-134936-133d

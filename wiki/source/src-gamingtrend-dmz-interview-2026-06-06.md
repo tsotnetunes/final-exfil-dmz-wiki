@@ -16,4 +16,6 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 <!-- human:start -->
 A press interview published on 6 Jun 2026, at DMZ's reveal, with Infinity Ward's studio multiplayer creative director. We took his descriptions of combat rules that the official guides do not cover: explosive knockdowns, dragging downed players, melee interrupting a self-revive, and bounty banners. These are developer statements from four months before launch, so the Codex marks them "before launch" until play confirms them.
+
+A press interview published 6 Jun 2026, four months before launch. We took the developer's description of Story Missions and of the casino mission (now Operation Silent Ledger). Facts from it are written as "before launch".
 <!-- human:end -->
