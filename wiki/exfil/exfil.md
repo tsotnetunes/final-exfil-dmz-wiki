@@ -5,31 +5,33 @@ description: "Exfil sites move every match and show as green smoke: call the Twi
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_00d9ca66573a, clm_502f1885f07b, clm_19763d29ca5b, clm_907d1988e248, clm_0654da754a95, clm_4821865b60e5, clm_75fd786e4d31, clm_cf56ba61e6f8, clm_c772bf67ab75, clm_233daf06dc99, clm_d985129a6673, clm_d4e8823da54c, clm_5765e08bf423, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_00d9ca66573a, clm_502f1885f07b, clm_19763d29ca5b, clm_907d1988e248, clm_0654da754a95, clm_4821865b60e5, clm_75fd786e4d31, clm_cf56ba61e6f8, clm_c772bf67ab75, clm_233daf06dc99, clm_d985129a6673, clm_d4e8823da54c, clm_5765e08bf423, clm_dea77ea2af4d, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["extraction", "skyhook", "Twin Heli", "Fulton balloon", "Flare", "green smoke", "Monarch"]
 method: helicopter|skyhook
 ---
 <!-- generated:start -->
-Exfil in Modern Warfare 4 DMZ allows players to extract from the extraction shooter mode to secure their gear and progress. Successfully leaving the match protects an operator from death and costly recovery fees.
+Exfil in Modern Warfare 4 DMZ is the extraction process required to leave the match safely with collected gear. Modern Warfare 4 DMZ is an extraction shooter featuring fundamental mechanics such as PvP, an economy and money, and AI difficulty.
 
-## How does exfil work?
+## How does extraction work?
 
-* Players report that Modern Warfare 4 DMZ is an extraction shooter.
-* Fundamental mechanics of an extraction shooter include PvP, money or economy systems, and AI difficulty, according to player reports.
-* Players report that Operation Critical Extraction is a story mission in Modern Warfare 4 DMZ.
 * Calling in an exfil chopper takes about 90 seconds until the chopper is down, as reported by players.
-* Players are advised to leave when an exfil is open and their backpack is full.
-* Players report that they can escape via ladders on buildings.
-* The final exfil turns white after all other exfil points have been engulfed by radiation, according to player reports.
+* Players report that individuals can escape via ladders on buildings.
+* Players are advised to leave when the exfil is open and their backpack is full.
+* Operation Critical Extraction is reported by players as a story mission in Modern Warfare 4 DMZ, with its story designation noted on 8 Oct 2026.
 
-## What are the risks during extraction?
+## What dangers occur at exfil points?
 
 * Players report that exfil campers exist in Modern Warfare 4 DMZ.
-* Players report that Final Exfil is a location where players can hunt other operators.
-* Operators can be killed while inside the exfil chopper, as reported by players.
-* Recovering an operator lost during exfil costs 270,000, according to player reports.
+* Extraction points serve as locations where enemies wait to kill players, according to player reports.
+* Players report that occupants can be killed while inside the exfil chopper.
+* Recovering an operator lost during exfil costs 270,000, as reported by players.
 
-_Generated from 0 confirmed and 12 reported claims across 12 posts and 0 patch notes; last rendered 2026-10-31._
+## How does the final exfil function?
+
+* The final exfil turns white after all other extraction points have been engulfed by radiation, according to player reports.
+* Final Exfil operates as a location where players hunt other players in Modern Warfare 4 DMZ, as reported by players.
+
+_Generated from 0 confirmed and 13 reported claims across 13 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->
