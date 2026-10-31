@@ -1,0 +1,24 @@
+# Conquest Capped: MW4 DMZ Bosses Guide with Locations and Rewards
+URL: https://conquestcapped.com/guides/call-of-duty/mw4-dmz-bosses/
+Captured: 2026-10-31 (published updated 28 Oct 2026)
+Trust: third-party
+
+Facts taken, in our words:
+- Ten Lieutenants and three Commanders. A Lieutenant kill pays cash and XP at once; the first kill of each claims a $10,000 bounty; players report about $25,000 per tag in the After Action Report; players report each Lieutenant spawns once per match.
+- Gorani: forest in the South Korean Wilderness around a house between Cheonwang Peak Array and Mirae General Hospital; look-alike decoys and ghillied snipers who appear from smoke; spot the real one by his rifle laser or the Lieutenant icon. Key: a room at the top of the Rice Mill, grid D8, reached by parkour.
+- The Chemist: inside the radiation at the Haneul reactor; armoured hazmat soldiers; a hazmat suit found in the reactor building lets you stay in the red zone; Rad Blockers only slow the damage there. Weapon Kastov 762. Key: Secure Armory, grid I4, a bunker near the reactor's boat house.
+- Jin-Tae: upper floors of the Heavenly Luck Casino; bodyguards; hits hard close up, so fight at range; an underground parking generator powers the elevators but is noisy. Drops High Roller's Fortune (Legendary ISO Nightshade with gold camo). Key: Private Lounge, grid F4, top floor.
+- The Doctor: Mirae General Hospital (roof, first floor or underground parking); a few armoured guards; one of the easiest. Drops Patriot XMR. Key: Command Office, grid F5, top floor. Intel unlocks through a DMZ Orders chapter.
+- Bale: Re-Education Center in Deadtown (more common, upstairs behind AI and sentry guns) or the underground bunker at Chang-san Air Base (harder); Type 73 LMG; throws smoke; Thermite when he comes down the stairs. Key room not found.
+- Iskra: a building in the Cheonwang Peak Array compound; sensor traps on the stairs call AI without hurting you; she runs up and down the stairs; one of the easier fights. Drops a Warlord shotgun, rarely Widow Maker. Key: Control Room, grid F6, top floor of the server room.
+- Scavenger: drives an LTV around Hajin with no home area; disable the vehicle or wait for him to stop; the weakest Lieutenant. Drops an Oris 8.6. Key room not found.
+- Roze: roof of the DBN tower in The Grid, through an Extreme building by elevators and a rope; Astaroth .57 that strips most armour in one shot and knocks you back; keep away from the roof edge and close the distance. Key: Highrise Armory, grid G6, top floor of a Grid high-rise.
+- Jang-ui: server room on the upper floors of the Netshin Tech Complex (Extreme twin high-rise); explosive robot dogs (some with EMP or freeze), trip mines, sentry guns, laser turrets that strip plates; make noise so he comes out and fight in the open. Drops a Hyeon Burst. Key: Converted Power Room, grid H6, NuriGO Mall bottom floor next to the robot dog course.
+- The Warden: the Citadel, 14th Political Prison; riot shield; two Thermites or a Drill Charge make him drop it; an LMG with armour-piercing rounds breaks through. Drops X-58 Nyx. Key room not found.
+- Lieutenant loot rooms hold lockers, Legendary weapon cases (including a second copy of the boss weapon) and Weapon Manuals; keys are not guaranteed.
+- Commanders: no intel to buy; shown on the Tac-Map, Team Leader warns; little damage from standard weapons; first kill about $50,000; rare ingredients after extracting; no dog tags.
+- Colossus: roams, often The Grid, Wolves Stadium and near SAM sites; heavy metal music plays nearby; minigun with green tracers; gets stuck on cars and pillars; Thermite, C4, sustained LMG fire and headshots work; Drill Charges do less damage than in early access since the launch patch. Drops Military Composites.
+- Deathstalker: flies the whole map, most often over downtown Hajin City; two machine-gun turrets and rockets; capture a SAM site and stay close, or hit the weak spot (yellow hit markers) with heavy rounds. Drops Prototype RF Module; the wreck splits into nose, body and tail, each lootable.
+- Tank: patrols roads, most often in The Grid; bullets do nothing, grenades barely; one solo player used about 25 launcher rockets (RPG-8 or PILA); a Warhead killstreak from the Vendor did most of the damage in one test. Drops Nanostructured Alloy; loot the front, back and top.
+- Boss Board: intel $25,000 per Lieutenant, guarantees that Lieutenant in your next deployment, marked from the start; lasts one deployment; can be switched free before deploying; most intel needs a DMZ Orders chapter (Counterfeit for Jin-Tae). Challenges: kill all once, extract all tags 2 and 5 times; a weapon charm is the only reward shown.
+- Lieutenant towers mark the area of the nearest active Lieutenant for free and complete a Side Op; one Operator trait lets a tower mark two.

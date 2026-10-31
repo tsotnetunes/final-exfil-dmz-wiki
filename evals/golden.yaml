@@ -119,3 +119,27 @@
 - id: g40
   question: How do Double XP tokens count down in MW4 and how much can be used a day?
   must_retrieve: [double-xp-tokens]
+- id: g41
+  question: Where do you find each Lieutenant in DMZ?
+  must_retrieve: [lieutenants]
+- id: g42
+  question: How do you kill Colossus?
+  must_retrieve: [colossus]
+- id: g43
+  question: How do you shoot down the Deathstalker?
+  must_retrieve: [deathstalker]
+- id: g44
+  question: How do you destroy the tank Commander?
+  must_retrieve: [main-nk-battle-tank]
+- id: g45
+  question: What does the Boss Board do and what does intel cost?
+  must_retrieve: [boss-board]
+- id: g46
+  question: Is Bale a Lieutenant or a Commander?
+  must_retrieve: [bale]
+- id: g47
+  question: Where is the Doctor and what does his key open?
+  must_retrieve: [the-doctor]
+- id: g48
+  question: What is the enemy faction in Hajin called?
+  must_retrieve: [north-korean-forces]
