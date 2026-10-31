@@ -1074,3 +1074,6 @@
 ## [2026-10-31 12:15 EDT] render | 21 pages rendered, 801 claims, 761 evidence
 - changed: wiki 21, claims 1, evidence 1, index.md 1
 - run: r-20261031-161515-22f3
+## [2026-10-31 12:16 EDT] ingest | 31 Oct research, weapons: 20 weapon pages and a weapons list, Blueprints, Apex Attachments, Gunsmith, Weapon Vendor, Firing Range and Weapon Manuals rewritten, 3 retired, 21 sources, census, 7 golden questions
+- changed: .kac 1, evals 1, index 8, index.md 1, raw 21, wiki 54
+- run: r-20261031-121612-e3de

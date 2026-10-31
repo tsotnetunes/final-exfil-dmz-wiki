@@ -143,3 +143,24 @@
 - id: g48
   question: What is the enemy faction in Hajin called?
   must_retrieve: [north-korean-forces]
+- id: g49
+  question: Do you need three Weapon Manuals to unlock a gun?
+  must_retrieve: [weapon-manuals]
+- id: g50
+  question: What are the best DMZ weapons?
+  must_retrieve: [weapons]
+- id: g51
+  question: What do Apex Attachments do?
+  must_retrieve: [apex-attachments]
+- id: g52
+  question: Did the 28 Oct weapon nerfs hit DMZ?
+  must_retrieve: [movement-and-tuning]
+- id: g53
+  question: What do Gunsmith attachment slots cost?
+  must_retrieve: [gunsmith]
+- id: g54
+  question: How do Blueprints work in DMZ?
+  must_retrieve: [blueprints]
+- id: g55
+  question: When does the Cronen Osprey arrive?
+  must_retrieve: [cronen-osprey-assault-rifle]

@@ -16,4 +16,6 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 <!-- human:start -->
 A community site's beginner guide to MW4 DMZ, last updated 24 Oct 2026, mixing the official guides with named creators' findings. We took its threat-level examples, its note that a separate AI wanted level sends search parties, reinforcements by elevator, and Infinity Ward's description of boss kills as checkpoints that count only on extraction. Third-party. Used for [[threat-escalation]], [[north-korean-forces]] and [[boss-board]].
+
+A community database's beginner guide, updated 24 Oct 2026. For the weapons area we took its notes on handing over Manuals, a creator's report of the fifth slot price, the Vendor stocking locked guns, the Free Loadout kit and the loot rarity ladder. Third-party; prices it quotes from the trailer are pre-launch.
 <!-- human:end -->
