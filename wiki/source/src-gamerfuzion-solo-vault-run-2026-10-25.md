@@ -16,4 +16,6 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 <!-- human:start -->
 A loot-run guide of 25 Oct 2026 from the writers' own match. We took the casino vault and police armory details and the 3D Printer's location hints for two ingredients. Reported.
+
+A run report published 25 Oct 2026: the writers opened the Counting Room Vault and a Police Station Armory solo. The Codex takes the key details, what the rooms held, the Door Breacher Charge and the value of Regional Combat Notes. Contents are from their runs and vary.
 <!-- human:end -->

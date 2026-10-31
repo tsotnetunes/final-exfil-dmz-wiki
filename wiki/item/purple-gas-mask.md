@@ -1,9 +1,9 @@
 ---
 type: item
 title: "Purple Gas Mask"
-description: "The Purple Gas Mask is an item that players report can be sold for 216k."
-status: draft
-brain_status: candidate
+description: "Retired: no item called Purple Gas Mask exists in DMZ. The two gas masks are on the gas-masks page."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_af3e918e79b4]
 ---
@@ -18,4 +18,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 31 Oct 2026. Neither item database lists a Purple Gas Mask; the name is player shorthand for a gas mask by the colour of its rarity. DMZ has the Gas Mask and the Durable Gas Mask: see [[gas-masks]], which carries this name as an alias. The resale figure reported here was never confirmed.
 <!-- human:end -->

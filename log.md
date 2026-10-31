@@ -1105,3 +1105,7 @@
 ## [2026-10-31 13:50 EDT] ingest | 31 Oct research, Hajin: all 13 major POIs rewritten, minor POI list, location types (police and fire stations, clinics, gas stations, compounds, bank vaults, safes, bunkers, silo bunkers), final exfil, 6 duplicates or MW2 places retired, 29 sources, census, 7 golden questions
 - changed: .kac 1, evals 1, index 7, index.md 1, raw 29, wiki 69
 - run: r-20261031-135008-7299
+
+## [2026-10-31 13:50 EDT] ingest | 31 Oct research, items: armour, backpacks, gas masks, NVGs, medical, kits, tactical, lethal, field upgrades, fire support, valuables, 54 keys on two pages, cosmetic rewards; 12 junk or Warzone-only pages retired, 22 sources, census, 7 golden questions
+- changed: .kac 1, evals 1, index 6, index.md 1, raw 22, wiki 66
+- run: r-20261031-135050-c47b

@@ -16,4 +16,6 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 <!-- human:start -->
 Destructoid's loot guide of 25 Oct 2026, written from the writer's own matches. We took its four spots and what they paid. Loot is random, so treat it as experience, not a table.
+
+A press guide published 25 Oct 2026. It stresses that loot is not fixed, points to compounds (weapon lockers and safes behind hidden entrances) and Cheonwang Peak Array, and names the train as a strong source of 3D Printer resources. The Codex uses it on the loot placement page.
 <!-- human:end -->

@@ -269,3 +269,24 @@
 - id: g90
   question: What is X01?
   must_retrieve: [x01]
+- id: g91
+  question: How do you get a 3-plate vest?
+  must_retrieve: [3-plate-armor-vest]
+- id: g92
+  question: How many Secure Slots does each backpack have?
+  must_retrieve: [backpacks]
+- id: g93
+  question: How many uses does a Disposable Parachute have?
+  must_retrieve: [parachute]
+- id: g94
+  question: Do gas masks still break in radiation?
+  must_retrieve: [gas-masks]
+- id: g95
+  question: Should I sell Gold Bars?
+  must_retrieve: [gold-bar]
+- id: g96
+  question: Which valuables are needed for FOB upgrades?
+  must_retrieve: [valuables]
+- id: g97
+  question: Where is the Counting Room Vault?
+  must_retrieve: [keys-west-and-north]

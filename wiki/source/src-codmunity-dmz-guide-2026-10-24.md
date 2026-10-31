@@ -24,4 +24,6 @@ codmunity.gg's general DMZ guide as updated on 24 Oct 2026, read on 31 Oct. Much
 The beginner guide of codmunity.gg, a community database for MW4 DMZ, updated on 24 Oct 2026 and read on 31 Oct. We took its practical rules: how to play solo, what the Free Loadout holds, exfil countdowns, cache refill times, MIA recovery costs and the tells of a Possum user. Several points are credited to YouTube creators who tested them in launch week, so the Codex marks anything found only here as reported and looks for a second source.
 
 CODMunity's beginner guide, updated 24 Oct 2026. We took its exfil and radiation rules and its helicopter warning about SAM sites. Numbers from it alone are reported.
+
+A community beginner guide, updated 24 Oct 2026, a day after launch. The Codex takes its practical item facts: what the Free Loadout gives, how plates and Ballistic Gel vests behave, what each healing item does, where radiation gear and parachutes are found, and which valuables to keep for FOB upgrades. It is third-party; facts that only it states are marked as reported.
 <!-- human:end -->

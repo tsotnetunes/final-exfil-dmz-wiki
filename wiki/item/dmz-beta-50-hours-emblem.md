@@ -1,9 +1,9 @@
 ---
 type: item
 title: "DMZ Beta 50 Hours Emblem"
-description: "DMZ Beta 50 Hours Emblem: awaiting confirmed details."
-status: draft
-brain_status: candidate
+description: "Retired: folded into cosmetic-rewards. A 50-hour beta emblem is claimed by one post only and not confirmed."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_9c15b242e497]
 ---
@@ -12,4 +12,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 31 Oct 2026: folded into [[cosmetic-rewards]]. The only post naming a 50-hour emblem for the 2022 DMZ beta is disputed, and no other source confirms it.
 <!-- human:end -->

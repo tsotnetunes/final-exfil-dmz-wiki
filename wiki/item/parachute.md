@@ -1,12 +1,13 @@
 ---
 type: item
 title: "Parachutes"
-description: "Base parachutes have limited uses (look in Fire Stations); infinite-use parachutes are rarer; both can be printed at the 3D Printer (developers' Q&A, 9 Oct)."
+description: "Disposable Parachutes give three uses since the 23 Oct fix; the Legendary Parachute is reusable (DMZ level 69). Find them in Fire Stations or print them; none comes free."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_b9d5f0d9bab7, clm_7e1b19e52f1e, clm_ca51ba0b61c2, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09]
-aliases: ["Parachute", "Infinite parachute"]
+sources: [clm_b9d5f0d9bab7, clm_7e1b19e52f1e, clm_ca51ba0b61c2, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-keengamer-best-loot-2026-10-22]
+aliases: ["Parachute", "Infinite parachute", "Disposable Parachute", "parachute uses", "chute", "reusable parachute"]
+stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 Parachutes are items in Modern Warfare 4 DMZ mode that players must find or craft. They allow players to survive long drops and flee dangerous positions.
@@ -21,5 +22,24 @@ _Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Per the developers' 9 Oct Q&A, via a video recap [[src-westie-dmz-ama-recap-2026-10-11]]: after a year of testing with unlimited parachutes, exploring Hajin felt too safe, so base parachutes now have limited uses. They are easier to find, for example in Fire Stations ([[locations-of-interest]]). Infinite-use parachutes exist too. Both can be printed at the [[3d-printer]]. The official guide lists parachutes in the printer's Gear category and gives them their own loadout slot [[src-activision-dmz-guide-part2-2026-10-09]]. Rumours said "single use"; the relay says limited use, and how many uses is not stated.
+DMZ has two parachutes: the Disposable Parachute, which gives three uses since the fix of 23 Oct 2026, and the Legendary Parachute, which you can use again and again [[src-mw4-launch-patch-notes-2026-10-29]] [[src-dmzhub-items-2026-10-31]]. Nobody deploys with one for free: you find or print it [clm_7e1b19e52f1e], and without one equipped a long drop kills you [clm_b9d5f0d9bab7].
+
+## How many uses does a parachute have?
+
+- **Disposable Parachute: three.** At launch the use counts of parachutes and gas masks were wrong; on 23 Oct 2026 the developers set the Disposable Parachute to three uses [[src-mw4-launch-patch-notes-2026-10-29]].
+- **Parachute: unlimited.** Infinite-use parachutes exist alongside the limited ones [[src-westie-dmz-ama-recap-2026-10-11]] [[src-dmzhub-items-2026-10-31]].
+- Why limits at all: in the developers' 9 Oct Q&A, as relayed by a video recap, a year of testing with unlimited parachutes made exploring Hajin feel too safe [[src-westie-dmz-ama-recap-2026-10-11]].
+
+## Where do you get one?
+
+| Parachute | Rarity | How you get it | Card value | Sources |
+| --- | --- | --- | --- | --- |
+| Disposable Parachute | Rare (Uncommon on one site) | Fire Stations; recipe at DMZ level 55 | 500 | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] [[src-wzstats-dmz-loot-2026-10-30]] |
+| Parachute | Legendary | DMZ level 69 reward; printable | 5,000 | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] |
+
+Fire Stations, the red buildings on the map, are the place to look [[src-activision-dmz-guide-part1-2026-10-05]] [[src-keengamer-best-loot-2026-10-22]] [[src-codmunity-dmz-items-2026-10-26]]. Both kinds print in the Gear category of the [[3d-printer]] [[src-activision-dmz-guide-part2-2026-10-09]] [[src-westie-dmz-ama-recap-2026-10-11]]; one database gives the reusable Parachute's recipe as 2 Turned Components, 5 Nylon Cloth and 10 Rigid Synthetics (reported) [[src-dmzhub-recipes-2026-10-31]].
+
+## How do you use it?
+
+The parachute has its own loadout slot [[src-activision-dmz-guide-part2-2026-10-09]]; one carried loose in your backpack is not equipped, so check the slot before you jump (reported) [[src-codmunity-dmz-guide-2026-10-24]]. The Free Loadout has none (reported) [[src-codmunity-dmz-guide-2026-10-24]]. A parachute also lets you escape a building by jumping off it [clm_ca51ba0b61c2], and your squad panel shows who is carrying one [[src-activision-dmz-guide-part1-2026-10-05]].
 <!-- human:end -->
