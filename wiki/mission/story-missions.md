@@ -1,26 +1,28 @@
 ---
 type: mission
 title: "Story Missions"
-description: "Story Missions in Modern Warfare 4 DMZ feature designated spawn locations, matchmaking, solo play, and rewards that unlock needed crafting recipes."
+description: "Story Missions in Modern Warfare 4 DMZ unlock needed crafting recipes and support solo play through Story Mission Matchmaking."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_1373d27208f1, clm_85301b83d56c, clm_f0a271907aa3, clm_7983ec847f7e, clm_5b8f0e8c94f3, clm_94e4a795c9a7, clm_a61e522f4c73, clm_965f095f6e04, clm_8d4465000264, clm_4891a188a2ea, clm_848e968ff830, clm_dda77c7ff056, clm_79661c0e005e, clm_cb8896693cf8, clm_f15e9103a103, clm_a6788c608374, clm_2738483c8aa0, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09, src-fpsjp-story-missions-trailer-2026-10-09, src-gamespark-tokyo-media-event-2026-10-01]
+sources: [clm_1373d27208f1, clm_85301b83d56c, clm_f0a271907aa3, clm_7983ec847f7e, clm_5b8f0e8c94f3, clm_94e4a795c9a7, clm_a61e522f4c73, clm_965f095f6e04, clm_8d4465000264, clm_4891a188a2ea, clm_848e968ff830, clm_dda77c7ff056, clm_79661c0e005e, clm_cb8896693cf8, clm_f15e9103a103, clm_a6788c608374, clm_2738483c8aa0, clm_aac399fada29, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09, src-fpsjp-story-missions-trailer-2026-10-09, src-gamespark-tokyo-media-event-2026-10-01]
 aliases: ["story mission"]
 mission_kind: story
 ---
 <!-- generated:start -->
-Story Missions in Modern Warfare 4 DMZ are missions that unlock needed crafting recipes and take place at dedicated spawn locations. Players report that a mini DMZ mission also appears in the Modern Warfare 4 campaign. Operation Critical Extraction is reported by players as one of the story missions in Modern Warfare 4 DMZ.
+Story Missions in Modern Warfare 4 DMZ are narrative objectives that unlock needed crafting recipes.
+
+Players report that spawn locations exist for each Story Mission in Modern Warfare 4 DMZ. On 29 Oct 2026, players reported that story mission spawns became more consistently dynamic and free roam. However, on 31 Oct 2026, players reported that Story Missions were reverted to launch settings. Known assignments in the mode include Operation Critical Extraction and The Iron Citadel Story Mission. A mini DMZ mission is also reported in the Modern Warfare 4 campaign.
 
 ## How do you start it?
 
-Players report that each Story Mission in Modern Warfare 4 DMZ has specific spawn locations. Players report that story missions can be attempted solo. Story Mission Matchmaking is reported to be available in Modern Warfare 4 DMZ, and players noted that this matchmaking was patched. On 29 Oct 2026, players reported that story mission spawns became more consistently dynamic and free roam. On 31 Oct 2026, players reported that Story Missions were reverted to launch settings.
+Story Missions can be accessed through Story Mission Matchmaking in Modern Warfare 4 DMZ. Players reported on 29 Oct 2026 that Story Mission Matchmaking received a patch. Players report that story missions can be attempted solo.
 
 ## Rewards
 
-Players report that Story Missions in Modern Warfare 4 DMZ unlock needed crafting recipes.
+Completing Story Missions unlocks needed crafting recipes according to player reports.
 
-_Generated from 0 confirmed and 11 reported claims across 11 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 0 confirmed and 12 reported claims across 12 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

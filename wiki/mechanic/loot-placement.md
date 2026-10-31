@@ -5,10 +5,16 @@ description: "Loot is placed where it makes sense: tactical gear in police stati
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06]
+sources: [clm_5d04f7dd5bb2, src-activision-dmz-deep-dive-2026-06]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Loot placement governs where supply containers appear during a match. Knowing container locations helps players plan efficient scavenging paths.
+
+## Where do weapon lockers appear?
+
+* Players report that each stop along the loot run route is a guaranteed weapon locker.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

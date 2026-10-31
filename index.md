@@ -30,7 +30,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dog-tag-case]] — Unlocks at DMZ level 20: shows the dog tags you extracted (rarity, victim, killer, time); upgrades raise bounty payouts and add slots. · **published**
 - [[firing-range]] — The FOB's Firing Range: a wooded grove between the Gunsmith and the Vendor, with targets from under 10 m to over 100 m (official, 9 Oct guide). · **published**
 - [[fob]] — Your home between deployments; stations open from the start or by DMZ level: 3D Printer 2, Vendor 5, Gunsmith 10, Dog Tag Case 20, Boss Board after two Orders. · **published**
-- [[fob-forward-operating-base]] — The Forward Operating Base (FOB) in DMZ houses player squads and features a store, vendor, shooting range, and crafting stations. · **draft**
+- [[fob-forward-operating-base]] — The Forward Operating Base (FOB) is a DMZ squad hub featuring crafting stations, a store, a vendor, and a shooting range. · **draft**
 - [[gunsmith]] — Unlocks at DMZ level 10: buy base weapons (after extracting their Weapon Manual), attachment slots and attachments with DMZ Cash; weapon levels shared with MP. · **published**
 - [[orders]] — The FOB station where DMZ Orders are reviewed before a deployment; available from the start (official). How Orders work: see DMZ Orders. · **published**
 - [[stash]] — FOB storage shared by all your Operators: 40 items and 12 weapons at first, more with upgrades; Resources take no slots (official, 9 Oct guide). · **published**
@@ -148,7 +148,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[operation-shopping-hacks]] — Operation Shopping Hacks is a DMZ mission reported to reward players with the Night Vision Goggles crafting recipe upon completion. · **candidate**
 - [[operation-silent-ledger]] — Operation Silent Ledger is reported by players to be a story mission in DMZ. · **candidate**
 - [[side-ops]] — Small optional tasks in a match (truck repairs, finding a supply drop, scaling a radio tower) that give XP alongside the main objectives (official, pre-launch). · **published**
-- [[story-missions]] — Story Missions in Modern Warfare 4 DMZ feature designated spawn locations, matchmaking, solo play, and rewards that unlock needed crafting recipes. · **published**
+- [[story-missions]] — Story Missions in Modern Warfare 4 DMZ unlock needed crafting recipes and support solo play through Story Mission Matchmaking. · **published**
 - [[stranded]] — Progress in the Stranded mission saves separately from the campaign checkpoint, according to player reports. · **candidate**
 - [[toxic-intercept-op]] — Toxic Intercept Op was fixed on 21 Oct 2026 to address an issue where it could incorrectly fail after completing the Defend the mission. · **draft**
 
@@ -213,5 +213,5 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 
 ## weapon (3) in `wiki/weapon/<id>.md`
 - [[aston-martin-dreadnought]] — The Aston Martin Dreadnought is reported by players to be an armored SUV vehicle in MW4 DMZ. · **retired**
-- [[ltv]] — Players report that the LTV in MW4 DMZ is a vehicle equipped with a mounted .50 Cal. · **retired**
+- [[ltv]] — The LTV is a vehicle in Modern Warfare 4 DMZ equipped with a mounted .50 Cal and found at the stop 6 compound. · **retired**
 - [[polaris-dagor-a1]] — The Polaris Dagor A1 is a squad vehicle in Modern Warfare 4 DMZ built for the toughest terrain, confirmed to be available at launch. · **retired**
