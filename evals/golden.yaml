@@ -290,3 +290,21 @@
 - id: g97
   question: Where is the Counting Room Vault?
   must_retrieve: [keys-west-and-north]
+- id: g98
+  question: List of all 3D Printer recipes and their unlocks
+  must_retrieve: [recipes]
+- id: g99
+  question: How much do 3D Printer upgrades cost?
+  must_retrieve: [printer-upgrades]
+- id: g100
+  question: What does the Medkit recipe need?
+  must_retrieve: [medkit-recipe]
+- id: g101
+  question: Where do you find Reactive Metals?
+  must_retrieve: [reactive-metals]
+- id: g102
+  question: Which boss drops Military Composites?
+  must_retrieve: [military-composites]
+- id: g103
+  question: Can you print Rare ingredients?
+  must_retrieve: [3d-printer]

@@ -1109,3 +1109,7 @@
 ## [2026-10-31 13:50 EDT] ingest | 31 Oct research, items: armour, backpacks, gas masks, NVGs, medical, kits, tactical, lethal, field upgrades, fire support, valuables, 54 keys on two pages, cosmetic rewards; 12 junk or Warzone-only pages retired, 22 sources, census, 7 golden questions
 - changed: .kac 1, evals 1, index 6, index.md 1, raw 22, wiki 66
 - run: r-20261031-135050-c47b
+
+## [2026-10-31 13:54 EDT] ingest | 31 Oct research, crafting: all 81 item recipes on a recipes list, 17 recipe pages, printer upgrades (31 levels), 44 materials on a materials list with 17 material pages, 3D Printer rewritten, 16 sources, census, 6 golden questions
+- changed: .kac 1, evals 1, index 7, index.md 1, raw 16, wiki 55
+- run: r-20261031-135425-2d36

@@ -20,4 +20,6 @@ A long guide on a gaming services site, updated 28 Oct 2026, that gathers player
 A boosting service's boss guide, updated 28 Oct 2026. For the weapons area we took the weapon each Lieutenant carries and its notes on named Legendary variants. Third-party; we use a Lieutenant's weapon only where a second guide agrees.
 
 A boss guide updated 28 Oct 2026, partly built from player reports in launch week, which it marks as such. We used it for which bosses are met at which POI and where their loot rooms are. Boss pages hold the detail.
+
+A guide site's page on DMZ bosses, last updated 28 Oct 2026. We took its crafting lines: Colossus drops Military Composites, the Deathstalker a Prototype RF Module from a wreck that splits into three lootable parts, and the tank Nano-Structured Alloy; the first kill of each of these bosses pays about 50,000 DMZ Cash. It agrees with Gaming ProMax and COD Central on all three drops and does not mention Experimental Compounds. Used for [[materials]], [[military-composites]] and [[prototype-rf-module]].
 <!-- human:end -->

@@ -1,0 +1,14 @@
+# Activision blog: Ready for Launch: Modern Warfare 4 Progression and Prestige
+URL: https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-ready-for-launch-progression-prestige
+Captured: 2026-10-31 (published 19 Oct 2026, Call of Duty Staff)
+Trust: official
+
+Facts taken, in our words (DMZ section only; read through a fetch tool, which flattened the level table):
+- The post's text puts the 3D Printer station and the recipes for the 1-Plate Armor Vest, Bandage, Small Backpack and Medkit under DMZ Level 1, and the 2-Plate Armor Vest and Medium Backpack recipes under Level 2. The table labels for levels 1 and 2 run together, so the split between the two rows is read from the prose.
+- At Level 1 the printer can print Gear, Backpacks, Consumables and Upgrades. Station upgrades at Level 4, 7, 12 and 28 add printing of Tacticals, Lethals, Field Upgrades and Fire Support.
+- Recipe rewards by level: 3 Sedative Inhaler; 4 Smoke Grenade and Concussion Grenade; 7 Frag Grenade and Throwing Knife; 9 Snapshot Grenade; 12 Ammo Box and Spotter Scope; 14 Armor Box; 17 Shock Stick; 23 Sticky Grenade; 26 Gas Mask; 28 Care Package; 31 UAV; 36 Molotov Cocktail; 41 Thermite; 48 Self-Revive Kit; 52 Inflatable Decoy; 55 Disposable Parachute.
+- Ingredient rewards (two of each): Uncommon at 6 Rigid Synthetics, 11 Reactive Metals, 29 Detonators, 33 "Electronics" (written that way), 38 Control Unit, 39 Biomaterials; Rare at 43 Structural Alloy, 44 CPU, 47 Nitro Compounds, 49 Binding Catalyst, 51 Stock Rod, 53 High-Tenacity Fibers, 56 Printed Circuit Board, 57 Nylon Cloth.
+- Single item rewards (not recipes): 13 UAV (Epic Fire Support); 34 Large Backpack (Epic); 37 3-Plate Armor Vest (Epic); 58 Care Package (Rare); 59 Combat Drone (Epic); 61 Medium Weapon Backpack (Epic); 62 Door Breacher Charge (Ultra); 63 2-Plate Helmet Armor Vest (Epic); 64 Revive Pistol; 65 UAV (Epic); 66 Crossfire; 67 Defibrillator; 68 Durable Gas Mask (Epic); 69 Parachute (Legendary); 70 Advanced SERE Kit (Legendary).
+- Kits: 6 and 21 Basic Armor Kit (2-Plate Carriers and an Armor Box); 8 and 24 Restock Kit (Medium Backpacks, a Munitions Box, an Armor Box); 11 Basic Triage Kit (Bandages, a Medkit, Painkillers, Radiation Blockers); 16 Explosives Equipment Kit; 19 and 46 Recon Equipment Kit; 27 Triage Kit (Epic); 42 Trap Equipment Kit.
+- Stations and upgrades: 5 Vendor; 10 Gunsmith; 15 one more Operator slot; 18 and 32 Vendor upgrade; 20 Dog Tag Case (storage grows with 3D Printer upgrades); 22, 45 and 70 eighteen more Stash item slots; 25 five percent off Gunsmith purchases; 30, 50 and 70 bounty payout up 10, 50 and 100 percent; 35 and 60 six more weapon Stash slots; 40 three unnamed station upgrades; 54 three unnamed Epic consumables.
+- Further station upgrades are reached through the 3D Printer.

@@ -20,4 +20,6 @@ A community database's DMZ item list, updated 26 Oct 2026. For the weapons area 
 codmunity.gg's item database as updated on 26 Oct 2026, read on 31 Oct. Used for the rarity of dog tags ([[dog-tags]], [[legendary-dog-tag]]) and example sell values of valuables ([[dmz-cash]]). Values can change with patches.
 
 A community database of MW4 DMZ, read on 31 Oct 2026 when its item list was last updated 26 Oct. It lists 173 items in 13 categories with a rarity and, for some, a DMZ Cash value, and has short pages for single items (Gas Mask, Radiation Gear, Hazmat Suit, Parachute, 3-Plate Armor Vest, Gold Bar and others). The Codex uses it for item names, categories and rarities; values are its own figures and can lag behind patches, so they are cross-checked where another source exists.
+
+A community database for MW4 DMZ, read on 31 Oct 2026: its item list (173 items, 23 of them Ingredients), the item pages of eleven ingredients (updated 21 and 26 Oct), a crafting planner (26 Oct), a progression page (19 Oct) and a traits page (30 Oct). We took ingredient rarities, sell values, the DMZ level that gives each ingredient, one location line and the effects of crafting-related Scout Traits. Its planner gives lower amounts than every other list for several recipes, so its amounts are not used. Used for [[materials]] and the material pages.
 <!-- human:end -->

@@ -16,4 +16,6 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 <!-- human:start -->
 A press article published 22 Oct 2026. We took the mission order, the unlock tiers and the rewards, and its note that a vehicle insertion is not granted twice.
+
+A games press list published 22 Oct 2026 of the six DMZ Story Missions and what each one rewards. We took the two crafting-related lines: Operation Critical Extraction gives a Defibrillator and Operation Shopping Hacks gives Night Vision Goggles. It agrees with Gfinity's list and, like it, does not say whether these rewards are items or 3D Printer recipes. Used for [[night-vision-goggles-recipe]] and [[recipes]].
 <!-- human:end -->
