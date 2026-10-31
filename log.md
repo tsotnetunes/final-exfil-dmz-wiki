@@ -1121,3 +1121,7 @@
 ## [2026-10-31 13:57 EDT] edit | 31 Oct cleanup: one source page per URL (11 duplicates point to their twin), official trust for callofduty.com, platform blogs, support, Trello and official channels, the watchlist hub, bunker pages re-sent after the import's secret filter fix
 - changed: index 5, index.md 1, wiki 119
 - run: r-20261031-135713-56d3
+
+## [2026-10-31 14:35 EDT] edit | 31 Oct reconciliation: facts each area found for other areas applied across 61 pages (Lieutenant guns and Legendaries, Season 1 bosses as announced, payouts, infil unlocks, printer at level 1, Bank caps both sourced), tank-looting folded into the tank Commander, a proposal to dispute a misread claim, 3 golden questions
+- changed: .kac 1, evals 1, index 11, index.md 1, proposals 1, raw 1, wiki 63
+- run: r-20261031-143556-ed97

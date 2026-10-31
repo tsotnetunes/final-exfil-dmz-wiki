@@ -5,7 +5,7 @@ description: "UAV Towers are guarded map towers: activate the laptop to complete
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_ae67c70adc88, clm_0b7cfd4fc000, clm_1d639bef64e0, clm_03b714b0fbe6, clm_c3633bb72757, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-allthingshow-dmz-orders-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-codcentral-dmz-dynamic-ops-2026-10-21, src-codcentral-dmz-orders-2026-10-21, src-dtgre-dmz-ops-guides-2026-10-21, src-codmunity-dmz-missions-2026-10-31]
+sources: [clm_ae67c70adc88, clm_0b7cfd4fc000, clm_1d639bef64e0, clm_03b714b0fbe6, clm_c3633bb72757, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-allthingshow-dmz-orders-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-codcentral-dmz-dynamic-ops-2026-10-21, src-codcentral-dmz-orders-2026-10-21, src-dtgre-dmz-ops-guides-2026-10-21, src-codmunity-dmz-missions-2026-10-31, src-codmunity-hajin-map-2026-10-31]
 aliases: ["UAV Tower", "Activate UAV Tower", "activate a UAV tower", "UAV tower side op", "hack a UAV tower"]
 stale_after: 2026-11-13
 ---
@@ -23,6 +23,10 @@ _Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch not
 
 <!-- human:start -->
 UAV Towers are guarded towers marked on the Hajin map: activating one completes the Activate UAV Tower Side Op ([[side-ops]]), pays DMZ Cash and sends out a pulse that shows Operators and enemies nearby [[src-activision-dmz-guide-part1-2026-10-05]] [[src-dmztracker-dynamic-side-ops-2026-10-20]]. Since 30 Oct 2026 a Side Op pays 2,000 DMZ Cash [[src-mw4-launch-patch-notes-2026-10-29]].
+
+## How many UAV Towers are there?
+
+The map shows 14, by one guide's count (reported) [[src-dmztracker-dynamic-side-ops-2026-10-20]]. Most major points of interest have at least one, and [[imjin-farmland]] and [[mirae-general-hospital]] have two each on a community map [[src-codmunity-hajin-map-2026-10-31]].
 
 ## How do you activate one?
 

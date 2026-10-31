@@ -5,7 +5,7 @@ description: "Infil for Dynamic Ops and Free Roam: on foot free, Polaris Dagor A
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-dmzhub-missions-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-dmzhub-missions-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-altchar-dmz-story-missions-2026-10-22, src-gamingpromax-dmz-story-missions-2026-10-23, src-dmzhub-vehicles-2026-10-31, src-dtgre-dmz-infil-costs-2026-10-22, src-dmztracker-story-missions-2026-10-20]
 aliases: ["infil", "paid infil", "infil cost", "helicopter infil", "cargo plane infil", "vehicle drop", "how to unlock helicopter infil"]
 ---
 <!-- generated:start -->
@@ -25,11 +25,22 @@ For Dynamic Operations and Free Roam you choose how to go in: on foot for free, 
 | Helicopter | 50,000 | you fly in from the FOB, one of your squad at the controls |
 | Cargo plane | 100,000 | you jump at a spot you pick |
 
-Prices and options from the 9 Oct guide [[src-activision-dmz-guide-part2-2026-10-09]]; the vehicles themselves are on [[vehicles]] [[src-activision-dmz-guide-part1-2026-10-05]].
+Prices and options from the 9 Oct guide [[src-activision-dmz-guide-part2-2026-10-09]]; the vehicles themselves are on [[vehicles]] [[src-activision-dmz-guide-part1-2026-10-05]]. One guide gives the menu names as Ground Infil, Light Vehicle (the Polaris), Armored Vehicle (the LTV), Helicopter Infil and Airborne Infil (the cargo plane), at the same prices (reported) [[src-dtgre-dmz-infil-costs-2026-10-22]].
 
 ## How do you unlock the paid infils?
 
-Some options need progression first [[src-activision-dmz-guide-part2-2026-10-09]]: each vehicle or air infil opens with a Story Mission ([[story-missions]]), and an air infil needs a parachute (reported) [[src-skycoach-dmz-beginner-guide-2026-10-19]]. codmunity.gg ties the LTV to Operation Iron Citadel and the helicopter to Operation Grid Assault [[src-codmunity-dmz-guide-2026-10-24]]. A community database lists a vehicle among Story Mission rewards: the Polaris Dagor A1 for Operation Silent Ledger, the LTV for Iron Citadel, the helicopter for Grid Assault and the cargo plane for Operation Fallen Ember (reported) [[src-dmzhub-missions-2026-10-31]].
+Some options need progression first [[src-activision-dmz-guide-part2-2026-10-09]]. Each paid vehicle sits on a Story Mission's reward card ([[story-missions]]):
+
+| Infil | Story Mission that unlocks it | When the mission opens |
+| --- | --- | --- |
+| Polaris Dagor A1 drop | [[operation-silent-ledger]] | first tier, once Orders page 1 is done |
+| LTV drop | [[operation-iron-citadel]] | after the first three missions |
+| Helicopter | [[operation-grid-assault]] | after the first three missions |
+| Cargo plane | [[operation-fallen-ember]] | after Iron Citadel and Grid Assault |
+
+Rewards and order: [[src-altchar-dmz-story-missions-2026-10-22]] [[src-gamingpromax-dmz-story-missions-2026-10-23]] [[src-dmztracker-story-missions-2026-10-20]] [[src-dmzhub-vehicles-2026-10-31]] [[src-dmzhub-missions-2026-10-31]]; codmunity.gg also ties the LTV to Iron Citadel and the helicopter to Grid Assault [[src-codmunity-dmz-guide-2026-10-24]]. A vehicle unlock is given once; replaying the mission does not give it again [[src-altchar-dmz-story-missions-2026-10-22]].
+
+Whether the cheap Polaris drop is also open before you finish Silent Ledger is not settled: one guide names only the LTV, helicopter and cargo plane as options that may start locked (reported) [[src-dtgre-dmz-infil-costs-2026-10-22]]. Since Silent Ledger is in the first tier, you can have it early either way. An air infil needs a parachute (reported) [[src-skycoach-dmz-beginner-guide-2026-10-19]].
 
 ## Is a paid infil worth it?
 

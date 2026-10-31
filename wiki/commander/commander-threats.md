@@ -1,12 +1,13 @@
 ---
 type: commander
 title: "Commander threats"
-description: "All DMZ Commanders: Colossus, the Deathstalker and the Main NK Battle Tank roam Hajin since launch; Season 1 adds The Captain and Wheelson. How to find them and what they pay."
+description: "All DMZ Commanders: Colossus, the Deathstalker and the Main NK Battle Tank roam Hajin since launch; The Captain and Wheelson are announced for Season 1. How to find them and what they pay."
 status: stable
 brain_status: published
 sensitivity: public
 sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db, clm_a0e50790b208, clm_2709a2129c64, clm_855a0d332b7b, clm_a4061b133053, clm_45a3d3d59bfc, clm_718706a12b71, clm_d12acdac5305, clm_6cb6f07bc3cc, clm_4970f5d4d3d4, clm_89c9ddba2341, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-boss-board-2026-10-21, src-allthingshow-colossus-2026-10-21, src-allthingshow-deathstalker-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31]
-aliases: ["Commanders", "Commander", "The Captain", "Captain", "Wheelson", "Juggernaut", "Elite Strike Team", "drone swarm", "King Slayer", "King Slayer calling card", "commander bosses"]
+aliases: ["Commanders", "Commander", "The Captain", "Captain", "Wheelson", "Juggernaut", "Elite Strike Team", "drone swarm", "King Slayer", "King Slayer calling card", "commander bosses", "roaming commanders"]
+stale_after: 2026-11-07
 ---
 <!-- generated:start -->
 Commander threats are hostile boss targets encountered during matches that yield specific rewards and require targeted tactics to eliminate. Knowing their behaviors and counters allows players to defeat them efficiently.
@@ -31,7 +32,7 @@ _Generated from 2 confirmed and 9 reported claims across 11 posts and 0 patch no
 <!-- generated:end -->
 
 <!-- human:start -->
-Commanders are DMZ's roaming bosses: always present in Hajin, heavily armoured and able to shrug off many standard weapons, so each needs its own plan [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]]. Three have been in the game since launch, and Season 1 adds two more from 6 Nov 2026 [[src-allthingshow-boss-board-2026-10-21]] [[src-activision-season-1-announcement-2026-10-28]].
+Commanders are DMZ's roaming bosses: always present in Hajin, heavily armoured and able to shrug off many standard weapons, so each needs its own plan [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]]. Three have roamed Hajin since launch [[src-allthingshow-boss-board-2026-10-21]]; two more, The Captain and Wheelson, are announced for Season 1 from 6 Nov 2026 and are not in the game yet [[src-activision-season-1-announcement-2026-10-28]] [clm_93fc23c7a474] [clm_6f77b93c726e].
 
 ## Which Commanders are there?
 
@@ -40,8 +41,8 @@ Commanders are DMZ's roaming bosses: always present in Hajin, heavily armoured a
 | [[colossus]] | seven-foot armoured soldier with a depleted-uranium minigun | roams; met at the prison, Cheonwang Peak Array and the air base Armory | Thermite, Drill Charges, Shock Sticks, height and cover; not grenades | Military Composites, Experimental Compounds | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-allthingshow-colossus-2026-10-21]] [[src-dexerto-dmz-enemy-types-2026-10-31]] |
 | [[deathstalker]] | helicopter-sized autonomous drone with two machine-gun turrets | the sky over Hajin City | a captured SAM site | Prototype RF Module | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-allthingshow-deathstalker-2026-10-21]] |
 | [[main-nk-battle-tank]] | North Korean battle tank | roads on the South Korean side | a DDOS, then rockets | Nano-Structured Alloy | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-conquestcapped-dmz-bosses-2026-10-28]] |
-| The Captain (Season 1) | a Juggernaut who fights with his elite guard | X01 | not announced | sections of his helmet in the Threat Briefing event | [[src-activision-season-1-announcement-2026-10-28]] [clm_93fc23c7a474] |
-| Wheelson (Season 1) | an autonomous unit on patrol | not announced | not announced | not announced | [[src-activision-season-1-announcement-2026-10-28]] [clm_6f77b93c726e] |
+| The Captain (announced for Season 1) | a Juggernaut who fights with his elite guard | X01 | not announced | sections of his helmet in the Threat Briefing event | [[src-activision-season-1-announcement-2026-10-28]] [clm_93fc23c7a474] |
+| Wheelson (announced for Season 1) | an autonomous unit on patrol | not announced | not announced | not announced | [[src-activision-season-1-announcement-2026-10-28]] [clm_6f77b93c726e] |
 
 ## How do you find a Commander?
 

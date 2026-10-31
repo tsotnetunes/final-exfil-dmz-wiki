@@ -326,3 +326,12 @@
 - id: g109
   question: Where are the DMZ patch notes?
   must_retrieve: [where-to-find-dmz-patch-notes]
+- id: g110
+  question: How much is a Lieutenant dog tag worth?
+  must_retrieve: [dog-tags]
+- id: g111
+  question: Can the Door Breacher Charge open keycard doors?
+  must_retrieve: [door-breacher-charge]
+- id: g112
+  question: Which Story Mission unlocks the helicopter infil?
+  must_retrieve: [paid-infil]

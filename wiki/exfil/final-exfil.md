@@ -5,7 +5,7 @@ description: "The last way out of a deployment: after the 30-minute radiation ti
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-gamerfuzion-orders-page-14-2026-10-30, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-hajin-gameplay-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, clm_c772bf67ab75, clm_a15e34798a66, clm_233daf06dc99]
+sources: [src-dmzhub-maps-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-gamerfuzion-orders-page-14-2026-10-30, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-hajin-gameplay-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, clm_c772bf67ab75, clm_a15e34798a66, clm_233daf06dc99, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, clm_f1f95e1b6f10, clm_51f7e1c5f386]
 aliases: ["last exfil", "final extraction", "white exfil", "exfil after radiation"]
 stale_after: 2026-11-13
 method: helicopter
@@ -23,7 +23,11 @@ Each match starts with a radiation countdown of about 30 minutes [[src-conquestc
 
 ## Where is it?
 
-It changes every match. The radiation starts from a circle marked at the start of the match and spreads outward to the map edge, so the far side from that circle hints where the last exfil will be (reported) [[src-codmunity-dmz-guide-2026-10-24]]. In one early access match the radiation spread from the [[haneul-nuclear-reactor]] [[src-allthingshow-hajin-gameplay-2026-10-21]]; in a launch-week match the final exfil sat just south of [[songdo-wharf]] [[src-gamerfuzion-orders-page-14-2026-10-30]]. A community map pins ten possible final exfil spots, most near the edges of the map: the northwest corner, the west edge and the east coast, plus one around Cheongun Village (reported) [[src-dmzhub-maps-2026-10-31]]. The Final Intel trait shows the final exfil on the Tac-Map from the start of the match [[src-dmzhub-maps-2026-10-31]].
+It changes every match. The radiation starts from a circle marked at the start of the match and spreads outward to the map edge, so the far side from that circle hints where the last exfil will be (reported) [[src-codmunity-dmz-guide-2026-10-24]]. In one early access match the radiation spread from the [[haneul-nuclear-reactor]] [[src-allthingshow-hajin-gameplay-2026-10-21]]; in a launch-week match the final exfil sat just south of [[songdo-wharf]] [[src-gamerfuzion-orders-page-14-2026-10-30]]. A community map pins ten possible final exfil spots, most near the edges of the map: the northwest corner, the west edge and the east coast, plus one around Cheongun Village (reported) [[src-dmzhub-maps-2026-10-31]].
+
+## Does the Final Intel Trait help?
+
+Yes. Final Intel, a Minor Trait that can appear in the Warfighter and Survivalist trees, shows the final exfil on the Tac-Map from the start of the match [[src-dmzhub-maps-2026-10-31]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-codcentral-dmz-traits-2026-10-23]]. Players go further and describe it as a free extra exfil you can use to call a helicopter at any point in the match (reported) [clm_f1f95e1b6f10] [clm_51f7e1c5f386]; the guides only say it marks the final exfil early, so whether it gives a ride out before the radiation is not settled ([[survivalist-tree]], [[warfighter-tree]]).
 
 ## What are the risks?
 

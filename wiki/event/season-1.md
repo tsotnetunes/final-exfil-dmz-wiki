@@ -5,7 +5,7 @@ description: "Season 1 starts at midnight ET on 6 Nov 2026 (9 PM PT on 5 Nov). D
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, clm_bef876bdc624, clm_c1024f2fb281, clm_4ae545748dba, clm_3044325b8a18, clm_64b8588379af, clm_033219bea076, clm_7add6878604a, clm_58be93f33be7, clm_309415af8c86, clm_60448f273823, clm_86ec75d9e1ba, clm_88179a380fbb, src-activision-season-1-announcement-2026-10-28, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16, src-westie-dmz-ama-recap-2026-10-11, clm_7f843bb01556]
+sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, clm_bef876bdc624, clm_c1024f2fb281, clm_4ae545748dba, clm_3044325b8a18, clm_64b8588379af, clm_033219bea076, clm_7add6878604a, clm_58be93f33be7, clm_309415af8c86, clm_60448f273823, clm_86ec75d9e1ba, clm_88179a380fbb, clm_0b485450cfd7, clm_3ca7ca230411, clm_93fc23c7a474, clm_6f77b93c726e, src-activision-season-1-announcement-2026-10-28, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16, src-westie-dmz-ama-recap-2026-10-11, clm_7f843bb01556]
 aliases: ["DMZ Season 1", "MW4 Season 1", "when does Season 1 start", "Season 1 release time", "what does Season 1 add to DMZ", "X01 release date", "Season 1 DMZ content"]
 stale_after: 2026-11-07
 date: "2026-11-06"
@@ -40,10 +40,10 @@ Season 1 for Modern Warfare 4 and Warzone starts at midnight ET on Friday 6 Nov 
 
 ## What does Season 1 add to DMZ?
 - **X01 Black Site**: a weapons plant nobody knew about, thought to be a GRANIT Arms black site, at a former Russian facility on the edge of Hajin near North Korea's northern border; you reach it through the Hajin Exclusion Zone [[src-activision-season-1-announcement-2026-10-28]] [clm_88179a380fbb]. Inside are cargo bays, vehicle depots, underground labs, production lines and a sealed Deep Vault, and its exits shut once the facility goes into lockdown [[src-activision-season-1-announcement-2026-10-28]]. See [[x01]].
-- **Bosses**: the Commanders The Captain (a Juggernaut with an elite guard, in X01) and Wheelson (an autonomous patrolling Commander), and the Lieutenants Tae-Hyun ("Knuckle") and Chol-Min ("The Wrench") [[src-activision-season-1-announcement-2026-10-28]].
-- **Events**: Threat Briefing: Battle Tank, Threat Briefing: The Captain and the Resupply Run, with more Threat Briefings later [[src-activision-season-1-announcement-2026-10-28]]; see [[are-there-events-in-dmz]].
-- **FOB**: a Battle Pass and Store Station beside the Survival Kit Station, extra Vendor stock for Season 1 BlackCell owners, and a 3D Printer change not yet revealed [[src-activision-season-1-announcement-2026-10-28]].
-- **Orders**: Ghost hands out new DMZ Orders across several pages [[src-activision-season-1-announcement-2026-10-28]].
+- **Bosses**: two new Commanders, The Captain (a Juggernaut with an elite guard, in X01) [clm_93fc23c7a474] and Wheelson (an autonomous Commander on patrol) [clm_6f77b93c726e], and two new Lieutenants, Tae-Hyun ("Knuckle") [clm_0b485450cfd7] and Chol-Min ("The Wrench") [clm_3ca7ca230411], all joining the Boss Board [[src-activision-season-1-announcement-2026-10-28]]. They are announced, not in the game before 6 Nov, and only The Captain has a place so far ([[commander-threats]], [[lieutenants]]).
+- **Events**: Threat Briefing: Battle Tank (take one tank part per deployment in Hajin), Threat Briefing: The Captain (collect pieces of his helmet in X01) and the Resupply Run (gather set items around points of interest and trade them for gear such as Self Revives and 3-Plate Carriers), with more Threat Briefings later in the season [[src-activision-season-1-announcement-2026-10-28]]; see [[are-there-events-in-dmz]].
+- **FOB**: a Battle Pass and Store Station beside the Survival Kit Station, extra Vendor stock for Season 1 BlackCell owners, and a 3D Printer change Activision has kept secret ([[3d-printer]]) [[src-activision-season-1-announcement-2026-10-28]].
+- **Orders**: Ghost, acting as the Watcher, hands out new DMZ Orders for X01 across several pages [[src-activision-season-1-announcement-2026-10-28]].
 
 ## What else comes with it?
 - A Battle Pass for 1,100 COD Points that includes DMZ Survival Kits; BlackCell, included in the Vault Edition [[src-activision-season-1-announcement-2026-10-28]]. See [[is-there-a-battle-pass-in-dmz]].

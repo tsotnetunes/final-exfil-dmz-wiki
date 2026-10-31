@@ -5,7 +5,7 @@ description: "The Underground chapter of DMZ Orders: Eye in the Sky, Watch for B
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-codcentral-dmz-orders-2026-10-21, src-game8-dmz-orders-2026-10-31, src-dmzmap-dmz-orders-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-gamerfuzion-dmz-orders-guides-2026-10-21, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-dtgre-dmz-ops-guides-2026-10-21, src-dmzhub-orders-2026-10-31, src-codmunity-dmz-missions-2026-10-31]
+sources: [src-codcentral-dmz-orders-2026-10-21, src-game8-dmz-orders-2026-10-31, src-dmzmap-dmz-orders-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-gamerfuzion-dmz-orders-guides-2026-10-21, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-dtgre-dmz-ops-guides-2026-10-21, src-dmzhub-orders-2026-10-31, src-codmunity-dmz-missions-2026-10-31, src-gamerfuzion-underground-orders-2026-10-23, src-allthingshow-dmz-watch-for-bumps-2026-10-21]
 aliases: ["Underground", "Underground 1/2", "Underground 2/2", "CH. Underground", "Eye in the Sky", "Watch for Bumps", "Joyride", "Triangulation", "La Grande Vie", "Dead Battery", "Death From Above", "Drone Motherboard"]
 stale_after: 2026-11-13
 mission_kind: order
@@ -34,8 +34,9 @@ Tasks: [[src-codcentral-dmz-orders-2026-10-21]] [[src-game8-dmz-orders-2026-10-3
 ## Tips
 
 - Any hostile aircraft will not do for Eye in the Sky: it has to be a cargo helicopter, and its crate can land far from the wreck, under its own care package marker [[src-dtgre-dmz-ops-guides-2026-10-21]] [[src-allthingshow-dmz-orders-2026-10-31]]. SAM sites sit at Deadtown, Imjin Farmland and north of NuriGO Mall, among others [[src-allthingshow-dmz-orders-2026-10-31]].
-- For Watch for Bumps, clear the crew of an enemy Grizzly or truck and get in; park under a Gas Station canopy until the repair bar fills [[src-allthingshow-dmz-orders-2026-10-31]] (reported). Extraction is not needed for the page to count [[src-gamerfuzion-dmz-orders-guides-2026-10-21]] (reported).
-- The Triangulation towers are the tall lattice towers also used to hunt Lieutenants; South Island has two close together, and La Grande Vie's roof terminal is up its stairwell [[src-codcentral-dmz-orders-2026-10-21]] [[src-gamerfuzion-dmz-orders-guides-2026-10-21]] (reported).
+- **Do the whole first page on South Island.** One solo run finished it there: the SAM site in a tent camp below [[hajin-river-heights]], with a watchtower and the launcher truck on the road, served Eye in the Sky; two grey lattice towers with yellow ladders, also on South Island, took the first two Triangulation transmitters; and La Grande Vie, the tall building in [[songdo-wharf]] just north of the island, took the third on its roof (reported) [[src-gamerfuzion-underground-orders-2026-10-23]].
+- For Watch for Bumps, clear the crew of an enemy Grizzly or truck and get in: taking the driver's seat completes the steal step [[src-allthingshow-dmz-watch-for-bumps-2026-10-21]] [[src-allthingshow-dmz-orders-2026-10-31]]. Enemy patrols drive Grizzlies; one guide took a Grizzly patrolling [[deadtown]] and a military truck at the checkpoint by the elevated railway on South Island. Gas Stations show a fuel pump icon on the Tac-Map; park under the canopy beside the pumps until the refuel and repair bar fills [[src-allthingshow-dmz-watch-for-bumps-2026-10-21]]. Extraction is not needed for the page to count [[src-gamerfuzion-dmz-orders-guides-2026-10-21]] (reported).
+- The Triangulation towers are the tall lattice towers also used to hunt Lieutenants; South Island has two close together, and La Grande Vie's roof terminal is up its stairwell [[src-codcentral-dmz-orders-2026-10-21]] [[src-gamerfuzion-dmz-orders-guides-2026-10-21]] [[src-gamerfuzion-underground-orders-2026-10-23]]. In one run a Lieutenant hunt Side Op appeared after the second tower (reported) [[src-gamerfuzion-underground-orders-2026-10-23]].
 - Shooting down Deathstalkers yields drone wreck loot, Drone Motherboards included [[src-allthingshow-dmz-dynamic-ops-2026-10-31]] (reported).
 
 ## What are the rewards?

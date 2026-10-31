@@ -5,7 +5,7 @@ description: "A Lieutenant (once filed as a Commander): a Spetsnaz trainer firin
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_8232f069a06a, clm_f2a831ba9115, clm_20d29934633a, clm_e2417a18ffed, clm_bb52ef4108f8, clm_fee8ddd106b1, src-activision-dmz-guide-part1-2026-10-05, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-boss-board-explained-2026-10-12, src-allthingshow-bale-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-codmunity-dmz-bosses-2026-10-21, src-dmzhub-bosses-2026-10-31]
+sources: [clm_8232f069a06a, clm_f2a831ba9115, clm_20d29934633a, clm_e2417a18ffed, clm_bb52ef4108f8, clm_fee8ddd106b1, src-activision-dmz-guide-part1-2026-10-05, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-boss-board-explained-2026-10-12, src-allthingshow-bale-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-codmunity-dmz-bosses-2026-10-21, src-dmzhub-bosses-2026-10-31, src-codcentral-dmz-orders-2026-10-21, src-codmunity-hajin-map-2026-10-31, clm_a31a217f5b49]
 aliases: ["Lieutenant Bale", "Dmitry Bale", "Bale's Dog Tag", "Dreadnought LMG", "Spetsnaz trainer", "Tank Depot boss", "Re-Education Center boss"]
 ---
 <!-- generated:start -->
@@ -29,8 +29,9 @@ A Lieutenant. The official Dynamic Ops trailer (6 Oct 2026) showed him under a L
 ## Where is Bale?
 
 - **Re-Education Center, Deadtown** (compass Medium): the upper floor, up the interior stairs, behind guards and sentry guns [[src-allthingshow-bale-2026-10-21]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gfinity-dmz-lieutenants-2026-10-22]]. Players report this is his more common spot (reported) [[src-conquestcapped-dmz-bosses-2026-10-28]].
-- **Chang-san Air Base bunker** (Extreme), the harder spot [[src-allthingshow-bale-2026-10-21]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. Guides name the Tank Depot inside it, where the Chemical Denial Dynamic Op sends you after him [[src-codmunity-dmz-bosses-2026-10-21]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-gamerfuzion-boss-board-explained-2026-10-12]].
-- His intel showed a padlock at launch, so unlock it before you can buy it [[src-allthingshow-boss-board-2026-10-21]].
+- **Chang-san Air Base bunker** (Extreme), the harder spot [[src-allthingshow-bale-2026-10-21]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. Guides name the Tank Depot inside it, where the Chemical Denial Dynamic Op sends you after him [[src-codmunity-dmz-bosses-2026-10-21]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-gamerfuzion-boss-board-explained-2026-10-12]]; a community map pins him there, a hangar inside the bunker, and DMZHub also lists him at the air base [[src-codmunity-hajin-map-2026-10-31]] [[src-dmzhub-bosses-2026-10-31]].
+- Sources split on which place is usual: the Re-Education Center in two launch guides, the air base on a community map and DMZHub [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-codmunity-hajin-map-2026-10-31]] [[src-dmzhub-bosses-2026-10-31]]. Check both if your intel marker is not up.
+- His intel showed a padlock at launch, so unlock it before you can buy it [[src-allthingshow-boss-board-2026-10-21]]: it opens once you finish three chapters of the [[dmz-orders]], Underground, Counterfeit and Human Intel (reported) [[src-codcentral-dmz-orders-2026-10-21]].
 
 ## How do you beat Bale?
 

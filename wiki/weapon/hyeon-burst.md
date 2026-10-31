@@ -5,7 +5,7 @@ description: "North Korean three-round-burst assault rifle; Jang-Ui carries one.
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31, src-allthingshow-dmz-bosses-2026-10-21, clm_a2c25299e29f, clm_e153c3eb028f]
 aliases: ["Hyeon", "Hyeon Burst AR", "Hyeon Burst BP", "Hyeon Burst blueprint", "Hyeon Hyperburst", "Hyperburst", "Hyeon Auto", "Blue Viper"]
 class: "Assault rifle"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -19,7 +19,7 @@ The Hyeon Burst is a North Korean prototype rifle that fires three-round bursts;
 
 ## How do you get it in DMZ?
 
-Extract with its Weapon Manual, then buy it in the [[gunsmith]] ([[weapon-manuals]]) [[src-activision-dmz-guide-part2-2026-10-09]]: 5,250 DMZ Cash in the menu after launch (reported) [[src-dmzcodex-gunsmith-2026-10-29]], 4,750 in pre-launch footage [[src-gamerfuzion-dmz-prices-2026-10-08]]. The Lieutenant Jang-Ui carries one [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. One player reported getting a Hyeon Burst blueprint after killing a squad that was hunting them; not confirmed [clm_a2c25299e29f]. Players also report a War Spoils camo for it ([[war-spoils-camo]]) [clm_e153c3eb028f].
+Extract with its Weapon Manual, then buy it in the [[gunsmith]] ([[weapon-manuals]]) [[src-activision-dmz-guide-part2-2026-10-09]]: 5,250 DMZ Cash in the menu after launch (reported) [[src-dmzcodex-gunsmith-2026-10-29]], 4,750 in pre-launch footage [[src-gamerfuzion-dmz-prices-2026-10-08]]. The Lieutenant [[jang-ui]] carries one [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]]; his named version, Paektu, is an Ultra Hyeon Burst with five attachments valued at $11,200 and a rare drop [[src-allthingshow-dmz-bosses-2026-10-21]]. One player reported getting a Hyeon Burst blueprint after killing a squad that was hunting them; not confirmed [clm_a2c25299e29f]. Players also report a War Spoils camo for it ([[war-spoils-camo]]) [clm_e153c3eb028f].
 
 ## What is its Apex Attachment?
 

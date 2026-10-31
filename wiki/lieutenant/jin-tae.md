@@ -5,7 +5,7 @@ description: "Lieutenant on the upper floors of the Heavenly Luck Casino in Cheo
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31]
+sources: [src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-dmzhub-keys-2026-10-31, clm_c101e44b551c, clm_8e41bf518b21]
 aliases: ["Jin Tae", "Jintae", "JIN-TAE", "Jin-tae's Dog Tag", "casino boss", "High Roller's Fortune", "Highroller's Fortune", "Jin-Tae's Private Lounge"]
 weapon: ISO Nightshade SMG
 location: Heavenly Luck Casino, Cheongun Village
@@ -33,7 +33,7 @@ The fight opens with heavy automatic fire across the casino floor: fall back int
 | High Roller's Fortune | Legendary ISO Nightshade SMG with a gold camo; a rare drop | [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-dmzhub-bosses-2026-10-31]] |
 | ISO Nightshade | the plain SMG | [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-gfinity-dmz-lieutenants-2026-10-22]] |
 | Jin-Tae's Dog Tag | Legendary Lieutenant tag | [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-dmzhub-bosses-2026-10-31]] |
-| Jin-Tae's Private Lounge key | Legendary; opens his penthouse lounge at the top of the casino, grid F4, on the same floor as the security room | [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-dmzhub-bosses-2026-10-31]] |
+| Jin-Tae's Private Lounge key | Legendary; he drops the key to his own penthouse lounge at the top of the casino, grid F4, on the same floor as the security room | [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-dmzhub-bosses-2026-10-31]] [[src-dmzhub-keys-2026-10-31]] |
 
 Lieutenant rooms like the Private Lounge hold lockers, a Lieutenant crate and Weapon Manuals; one run there turned up an RPG-8 manual (reported) [[src-conquestcapped-dmz-bosses-2026-10-28]]. Players on X also named him among the Lieutenant bosses in launch week [clm_8e41bf518b21] [clm_c101e44b551c]. All Lieutenants: [[lieutenants]].
 <!-- human:end -->

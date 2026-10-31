@@ -1,12 +1,13 @@
 ---
 type: fob_upgrade
 title: "Wallet"
-description: "The Bank holds the DMZ Cash shared by all your Operators. Players report a 100,000 cap at first; ten printed Bank upgrades raise it to 250 million. Cash over the cap is lost."
+description: "The Bank holds the DMZ Cash shared by all your Operators: about 100,000 at first, then 250,000 to 250 million across ten printed Bank upgrades (the top six unconfirmed). Excess cash is lost."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_06c3db0d22f9, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-mw4-launch-patch-notes-2026-10-29]
-aliases: ["Bank", "DMZ Bank", "bank cap", "bank capacity", "how much bank space", "Bank Upgrade", "bank limit"]
+sources: [clm_06c3db0d22f9, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-mw4-launch-patch-notes-2026-10-29, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-activision-ready-for-launch-progression-2026-10-19, clm_1dda32204130, clm_f17f3ff635f7]
+aliases: ["Bank", "DMZ Bank", "bank cap", "bank capacity", "how much bank space", "Bank Upgrade", "bank limit", "starting bank cap", "max bank"]
+stale_after: 2026-11-13
 station: bank
 unlock: start
 ---
@@ -32,17 +33,24 @@ The Bank is where your DMZ Cash lives between deployments; it is shared by all y
 
 ## How much can the Bank hold?
 
-Players reported a 100,000 cap before any upgrade [clm_06c3db0d22f9]. Bank upgrades printed at the [[3d-printer]] raise the cap [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-guide-2026-10-24]]. dmzhub.gg lists ten levels (reported) [[src-dmzhub-upgrades-2026-10-31]]:
+About 100,000 before any upgrade: a crafting guide gives that starting cap and players report the same [[src-xboxplay-dmz-crafting-guides-2026-10-23]] [clm_06c3db0d22f9]. Bank upgrades printed at the [[3d-printer]] raise the cap [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-guide-2026-10-24]]. A community database lists ten levels, up to 250 million [[src-dmzhub-upgrades-2026-10-31]]:
 
-| Bank Upgrade | Cap | Costs |
-| --- | --- | --- |
-| I | 250,000 | 20,000 |
-| II | 500,000 | 50,000 |
-| III | 1,000,000 | 100,000 and valuables |
-| IV | 2,000,000 | 200,000 and valuables |
-| V to X | 5, 10, 25, 50, 100 and 250 million | 500,000 each and valuables |
+| Bank Upgrade | Cap | Costs | Also confirmed by |
+| --- | --- | --- | --- |
+| none (start) | 100,000 | none | a guide and players [[src-xboxplay-dmz-crafting-guides-2026-10-23]] [clm_06c3db0d22f9] |
+| I | 250,000 | 20,000 | two guides [[src-allthingshow-dmz-crafting-guides-2026-10-21]] [[src-xboxplay-dmz-crafting-guides-2026-10-23]] |
+| II | 500,000 | 50,000 | two guides [[src-allthingshow-dmz-crafting-guides-2026-10-21]] [[src-xboxplay-dmz-crafting-guides-2026-10-23]] |
+| III | 1,000,000 | 100,000 and valuables | a guide, and a creator's footage [[src-gamerfuzion-3d-printer-upgrades-2026-10-23]] [[src-codmunity-dmz-guide-2026-10-24]] |
+| IV | 2,000,000 | 200,000 and valuables | the same footage, as the next step [[src-codmunity-dmz-guide-2026-10-24]] |
+| V to X | 5, 10, 25, 50, 100 and 250 million | 500,000 each and valuables | no second source yet |
 
-A creator's footage after launch showed the 1,000,000 cap with a 2,000,000 next step, matching levels III and IV [[src-codmunity-dmz-guide-2026-10-24]]. The valuables for each level: [[fob-upgrades]].
+The valuables for each level: [[fob-upgrades]].
+
+## What is not settled about the Bank?
+
+- **The starting cap.** No official source gives a number; 100,000 rests on one guide and player reports [[src-xboxplay-dmz-crafting-guides-2026-10-23]] [clm_06c3db0d22f9].
+- **Levels V to X.** Only the community database lists them, so the top caps and costs could change or be wrong [[src-dmzhub-upgrades-2026-10-31]].
+- **DMZ level rewards.** The official 9 Oct guide lists Bank capacity among the kinds of DMZ level reward, but the official launch table of 19 Oct names no Bank step at any level; its level 40 reward is an unnamed station upgrade [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]].
 
 ## What happens to cash over the cap?
 

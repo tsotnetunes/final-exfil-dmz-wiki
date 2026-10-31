@@ -5,7 +5,7 @@ description: "How a DMZ deployment starts: pick a mission type at Deploy, ready 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-codmunity-dmz-guide-2026-10-24, src-codmunity-hajin-map-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-dmzhub-vehicles-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-codmunity-dmz-guide-2026-10-24, src-codmunity-hajin-map-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-dmzhub-vehicles-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-altchar-dmz-story-missions-2026-10-22, src-dtgre-dmz-infil-costs-2026-10-22, clm_b9d5f0d9bab7, clm_94e4a795c9a7]
 aliases: ["infiltration", "deploying", "how to deploy", "drop in", "spawn", "spawning", "spawn point", "Ready Up", "Free Loadout", "infil options"]
 ---
 <!-- generated:start -->
@@ -24,12 +24,12 @@ Infil is how you get into Hajin. At the FOB's [[deploy]] station you choose what
 | Infil | DMZ Cash | Notes |
 | --- | --- | --- |
 | On foot | free | lands you at a random spot |
-| Polaris Dagor A1 drop | 5,000 | a squad off-roader ([[vehicles]]); listed as a reward of the Story Mission Operation Silent Ledger (reported) [[src-dmzhub-vehicles-2026-10-31]] |
-| LTV drop | 25,000 | unlocked by the Story Mission Operation Iron Citadel [[src-conquestcapped-dmz-guide-2026-10-26]] [[src-dmzhub-vehicles-2026-10-31]] |
-| Helicopter from the FOB | 50,000 | one of your squad flies it; unlocked by the Story Mission Operation Grid Assault [[src-codmunity-hajin-map-2026-10-31]] [[src-conquestcapped-dmz-guide-2026-10-26]] [[src-dmzhub-vehicles-2026-10-31]] |
-| Cargo plane jump | 100,000 | you choose where to drop; listed as a reward of the Story Mission Operation Fallen Ember (reported) [[src-dmzhub-vehicles-2026-10-31]] |
+| Polaris Dagor A1 drop | 5,000 | a squad off-roader ([[vehicles]]); on the reward card of Operation Silent Ledger, a first-tier Story Mission [[src-altchar-dmz-story-missions-2026-10-22]] [[src-dmzhub-vehicles-2026-10-31]]; whether the drop is open even before that is not settled [[src-dtgre-dmz-infil-costs-2026-10-22]] |
+| LTV drop | 25,000 | unlocked by the Story Mission Operation Iron Citadel [[src-altchar-dmz-story-missions-2026-10-22]] [[src-conquestcapped-dmz-guide-2026-10-26]] [[src-dmzhub-vehicles-2026-10-31]] |
+| Helicopter from the FOB | 50,000 | one of your squad flies it; unlocked by the Story Mission Operation Grid Assault [[src-altchar-dmz-story-missions-2026-10-22]] [[src-codmunity-hajin-map-2026-10-31]] [[src-conquestcapped-dmz-guide-2026-10-26]] [[src-dmzhub-vehicles-2026-10-31]] |
+| Cargo plane jump | 100,000 | you choose where to drop; unlocked by the Story Mission Operation Fallen Ember [[src-altchar-dmz-story-missions-2026-10-22]] [[src-dmzhub-vehicles-2026-10-31]] |
 
-Some of these need progression first [[src-activision-dmz-guide-part2-2026-10-09]]; the Story Mission unlocks above come from community sources, not an official list. Prices and changes are tracked on [[paid-infil]].
+Some of these need progression first [[src-activision-dmz-guide-part2-2026-10-09]]; the Story Mission unlocks above come from press and community sources, not an official list. Prices, unlocks and changes are tracked on [[paid-infil]].
 
 ## What does the Free Loadout give you?
 

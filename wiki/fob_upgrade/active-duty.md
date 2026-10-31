@@ -5,7 +5,7 @@ description: "The Operators station: two Active Duty slots, a third at DMZ level
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_eee0a1ff7205, clm_fe6a53c7c828, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-activision-mw4-launch-weapons-2026-10-19, src-cod-dmz-progression-video-2026-10-07, src-activision-dmz-deep-dive-2026-06, src-activision-campaign-early-access-live-2026-10-16, src-westie-dmz-ama-recap-2026-10-11, src-xbox-wire-dmz-operator-guide-2026-10-20, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_eee0a1ff7205, clm_fe6a53c7c828, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-activision-mw4-launch-weapons-2026-10-19, src-cod-dmz-progression-video-2026-10-07, src-activision-dmz-deep-dive-2026-06, src-activision-campaign-early-access-live-2026-10-16, src-westie-dmz-ama-recap-2026-10-11, src-xbox-wire-dmz-operator-guide-2026-10-20, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-progression-2026-10-19, clm_37cdae5b1cba, clm_ccfae152bab3]
 aliases: ["Operators", "Operators station", "Campaign Operators", "Operator unlocks", "which Operators unlock", "Active Duty Operator", "Operator slots", "how many operators", "fourth Operator slot", "dismiss an Operator", "recruit an Operator"]
 station: active-duty
 unlock: start
@@ -25,7 +25,7 @@ The Operators station, open from the start: here you manage your Active Duty Ope
 
 ## How many Operators can you have?
 
-Two Active Duty slots at the start and a third from DMZ level 15 [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-activision-dmz-guide-part2-2026-10-09]]. Vault Edition owners start with three [[src-activision-dmz-guide-part2-2026-10-09]] [clm_37cdae5b1cba]. A player reported having a fourth Operator [clm_fe6a53c7c828]; whether the level 15 slot adds to the Vault Edition's three is not confirmed.
+Two Active Duty slots at the start and a third from DMZ level 15, where the official table lists one more Operator slot as a station upgrade [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-activision-dmz-guide-part2-2026-10-09]]; a community progression list gives the same level [[src-codmunity-dmz-progression-2026-10-19]]. Vault Edition owners start with three [[src-activision-dmz-guide-part2-2026-10-09]] [clm_37cdae5b1cba]. A player reported having a fourth Operator [clm_fe6a53c7c828]; whether the level 15 slot adds to the Vault Edition's three is not confirmed.
 
 ## How do Active Duty Operators work?
 

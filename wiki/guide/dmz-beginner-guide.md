@@ -5,7 +5,7 @@ description: "Your first hours in MW4 DMZ, step by step: follow the first Orders
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-orders-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-dmz-money-2026-10-26, src-conquestcapped-dmz-solo-2026-10-26]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-orders-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-dmz-money-2026-10-26, src-conquestcapped-dmz-solo-2026-10-26, src-activision-ready-for-launch-progression-2026-10-19]
 aliases: ["DMZ beginner guide", "DMZ tips", "how to play DMZ", "DMZ for beginners", "DMZ guide", "new to DMZ", "DMZ how to", "DMZ first steps"]
 stale_after: 2026-11-13
 ---
@@ -17,7 +17,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 DMZ rewards patience: take objectives, loot what you can carry, and leave alive. This guide walks you from your first visit to the FOB to a steady routine. Words you do not know are on [[dmz-terms]].
 
 ## 1. Start at the FOB
-The FOB is your home between deployments. From the start you have the Operators, DMZ Orders, Stash and Loadout, Firing Range, Survival Kits, Bounty Leaderboard, DMZ Progression, Events and Deploy stations; the 3D Printer opens at DMZ level 2, the Vendor at 5 and the Gunsmith at 10 [[src-activision-dmz-guide-part2-2026-10-09]]. See [[when-do-fob-stations-unlock]].
+The FOB is your home between deployments. From the start you have the Operators, DMZ Orders, Stash and Loadout, Firing Range, Survival Kits, Bounty Leaderboard, DMZ Progression, Events and Deploy stations; the 3D Printer opens at DMZ level 1 by the official launch table (the 9 Oct guide said level 2), the Vendor at 5 and the Gunsmith at 10 [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-activision-dmz-guide-part2-2026-10-09]]. See [[when-do-fob-stations-unlock]].
 
 ## 2. Follow the first DMZ Orders
 The first Orders page is a tutorial: equip a weapon, a backpack, an armour vest and a Medkit from the Stash, knock down targets at the Firing Range, then deploy into a Dynamic Op (reported) [[src-dmzhub-orders-2026-10-31]]. Orders pay resources, loot and cash, and they also carry the story [[src-activision-dmz-guide-part2-2026-10-09]]; each chapter ends with a Story Mission [[src-dmzhub-orders-2026-10-31]]. The game also has an onboarding mission, Breaking New Ground [[src-mw4-launch-patch-notes-2026-10-29]].

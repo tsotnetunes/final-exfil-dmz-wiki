@@ -48,7 +48,7 @@ Types: [[src-dmztracker-dynamic-side-ops-2026-10-20]] [[src-dmzcodex-com-operati
 
 ## What do Side Ops pay?
 
-2,000 DMZ Cash each since 30 Oct 2026; 500 before, after a small raise on 29 Oct that the notes did not quantify [[src-mw4-launch-patch-notes-2026-10-29]] [clm_2632001aa873]. XP per Side Op was small in early access: about 150 to 225 [[src-dmztracker-dynamic-side-ops-2026-10-20]] [[src-allthingshow-dmz-story-missions-2026-10-31]] (reported). Two Scout and Survivalist Traits extend towers: Overwatch keeps UAV Towers you activate running for good, and Air Superiority keeps UAV Towers and SAM Sites captured longer [[src-activision-dmz-guide-part2-2026-10-09]] [clm_c3633bb72757].
+2,000 DMZ Cash each since 30 Oct 2026, up from 500 at launch: the patch notes of 29 Oct announced a raise for Side Ops and Dynamic Ops, and the entry of 30 Oct gives the figures [[src-mw4-launch-patch-notes-2026-10-29]] [clm_2632001aa873]. The same entry raised Dynamic Ops to 10,000 to 20,000 and each finished mission step to 500 ([[dynamic-operations]], [[dmz-cash]]) [[src-mw4-launch-patch-notes-2026-10-29]]. XP per Side Op was small in early access: about 150 to 225 [[src-dmztracker-dynamic-side-ops-2026-10-20]] [[src-allthingshow-dmz-story-missions-2026-10-31]] (reported). Two Scout and Survivalist Traits extend towers: Overwatch keeps UAV Towers you activate running for good, and Air Superiority keeps UAV Towers and SAM Sites captured longer [[src-activision-dmz-guide-part2-2026-10-09]] [clm_c3633bb72757].
 
 ## Which Orders need Side Ops?
 

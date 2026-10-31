@@ -5,7 +5,7 @@ description: "Pump-action 12-gauge shotgun with a big tube and slow reloads; Isk
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31, src-allthingshow-dmz-bosses-2026-10-21]
 aliases: ["Warlord shotgun", "Warlord Lumen", "Lumen", "Widow Maker"]
 class: "Shotgun"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -23,7 +23,7 @@ Opinions are split: a community list puts it in its top tier, a press list in it
 
 ## How do you get it in DMZ?
 
-Extract with its Weapon Manual, then buy it in the [[gunsmith]] ([[weapon-manuals]]) [[src-activision-dmz-guide-part2-2026-10-09]]: 3,500 DMZ Cash in the menu after launch, the lowest price on that guide's list (reported) [[src-dmzcodex-gunsmith-2026-10-29]]. The Lieutenant Iskra carries one [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]]; Iskra's named version, the Legendary **Widow Maker** blueprint, is a rare drop (reported) [[src-conquestcapped-dmz-bosses-2026-10-28]].
+Extract with its Weapon Manual, then buy it in the [[gunsmith]] ([[weapon-manuals]]) [[src-activision-dmz-guide-part2-2026-10-09]]: 3,500 DMZ Cash in the menu after launch, the lowest price on that guide's list (reported) [[src-dmzcodex-gunsmith-2026-10-29]]. The Lieutenant [[iskra]] carries one [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]]; her named version, the Legendary **Widow Maker** (also written Widowmaker, valued at $3,700), is a rare drop [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-allthingshow-dmz-bosses-2026-10-21]].
 
 ## What is its Apex Attachment?
 

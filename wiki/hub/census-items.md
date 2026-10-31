@@ -213,7 +213,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Keys (rules) | [[keys]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-conquestcapped-dmz-keys-2026-10-28]] | published |
 | Health, wounds and healing | [[health-and-healing]] | [[src-westie-dmz-ama-recap-2026-10-11]] [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | Loot placement | [[loot-placement]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-keengamer-best-loot-2026-10-22]] | published |
-| Tank looting | [[tank-looting]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]] | draft (loot not confirmed) |
+| Tank looting | [[main-nk-battle-tank]] ([[tank-looting]] retired 31 Oct 2026 as a duplicate) | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] | published |
 | Crafting ingredients (26) and Resources (4) | crafting area (material pages, e.g. [[reactive-metals]]) | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | other area |
 | Weapon Manuals (32) | [[weapon-manuals]] (weapons area) | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | other area |
 | Dog Tag Case (item dropped by Lieutenants) | [[dog-tags]], [[dog-tag-case]] (progression area) | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]] | other area |

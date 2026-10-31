@@ -5,7 +5,7 @@ description: "All 33 Modern Warfare 4 launch weapons as they work in DMZ: class,
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-gamerfuzion-dmz-prices-2026-10-08, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-codmunity-dmz-guide-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-codmunity-dmz-tier-list-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-wzstats-dmz-meta-2026-10-31, src-conquestcapped-mw4-weapons-2026-10-26, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-dmzhub-weapons-2026-10-31]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-gamerfuzion-dmz-prices-2026-10-08, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-codmunity-dmz-guide-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-codmunity-dmz-tier-list-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-wzstats-dmz-meta-2026-10-31, src-conquestcapped-mw4-weapons-2026-10-26, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-dmzhub-weapons-2026-10-31, src-allthingshow-dmz-bosses-2026-10-21, src-gamingpromax-dmz-boss-locations-2026-10-23, clm_3359237cd043, clm_9ee7db0a613a]
 aliases: ["guns", "weapon list", "all weapons", "DMZ weapons", "launch weapons", "best DMZ weapons", "DMZ meta", "how to unlock weapons in DMZ", "Kraken"]
 ---
 <!-- generated:start -->
@@ -69,7 +69,22 @@ You can carry two primaries, two secondaries or one of each; some Weapon Backpac
 
 ## Which weapons do Lieutenants carry?
 
-Two guides agree on these [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]]: Bale a Type 73, Iskra a Warlord, the Scavenger an Oris 8.6, Roze an Astaroth .57, Jang-Ui a Hyeon Burst, the Warden an X-58 Nyx, the Doctor a Patriot XMR and Jin-Tae an ISO Nightshade. Drops are random; the named Legendary versions are rare [[src-conquestcapped-dmz-bosses-2026-10-28]], and a DMZ Order suggests Lieutenants also keep a gun in their loot rooms (reported) [[src-dmzhub-weapons-2026-10-31]]. Players also report a weapon called the Kraken dropping from Roze [clm_3359237cd043]. See [[lieutenants]]. Weapons you find come in rarities from Common to Ultra ([[weapon-customization]]) [[src-codmunity-dmz-guide-2026-10-24]].
+Each Lieutenant carries one gun and can drop it, usually as the plain gun and rarely as a named version [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-allthingshow-dmz-bosses-2026-10-21]]:
+
+| Lieutenant | Gun | Named version (rarity) |
+| --- | --- | --- |
+| [[bale]] | [[type-73]] | Dreadnought (Legendary) |
+| [[gorani]] | MAR-9 | Incisor (Legendary) |
+| [[iskra]] | [[warlord]] | Widowmaker, also written Widow Maker (Legendary) |
+| [[jang-ui]] | [[hyeon-burst]] | Paektu (Ultra) |
+| [[jin-tae]] | [[iso-nightshade]] | High Roller's Fortune (Legendary) |
+| [[roze]] | Astaroth .57 | The Kraken (rarity not given) |
+| [[the-doctor]] | [[patriot-xmr]] | Doctor's Salve (Legendary) |
+| [[the-warden]] | [[x-58-nyx]] | Incarcerator (Ultra) |
+| [[the-scavenger]] | Oris 8.6 | none reported |
+| The Chemist ([[the-chemist-abu-nassar]]) | not settled: Oris 8.6 or [[kastov-762]] | Revenant (Legendary marksman rifle) |
+
+The guns are the same in two or more guides [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]], except the Chemist's: two guides give an Oris 8.6 and one a Kastov 762 [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. The named versions come from a guide that read them from its drops [[src-allthingshow-dmz-bosses-2026-10-21]], High Roller's Fortune from two others [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]], and players also report the Kraken dropping from Roze [clm_3359237cd043]. A DMZ Order suggests Lieutenants also keep a gun in their loot rooms (reported) [[src-dmzhub-weapons-2026-10-31]]. Where each one fights: [[lieutenants]]. Weapons you find come in rarities from Common to Ultra ([[weapon-customization]]) [[src-codmunity-dmz-guide-2026-10-24]].
 
 ## What are the best weapons in DMZ?
 

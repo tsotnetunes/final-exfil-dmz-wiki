@@ -5,7 +5,7 @@ description: "Hajin's six fortified enemy compounds, Alpha to Foxtrot: where eac
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-gamingpromax-compounds-2026-10-26, src-codmunity-hajin-map-2026-10-31, src-gamerfuzion-solo-compound-run-2026-10-26, src-gamerfuzion-compound-echo-farm-2026-10-23, src-gamerfuzion-irradiated-container-2026-10-27, src-allthingshow-hajin-gameplay-2026-10-21, src-destructoid-best-loot-2026-10-25, src-conquestcapped-dmz-guide-2026-10-26, src-dmzhub-keys-2026-10-31]
+sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-gamingpromax-compounds-2026-10-26, src-codmunity-hajin-map-2026-10-31, src-gamerfuzion-solo-compound-run-2026-10-26, src-gamerfuzion-compound-echo-farm-2026-10-23, src-gamerfuzion-irradiated-container-2026-10-27, src-allthingshow-hajin-gameplay-2026-10-21, src-destructoid-best-loot-2026-10-25, src-conquestcapped-dmz-guide-2026-10-26, src-dmzhub-keys-2026-10-31, src-keengamer-best-loot-2026-10-22, src-dmzhub-locations-2026-10-31]
 aliases: ["compound", "military compound", "Clear the Military Compound", "Compound Alpha", "Compound Bravo", "Compound Charlie", "Compound Delta", "Compound Echo", "Compound Foxtrot", "stronghold"]
 stale_after: 2026-11-13
 region: Hajin
@@ -31,6 +31,10 @@ Compounds are small fortified enemy positions with better loot, intel and armour
 | Foxtrot (about B4) | South of the [[prison-complex]], toward [[chang-san-air-base]] | Said to hit harder than the southern compounds (reported) [[src-gamingpromax-compounds-2026-10-26]] |
 
 Areas come from two guides that agree [[src-gamingpromax-compounds-2026-10-26]] [[src-codmunity-hajin-map-2026-10-31]]; the grid squares are approximate, given alike by one guide and a community map [[src-gamingpromax-compounds-2026-10-26]] [[src-dmzhub-maps-2026-10-31]].
+
+## Do you need a key?
+
+Some compounds need keys, but one loot guide names two open compounds at Daesong Ridge that need none and have fewer guards (reported) [[src-keengamer-best-loot-2026-10-22]]. Daesong Ridge is a minor place in the official field guide, a settlement northeast of [[imjin-farmland]] ([[minor-pois]]) [[src-activision-dmz-guide-part1-2026-10-05]] [[src-dmzhub-locations-2026-10-31]]. Whether those two are among the six lettered compounds is not confirmed yet; Alpha lies toward Daesong Ridge.
 
 ## How do you clear a compound and open its safe?
 

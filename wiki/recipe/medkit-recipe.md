@@ -9,7 +9,7 @@ sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-la
 aliases: ["Medkit", "Med Kit", "medkit craft", "how to make a medkit", "Healer Order", "print a Medkit"]
 stale_after: 2026-11-13
 materials: "30 Chemicals, 1 Binding Catalyst, 5 Biomaterials"
-printer_level: "Start (DMZ level 2)"
+printer_level: "Start (DMZ level 1 reward)"
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

@@ -5,9 +5,9 @@ description: "Lieutenant at Mirae General Hospital: a heavy in a bloodied white 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-allthingshow-the-doctor-2026-10-21, src-xboxplay-the-doctor-2026-10-23, src-dexerto-doctors-command-office-key-2026-10-22, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-bosses-2026-10-31]
+sources: [src-allthingshow-the-doctor-2026-10-21, src-xboxplay-the-doctor-2026-10-23, src-dexerto-doctors-command-office-key-2026-10-22, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-bosses-2026-10-31, src-xboxplay-dmz-keys-2026-10-22, src-activision-mw4-launch-weapons-2026-10-19]
 aliases: ["Doctor", "The Doctor's Dog Tag", "Doctor's Salve", "hospital boss", "Command Office key", "The Doctor's Command Office"]
-weapon: Patriot XMR battle rifle
+weapon: Patriot XMR assault rifle
 location: Mirae General Hospital (wards, garage, grounds)
 drops: Doctor's Salve or Patriot XMR, The Doctor's Dog Tag, Command Office key
 ---
@@ -33,10 +33,10 @@ His spot changes from match to match: the hospital wards, the underground parkin
 
 | Drop | Notes | Sources |
 | --- | --- | --- |
-| Doctor's Salve | Legendary battle rifle built on the Patriot XMR, valued at $6,900; a rare drop | [[src-allthingshow-the-doctor-2026-10-21]] [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-dmzhub-bosses-2026-10-31]] |
+| Doctor's Salve | Legendary version of the [[patriot-xmr]], officially an assault rifle (one guide calls it a battle rifle), valued at $6,900; a rare drop | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-allthingshow-the-doctor-2026-10-21]] [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-dmzhub-bosses-2026-10-31]] |
 | Patriot XMR | the plain Rare rifle | [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]] |
 | The Doctor's Dog Tag | Legendary; pays $25,000 when you extract with it | [[src-allthingshow-the-doctor-2026-10-21]] [[src-dmzhub-bosses-2026-10-31]] |
-| The Doctor's Command Office key | Legendary; grid F5 | [[src-dexerto-doctors-command-office-key-2026-10-22]] [[src-allthingshow-the-doctor-2026-10-21]] |
+| The Doctor's Command Office key | Legendary; grid F5; he drops the key to his own room | [[src-dexerto-doctors-command-office-key-2026-10-22]] [[src-allthingshow-the-doctor-2026-10-21]] [[src-xboxplay-dmz-keys-2026-10-22]] |
 
 ## What is in the Command Office?
 

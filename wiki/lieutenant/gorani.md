@@ -5,7 +5,7 @@ description: "Lieutenant in the woods at Mujin Pass above Hanrim Village: a ghil
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-codmunity-dmz-bosses-2026-10-21, src-dmzhub-bosses-2026-10-31]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-codmunity-dmz-bosses-2026-10-21, src-dmzhub-bosses-2026-10-31, src-codcentral-dmz-orders-2026-10-21]
 aliases: ["the Forest Phantom", "deer skull sniper", "ghillie boss", "Gorani's Dog Tag", "Incisor", "Mujin Pass boss", "Gorani's Scout Overlook"]
 weapon: MAR-9 marksman rifle
 location: Mujin Pass above Hanrim Village; South Korean Wilderness forest
@@ -22,7 +22,7 @@ Gorani is the Lieutenant who hunts from the woods: a marksman in ghillie camoufl
 
 - **Mujin Pass**, a minor POI, with his camp above Hanrim Village [[src-activision-dmz-guide-part1-2026-10-05]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]]. One guide read the compass as Low there, another rates the fight Medium [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]].
 - **The South Korean Wilderness forest**, around a house between [[cheonwang-peak-array]] and [[mirae-general-hospital]] [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-conquestcapped-dmz-bosses-2026-10-28]].
-- To be sure he is up, buy his intel at the [[boss-board]] (the side op reads Paid Intel: Kill Gorani) or use a Lieutenant Hunt tower [[src-allthingshow-boss-board-2026-10-21]].
+- To be sure he is up, buy his intel at the [[boss-board]] (the side op reads Paid Intel: Kill Gorani) or use a Lieutenant Hunt tower [[src-allthingshow-boss-board-2026-10-21]]. His intel stays locked until you finish three chapters of the [[dmz-orders]]: Underground, Counterfeit and Human Intel (reported) [[src-codcentral-dmz-orders-2026-10-21]].
 
 ## How do you beat Gorani?
 

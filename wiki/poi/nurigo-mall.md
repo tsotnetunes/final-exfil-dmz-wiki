@@ -5,7 +5,7 @@ description: "Shopping district in northeast Hajin City (East Medium, West High)
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-keys-2026-10-31, src-dmzhub-missions-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-solo-vault-run-2026-10-25, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-keys-2026-10-31, src-dmzhub-missions-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-solo-vault-run-2026-10-25, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-mw4-launch-patch-notes-2026-10-29, src-dmztracker-dynamic-side-ops-2026-10-20, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-allthingshow-dmz-orders-2026-10-31]
 aliases: ["NuriGO", "NuriGO East", "NuriGO West", "underground mall", "City Hall", "Han-Go Korean BBQ", "Coin Mining Den", "Jang-Ui's Converted Power Room", "Shopping DRC Locker", "DRC Labs"]
 stale_after: 2026-11-13
 region: "northeast Hajin City (former SK)"
@@ -34,7 +34,7 @@ Northeast Hajin City, former South Korean side, north of [[the-grid]], with tene
 
 ## What is there?
 
-A police station, a clinic, City Hall and a monorail station on the tram loop, parking above and below ground, and a courtyard whose pavilion and two light wells (one with an elevator) lead down to the underground mall [[src-activision-dmz-guide-part1-2026-10-05]]. After launch the community map adds Han-Go Korean BBQ, a rooftop Bounty Station near NuriGO East, a fire station, three gas stations, Ammo and Armor Caches, a UAV tower and a safe in a tent (reported) [[src-codmunity-hajin-map-2026-10-31]]. The Hanex Bank branch in NuriGO West has a coded vault ([[bank-vaults]]) [[src-gamerfuzion-gold-bar-route-2026-10-29]].
+A police station, a clinic, City Hall and a monorail station on the tram loop, parking above and below ground, and a courtyard whose pavilion and two light wells (one with an elevator) lead down to the underground mall [[src-activision-dmz-guide-part1-2026-10-05]]. After launch the community map adds Han-Go Korean BBQ, a rooftop Bounty Station near NuriGO East, a fire station, three gas stations, Ammo and Armor Caches, a UAV tower and a safe in a tent (reported) [[src-codmunity-hajin-map-2026-10-31]]. The Hanex Bank branch in NuriGO West has a coded vault ([[bank-vaults]]) [[src-gamerfuzion-gold-bar-route-2026-10-29]]. NuriGO West, just north of the mall, also has a SAM site you can capture, rated Medium, the quick answer to the [[deathstalker]] that patrols this area ([[capture-sam-site]]) [[src-dmztracker-dynamic-side-ops-2026-10-20]] [[src-allthingshow-dmz-dynamic-ops-2026-10-31]] [[src-allthingshow-dmz-orders-2026-10-31]].
 
 ## Which locked rooms are here?
 

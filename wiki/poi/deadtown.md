@@ -5,7 +5,7 @@ description: "Abandoned NK farm town in southwest Hajin: Low threat outside, Med
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-allthingshow-hajin-map-2026-10-21, src-allthingshow-key-doors-2026-10-21, src-dmzhub-keys-2026-10-31, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-gamerfuzion-irradiated-container-2026-10-27, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27]
+sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-allthingshow-hajin-map-2026-10-21, src-allthingshow-key-doors-2026-10-21, src-dmzhub-keys-2026-10-31, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-gamerfuzion-irradiated-container-2026-10-27, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27, src-dmztracker-dynamic-side-ops-2026-10-20, src-allthingshow-dmz-orders-2026-10-31]
 aliases: ["Re-Education Center", "Deadtown Exterior", "Haksan School", "Haksan School Armory", "Re-Education Center Annex", "Underground Propaganda Store Room"]
 stale_after: 2026-11-13
 region: "southwest Hajin (former NK)"
@@ -34,7 +34,7 @@ The town has been taken over by the military: expect street fighting against lig
 
 ## What is there?
 
-A sewer system under the main buildings, newer tenement blocks on the east side hiding military storage, a clinic and a gas station at each end of town [[src-activision-dmz-guide-part1-2026-10-05]]. Maps made after launch add a fire station northeast of town by the railway, Ammo and Armor Caches, a UAV tower, a Lieutenant Hunt tower and an exfil site [[src-allthingshow-hajin-map-2026-10-21]] [[src-codmunity-hajin-map-2026-10-31]]. The clinic's locker room, behind a sign over a doorway off the main corridor, has yellow chemical lockers; one held an Irradiated Container (reported) [[src-gamerfuzion-irradiated-container-2026-10-27]] ([[clinics]]).
+A sewer system under the main buildings, newer tenement blocks on the east side hiding military storage, a clinic and a gas station at each end of town [[src-activision-dmz-guide-part1-2026-10-05]]. Maps made after launch add a fire station northeast of town by the railway, Ammo and Armor Caches, a UAV tower, a Lieutenant Hunt tower and an exfil site [[src-allthingshow-hajin-map-2026-10-21]] [[src-codmunity-hajin-map-2026-10-31]]. Deadtown also has a SAM site you can capture, one of the four that guides name ([[capture-sam-site]]) [[src-dmztracker-dynamic-side-ops-2026-10-20]] [[src-allthingshow-dmz-orders-2026-10-31]]. The clinic's locker room, behind a sign over a doorway off the main corridor, has yellow chemical lockers; one held an Irradiated Container (reported) [[src-gamerfuzion-irradiated-container-2026-10-27]] ([[clinics]]).
 
 ## Which locked rooms are here?
 

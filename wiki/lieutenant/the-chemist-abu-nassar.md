@@ -5,9 +5,9 @@ description: "The Chemist: Lieutenant inside the radiation at Haneul Nuclear Rea
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_39752e0219e7, src-allthingshow-chemist-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-bosses-2026-10-31]
+sources: [clm_39752e0219e7, src-allthingshow-chemist-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-bosses-2026-10-31, src-conquestcapped-dmz-keys-2026-10-28]
 aliases: ["The Chemist", "Chemist", "Chemist's Dog Tag", "Abu Nassar (name not confirmed)", "Revenant", "reactor boss", "Chimist", "The Chemist's Secure Armory"]
-weapon: marksman rifle (Revenant); Kastov 762 reported
+weapon: not settled (Oris 8.6 or Kastov 762); named version Revenant, a marksman rifle
 location: Haneul Nuclear Reactor warehouse, inside the radiation
 drops: Revenant or plain rifle, The Chemist's Dog Tag, The Chemist's Secure Armory key
 ---
@@ -51,9 +51,9 @@ Drive to the fence and cross on foot, clear the guards at the door (dark hazmat 
 | The Chemist's Dog Tag | Legendary Lieutenant tag | [[src-allthingshow-chemist-2026-10-21]] [[src-dmzhub-bosses-2026-10-31]] |
 | Revenant | Legendary marksman rifle valued at $7,500, a possible drop | [[src-allthingshow-chemist-2026-10-21]] [[src-allthingshow-dmz-bosses-2026-10-21]] |
 | Cache | a Comms Module (Epic) and a Control Unit, both 3D Printer ingredients | [[src-allthingshow-chemist-2026-10-21]] |
-| The Chemist's Secure Armory key | Legendary; opens a secured bunker near the reactor's boat house, grid I4 | [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-dmzhub-bosses-2026-10-31]] |
+| The Chemist's Secure Armory key | Legendary; opens a secured bunker near the reactor's boat house, grid I4; he drops the key to it | [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-conquestcapped-dmz-keys-2026-10-28]] [[src-dmzhub-bosses-2026-10-31]] |
 
-Guides disagree on his gun: other lists give an Oris 8.6 marksman rifle or a Kastov 762 [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-conquestcapped-dmz-bosses-2026-10-28]].
+Guides disagree on his gun. Two give an Oris 8.6, a marksman rifle, one of them as a Legendary drop, which would fit the Revenant [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]]; another gives a [[kastov-762]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. Which gun the Revenant is built on is not confirmed yet. All Lieutenant guns side by side: [[weapons]].
 
 ## Is his name Abu Nassar?
 

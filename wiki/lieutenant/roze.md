@@ -5,7 +5,7 @@ description: "Sniper Lieutenant on the rooftop terraces of DBN Headquarters in T
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_4d48baeb6761, clm_3359237cd043, clm_6787462c0aac, clm_8c8cb1980072, src-allthingshow-roze-2026-10-21, src-xboxplay-roze-2026-10-22, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gamingpromax-roze-highrise-armory-key-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-bosses-2026-10-31]
+sources: [clm_4d48baeb6761, clm_3359237cd043, clm_6787462c0aac, clm_8c8cb1980072, src-allthingshow-roze-2026-10-21, src-xboxplay-roze-2026-10-22, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gamingpromax-roze-highrise-armory-key-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-bosses-2026-10-31, src-codcentral-dmz-orders-2026-10-21]
 aliases: ["Roze's Dog Tag", "The Kraken", "Kraken", "rooftop sniper", "DBN sniper", "Rose", "Roze's Highrise Armory"]
 weapon: Astaroth .57 sniper rifle
 location: DBN Headquarters rooftop, The Grid
@@ -34,7 +34,7 @@ Roze is the sniper Lieutenant who holds the roof of DBN Headquarters in [[the-gr
 
 ## Where is Roze?
 
-On the top rooftop terraces of DBN Headquarters, where the compass reads Extreme (the 5 Oct guide had rated the building Critical) [[src-allthingshow-roze-2026-10-21]] [[src-xboxplay-roze-2026-10-22]] [[src-activision-dmz-guide-part1-2026-10-05]]. Enter on the ground floor, find the emergency stairwell and clear each floor on the way up; on the roof the side op changes from Reach the Lieutenant's Location to Kill Roze [[src-allthingshow-roze-2026-10-21]] [[src-xboxplay-roze-2026-10-22]]. One guide also met her in a top-floor machine room by the roof door, reached by elevator (reported) [[src-allthingshow-dmz-bosses-2026-10-21]]. Her intel showed a padlock on the [[boss-board]] at launch, so it has to be unlocked before you can buy it [[src-allthingshow-boss-board-2026-10-21]].
+On the top rooftop terraces of DBN Headquarters, where the compass reads Extreme (the 5 Oct guide had rated the building Critical) [[src-allthingshow-roze-2026-10-21]] [[src-xboxplay-roze-2026-10-22]] [[src-activision-dmz-guide-part1-2026-10-05]]. Enter on the ground floor, find the emergency stairwell and clear each floor on the way up; on the roof the side op changes from Reach the Lieutenant's Location to Kill Roze [[src-allthingshow-roze-2026-10-21]] [[src-xboxplay-roze-2026-10-22]]. One guide also met her in a top-floor machine room by the roof door, reached by elevator (reported) [[src-allthingshow-dmz-bosses-2026-10-21]]. Her intel showed a padlock on the [[boss-board]] at launch, so it has to be unlocked before you can buy it [[src-allthingshow-boss-board-2026-10-21]]: it opens once you finish the Underground chapter of the [[dmz-orders]] ([[underground-orders]]) (reported) [[src-codcentral-dmz-orders-2026-10-21]].
 
 ## How do you beat Roze?
 
