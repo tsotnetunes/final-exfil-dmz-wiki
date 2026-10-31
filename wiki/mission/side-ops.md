@@ -15,4 +15,6 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 
 <!-- human:start -->
 Lower-intensity tasks that pay DMZ XP and turn up resources or intel [[src-activision-dmz-guide-part1-2026-10-05]]: find lost Supply Drops, repair trucks, climb damaged radio towers or Lieutenant Hunt towers to learn roughly where a Lieutenant is, activate UAV Towers (DMZ Cash and a reveal pulse), capture SAM Sites. Details per marker: [[locations-of-interest]]. The June examples were the same three: truck repairs, supply drop location, radio tower scaling [[src-activision-dmz-deep-dive-2026-06]].
+
+**Pay.** On 29 Oct 2026 Infinity Ward raised the DMZ Cash paid for Side Ops a little, without giving amounts [[src-mw4-launch-patch-notes-2026-10-29]].
 <!-- human:end -->

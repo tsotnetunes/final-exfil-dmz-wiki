@@ -1034,3 +1034,7 @@
 ## [2026-10-31 00:31 EDT] render | 4 pages rendered, 753 claims, 716 evidence
 - changed: wiki 4, claims 1, evidence 1, index.md 1
 - run: r-20261031-043036-3835
+
+## [2026-10-31 01:29 EDT] ingest | Launch patch notes of 28 and 29 Oct 2026: Possum limits and fixes, the Level 37 vest, exfil helicopter crashes, more DMZ Cash for Ops; new official source page
+- changed: .kac 1, index 13, index.md 1, raw 1, wiki 7
+- run: r-20261031-012912-85de

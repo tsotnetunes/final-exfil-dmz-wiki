@@ -34,4 +34,6 @@ _Generated from 0 confirmed and 12 reported claims across 12 posts and 0 patch n
 
 <!-- human:start -->
 **Exfil sites** change from match to match and show as green smoke. Call in the Twin Heli, defend the spot against the rising enemy response until it lands, then board to finish [[src-activision-dmz-guide-part1-2026-10-05]]. **Alternatives:** a Fulton balloon (probably the skyhooks of the June intel [[src-activision-dmz-deep-dive-2026-06]]) or a Flare. **Risk:** other squads use exfil sites for ambushes, and exfil flares are loud and seen from far away. Watch the [[radiation-storm]] timer. Picking up a Lieutenant's Dog Tag Case broadcasts your position, making a quick exfil the safe choice ([[lieutenants]]). What happens when you do not get out: [[mia-system]], [[dog-tags]].
+
+**Fixes since launch.** Enemy helicopters could crash into the exfil helicopter and kill the squad during extraction until a fix of 29 Oct 2026 [[src-mw4-launch-patch-notes-2026-10-29]].
 <!-- human:end -->

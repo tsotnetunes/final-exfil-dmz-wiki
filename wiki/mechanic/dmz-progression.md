@@ -30,4 +30,6 @@ _Generated from 2 confirmed and 2 reported claims across 4 posts and 0 patch not
 **Dog Tag level.** Separate from the player level: each Operator's Dog Tag rises from Steel I to Onyx III over 18 levels, each giving a Trait Point ([[trait-points]]); at the top an Operator can Prestige ([[operator-prestige]]).
 
 **Where XP comes from.** Opening loot containers, [[dmz-orders]], [[story-missions]], [[dynamic-operations]], [[side-ops]], [[lieutenants]], Commanders ([[commander-threats]]) and combat; rival Operators pay more XP than AI [[src-activision-dmz-guide-part1-2026-10-05]]. The [[after-action-report]] adds it up.
+
+**Level 37 reward.** The 3-Plate Armor Vest for reaching DMZ Level 37 was not granted until a fix of 28 Oct 2026; players who had passed Level 37 before it were still without the vest on 29 Oct, when Infinity Ward said it was working on it [[src-mw4-launch-patch-notes-2026-10-29]].
 <!-- human:end -->

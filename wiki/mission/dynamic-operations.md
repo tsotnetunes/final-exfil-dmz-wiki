@@ -25,4 +25,6 @@ _Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch not
 Multi-step objectives generated for each match [[src-activision-dmz-deep-dive-2026-06]]. Pick one before infil, deploy straight into one, or start one in the field at a Dynamic Ops phone [[src-activision-dmz-guide-part1-2026-10-05]] [[src-playstation-blog-dmz-2026-10-05]]. Completing an Op pays DMZ XP and DMZ Cash and brings a Supply Drop whose quality rises with each Op you finish in the same deployment: Common, then Uncommon, then Rare; contents vary. The **Hunt Operators** Op sets a full rival squad against you.
 
 **Named Ops.** The official Dynamic Ops trailer (6 Oct) shows Dead Man's Cache (recover an encrypted drive) and Chemical Denial (look into a blackout), with a Side-Op to hunt [[bale]]; in that pre-release footage a completed Op paid 10,000 to 20,000 DMZ Cash into the Bank [[src-fpsjp-dynamic-ops-trailer-2026-10-07]].
+
+**Pay.** On 29 Oct 2026 Infinity Ward raised the DMZ Cash paid for Dynamic Ops a little, without giving amounts [[src-mw4-launch-patch-notes-2026-10-29]].
 <!-- human:end -->

@@ -20,4 +20,7 @@ _Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+**What it is.** A Warfighter Trait ([[trait-points]] [[src-activision-dmz-guide-part2-2026-10-09]]) that can bring an eliminated player back [[src-mw4-launch-patch-notes-2026-10-29]].
+
+**Since 28 Oct 2026** Possum cannot be triggered while the squad that killed you is nearby, or before 4 minutes have passed; Infinity Ward says it may still tune the distance and the wait [[src-mw4-launch-patch-notes-2026-10-29]]. The same update fixed Possum reviving players who had already abandoned their Operator, which left them unable to play, and a black screen after a squad wipe while a teammate had Possum equipped [[src-mw4-launch-patch-notes-2026-10-29]]. Before the change players asked for a wait on Possum (reported).
 <!-- human:end -->
