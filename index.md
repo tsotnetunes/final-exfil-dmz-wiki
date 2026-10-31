@@ -43,7 +43,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[content-updates]] — Content updates for Modern Warfare 4 DMZ delivered a round of fixes and improvements on 28 Oct 2026. · **draft**
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
 - [[dmz-fob-mastery-calling-card]] — The DMZ FOB Mastery Calling Card is a calling card reported by players in DMZ. · **draft**
-- [[dmz-the-mode]] — DMZ is a mode merging story mission spawns with free roam where players report an exfil costs $125K in cash. · **draft**
+- [[dmz-the-mode]] — DMZ is a mode merging story mission spawns with free roam, where an exfil costs $125K in cash and players can eliminate other operators. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
 - [[modern-warfare-4]] — Modern Warfare 4 launched worldwide on 23 Oct 2026, delivering 12 launch maps, a cinematic campaign featuring Mads Mikkelsen, and DMZ extraction play. · **published**
