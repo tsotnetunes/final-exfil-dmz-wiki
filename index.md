@@ -30,7 +30,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[dog-tag-case]] — Unlocks at DMZ level 20: shows the dog tags you extracted (rarity, victim, killer, time); upgrades raise bounty payouts and add slots. · **published**
 - [[firing-range]] — The FOB's Firing Range: a wooded grove between the Gunsmith and the Vendor, with targets from under 10 m to over 100 m (official, 9 Oct guide). · **published**
 - [[fob]] — Your home between deployments; stations open from the start or by DMZ level: 3D Printer 2, Vendor 5, Gunsmith 10, Dog Tag Case 20, Boss Board after two Orders. · **published**
-- [[fob-forward-operating-base]] — The Forward Operating Base (FOB) is a DMZ squad hub featuring crafting stations, a store, a vendor, and a shooting range. · **draft**
+- [[fob-forward-operating-base]] — The Forward Operating Base (FOB) in DMZ holds the player squad and contains crafting stations, a shooting range, a vendor, and ground upgrades. · **draft**
 - [[gunsmith]] — Unlocks at DMZ level 10: buy base weapons (after extracting their Weapon Manual), attachment slots and attachments with DMZ Cash; weapon levels shared with MP. · **published**
 - [[orders]] — The FOB station where DMZ Orders are reviewed before a deployment; available from the start (official). How Orders work: see DMZ Orders. · **published**
 - [[stash]] — FOB storage shared by all your Operators: 40 items and 12 weapons at first, more with upgrades; Resources take no slots (official, 9 Oct guide). · **published**
@@ -43,7 +43,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[content-updates]] — Content updates bring fixes and improvements to MW4, including a round of changes confirmed on 28 Oct 2026. · **draft**
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
 - [[dmz-fob-mastery-calling-card]] — The DMZ FOB Mastery Calling Card is a calling card reported by players in DMZ. · **draft**
-- [[dmz-the-mode]] — DMZ is a mode merging story spawns with free roam, where an exfil costs $125K in cash and matchmaking is randomized. · **draft**
+- [[dmz-the-mode]] — DMZ is an extraction mode combining story missions with free roam, where an exfil costs $125K in cash. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
 - [[modern-warfare-4]] — Modern Warfare 4 launched worldwide on 23 Oct 2026, offering 12 multiplayer maps, DMZ mode, and campaign early access. · **published**
