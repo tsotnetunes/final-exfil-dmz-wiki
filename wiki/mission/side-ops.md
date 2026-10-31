@@ -5,7 +5,7 @@ description: "Small optional tasks in a match (truck repairs, finding a supply d
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
+sources: [clm_3e41f6f87745, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["side op", "UAV Tower", "SAM Site", "radio tower"]
 mission_kind: side
 ---

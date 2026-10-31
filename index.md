@@ -43,7 +43,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[content-updates]] — Content updates for Modern Warfare 4 DMZ delivered a round of fixes and improvements on 28 Oct 2026. · **draft**
 - [[dmz]] — Modern Warfare 4's extraction mode: early access from 20 Oct 2026 for digital pre-orders, full launch 23 Oct, set in Hajin after the Campaign. · **published**
 - [[dmz-fob-mastery-calling-card]] — The DMZ FOB Mastery Calling Card is a calling card reported by players in DMZ. · **draft**
-- [[dmz-the-mode]] — DMZ is a mode where players report that an exfil costs $125K in cash and gameplay merges story mission spawns with free roam. · **draft**
+- [[dmz-the-mode]] — DMZ is a mode merging story mission spawns with free roam where players report an exfil costs $125K in cash. · **draft**
 
 ## guide (1) in `wiki/guide/<id>.md`
 - [[modern-warfare-4]] — Modern Warfare 4 launched worldwide on 23 Oct 2026, delivering 12 launch maps, a cinematic campaign featuring Mads Mikkelsen, and DMZ extraction play. · **published**
@@ -112,7 +112,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[movement-and-tuning]] — Tac sprint is on by default; DMZ has its own weapon damage tuning around its armor; no armor-piercing or Stopping Power rounds for now (developers' Q&A, 9 Oct). · **published**
 - [[multiplayer]] — Multiplayer is live in Modern Warfare 4, featuring XP boosts in Search & Destroy and Collateral alongside ongoing bug fixes. · **draft**
 - [[operator-prestige]] — Prestige a fully levelled Operator (18 Trait Points) by giving up rare gear and DMZ Cash; each Prestige adds a random permanent Trait, up to three. · **published**
-- [[operator-prestige-and-permanent-prestige-traits]] — Operator Prestige in Modern Warfare 4 DMZ lets players prestige operators, but purchasing it can reset tags and deplete resources without giving bonuses. · **candidate**
+- [[operator-prestige-and-permanent-prestige-traits]] — Modern Warfare 4 DMZ includes an Operator Prestige system, where purchasing operative prestige can deplete resources and reset tags without awarding bonuses. · **candidate**
 - [[paid-infil]] — Infil options and prices: on foot free, Polaris Dagor A1 5,000, LTV 25,000, helicopter 50,000, cargo plane 100,000 DMZ Cash (choose your drop spot). · **published**
 - [[proximity-chat]] — Voice between nearby players with distance-based falloff, directionality and environmental reverb (official, pre-launch). · **published**
 - [[pve-mode]] — PvE mode: awaiting confirmed details. · **candidate**
@@ -142,11 +142,11 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 ## mission (9) in `wiki/mission/<id>.md`
 - [[breaking-new-ground]] — Breaking New Ground is a confirmed mission in DMZ. · **draft**
 - [[dmz-mission-involving-a-cart]] — A DMZ mission involving a cart is reported by players to require pushing around a cart. · **candidate**
-- [[dynamic-operations]] — Dynamic Operations involve squad objectives across Hajin, offering cash, XP, and supply drops of increasing rarity. · **published**
+- [[dynamic-operations]] — Dynamic Operations feature squad objectives across Hajin, confirmed on 6 Oct 2026, and reward cash, XP, and supply drops. · **published**
 - [[operation-shopping-hacks]] — Operation Shopping Hacks is a DMZ mission reported to reward the Night Vision Goggles crafting recipe upon completion. · **candidate**
 - [[operation-silent-ledger]] — Operation Silent Ledger is reported by players to be a story mission in DMZ. · **candidate**
 - [[side-ops]] — Small optional tasks in a match (truck repairs, finding a supply drop, scaling a radio tower) that give XP alongside the main objectives (official, pre-launch). · **published**
-- [[story-missions]] — Story Missions in Modern Warfare 4 DMZ start at designated spawn locations and unlock needed crafting recipes according to player reports. · **published**
+- [[story-missions]] — Story Missions in Modern Warfare 4 DMZ allow matchmaking, provide specific spawn locations, and unlock needed crafting recipes. · **published**
 - [[stranded]] — Progress in the Stranded mission saves separately from the campaign checkpoint, according to player reports. · **candidate**
 - [[toxic-intercept-op]] — Toxic Intercept Op was fixed on 21 Oct 2026 to address an issue where it could incorrectly fail after completing the Defend the mission. · **draft**
 

@@ -5,7 +5,7 @@ description: "FOB storage shared by all your Operators: 40 items and 12 weapons 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_fe49071395d4, clm_52ae1fb94e2f, clm_972cffa0bd29, clm_cd43cdd0d14f, clm_1d5b2eabae74, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_fe49071395d4, clm_52ae1fb94e2f, clm_972cffa0bd29, clm_cd43cdd0d14f, clm_1d5b2eabae74, clm_112b93b311ed, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
 station: stash
 unlock: start
 ---
@@ -14,13 +14,13 @@ The Stash is an upgrade in Modern Warfare 4 DMZ built up by extracting items. It
 
 ## How much does the Stash hold?
 
-Players report that the DMZ stash holds 12 weapons and 58 items. Players also report that the Stash user interface can likely be updated for increased space.
+Players report that the DMZ stash holds 12 weapons and 58 items. Players also report that the Stash interface can likely be upgraded to increase its storage space.
 
 ## How do players upgrade the Stash?
 
-Players report that DMZ stash upgrades require finding specific items.
+Players report that upgrading the DMZ stash requires finding specific items.
 
-_Generated from 1 confirmed and 4 reported claims across 5 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 1 confirmed and 4 reported claims across 5 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->

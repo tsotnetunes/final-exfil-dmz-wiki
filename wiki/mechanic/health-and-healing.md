@@ -5,11 +5,16 @@ description: "Max health 150; the tourniquet gets you up from Last Stand at 100 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_3fc45e2c36d0, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["Healing", "Wounds", "Health", "Medkit", "Bandage", "Self-revive kit"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Health, wounds and healing govern player survival through restorative supplies such as the Medkit.
+
+## How do players track medical crafting?
+* Players report that the Medkit Recipe can be tracked in the 3D Printer.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-31._
 <!-- generated:end -->
 
 <!-- human:start -->
