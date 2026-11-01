@@ -9,14 +9,14 @@ sources: [clm_5b76bd4676ec, clm_fd56c4d77fd9, src-westie-dmz-ama-recap-2026-10-1
 aliases: ["Lobbies", "Squad size", "Player count", "Assimilation", "Reconnect", "DMZ matchmaking", "SBMM DMZ"]
 ---
 <!-- generated:start -->
-Matchmaking, squads and lobbies handle player grouping and session entry in DMZ. Understanding these systems helps players manage team composition during deployment.
+Modern Warfare 4 DMZ matchmaking, squads and lobbies govern how players form teams and enter matches. These systems determine team structures during an active deployment and manage lobby placement.
 
-## How do squads and matchmaking work?
+## How do squads and matchmaking work in DMZ?
 
-* DMZ features a squad joining mechanic that allows players to join other squads after spawning into a match, as reported by players.
-* Players reported that DMZ received a matchmaking update.
+* Players report that DMZ includes a squad joining mechanic that permits joining other squads after spawning into a match.
+* Players report that DMZ received a matchmaking update.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

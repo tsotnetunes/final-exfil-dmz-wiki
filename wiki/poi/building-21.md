@@ -8,21 +8,21 @@ sensitivity: public
 sources: [clm_c063b7d057fd, src-gamespot-from-the-ward-ep7-2026-10-05, src-westie-dmz-ama-recap-2026-10-11]
 ---
 <!-- generated:start -->
-Players seek out Building 21 as a distinct map type, with a new Building 21-type map reported by players to release in Season 1.
+Building 21 is a point of interest style map, with players reporting that a new Building 21-type map will be released in Season 1.
 
 ## Where is it?
 
-A new Building 21-type map is reported by players to be scheduled for release in Season 1.
+A new map matching the Building 21 type is reported by players to release in Season 1.
 
 ## What loot is there?
 
-Building 21 loot details have not been reported.
+No loot details are confirmed for Building 21.
 
 ## How dangerous is it?
 
-Building 21 danger levels have not been reported.
+No danger details are confirmed for Building 21.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

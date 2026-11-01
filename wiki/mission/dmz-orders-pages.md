@@ -11,13 +11,13 @@ mission_kind: order
 steps: "14 pages, 42 Orders"
 ---
 <!-- generated:start -->
-DMZ Orders pages (no chapter) missions award cash for finishing individual objectives.
+DMZ Orders pages provide mission steps that reward cash upon completion.
 
-## What rewards do you get?
+## What rewards do DMZ Orders steps give?
 
-Players report that rewards for completing individual mission steps increased from $300 to $500 per completed step.
+Players report that mission step rewards increased from $300 to $500 per completed step.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -12,15 +12,15 @@ danger: "medium (west: high)"
 loot_profile: urban
 ---
 <!-- generated:start -->
-The NuriGO Mall is a point of interest in Modern Warfare 4 DMZ. Players navigate to the location during matches, though it can be overtaken as radiation spreads.
+The NuriGO Mall is a point of interest in DMZ where spreading radiation can reach players.
 
 ## Where is it?
 
-Players report that NuriGO Mall is located within Modern Warfare 4 DMZ.
+Players report that NuriGO Mall is a location in DMZ.
 
 ## What loot is there?
 
-Loot details for NuriGO Mall have not been reported.
+No loot details have been reported for NuriGO Mall.
 
 ## How dangerous is it?
 

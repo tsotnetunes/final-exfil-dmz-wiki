@@ -5,13 +5,15 @@ description: "Critical-threat Story Mission in The Grid: take two code halves (o
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-dmztracker-dynamic-side-ops-2026-10-20, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31]
+sources: [clm_2027c90004df, src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-dmztracker-dynamic-side-ops-2026-10-20, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31]
 aliases: ["Grid Assault", "DBN Headquarters mission", "kill code", "kill switch", "drone tower mission", "Kill Roze", "hash key"]
 mission_kind: story
 steps: "6 HUD steps"
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Operation Grid Assault is reported by players to be a story mission in MW4 DMZ that can be played solo.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

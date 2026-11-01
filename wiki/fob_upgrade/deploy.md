@@ -11,7 +11,7 @@ station: deploy
 unlock: start
 ---
 <!-- generated:start -->
-## What are deployment rewards in Modern Warfare 4 DMZ?
+## What are the rewards for deployment?
 
 Players report that deployment rewards in Modern Warfare 4 DMZ are insufficient.
 

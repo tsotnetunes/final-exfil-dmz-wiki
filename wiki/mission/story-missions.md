@@ -11,22 +11,29 @@ mission_kind: story
 steps: "7 missions in 3 tiers"
 ---
 <!-- generated:start -->
-Story Missions in Modern Warfare 4 DMZ are narrative objectives that feature designated spawn locations and unlock needed crafting recipes. Players report that these missions can be attempted solo.
+Story Missions in Modern Warfare 4 DMZ are narrative objectives that feature designated spawn locations and unlock needed crafting recipes. Players report that these assignments can be attempted solo.
 
 ## How do you start it?
 
-Story Mission Matchmaking is available in Modern Warfare 4 DMZ to begin these encounters. Players reported on 29 Oct 2026 that Story Mission Matchmaking had been patched. Players reported on 24 Oct 2026 that distinct spawn locations exist for each Story Mission across Modern Warfare 4 DMZ. On 29 Oct 2026, players reported that mission spawns had become more consistently dynamic and free-roaming. Players subsequently reported on 31 Oct 2026 that Story Missions were reverted to launch settings. Entering Story Missions can also reduce the overall number of players in a DMZ match. Additionally, players report that a mini DMZ mission appears in the Modern Warfare 4 campaign.
+Players can access these assignments through Story Mission Matchmaking in Modern Warfare 4 DMZ.
 
-## What story missions are available?
+Players reported that Story Mission Matchmaking was patched on 29 Oct 2026.
 
-Specific Story Missions reported by players include:
+Players also reported on 29 Oct 2026 that mission spawns had become more consistently dynamic and free-roaming.
 
+On 31 Oct 2026, players reported that Story Missions were reverted to launch settings.
+
+Selecting Story Missions can reduce the total number of players present in a Modern Warfare 4 DMZ match.
+
+Separate from the main extraction mode, the Modern Warfare 4 campaign features a mini DMZ mission.
+
+Known Story Missions reported by players include:
 * Operation Critical Extraction
-* The Iron Citadel
+* The Iron Citadel Story Mission
 
 ## Rewards
 
-Players report that completing Story Missions in Modern Warfare 4 DMZ unlocks needed crafting recipes.
+Completing Story Missions in Modern Warfare 4 DMZ unlocks needed crafting recipes.
 
 _Generated from 0 confirmed and 13 reported claims across 13 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->

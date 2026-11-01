@@ -5,14 +5,28 @@ description: "Green-marked clinics hold medical loot and yellow chemical lockers
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-gamerfuzion-irradiated-container-2026-10-27, src-codmunity-hajin-map-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-dmzhub-keys-2026-10-31]
+sources: [clm_bc97c9cacd06, src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-gamerfuzion-irradiated-container-2026-10-27, src-codmunity-hajin-map-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-dmzhub-keys-2026-10-31]
 aliases: ["Clinic", "clinic locations", "hospital", "pharmacy", "medical loot", "Chemical Storage", "yellow locker", "Irradiated Container"]
 region: Hajin
 danger: low
 loot_profile: medical
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Clinics and chemical storage areas in Modern Warfare 4 DMZ are searched by players hunting for rare containers.
+
+## Where is it?
+
+Players search chemical storage locations within DMZ to find specific containers.
+
+## What loot is there?
+
+Players report opening over 200 chemical storage lockers to find a single irradiated box.
+
+## How dangerous is it?
+
+Threat levels for these locations are not specified.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

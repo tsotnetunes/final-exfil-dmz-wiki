@@ -8,11 +8,13 @@ sensitivity: public
 sources: [clm_58e88312e9c3]
 ---
 <!-- generated:start -->
-The Grabber Drone is a new tool available in Warzone.
+The Grabber Drone is a new tool available to players in Warzone. It was confirmed as an addition to Warzone on 14 Oct 2026.
 
-* The Grabber Drone was confirmed as a new tool in Warzone on 14 Oct 2026.
+## What is known about the Grabber Drone?
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-29._
+* The Grabber Drone is classified as a tool in Warzone.
+
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

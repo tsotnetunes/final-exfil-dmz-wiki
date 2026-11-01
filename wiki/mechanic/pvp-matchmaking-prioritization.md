@@ -9,14 +9,14 @@ sources: [clm_d1e82587707a, clm_bbaff371a6b3, clm_c7368582e2c4, src-detonated-dm
 aliases: ["PvP priority DMZ", "DMZ matchmaking change", "more PvP in DMZ", "story mission matchmaking", "DMZ matchmaking rollback", "near-PvE story lobbies"]
 ---
 <!-- generated:start -->
-PVP matchmaking prioritization is a matchmaking adjustment in DMZ that alters how players are grouped into lobbies based on combat focus. Changes to this system directly impact the balance between player encounters and objective completion.
+PVP matchmaking prioritization is a matchmaking adjustment in DMZ that alters how players are grouped into lobbies based on combat focus. Changes to this system directly impact the likelihood of encountering other players versus completing objectives during a match.
 
 ## How has PVP matchmaking prioritization changed?
 
-* Players reported on 31 Oct 2026 that Infinity Ward increased PVP matchmaking prioritization in DMZ.
-* Players reported on 31 Oct 2026 that the developer rolled back mission matchmaking changes in DMZ, superseding the earlier adjustment.
+* Infinity Ward reportedly increased PVP matchmaking prioritization in DMZ, as reported by players on 31 Oct 2026.
+* The developer rolled back mission matchmaking changes in DMZ, as reported by players on 31 Oct 2026.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -9,13 +9,13 @@ sources: [clm_b90e9b9a3636, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-202
 aliases: ["Gold Skulls", "golden skull", "skull"]
 ---
 <!-- generated:start -->
-The Gold Skull is an item needed for base progression. Players report that it matters because five of each are needed for end game FOB upgrades.
+The Gold Skull is an item needed for base progression. Players need this item to unlock late-stage Forward Operating Base improvements.
 
 ## What is the Gold Skull used for?
 
-* Players report that five Gold Skulls are required for end game FOB upgrades.
+* Five Gold Skulls are reportedly required for end game FOB upgrades.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -9,9 +9,9 @@ sources: [clm_8f5238d9722b, src-activision-ready-for-launch-progression-2026-10-
 aliases: ["3 plate vest", "three plate vest", "3-plate vest", "3 plate armor", "3-Plate Armour Vest", "level 37 vest"]
 ---
 <!-- generated:start -->
-The 3-Plate Armor Vest is a protective gear item that players equip for added defense. Knowing its damage limits is critical in combat encounters.
+The 3-Plate Armor Vest is a protective equipment piece that provides defensive coverage for players. It matters because it still leaves wearers vulnerable to immediate takedowns in combat encounters.
 
-## Can a 3-Plate Armor Vest stop single-hit downs?
+## How does the vest protect against high damage?
 
 * Players report that a 3-Plate Armor Vest does not prevent being downed by a single tap from another player.
 

@@ -9,17 +9,17 @@ sources: [clm_cb769aa684e4, clm_6714e141147a, src-activision-dmz-guide-part2-202
 aliases: ["DMZ Operator Prestige", "Prestige Traits", "Permanent Prestige Trait", "Pro Traits", "prestige an operator", "operator prestige cost", "what does prestige give", "Prestige rewards"]
 ---
 <!-- generated:start -->
-Operator Prestige and permanent Prestige Traits are progression mechanics in Modern Warfare 4 DMZ that allow players to advance operators and gain traits.
+Operator Prestige and permanent Prestige Traits are progression mechanics in Modern Warfare 4 DMZ that allow players to advance their operators and acquire permanent traits.
 
-## How many Prestige Traits exist?
+## What are the available Prestige Traits?
 
 * Players report that there are 12 possible prestige traits in Modern Warfare 4 DMZ.
 
-## What bugs affect Operator Prestige?
+## Are there known bugs with Operator Prestige?
 
-* Players report a bug in DMZ where using an ultra item to prestige an operator past prestige 3 resets the operator level to 1 without applying the prestige.
+* Players report a bug where using an ultra item to prestige an operator past prestige 3 resets the operator level to 1 without applying the prestige.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

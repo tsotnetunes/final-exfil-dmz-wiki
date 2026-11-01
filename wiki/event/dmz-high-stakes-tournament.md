@@ -9,13 +9,13 @@ sources: [clm_6986bb6d190c, clm_7abaf3329ba5]
 aliases: ["High Stakes Tournament", "DMZ tournament", "DMZ creator tournament", "$75,000 DMZ tournament"]
 ---
 <!-- generated:start -->
-The DMZ High Stakes Tournament is a scheduled competitive event featuring a $75,000 prize pool. It gathers dozens of content creators to compete in trio teams for a portion of the cash prize.
+The DMZ High Stakes Tournament is a scheduled competitive event featuring a $75,000 prize pool. It gathers competing content creators to battle across organized squads.
 
-## What is the tournament format and prize pool?
+## What are the tournament details?
 
-* Players report that the DMZ High Stakes Tournament features a $75,000 prize pool.
-* Players report that the tournament is scheduled to feature 14 trios.
-* Players report that 42 creators will participate in the event.
+* Players report the DMZ High Stakes Tournament features a $75,000 prize pool.
+* Players report the event is scheduled to include 14 trios.
+* Players report the competition features 42 creators.
 
 _Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->

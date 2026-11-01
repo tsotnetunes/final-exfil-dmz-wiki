@@ -5,20 +5,24 @@ description: "Squads hold up to three Operators, and up to 20 squads share a dep
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_5bb373ef1fd0, clm_b16bb9b424a1, clm_636cb914841e, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-gamerfuzion-dmz-solo-play-2026-10-03, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-guide-2026-10-24, src-destructoid-dmz-interview-2026-06-06, src-gamingtrend-dmz-interview-2026-06-06, src-activision-campaign-early-access-live-2026-10-16, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_5bb373ef1fd0, clm_b16bb9b424a1, clm_636cb914841e, clm_c77ab7714aeb, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-gamerfuzion-dmz-solo-play-2026-10-03, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-guide-2026-10-24, src-destructoid-dmz-interview-2026-06-06, src-gamingtrend-dmz-interview-2026-06-06, src-activision-campaign-early-access-live-2026-10-16, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["solo", "solo play", "playing solo", "solo DMZ", "Squad Fill", "squad size", "players per squad", "squad", "squads", "duos", "trios", "join another squad", "assimilate", "truce", "betray", "party", "max squad size"]
 ---
 <!-- generated:start -->
-Squads and solo play in DMZ govern how players form teams and interact with rival operators in the field. Squad mechanics allow groups to manage team composition, negotiate encounters, and share resources during a match.
+Squads and solo play in DMZ govern team configurations, squad interactions, and party mechanics during matches. Understanding squad systems enables players to coordinate team sizes, request items, and interact with rival operators in the field.
 
-## How do squads interact in DMZ?
+## How do squad interactions work in DMZ?
 
-* Players can offer a truce to other squads in DMZ, as reported by players.
-* Players can request to join another squad in DMZ, according to player reports.
-* The JOKR weapon schematic can be obtained through a squad request in DMZ, as reported by players.
-* The DMZ High Stakes Tournament features 14 trios, totaling 42 creators, according to player reports.
+* Players report that operators can offer a truce to other squads in DMZ.
+* Players report that operators can request to join another squad.
+* Players report that operators who offer a truce can subsequently betray others by shooting them.
+* Players report that the JOKR weapon schematic can be obtained through a squad request in DMZ.
 
-_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-11-01._
+## How are squads structured in DMZ tournaments?
+
+* Players report that the DMZ High Stakes Tournament features 14 trios, totaling 42 creators.
+
+_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

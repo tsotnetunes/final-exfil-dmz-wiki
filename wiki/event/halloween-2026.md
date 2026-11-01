@@ -10,17 +10,19 @@ aliases: ["Halloween Party Mode", "Possession", "MW4 Halloween event", "DMZ Hall
 date: "2026-10-29"
 ---
 <!-- generated:start -->
-Halloween 2026 in Modern Warfare 4 is a seasonal event featuring dedicated game modes. It matters to players tracking the release and mechanics of event playlists.
+Halloween 2026 in Modern Warfare 4 includes event playlists such as Possession and Infected. Players report that these modes alter standard gameplay mechanics with themed rules.
+
+## What modes are featured in Halloween 2026 in Modern Warfare 4?
 
 * Possession went live on 29 Oct 2026, as reported by players.
-* Infected followed on 30 Oct 2026, as reported by players.
+* Infected followed on 30 Oct 2026, according to player reports.
 
 ## How does Possession mode work?
 
-* In Possession mode, a player takes over the person they just killed, as reported by players.
-* The player steals that person's loadout upon taking them over, as reported by players.
+* In Call of Duty Possession mode, a player takes over the person they just killed, according to player reports.
+* Players report that killing an opponent in Possession mode steals their loadout.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

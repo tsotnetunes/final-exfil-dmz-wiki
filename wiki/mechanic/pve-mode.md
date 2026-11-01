@@ -5,10 +5,16 @@ description: "Retired: MW4 DMZ has no PvE mode. The question is answered, with s
 status: deprecated
 brain_status: retired
 sensitivity: public
-sources: [clm_0ca13c53f4e0]
+sources: [clm_0ca13c53f4e0, clm_3b3023c1075c]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+A PvE mode is a requested gameplay option for DMZ in Modern Warfare 4. Adding this feature would allow players to participate in matches without competing against other human opponents.
+
+## Is a PvE mode coming to Modern Warfare 4 DMZ?
+
+* Players report there is a petition to introduce an optional PvE mode in DMZ for Modern Warfare 4.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->
