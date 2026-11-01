@@ -9,7 +9,6 @@ sources: [src-activision-mw4-launch-weapons-2026-10-19, src-conquestcapped-mw4-w
 aliases: ["Astaroth", "Astaroth 57", "Astraoth 57", "Astraoth .57", "Astaroth .57 sniper", "14.5mm sniper", "Manual: Astaroth .57"]
 class: "Sniper rifle"
 manual_source: "Weapon Manual, looted in Hajin; also dropped by Roze"
-stale_after: 2026-12-31
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

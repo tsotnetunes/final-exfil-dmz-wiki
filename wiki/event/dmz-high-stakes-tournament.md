@@ -5,7 +5,7 @@ description: "A DMZ tournament for creators: 14 squads of three (42 players) com
 status: draft
 brain_status: candidate
 sensitivity: public
-sources: [clm_6986bb6d190c, clm_5bb373ef1fd0]
+sources: [clm_6986bb6d190c]
 aliases: ["High Stakes Tournament", "DMZ tournament", "DMZ creator tournament", "$75,000 DMZ tournament"]
 ---
 <!-- generated:start -->

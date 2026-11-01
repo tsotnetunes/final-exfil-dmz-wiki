@@ -5,13 +5,17 @@ description: "The always-open station that starts a deployment: pick a Story Mis
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-xbox-wire-dmz-features-2026-10-09, src-xbox-wire-dmz-operator-guide-2026-10-20, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_e797d03c82db, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-xbox-wire-dmz-features-2026-10-09, src-xbox-wire-dmz-operator-guide-2026-10-20, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["infil", "deployment", "Ready Up", "Free Loadout", "Squad Fill", "how to deploy"]
 station: deploy
 unlock: start
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+## What are deployment rewards in Modern Warfare 4 DMZ?
+
+Players report that deployment rewards in Modern Warfare 4 DMZ are insufficient.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

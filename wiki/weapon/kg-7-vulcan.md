@@ -5,11 +5,10 @@ description: "Fast-cycling bolt-action sniper rifle, rated A by most DMZ tier li
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-conquestcapped-mw4-weapons-2026-10-26, src-dmzcodex-gunsmith-2026-10-29, src-dmzhub-weapon-manuals-2026-10-31, src-allthingshow-gun-store-key-2026-10-22, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-playhub-dmz-tier-list-2026-10-21, src-wzstats-dmz-meta-2026-10-31, src-codmunity-dmz-tier-list-2026-10-28, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, clm_e384ad820ccc]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-conquestcapped-mw4-weapons-2026-10-26, src-dmzcodex-gunsmith-2026-10-29, src-dmzhub-weapon-manuals-2026-10-31, src-allthingshow-gun-store-key-2026-10-22, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-playhub-dmz-tier-list-2026-10-21, src-wzstats-dmz-meta-2026-10-31, src-codmunity-dmz-tier-list-2026-10-28, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["KG-7", "KG7", "KG-7 Vulcan sniper", "Vulcan", "KG-7 Drillcharge sniper", "Manual: KG-7 Vulcan"]
 class: "Sniper rifle"
 manual_source: "Weapon Manual, looted in Hajin"
-stale_after: 2026-12-31
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
