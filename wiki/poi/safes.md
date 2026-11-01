@@ -5,14 +5,23 @@ description: "Where safes are in Hajin (compounds, bank vaults, buildings at Che
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, src-gamingpromax-compounds-2026-10-26, src-gamerfuzion-solo-compound-run-2026-10-26, src-destructoid-best-loot-2026-10-25, src-codmunity-hajin-map-2026-10-31, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-orders-page-14-2026-10-30, src-allthingshow-hajin-gameplay-2026-10-21, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_fdb8357e211e, src-dmzhub-maps-2026-10-31, src-gamingpromax-compounds-2026-10-26, src-gamerfuzion-solo-compound-run-2026-10-26, src-destructoid-best-loot-2026-10-25, src-codmunity-hajin-map-2026-10-31, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-orders-page-14-2026-10-30, src-allthingshow-hajin-gameplay-2026-10-21, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["safe", "wall safe", "safe locations", "Crack Safe", "open a safe", "safe code"]
 region: Hajin
 danger: varies
 loot_profile: high-value
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Players visit Safes inside vaults to open secure storage containers.
+
+## Where is it?
+Players report that two Safes are located inside each vault. Unlocking a vault requires a vault keycard, a battery to restore power, and a 3-digit code.
+
+## What loot is there?
+
+## How dangerous is it?
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -5,13 +5,15 @@ description: "Every permanent FOB upgrade printed at the 3D Printer, with what e
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23]
+sources: [clm_e5fe1043473f, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23]
 aliases: ["FOB Upgrades", "station upgrades", "Bank Upgrade", "Stash Item Upgrade", "Stash Weapon Upgrade", "MIA Recovery Discount", "Gunsmith Upgrade", "Vendor Item Upgrade", "Dog Tag Case Upgrade", "Uncommon Ingredient Printing", "Epic Ingredient Printing", "upgrade the FOB", "bank cap upgrade"]
 station: 3d-printer
 unlock: "3D Printer"
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+FOB upgrades improve various stations in DMZ. Players report that Bank Upgrade XIII is the final upgrade in DMZ.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->
