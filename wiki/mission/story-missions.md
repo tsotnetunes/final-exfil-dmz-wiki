@@ -5,35 +5,30 @@ description: "DMZ's narrative missions, picked from Deploy at the FOB: Breaking 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_1373d27208f1, clm_85301b83d56c, clm_f0a271907aa3, clm_7983ec847f7e, clm_5b8f0e8c94f3, clm_94e4a795c9a7, clm_a61e522f4c73, clm_965f095f6e04, clm_8d4465000264, clm_4891a188a2ea, clm_848e968ff830, clm_dda77c7ff056, clm_79661c0e005e, clm_cb8896693cf8, clm_f15e9103a103, clm_a6788c608374, clm_2738483c8aa0, clm_aac399fada29, clm_85bfa8591611, clm_284d5b2f0937, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09, src-fpsjp-story-missions-trailer-2026-10-09, src-gamespark-tokyo-media-event-2026-10-01, src-westie-dmz-ama-recap-2026-10-11, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-altchar-dmz-story-missions-2026-10-22, src-gamingpromax-dmz-story-missions-2026-10-23, src-codcentral-dmz-orders-2026-10-21, src-gamingtrend-dmz-interview-2026-06-06, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31, src-dmztracker-story-missions-2026-10-20, src-dtgre-dmz-infil-costs-2026-10-22, src-gfinity-dmz-3d-printer-2026-10-22]
+sources: [clm_1373d27208f1, clm_85301b83d56c, clm_f0a271907aa3, clm_7983ec847f7e, clm_5b8f0e8c94f3, clm_94e4a795c9a7, clm_a61e522f4c73, clm_965f095f6e04, clm_8d4465000264, clm_4891a188a2ea, clm_848e968ff830, clm_dda77c7ff056, clm_79661c0e005e, clm_cb8896693cf8, clm_f15e9103a103, clm_a6788c608374, clm_2738483c8aa0, clm_aac399fada29, clm_85bfa8591611, clm_284d5b2f0937, clm_113bbcbc9965, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-features-2026-10-09, src-fpsjp-story-missions-trailer-2026-10-09, src-gamespark-tokyo-media-event-2026-10-01, src-westie-dmz-ama-recap-2026-10-11, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-altchar-dmz-story-missions-2026-10-22, src-gamingpromax-dmz-story-missions-2026-10-23, src-codcentral-dmz-orders-2026-10-21, src-gamingtrend-dmz-interview-2026-06-06, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31, src-dmztracker-story-missions-2026-10-20, src-dtgre-dmz-infil-costs-2026-10-22, src-gfinity-dmz-3d-printer-2026-10-22]
 aliases: ["story mission", "DMZ story missions", "how to start story missions", "story mission rewards", "Random Story Mission", "random mission deploy", "story mission unlock", "DMZ campaign missions"]
 mission_kind: story
 steps: "7 missions in 3 tiers"
 ---
 <!-- generated:start -->
-Story Missions are objective-based encounters featured in Modern Warfare 4 DMZ mode. Players report that a mini DMZ mission also appears in the Modern Warfare 4 campaign.
+Story Missions in Modern Warfare 4 DMZ are narrative objectives that feature designated spawn locations and unlock needed crafting recipes. Players report that these missions can be attempted solo.
 
 ## How do you start it?
 
-Story Missions can be attempted solo, according to player reports.
+Story Mission Matchmaking is available in Modern Warfare 4 DMZ to begin these encounters. Players reported on 29 Oct 2026 that Story Mission Matchmaking had been patched. Players reported on 24 Oct 2026 that distinct spawn locations exist for each Story Mission across Modern Warfare 4 DMZ. On 29 Oct 2026, players reported that mission spawns had become more consistently dynamic and free-roaming. Players subsequently reported on 31 Oct 2026 that Story Missions were reverted to launch settings. Entering Story Missions can also reduce the overall number of players in a DMZ match. Additionally, players report that a mini DMZ mission appears in the Modern Warfare 4 campaign.
 
-Players report that Story Mission Matchmaking is available in Modern Warfare 4 DMZ.
+## What story missions are available?
 
-Story Mission Matchmaking in Modern Warfare 4 DMZ has been patched, as reported by players.
+Specific Story Missions reported by players include:
 
-Specific spawn locations exist for each Story Mission in Modern Warfare 4 DMZ.
-
-Players reported on 29 Oct 2026 that story mission spawns became more consistently dynamic and free roam.
-
-Players reported on 31 Oct 2026 that Story Missions were reverted to launch settings.
-
-Known Story Missions reported by players include Operation Critical Extraction and The Iron Citadel Story Mission.
+* Operation Critical Extraction
+* The Iron Citadel
 
 ## Rewards
 
-Players report that Story Missions in Modern Warfare 4 DMZ unlock needed crafting recipes.
+Players report that completing Story Missions in Modern Warfare 4 DMZ unlocks needed crafting recipes.
 
-_Generated from 0 confirmed and 12 reported claims across 12 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 0 confirmed and 13 reported claims across 13 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

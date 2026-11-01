@@ -5,11 +5,17 @@ description: "A Legendary kit in its own loadout slot that gets you back up alon
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30]
+sources: [clm_5db19b612151, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30]
 aliases: ["self revive", "self-revive", "self rez", "Self Revive Kit", "SRK"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+The Self-Revive Kit is an item relevant to player survival encounters. Players track combat interactions involving high-damage attacks that instantly down or eliminate equipped combatants.
+
+## How does armor protect against lethal hits?
+
+* Players report that an enemy can down or eliminate a target in a single hit even while wearing a 3-plate armor vest.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

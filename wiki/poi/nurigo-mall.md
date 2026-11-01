@@ -5,14 +5,28 @@ description: "Shopping district in northeast Hajin City (East Medium, West High)
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-keys-2026-10-31, src-dmzhub-missions-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-solo-vault-run-2026-10-25, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-mw4-launch-patch-notes-2026-10-29, src-dmztracker-dynamic-side-ops-2026-10-20, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-allthingshow-dmz-orders-2026-10-31]
+sources: [clm_5df2b920941a, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-keys-2026-10-31, src-dmzhub-missions-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-solo-vault-run-2026-10-25, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-mw4-launch-patch-notes-2026-10-29, src-dmztracker-dynamic-side-ops-2026-10-20, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-allthingshow-dmz-orders-2026-10-31]
 aliases: ["NuriGO", "NuriGO East", "NuriGO West", "underground mall", "City Hall", "Han-Go Korean BBQ", "Coin Mining Den", "Jang-Ui's Converted Power Room", "Shopping DRC Locker", "DRC Labs"]
 region: "northeast Hajin City (former SK)"
 danger: "medium (west: high)"
 loot_profile: urban
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+The NuriGO Mall is a point of interest in Modern Warfare 4 DMZ. Players navigate to the location during matches, though it can be overtaken as radiation spreads.
+
+## Where is it?
+
+Players report that NuriGO Mall is located within Modern Warfare 4 DMZ.
+
+## What loot is there?
+
+Loot details for NuriGO Mall have not been reported.
+
+## How dangerous is it?
+
+Players report that NuriGO Mall can be affected by spreading radiation.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -5,12 +5,18 @@ description: "The last way out of a deployment: after the 30-minute radiation ti
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-gamerfuzion-orders-page-14-2026-10-30, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-hajin-gameplay-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23]
+sources: [clm_0b63df977b11, src-dmzhub-maps-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-gamerfuzion-orders-page-14-2026-10-30, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-hajin-gameplay-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23]
 aliases: ["last exfil", "final extraction", "white exfil", "exfil after radiation"]
 method: helicopter
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Final exfil is an extraction method in DMZ that uses a white helicopter to complete missions. It serves as a necessary extraction objective for specific mission requirements.
+
+## What missions require final exfil?
+
+* Players report that one DMZ mission requires exfiltrating with the white helicopter three times.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

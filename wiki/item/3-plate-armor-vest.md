@@ -5,11 +5,17 @@ description: "The basic three-plate vest: a DMZ level 37 reward (granted properl
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-conquestcapped-dmz-keys-2026-10-28]
+sources: [clm_8f5238d9722b, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-conquestcapped-dmz-keys-2026-10-28]
 aliases: ["3 plate vest", "three plate vest", "3-plate vest", "3 plate armor", "3-Plate Armour Vest", "level 37 vest"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+The 3-Plate Armor Vest is a protective gear item that players equip for added defense. Knowing its damage limits is critical in combat encounters.
+
+## Can a 3-Plate Armor Vest stop single-hit downs?
+
+* Players report that a 3-Plate Armor Vest does not prevent being downed by a single tap from another player.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->
