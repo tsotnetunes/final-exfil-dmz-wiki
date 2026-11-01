@@ -5,18 +5,18 @@ description: "DMZ's launch week brought server crashes and disconnects that cost
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_fd065cd2a969, src-gfinity-dmz-tech-issues-2026-10-22, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-activision-pc-specs-2026-09-29]
+sources: [clm_fd065cd2a969, clm_ca6990fa1a25, src-gfinity-dmz-tech-issues-2026-10-22, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-activision-pc-specs-2026-09-29]
 aliases: ["server crash", "server crashes", "crash", "crashes", "disconnect", "disconnects", "disconnected", "lost loot", "loot loss", "lost gear after crash", "rejoin", "reconnect", "lag", "performance", "120 FPS", "VRR", "Performance Mode", "network error", "Visibility and Graphics", "graphics"]
 ---
 <!-- generated:start -->
-Server and performance problems can disrupt active matches and penalize players. In Modern Warfare 4 DMZ, network and hardware instability can strip away an active character's loadout and progress.
+Server and performance problems in Modern Warfare 4 DMZ can disrupt matches and cause players to lose their active operators. These technical issues lead to sudden match removals or failed extractions.
 
-## What happens when system lag occurs?
+## What happens when crashes or lag occur?
 
-* Players report that system lag can cause a player to be kicked from a DMZ match.
-* Getting kicked due to system lag reportedly results in the loss of the player's operator.
+* System lag can kick a player from a DMZ match, which players report causes the loss of their operator.
+* When the game crashes during extraction and a player rejoins, players report that the operator is dead.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

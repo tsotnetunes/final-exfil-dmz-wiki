@@ -5,11 +5,15 @@ description: "Retired: no DMZ time-to-kill figures exist yet; what is known abou
 status: deprecated
 brain_status: retired
 sensitivity: public
-sources: [clm_c9cde54a465d, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_c9cde54a465d, clm_3b0070799ba7, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["TTK"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Time to Kill (TTK) measures the duration required to eliminate an opponent in DMZ combat encounters. Players track this mechanic to gauge weapon effectiveness and survival expectations during firefights.
+
+* Players report that the Time to Kill in DMZ is way too fast.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->
