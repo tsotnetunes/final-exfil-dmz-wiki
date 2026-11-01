@@ -11,31 +11,33 @@ mission_kind: story
 steps: "7 missions in 3 tiers"
 ---
 <!-- generated:start -->
-Story Missions in Modern Warfare 4 DMZ are narrative objectives that feature designated spawn locations and unlock needed crafting recipes. Players report that these assignments can be attempted solo.
+Story Missions in Modern Warfare 4 DMZ are playable narrative objectives that unlock needed crafting recipes.
 
 ## How do you start it?
 
-Players can access these assignments through Story Mission Matchmaking in Modern Warfare 4 DMZ.
+Players report that each Story Mission has dedicated spawn locations in Modern Warfare 4 DMZ.
 
-Players reported that Story Mission Matchmaking was patched on 29 Oct 2026.
+Players reported on 29 Oct 2026 that Story Mission spawns had become more consistently dynamic or free roam.
 
-Players also reported on 29 Oct 2026 that mission spawns had become more consistently dynamic and free-roaming.
+Players reported on 31 Oct 2026 that Story Missions were reverted to launch settings.
 
-On 31 Oct 2026, players reported that Story Missions were reverted to launch settings.
+Story missions in Modern Warfare 4 DMZ can be attempted solo.
 
-Selecting Story Missions can reduce the total number of players present in a Modern Warfare 4 DMZ match.
+Story Mission Matchmaking is available in Modern Warfare 4 DMZ.
 
-Separate from the main extraction mode, the Modern Warfare 4 campaign features a mini DMZ mission.
+Players reported on 29 Oct 2026 that Story Mission Matchmaking in Modern Warfare 4 DMZ had been patched.
 
-Known Story Missions reported by players include:
-* Operation Critical Extraction
-* The Iron Citadel Story Mission
+Using Story Missions can reduce the number of players in a Modern Warfare 4 DMZ match, according to player reports.
+
+The Iron Citadel Story Mission is an example of a story mission in Modern Warfare 4 DMZ.
+
+A mini DMZ mission is also reported to feature in the Modern Warfare 4 campaign.
 
 ## Rewards
 
-Completing Story Missions in Modern Warfare 4 DMZ unlocks needed crafting recipes.
+Players report that completing Story Missions unlocks needed crafting recipes.
 
-_Generated from 0 confirmed and 13 reported claims across 13 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 0 confirmed and 12 reported claims across 12 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->
