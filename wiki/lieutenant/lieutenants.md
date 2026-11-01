@@ -5,42 +5,38 @@ description: "Every DMZ Lieutenant: where each of the ten in Hajin fights, the g
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_e9f8c69f2b20, clm_11c4521ef65f, clm_133be03ad563, clm_ac4a74fc6342, clm_0892055f6578, clm_010cca1f3297, clm_8e41bf518b21, clm_5743b50c7983, clm_c101e44b551c, clm_c305b5549cf0, clm_8954c5cec1aa, clm_0b485450cfd7, clm_3ca7ca230411, clm_b8b5f14e0d0b, clm_a3da7d8d1c6b, clm_d4fd037c4591, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-allthingshow-hunter-order-2026-10-21, src-allthingshow-the-doctor-2026-10-21, src-allthingshow-bale-2026-10-21, src-allthingshow-chemist-2026-10-21, src-allthingshow-roze-2026-10-21, src-allthingshow-scavenger-2026-10-21, src-allthingshow-warden-2026-10-21, src-xboxplay-warden-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-dexerto-doctors-command-office-key-2026-10-22, src-dexerto-jang-ui-power-room-2026-10-24, src-gamerfuzion-boss-board-explained-2026-10-12, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-dmzhub-keys-2026-10-31, src-codmunity-hajin-map-2026-10-31, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-keys-2026-10-28, src-xboxplay-dmz-keys-2026-10-22, src-codcentral-dmz-orders-2026-10-21]
+sources: [clm_e9f8c69f2b20, clm_11c4521ef65f, clm_133be03ad563, clm_ac4a74fc6342, clm_0892055f6578, clm_010cca1f3297, clm_8e41bf518b21, clm_5743b50c7983, clm_c101e44b551c, clm_c305b5549cf0, clm_8954c5cec1aa, clm_0b485450cfd7, clm_3ca7ca230411, clm_b8b5f14e0d0b, clm_a3da7d8d1c6b, clm_d4fd037c4591, clm_f9ef1b16d78e, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-allthingshow-hunter-order-2026-10-21, src-allthingshow-the-doctor-2026-10-21, src-allthingshow-bale-2026-10-21, src-allthingshow-chemist-2026-10-21, src-allthingshow-roze-2026-10-21, src-allthingshow-scavenger-2026-10-21, src-allthingshow-warden-2026-10-21, src-xboxplay-warden-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-dexerto-doctors-command-office-key-2026-10-22, src-dexerto-jang-ui-power-room-2026-10-24, src-gamerfuzion-boss-board-explained-2026-10-12, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-dmzhub-keys-2026-10-31, src-codmunity-hajin-map-2026-10-31, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-keys-2026-10-28, src-xboxplay-dmz-keys-2026-10-22, src-codcentral-dmz-orders-2026-10-21]
 aliases: ["bosses", "lieutenant", "Lieutenant Hunt", "boss locations", "all bosses", "LT", "Lieutenant Dog Tag", "Knuckle", "Tae-Hyun", "The Wrench", "Chol-Min", "Lieutenant Hunt tower", "Lieutenant locations", "boss locations map", "boss map", "where are the bosses", "all Lieutenants", "where to find each Lieutenant", "Lieutenant weapons", "Lieutenant legendary weapons", "boss weapons"]
 weapon: unique per Lieutenant (see table)
 location: fixed territories in Hajin; the Scavenger roams
 drops: Legendary dog tag, their weapon, sometimes a key
 ---
 <!-- generated:start -->
-Lieutenants are hostile bosses encountered in DMZ.
+Lieutenants are hostile bosses encountered across deployments in Modern Warfare 4 DMZ.
 
-Players report that the roster of Lieutenants includes several named targets:
+Players report that several named figures serve as Lieutenant bosses in Modern Warfare 4 DMZ:
 
 | Name | Alias | Role |
 | --- | --- | --- |
-| Iskra | N/A | Lieutenant Boss |
-| Jang-Ui | N/A | Lieutenant Boss |
-| Jin Tae (JIN-TAE) | N/A | Lieutenant Boss |
-| Tae-Hyun | Knuckle | Lieutenant |
 | Chol-Min | The Wrench | Lieutenant |
-
-Players report that Tae-Hyun and Chol-Min act as dangerous adversaries during DMZ deployments.
+| Iskra | None | Lieutenant |
+| Jang-Ui | None | Lieutenant |
+| Jin Tae | None | Lieutenant |
+| Tae-Hyun | Knuckle | Lieutenant |
 
 ## Where does it appear?
 
-Lieutenants can be found at the reactor location, as reported by players.
-
-Players also report that a lieutenant appears near the end of DMZ story missions.
+Lieutenants can be found at the reactor location, as reported by players. A lieutenant also appears near the end of story missions in Modern Warfare 4 DMZ. Players have reported instances where a lieutenant spawned directly on a player and downed them.
 
 ## How does it fight?
 
-Players report that landing headshots against Lieutenants is an effective strategy to shred them.
+Lieutenants act as dangerous adversaries during deployments in Modern Warfare 4 DMZ. Players report that landing headshots against lieutenants is an effective strategy to shred them.
 
 ## What does it drop?
 
-Lieutenants drop dog tags in DMZ, according to player reports.
+Lieutenants drop dog tags when eliminated in Modern Warfare 4 DMZ, according to player reports.
 
-_Generated from 0 confirmed and 13 reported claims across 11 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 0 confirmed and 14 reported claims across 12 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->
