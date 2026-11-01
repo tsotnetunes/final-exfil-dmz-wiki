@@ -5,17 +5,17 @@ description: "You become Wanted at four player kills: nearby Operators get an al
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_8c1bbf558597, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-dmz-guide-2026-10-24, src-thexclusiveace-bounty-video-2026-10-12]
+sources: [clm_8c1bbf558597, clm_0873af25017e, clm_78736c3e7fe4, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-dmz-guide-2026-10-24, src-thexclusiveace-bounty-video-2026-10-12]
 aliases: ["Wanted", "Most Wanted", "Wanted level", "how to stop being Wanted"]
 ---
 <!-- generated:start -->
-Wanted status is a gameplay condition that targets players who eliminate opposing participants. 
-
-## How do players get Wanted status?
+Wanted status is a gameplay mechanic that marks players who eliminate rival Operators. It tracks targets for other combatants and carries implications across matches.
 
 * Players can become Wanted by taking down rival Operators, confirmed on 9 Oct 2026.
+* Players report that Wanted status in DMZ activates when a player has a $25,000 bounty.
+* Players report that once a player has Wanted status, kills count across multiple DMZ matches.
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

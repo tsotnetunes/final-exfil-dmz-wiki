@@ -5,24 +5,29 @@ description: "Every Operator wears a Dog Tag that levels from Steel I to Onyx II
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_1dda32204130, clm_ac70379c09b8, clm_f8c43f6e8da8, clm_60f9fe17bb96, clm_ca3b3330e405, clm_d969dea9faf7, clm_38e02dbbc57d, clm_6155f83bd127, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-activision-ready-for-launch-progression-2026-10-19, src-cod-dmz-bounty-systems-video-2026-10-08, src-mw4-launch-patch-notes-2026-10-29, src-allthings-how-solo-money-2026-10-21, src-allthingshow-the-doctor-2026-10-21, src-allthingshow-dmz-story-missions-2026-10-31, src-allthingshow-boss-board-2026-10-21, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28]
+sources: [clm_1dda32204130, clm_ac70379c09b8, clm_f8c43f6e8da8, clm_60f9fe17bb96, clm_ca3b3330e405, clm_d969dea9faf7, clm_38e02dbbc57d, clm_6155f83bd127, clm_df07eb50d24d, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-activision-ready-for-launch-progression-2026-10-19, src-cod-dmz-bounty-systems-video-2026-10-08, src-mw4-launch-patch-notes-2026-10-29, src-allthings-how-solo-money-2026-10-21, src-allthingshow-the-doctor-2026-10-21, src-allthingshow-dmz-story-missions-2026-10-31, src-allthingshow-boss-board-2026-10-21, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28]
 aliases: ["dog tag", "Operator Dog Tag", "Lieutenant Dog Tag Case", "boss dog tags", "Steel Dog Tag", "tag rarity", "Lieutenant dog tag value", "how much is a Lieutenant dog tag worth", "First Lieutenant Takedowns"]
 ---
 <!-- generated:start -->
-Dog Tags are collectible player items that yield rewards upon extraction. Extracting with the Dog Tags of Wanted players rewards DMZ Cash.
+Dog Tags are collectible extraction items in Modern Warfare 4 DMZ that reward DMZ Cash when extracted from Wanted players. Managing collected tags revolves around the Dog Tag Case station located in the Forward Operating Base (FOB).
 
-* Players are reported to be able to carry lieutenant tags in DMZ.
-* An issue on 27 Oct 2026 caused some PC players to encounter a network error when extracting with a Dog Tag.
+* Extracting with the Dog Tags of Wanted players rewards DMZ Cash, confirmed on 9 Oct 2026.
+* Players report that the Dog Tag Case unlocks at DMZ Level 20.
+* Players report being able to carry lieutenant tags in DMZ.
 
-## Where is the Dog Tag Case found?
+## Where is the Dog Tag Case located?
 
-* The Dog Tag Case station is located in the FOB.
-* Players are reported to unlock the Dog Tag Case at DMZ Level 20.
-* An error when opening the Dog Tag Case station in the FOB made it inaccessible for some players on 21 Oct 2026.
-* Later on 21 Oct 2026, it was confirmed that players can access the Dog Tag Case in the FOB.
-* Players reported that the Dog Tag Case in DMZ was fixed in an update to Modern Warfare 4 on 21 Oct 2026.
+* The Dog Tag Case station is located in the FOB, confirmed on 21 Oct 2026.
+* Players can access the Dog Tag Case in the FOB, confirmed on 21 Oct 2026.
 
-_Generated from 5 confirmed and 3 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-29._
+## What issues affect Dog Tags?
+
+* An error when opening the Dog Tag Case station in the FOB made it inaccessible for some players, confirmed on 21 Oct 2026.
+* Players reported on 21 Oct 2026 that the Dog Tag Case in DMZ was fixed in the latest update to Modern Warfare 4.
+* An issue caused some PC players to encounter a network error when extracting with a Dog Tag, confirmed on 27 Oct 2026.
+* Players reported on 1 Nov 2026 that a bug in DMZ involves bounty payouts for dog tags.
+
+_Generated from 5 confirmed and 4 reported claims across 8 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

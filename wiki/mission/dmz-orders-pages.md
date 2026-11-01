@@ -5,19 +5,19 @@ description: "Every DMZ Orders page outside the five chapters (pages 1, 4, 7, 10
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_2e1526a65f69, src-codcentral-dmz-orders-2026-10-21, src-dmzmap-dmz-orders-2026-10-31, src-dmzhub-orders-2026-10-31, src-game8-dmz-orders-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-pcgamer-dynamic-op-phone-2026-10-21, src-patchcrazy-crashed-crate-2026-10-22, src-dtgre-dmz-ops-guides-2026-10-21, src-codmunity-dmz-missions-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-dtgre-dmz-radar-truck-2026-10-25]
+sources: [clm_2e1526a65f69, clm_285eea02f847, src-codcentral-dmz-orders-2026-10-21, src-dmzmap-dmz-orders-2026-10-31, src-dmzhub-orders-2026-10-31, src-game8-dmz-orders-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-pcgamer-dynamic-op-phone-2026-10-21, src-patchcrazy-crashed-crate-2026-10-22, src-dtgre-dmz-ops-guides-2026-10-21, src-codmunity-dmz-missions-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-dtgre-dmz-radar-truck-2026-10-25]
 aliases: ["First Orders", "Orders page 1", "page 4 orders", "page 19 orders", "Gear Up", "Crackshot", "First Op", "Operation Rewards", "Preparation", "Work Quietly", "Recognition", "Radiation Station", "Healer", "Crashed Crate", "Surprise Me", "Information Power", "Arms Deal", "Friendly Face", "Lethal Tools", "Committed", "Nothing Is Secure", "Fire Insurance", "Quiet", "Mechanic", "How Bulletproof?", "Abandoned", "Locksmith", "Avionics", "Philanthropist", "Multi-Talented", "Ears Everywhere", "The Vault", "Massive Damage", "Hard Carry", "Stalking the Stalker", "DRC", "Unstoppable", "Astronaut", "Rule of Three", "Temp Job", "High Quality Loot", "You Won't See Me", "Upper Class", "what each DMZ Order asks for", "every DMZ Order", "DMZ Orders list", "Orders tablet pages"]
 mission_kind: order
 steps: "14 pages, 42 Orders"
 ---
 <!-- generated:start -->
-DMZ Orders pages provide mission steps that reward cash upon completion.
+DMZ Orders pages consist of 24 pages in the game, as reported by players.
 
-## What rewards do DMZ Orders steps give?
+## What rewards do they give?
 
-Players report that mission step rewards increased from $300 to $500 per completed step.
+Players report that rewards for completing mission steps increased from $300 to $500 per completed step on 31 Oct 2026.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

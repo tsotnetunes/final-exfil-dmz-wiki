@@ -5,21 +5,21 @@ description: "Season 1 assault rifle arriving 6 Nov 2026 at Battle Pass tier 16,
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_da1b7f67fba5, clm_3152fc2ad15c, clm_0d810f25199a, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-gunsmith-2026-10-29, src-dmzhub-weapons-2026-10-31]
+sources: [clm_da1b7f67fba5, clm_3152fc2ad15c, clm_0d810f25199a, clm_efdd5ffe80d3, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-gunsmith-2026-10-29, src-dmzhub-weapons-2026-10-31]
 aliases: ["Cronen Osprey", "Osprey", "Osprey AR", "Cronen Helix Mk. II", "Cronen Helix", "new Season 1 AR"]
 class: "Assault rifle"
 manual_source: "not confirmed"
 ---
 <!-- generated:start -->
-The Cronen Osprey assault rifle is an assault rifle.
+The Cronen Osprey assault rifle manual source is not known.
 
 ## What is it?
-
-Players report that the Cronen Osprey assault rifle is added in the update.
+The Cronen Osprey assault rifle is an assault rifle.
 
 ## How do you get it?
+Players report that the Osprey is free in Season 1.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->
