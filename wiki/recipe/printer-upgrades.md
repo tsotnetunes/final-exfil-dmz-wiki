@@ -5,11 +5,19 @@ description: "Every FOB upgrade you build at the MW4 DMZ 3D Printer, level by le
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-upgrades-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-allthingshow-dmz-crafting-guides-2026-10-21, src-xboxplay-dmz-crafting-guides-2026-10-23, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-vgtimes-dmz-3d-printer-2026-10-27, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24]
+sources: [clm_aa158a74c396, src-dmzhub-upgrades-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-allthingshow-dmz-crafting-guides-2026-10-21, src-xboxplay-dmz-crafting-guides-2026-10-23, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-vgtimes-dmz-3d-printer-2026-10-27, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24]
 aliases: ["FOB upgrades", "printer upgrades", "upgrade costs", "Bank Upgrade", "Stash Item Upgrade", "Stash Weapon Upgrade", "MIA Recovery Discount", "Gunsmith Upgrade", "Vendor Item Upgrade", "Dog Tag Case Upgrade", "Bank limit", "how to increase stash space", "stash upgrade cost"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+3D Printer upgrades include a final bank upgrade in DMZ that lets you hold 2 billion in cash according to player reports.
+
+## What does it need?
+Costs and materials for 3D Printer upgrades are not reported.
+
+## How do you print it?
+Printing steps for 3D Printer upgrades are not reported.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->
