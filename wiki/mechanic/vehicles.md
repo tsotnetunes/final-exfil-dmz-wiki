@@ -5,20 +5,24 @@ description: "Every DMZ vehicle from the Camper to the Monarch: which ones you d
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9ccc2ae5bb3c, clm_040680c6c92c, clm_72df424759dc, clm_d9b59956c081, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-vehicles-2026-10-06, src-conquestcapped-dmz-guide-2026-10-26, src-xboxplay-dmz-tank-2026-10-28, src-dtgre-dmz-radar-truck-2026-10-25, src-gamingtrend-dmz-interview-2026-06-06, src-dmzhub-vehicles-2026-10-31, src-allthingshow-dmz-dreadnought-2026-10-21, src-allthingshow-dmz-watch-for-bumps-2026-10-21, src-codmunity-dmz-traits-2026-10-30]
+sources: [clm_9ccc2ae5bb3c, clm_040680c6c92c, clm_72df424759dc, clm_d9b59956c081, clm_f7b668517728, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-vehicles-2026-10-06, src-conquestcapped-dmz-guide-2026-10-26, src-xboxplay-dmz-tank-2026-10-28, src-dtgre-dmz-radar-truck-2026-10-25, src-gamingtrend-dmz-interview-2026-06-06, src-dmzhub-vehicles-2026-10-31, src-allthingshow-dmz-dreadnought-2026-10-21, src-allthingshow-dmz-watch-for-bumps-2026-10-21, src-codmunity-dmz-traits-2026-10-30]
 aliases: ["vehicle", "car", "cars", "boat", "boats", "helicopter", "Camper", "Sedan", "Grizzly", "Dreadnought", "Aston Martin Dreadnought", "Polaris Dagor A1", "Polaris DAGOR", "LTV", "Cargo Truck", "D50 Radar Flatbed", "Radar Truck", "Train", "Tram", "RHIB", "Armored Patrol Boat", "Heli", "Little Bird", "Heavy Chopper", "Monarch", "Cargo Plane", "tank", "Gas Station", "Marine Gas Station", "Gas Can", "fuel", "refuel", "AI cars", "vehicle repair parts", "steal a vehicle", "enemy vehicles"]
 ---
 <!-- generated:start -->
-Vehicles provide transportation and combat interactions across DMZ. Players encounter them as functional world elements, extraction transports, and environmental hazards operated by AI.
+Vehicles in Modern Warfare 4 DMZ are transport options and hazards that players and AI encounter across the map. Understanding vehicle interactions matters because collisions can eliminate players or cause unusual positioning during matches.
 
-## What vehicle interactions occur in DMZ?
+## How do vehicles interact with players?
 
-* Players report that hitting another player with a car can cause the struck player to become a hood ornament.
-* Players report that a train exists in DMZ.
-* Players report that the white exfil helicopter takes 40 minutes to exfil.
+* Players report that hitting another player with a car can cause them to become a hood ornament.
+* Players report that drivers can kill other players at exfil by running them over with a vehicle.
 * Players report that AI can drive vehicles through boxes and hit players.
 
-_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-11-01._
+## What vehicles are found in the match?
+
+* Players report that there is a train in Modern Warfare 4 DMZ.
+* Players report that the white exfil helicopter takes 40 minutes to exfil.
+
+_Generated from 0 confirmed and 5 reported claims across 5 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->

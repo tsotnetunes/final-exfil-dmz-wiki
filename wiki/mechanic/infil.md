@@ -5,11 +5,18 @@ description: "How a DMZ deployment starts: pick a mission type at Deploy, ready 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-codmunity-dmz-guide-2026-10-24, src-codmunity-hajin-map-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-dmzhub-vehicles-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-altchar-dmz-story-missions-2026-10-22, src-dtgre-dmz-infil-costs-2026-10-22]
+sources: [clm_f7793beb198d, clm_7810f2c80bd0, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-codmunity-dmz-guide-2026-10-24, src-codmunity-hajin-map-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-dmzhub-vehicles-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-altchar-dmz-story-missions-2026-10-22, src-dtgre-dmz-infil-costs-2026-10-22]
 aliases: ["infiltration", "deploying", "how to deploy", "drop in", "spawn", "spawning", "spawn point", "Ready Up", "Free Loadout", "infil options"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Infil is the process of deploying into DMZ matches where players spawn into the map. Deployment matters because it determines initial gear retention and starting position.
+
+## What issues occur during infil?
+
+* Players report a bug in DMZ that causes them to lose weapons when deploying.
+* Power Regulator spawn areas are reported to be marked on the DMZHUB interactive map of Hajin.
+
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-01._
 <!-- generated:end -->
 
 <!-- human:start -->
