@@ -9,29 +9,26 @@ sources: [clm_3a8e17bcc079, clm_a9fba1b8bb2f, clm_23d4f9bb7b2b, clm_f1b717014ef6
 aliases: ["Camo grind", "Serpentine camo", "Mastery camos", "Chiral", "Ripple Tide", "Helio", "DMZ Mastery", "DMZ calling cards", "Divergence"]
 ---
 <!-- generated:start -->
-DMZ camos and the camo hunt involve a progression grind that allows players to unlock weapon cosmetics in Modern Warfare 4 DMZ. It was confirmed on 28 Oct 2026 that DMZ camos and the camo hunt involve a grind.
+DMZ camos and the camo hunt involve a progression grind that lets players unlock weapon cosmetics through specific mode objectives. Players can engage in camo grinding during DMZ Early Access, as confirmed on 18 Oct 2026.
 
-* Camo grinding in DMZ Early Access was confirmed on 18 Oct 2026.
-* Players report that camo grinding is available in DMZ.
-* Players report that War Spoils camo is available for the Patriot XMR.
-* Players report that War Spoils camo is available for the Hyeon Burst.
-* Players report that Monster Energy skins can be used in DMZ if unlocked by redeeming codes from Modern Warfare 4 themed cans.
-* Players report that 2XP tokens unlocked through Monster Energy codes are also available in DMZ.
+## How do players unlock DMZ mastery camos?
 
-## What are the DMZ Mastery Camo requirements?
+Players report several requirements for DMZ Mastery Camos:
 
-Players report the following unlock requirements for mastery and special camos in Modern Warfare 4 DMZ:
+* DMZ Mastery Camos require 2,500 tier 3+ kills.
+* DMZ Mastery Camos require extracting two Lieutenant Dog Tags in a single match 50 times.
+* DMZ Mastery Camos require 25,000 kills using legendary weapons.
+* Players report that the requirement to extract with two Lieutenant tags is not tracking correctly in Modern Warfare 4 DMZ.
 
-| Camo Type | Requirement |
-| --- | --- |
-| DMZ Mastery Camos | 2500 tier 3+ kills |
-| DMZ Mastery Camos | 25,000 kills using legendary weapons |
-| DMZ Mastery Camos | Extracting 2 Lieutenant Dog Tags in a single match 50 times |
-| Special camos | 125 Silenced kills in DMZ |
+## Which other camos and rewards can be unlocked?
 
-Players report that the camo requiring extraction with 2 LT tags is not tracking correctly in DMZ MW4.
+* Special camos require 125 silenced kills in DMZ according to player reports.
+* The War Spoils camo is reported by players to be available on both the Patriot XMR and the Hyeon Burst.
+* Players report that the Divergence camo can be unlocked in Modern Warfare 4.
+* Monster Energy skins can be used in DMZ if unlocked by redeeming codes from Modern Warfare 4 themed cans.
+* Double XP tokens can also be unlocked through Monster Energy codes and used in DMZ.
 
-_Generated from 2 confirmed and 10 reported claims across 11 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 2 confirmed and 11 reported claims across 12 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->
