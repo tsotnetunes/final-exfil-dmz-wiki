@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-vandal-split-screen-2026-10-21, src-gameoverdrive-split-screen-2026-11-02, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["DMZ split screen", "split-screen DMZ", "local co-op DMZ", "couch co-op DMZ", "two players one console DMZ", "MW4 split screen"]
-stale_after: 2027-02-01
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

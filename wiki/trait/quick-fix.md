@@ -13,7 +13,11 @@ tier: "Major, row 6"
 <!-- generated:start -->
 The Quick Fix trait provides faster health regeneration, as reported by players.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-30._
+## What does Quick Fix do?
+
+Players report that the Quick Fix trait grants faster health regeneration.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->

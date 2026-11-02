@@ -1,25 +1,28 @@
 ---
 type: poi
 title: "Zodiac"
-description: "Zodiac is reported by players to be intended for Resurgence."
+description: "Zodiac is a point of interest reported by players for Resurgence."
 status: draft
 brain_status: candidate
 sensitivity: public
-sources: [clm_86c4e4cfc94a]
+sources: [clm_86c4e4cfc94a, clm_221bbec35377]
 ---
 <!-- generated:start -->
-Players report that Zodiac is intended for Resurgence.
+Zodiac is a point of interest reported by players for Resurgence.
 
 ## Where is it?
-Players report that Zodiac serves the Resurgence mode.
+
+Players report that Zodiac is located in Resurgence.
 
 ## What loot is there?
-The available sources do not state what loot appears at Zodiac.
+
+No loot details are currently documented for Zodiac.
 
 ## How dangerous is it?
-The available sources do not state the danger level of Zodiac.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
+No danger information is currently documented for Zodiac.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->

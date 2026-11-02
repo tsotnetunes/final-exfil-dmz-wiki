@@ -5,18 +5,18 @@ description: "An Ultra valuable worth 25,000 DMZ Cash, paid by Operation Silent 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_2140d9f4cd1c, clm_4903d57a964d, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-gfinity-story-mission-rewards-2026-10-23, src-gamerfuzion-solo-vault-run-2026-10-25]
+sources: [clm_2140d9f4cd1c, clm_4903d57a964d, clm_2e36a70a9441, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-gfinity-story-mission-rewards-2026-10-23, src-gamerfuzion-solo-vault-run-2026-10-25]
 aliases: ["Gold Bars", "gold", "gold bar value", "red tier gold"]
 ---
 <!-- generated:start -->
-The Gold Bar is a red tier item needed for late-game progression. Players report that five Gold Bars are required for end game FOB upgrades.
+The Gold Bar is a red tier item that players need for upgrading their Forward Operating Base.
 
 ## What is the Gold Bar used for?
 
 * Gold Bar is reported by players to be a red tier item.
 * Players report that five Gold Bars are required for end game FOB upgrades.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->

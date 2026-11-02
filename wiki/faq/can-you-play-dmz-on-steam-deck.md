@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-timesaver-steam-deck-2026-09-26, src-activision-pc-specs-2026-09-29, src-activision-tpm-secure-boot-2026-10-21]
 aliases: ["Steam Deck DMZ", "MW4 Steam Deck", "Modern Warfare 4 on Steam Deck", "ROG Ally DMZ", "handheld PC DMZ", "Legion Go DMZ", "SteamOS DMZ", "Proton MW4"]
-stale_after: 2027-02-01
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

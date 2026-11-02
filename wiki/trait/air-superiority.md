@@ -11,15 +11,15 @@ tree: Survivalist
 tier: "Minor, random slot"
 ---
 <!-- generated:start -->
-The Air Superiority trait causes SAM sites and UAV towers to remain captured for a longer duration, according to player reports.
+Air Superiority increases the duration that captured SAM sites and UAV towers stay under player control, as reported by players.
 
 ## What does Air Superiority do?
 
-Players report that Air Superiority extends the time that captured SAM sites remain held.
+Air Superiority causes captured SAM sites to remain captured for a longer duration, as reported by players.
 
-Players also report that Air Superiority extends the capture duration of UAV towers.
+Captured UAV towers also remain captured for longer with this trait, according to player reports.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->

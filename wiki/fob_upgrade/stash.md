@@ -5,7 +5,7 @@ description: "FOB storage shared by all your Operators: 40 items and 12 weapons 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_fe49071395d4, clm_52ae1fb94e2f, clm_972cffa0bd29, clm_cd43cdd0d14f, clm_1d5b2eabae74, clm_112b93b311ed, clm_4fd0c7201984, clm_9ac6093a89c7, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, clm_d30c83263497]
+sources: [clm_fe49071395d4, clm_52ae1fb94e2f, clm_972cffa0bd29, clm_cd43cdd0d14f, clm_1d5b2eabae74, clm_112b93b311ed, clm_4fd0c7201984, clm_9ac6093a89c7, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Stash/Loadout", "Loadout", "stash space", "stash size", "how big is the stash", "Overflow Stash", "stash upgrade", "weapon stash", "Stash Weapon III", "Stash Weapon Upgrade resets"]
 station: stash
 unlock: start

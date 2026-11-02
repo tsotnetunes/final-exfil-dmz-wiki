@@ -9,14 +9,14 @@ sources: [clm_1f0839d8acfd, clm_564a296f18a5, clm_08be82df1e9a, clm_16b6ee610da3
 aliases: ["server-side culling", "anti-wallhack", "wallhack protection", "wallhacks", "occlusion culling"]
 ---
 <!-- generated:start -->
-Server Culling is an anti-cheat mechanic introduced in Modern Warfare 4 to fight cheating. It affects matches by providing a new method to combat dishonest play across supported modes.
+Server Culling is a cheating prevention measure introduced in Modern Warfare 4. It provides a method to counter cheating in the game.
 
-## How does Server Culling work in matches?
+## Where is Server Culling used?
 
-* Modern Warfare 4 introduces Server Culling as a new way to fight cheating, confirmed on 4 Oct 2026.
+* Modern Warfare 4 uses Server Culling as a new way to fight cheating, confirmed on 4 Oct 2026.
 * Server Culling has been used in DMZ since Day One, confirmed on 30 Oct 2026.
 
-_Generated from 2 confirmed and 0 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 2 confirmed and 0 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->

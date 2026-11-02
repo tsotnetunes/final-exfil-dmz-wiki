@@ -5,7 +5,7 @@ description: "The Bank holds the DMZ Cash shared by all your Operators: about 10
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_06c3db0d22f9, clm_a914cc559257, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-mw4-launch-patch-notes-2026-10-29, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-activision-ready-for-launch-progression-2026-10-19, clm_aa158a74c396, clm_e5fe1043473f]
+sources: [clm_06c3db0d22f9, clm_a914cc559257, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-mw4-launch-patch-notes-2026-10-29, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-activision-ready-for-launch-progression-2026-10-19]
 aliases: ["Bank", "DMZ Bank", "bank cap", "bank capacity", "how much bank space", "Bank Upgrade", "bank limit", "starting bank cap", "max bank"]
 station: bank
 unlock: start

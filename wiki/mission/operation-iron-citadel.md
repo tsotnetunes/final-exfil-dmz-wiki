@@ -5,13 +5,15 @@ description: "Critical-threat Story Mission at Chang-san Air Base, run by Bale: 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_7305266685a7, src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Iron Citadel", "Iron Citadel Story Mission", "air base mission", "Chang-san Air Base mission", "armory code", "Airbase Access Card", "Air Base Armory Card", "Armory Manifest"]
 mission_kind: story
 steps: "14 HUD steps"
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Operation Iron Citadel is a story mission set at the air base. Players report that the Air Base story mission is difficult.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->

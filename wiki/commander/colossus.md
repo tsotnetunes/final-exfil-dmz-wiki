@@ -5,11 +5,17 @@ description: "Roaming Commander: a seven-foot armoured soldier with a depleted-u
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-colossus-2026-10-21, src-xboxplay-colossus-2026-10-22, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31]
+sources: [clm_72b3d4d85f63, clm_35a8cbf4582f, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-colossus-2026-10-21, src-xboxplay-colossus-2026-10-22, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31]
 aliases: ["Colossus Commander", "Armored Commander", "minigun boss", "Collosus", "Colosus", "Goliath"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Colossus is a commander armed with heavy weaponry. Players encounter Colossus as a hostile threat that can attack during team revive attempts.
+
+## What weapon does Colossus use?
+
+* Players report that Colossus uses a minigun.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->

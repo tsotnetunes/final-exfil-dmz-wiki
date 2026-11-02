@@ -5,7 +5,7 @@ description: "DMZ's launch week brought server crashes and disconnects that cost
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_fd065cd2a969, clm_ca6990fa1a25, clm_6458fc835c19, src-gfinity-dmz-tech-issues-2026-10-22, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-activision-pc-specs-2026-09-29, clm_a74cf8c0bd17, clm_0ae88ae7a759, clm_f7793beb198d, clm_9d9df8f6869e]
+sources: [clm_fd065cd2a969, clm_ca6990fa1a25, clm_6458fc835c19, src-gfinity-dmz-tech-issues-2026-10-22, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-activision-pc-specs-2026-09-29]
 aliases: ["server crash", "server crashes", "crash", "crashes", "disconnect", "disconnects", "disconnected", "lost loot", "loot loss", "lost gear after crash", "rejoin", "reconnect", "lag", "performance", "120 FPS", "VRR", "Performance Mode", "network error", "Visibility and Graphics", "graphics", "Server and performance problems", "Security System Exit Glitch", "stuck in security cameras", "stuck holding X camera"]
 ---
 <!-- generated:start -->

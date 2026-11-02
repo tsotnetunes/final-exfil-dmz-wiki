@@ -5,11 +5,17 @@ description: "A Rare 3D Printer ingredient for the 3-Plate Armor Vest, Parachute
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-codmunity-dmz-items-2026-10-26, src-destructoid-dmz-ingredient-guides-2026-10-22, src-codcentral-3d-printer-recipes-2026-10-20, src-dtgre-dmz-crafting-guides-2026-10-24, src-allthingshow-dmz-crafting-guides-2026-10-21, src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-destructoid-nylon-farming-2026-10-23]
+sources: [clm_42d91d60eb76, src-codmunity-dmz-items-2026-10-26, src-destructoid-dmz-ingredient-guides-2026-10-22, src-codcentral-3d-printer-recipes-2026-10-20, src-dtgre-dmz-crafting-guides-2026-10-24, src-allthingshow-dmz-crafting-guides-2026-10-21, src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-destructoid-nylon-farming-2026-10-23]
 aliases: ["Nylon", "nylon cloth farm", "where to find Nylon Cloth"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Nylon Cloth is a material found in Call of Duty: Modern Warfare 4 DMZ mode. Players search for this item during their DMZ runs.
+
+## Where is Nylon Cloth found?
+
+* Players report that Nylon Cloth is available in Call of Duty: Modern Warfare 4 DMZ mode.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->

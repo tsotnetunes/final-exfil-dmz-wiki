@@ -10,13 +10,13 @@ aliases: ["last exfil", "final extraction", "white exfil", "exfil after radiatio
 method: helicopter
 ---
 <!-- generated:start -->
-Final exfil is an extraction method in DMZ that uses a white helicopter to complete missions. It serves as a necessary extraction objective for specific mission requirements.
+Final exfil is an extraction method in DMZ that uses a white helicopter and serves as a specific objective for player progress. Completing this extraction matters for completing designated mission goals within the mode.
 
 ## What missions require final exfil?
 
 * Players report that one DMZ mission requires exfiltrating with the white helicopter three times.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->

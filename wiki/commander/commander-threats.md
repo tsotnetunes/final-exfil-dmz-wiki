@@ -9,25 +9,25 @@ sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db
 aliases: ["Commanders", "Commander", "The Captain", "Captain", "Wheelson", "Juggernaut", "Elite Strike Team", "drone swarm", "King Slayer", "King Slayer calling card", "commander bosses", "roaming commanders"]
 ---
 <!-- generated:start -->
-Commander threats are hostile boss targets encountered during matches that yield specific rewards and require targeted tactics to eliminate. Knowing their behaviors and counters allows players to defeat them efficiently.
-
-## Which commander threats appear in the field?
+Commander threats are powerful hostile targets encountered in DMZ that offer high-tier rewards and unique combat challenges. Knowing the capabilities and specific counters for each commander helps players defeat them efficiently.
 
 * The Captain was confirmed on 28 Oct 2026 to be a Juggernaut accompanied by his elite guard.
 * Wheelson was confirmed on 28 Oct 2026 to be an autonomous patrolling commander.
+
+## How do players defeat the Deathstalker commander boss?
+
 * Players report that a Death Stalker can appear above buildings.
 * Players report that a drone swarm can hover around buildings.
-
-## How do players defeat and loot commander bosses?
-
-* Players report that the Deathstalker commander boss in DMZ can be taken down with 2 RPG rockets.
-* Players report that the Deathstalker commander boss in DMZ can be taken down with 4 well placed shots from an Astaroth 57 sniper rifle.
+* Players report that an RPG can eliminate the Deathstalker commander boss in DMZ using 2 rockets.
+* Players report that an Astaroth 57 sniper rifle can take down the Deathstalker commander boss in DMZ with 4 well-placed shots.
 * Players report that the Deathstalker commander drops 3 lootable parts.
-* Players report that Colossus can be taken down solo in DMZ.
-* Players report that taking down Colossus solo requires 2 shock sticks and 7 to 8 thermite.
-* Players report that the Colossus commander can be cheesed.
 
-_Generated from 2 confirmed and 9 reported claims across 11 posts and 0 patch notes; last rendered 2026-10-31._
+## How can players eliminate Colossus solo?
+
+* Players report that Colossus can be eliminated solo in DMZ.
+* Players report that defeating Colossus solo requires 2 shock sticks and 7 to 8 thermites.
+
+_Generated from 2 confirmed and 8 reported claims across 10 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->

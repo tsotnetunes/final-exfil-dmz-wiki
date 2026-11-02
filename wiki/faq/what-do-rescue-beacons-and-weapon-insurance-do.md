@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-gamerfuzion-rescue-beacon-insurance-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-allthingshow-dmz-death-rules-2026-10-21]
 aliases: ["Operator Rescue Beacon", "Rescue Beacon", "Weapon Insurance Contract", "Weapon Insurance", "insured weapons", "how to insure weapons", "what does a Rescue Beacon do", "what does Weapon Insurance do"]
-stale_after: 2027-02-01
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

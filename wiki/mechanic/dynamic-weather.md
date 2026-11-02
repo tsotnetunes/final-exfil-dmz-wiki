@@ -9,13 +9,13 @@ sources: [clm_5716a58c7e46, src-activision-dmz-deep-dive-2026-06, src-westie-dmz
 aliases: ["weather", "convoys", "fog", "rain", "night mode", "day night cycle"]
 ---
 <!-- generated:start -->
-Dynamic weather and world systems alter environment conditions across matches to vary player experiences. This mechanic affects match environments by changing how maps feel each time an infiltration occurs.
+Dynamic weather and world systems alter environment conditions so that maps feel different each time a player loads in. This mechanic provides map variability across matches.
 
 ## How does dynamic weather affect maps?
 
-* Players report that dynamic weather makes maps feel different each time a player loads in.
+* Players report that dynamic weather makes maps feel different each time a player loads into a match.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->

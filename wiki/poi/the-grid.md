@@ -12,17 +12,21 @@ danger: "critical (Nenshin Tech Complex: extreme)"
 loot_profile: high-value
 ---
 <!-- generated:start -->
-The Grid is a point of interest located in the DMZ that features buildings with rooftops.
+The Grid, also known as the Netshin Tech Complex, is a location in the DMZ where players navigate buildings with accessible rooftops. Players report that the area carries an extreme threat level.
 
 ## Where is it?
 
-The Grid is situated within the DMZ. Players report that The Grid contains buildings with rooftops.
+The Grid is situated in the DMZ. Players report that the Netshin Tech Complex is located within this region. The Grid contains multiple buildings with rooftops.
+
+## What loot is there?
+
+Player reports have not yet detailed the loot profile for The Grid.
 
 ## How dangerous is it?
 
-Under the name Netshin Tech Complex, players report that the location has an EXTREME threat level.
+Players report that the Netshin Tech Complex holds an EXTREME threat level.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->

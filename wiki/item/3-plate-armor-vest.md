@@ -5,17 +5,18 @@ description: "The basic three-plate vest: a DMZ level 37 reward (granted properl
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_8f5238d9722b, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-conquestcapped-dmz-keys-2026-10-28]
+sources: [clm_8f5238d9722b, clm_ad2697e494a8, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-conquestcapped-dmz-keys-2026-10-28]
 aliases: ["3 plate vest", "three plate vest", "3-plate vest", "3 plate armor", "3-Plate Armour Vest", "level 37 vest"]
 ---
 <!-- generated:start -->
-The 3-Plate Armor Vest is a protective equipment piece that provides defensive coverage for players. It matters because it still leaves wearers vulnerable to immediate takedowns in combat encounters.
+The 3-Plate Armor Vest is a protective equipment piece that provides defensive shielding against incoming player damage. It matters during firefights where survivability and inventory management determine whether a player stays in combat.
 
-## How does the vest protect against high damage?
+## How does the 3-Plate Armor Vest function in combat?
 
 * Players report that a 3-Plate Armor Vest does not prevent being downed by a single tap from another player.
+* Players report that you can hotswap a 3-Plate Armor Vest into the secure slots.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->
