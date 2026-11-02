@@ -9,33 +9,37 @@ sources: [clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5, clm_5e8135915868
 aliases: ["MW4 DMZ", "DMZ early access", "play DMZ early", "DMZ (the mode)", "DMZ mode", "what is DMZ", "Call of Duty DMZ"]
 ---
 <!-- generated:start -->
-Modern Warfare 4 DMZ is a dedicated mode located in Hajin that launched in early access on 20 Oct 2026. The mode provides squad-based gameplay alongside a dedicated 70-level progression track ahead of the full release of Modern Warfare 4.
+Modern Warfare 4 DMZ is a deployment-based extraction shooter mode set in Hajin. It launched ahead of the main game to give players an early multiplayer experience focused on survival, looting, and progression.
 
-* Modern Warfare 4 DMZ is confirmed to be set in Hajin.
-* Modern Warfare 4 DMZ early access officially began on 20 Oct 2026 at 10:00 PT, three days prior to the Modern Warfare 4 launch on 23 Oct 2026.
-* Modern Warfare 4 DMZ early access required a digital pre-order.
-* On PC, Modern Warfare 4 DMZ early access required TPM 2.0 and Secure Boot to be enabled.
-* Modern Warfare 4 DMZ features a progression system with 70 levels of rewards, confirmed on 19 Oct 2026.
-* Modern Warfare 4 DMZ includes three confirmed Mastery Camos: Chiral, Ripple Tide, and Helio.
-* Players who took part in the MWII DMZ Beta receive the Beta On Record emblem and the Beta Squad calling card.
-* Variable Refresh Rate (VRR) is confirmed as a requirement for Performance Mode in Modern Warfare 4 DMZ on PlayStation 5 and Xbox Series X|S.
-* Infinity Ward confirmed a promotional collaboration with Monster Gaming in Modern Warfare 4 DMZ on 22 Oct 2026.
-* RICOCHET Anti-Cheat protections, including detections targeting direct memory access (DMA) cheats, were confirmed active for Modern Warfare 4 on 23 Oct 2026.
-* A PlayStation animation issue led to an animation being disabled across all platforms on 24 Oct 2026 as a potential fix.
+## What is Modern Warfare 4 DMZ?
 
-## What gameplay features do players report in Modern Warfare 4 DMZ?
+Modern Warfare 4 DMZ is a game mode in Modern Warfare 4 that features PvPvE extractions where players form squads or queue solo.
 
-* Players report that Modern Warfare 4 DMZ functions as a looter and extraction shooter featuring PvPvE encounters.
-* Players report that lobbies are not solo-only, though solo and duo queues attempt to match against matching group sizes.
-* Players report that Infinity Ward designated Single Squad Missions for internal use rather than public release.
-* Players report that weapon damage tuning in Modern Warfare 4 DMZ is close to Warzone.
-* Players report that the Hajin map covers territory across South Korea and North Korea.
-* Players report that dynamic weather is present on the map.
-* Players report that loot items include weapon manuals, recipes, ULTRA tier items, Ballistic Fabric, Military Composites, and Experimental Compounds used for upgrading the Forward Operating Base (FOB).
-* Players report that extracting the same weapon manual three additional times per weapon unlocks a hidden camo.
-* Players report that Modern Warfare 4 DMZ contains 24 pages of…
+* Modern Warfare 4 DMZ takes place in Hajin, a map confirmed on 10 Oct 2026.
+* Modern Warfare 4 DMZ features a progression system offering 70 levels of rewards, confirmed on 19 Oct 2026.
+* Modern Warfare 4 DMZ contains three Mastery Camos: Chiral, Ripple Tide, and Helio, confirmed on 19 Oct 2026.
+* Modern Warfare 4 DMZ requires Variable Refresh Rate (VRR) for Performance Mode support on PS5 and Xbox Series X|S, confirmed on 20 Oct 2026.
+* Modern Warfare 4 DMZ Early Access required TPM 2.0 and Secure Boot to be enabled on PC, confirmed on 16 Oct 2026.
+* Modern Warfare 4 DMZ collaborated with Monster Gaming, confirmed on 22 Oct 2026.
+* Players who participated in the MWII DMZ Beta receive the Beta On Record emblem and Beta Squad calling card, confirmed on 19 Oct 2026.
+* Players report that Hajin covers both South and North Korean territories.
+* Players report that Modern Warfare 4 DMZ features its own weapon damage tuning close to Warzone.
+* Players report that lobbies are not solo-only, though solo matchmaking attempts to prioritize other solo players.
+* Players report that Modern Warfare 4 DMZ currently features only PvPvE play, and Infinity Ward noted that Single Squad Missions were internal only.
+* Players report that Modern Warfare 4 DMZ includes Dynamic Ops, ground orders, and a final cutscene after completing 24 pages of orders.
+* Players report that Military Composites and Experimental Compounds are used to upgrade the Forward Operating Base (FOB).
+* Players report finding items such as Ballistic Fabric, recipes, weapon manuals, and ULTRA tier items during runs.
+* Players report that exfilling the same weapon manual three additional times per weapon unlocks a hidden camo.
+* Players report that after the third prestige, each subsequent prestige unlocks a new trait and allows swapping a held trait.
 
-_Generated from 31 confirmed and 72 reported claims across 98 posts and 0 patch notes; last rendered 2026-11-02._
+## When did Modern Warfare 4 DMZ launch?
+
+Modern Warfare 4 DMZ Early Access launched globally on 20 Oct 2026 at 10 AM PT for digital pre-orders, ahead of Modern Warfare 4's full launch on 23 Oct 2026.
+
+* Modern Warfare 4 DMZ preloads were made available on 19 Oct 2026.
+* Modern Warfare…
+
+_Generated from 31 confirmed and 71 reported claims across 97 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->
