@@ -9,40 +9,44 @@ sources: [clm_a7b8ec64314b, clm_2c1207e86666, clm_6ccf33dd6ed8, clm_37cdae5b1cba
 aliases: ["MW4", "Call of Duty: Modern Warfare 4", "Modern Warfare 4 guide", "MW4 PC requirements", "MW4 editions"]
 ---
 <!-- generated:start -->
-Modern Warfare 4 is a first-person shooter entry in the Call of Duty franchise that launched worldwide on 23 Oct 2026. The game features a Campaign mode, Multiplayer, and an extraction shooter mode titled DMZ.
+Modern Warfare 4 is a first-person shooter entry in the Call of Duty franchise featuring Campaign, Multiplayer, and DMZ modes. It launched worldwide on 23 Oct 2026.
 
-* Pre-installation began on 14 Oct 2026 at 9 PM PT, with player reports also noting pre-loading at 9 AM PT.
-* Setup options allow players to choose whether to install Warzone alongside Modern Warfare 4.
-* Campaign Early Access opened on 16 Oct 2026, followed by DMZ Early Access on 20 Oct 2026.
-* Modern Warfare 4 is confirmed available on PC, PlayStation, and for Nintendo Switch 2.
-* Season 1 is scheduled to launch on 6 Nov 2026.
+* Modern Warfare 4 includes Campaign, Multiplayer, and DMZ modes.
+* Modern Warfare 4 holds a Metacritic score of 89 on PlayStation and 86 on PC.
+* Modern Warfare 4 was confirmed as the best-reviewed Call of Duty game of the decade on Metacritic on 27 Oct 2026.
+* Modern Warfare 4 is available on PC, PlayStation, and is confirmed for Nintendo Switch 2.
 
-## What editions and pre-order bonuses were offered?
+## What editions and pre-order bonuses are available?
 
-* Pre-ordering Modern Warfare 4 granted early access to both the Campaign and the DMZ mode.
-* The Modern Warfare 4 Vault Edition includes a Vault Edition Deployment Kit.
-* The Modern Warfare 4 Vault Edition includes a third Active Duty Operator slot.
-* The Modern Warfare 4 Vault Edition includes one-time access to Signature Weapon Collection Blueprints.
-* Players reported that Modern Warfare 4 Vault Edition was the number two pre-ordered game on the PlayStation 5 store behind GTA VI, and the title was the number one pre-ordered game on Steam ahead of early access.
+* Modern Warfare 4 Vault Edition includes a third Active Duty Operator slot, a Vault Edition Deployment Kit, and one-time access to Signature Weapon Collection Blueprints.
+* Pre-ordering Modern Warfare 4 granted early access to both the Campaign and DMZ modes.
+* Modern Warfare 4 Vault Edition was reported by players as the second most pre-ordered game on the PlayStation 5 store behind Grand Theft Auto VI.
+* Modern Warfare 4 was reported by players as the top pre-ordered game on Steam ahead of Campaign early access.
 
-## What is included in the Modern Warfare 4 campaign?
+## When did Modern Warfare 4 release?
 
-* The Campaign mode can be played across different difficulties.
-* Mads Mikkelsen provided voice and movement capture for a campaign villain.
-* Players report that the campaign features 16 missions, takes around 6 hours to complete, and includes a mission titled Counter Attack.
-* Players report missions featuring an open-world format, a Makarov mission, a mini DMZ mission, and a fist fight between Price and Makarov.
-* Players reported that the campaign intro sequence included real-life footage from a 2022 tragedy in South Korea, leading to reports that Activision planned an update to remove it.
+* Pre-installation for Modern Warfare 4 opened on 14 Oct 2026 at 9:00 PM PT.
+* Modern Warfare 4 Campaign early access launched on 16 Oct 2026.
+* Modern Warfare 4 DMZ mode received an early access update on all platforms on 19 Oct 2026 at 9:00 AM PT.
+* Modern Warfare 4 released worldwide on 23 Oct 2026.
+* Modern Warfare 4 Season 1 launches on 6 Nov 2026.
 
-## How does Modern Warfare 4 multiplayer work?
+## What is included in the Modern Warfare 4 Campaign?
 
-* Modern Warfare 4 launched with 12 multiplayer maps featuring 12 dynamic intros.
-* Free-for-All matches have a score limit of 25 kills and a party size limit of 2 players.
-* Multiplayer features new weapons including the CSG-35 SMG and the Cronen Osprey AR.
-* Apex Attachments are confirmed for Modern Warfare 4.
-* Players reported launch multiplayer to include 12 core 6v6 maps and 4 Gunfight maps.
-* Players reported that matchmaking uses the Standard beta system, with open or reduced SBMM in the Popular modes…
+* The Modern Warfare 4 Campaign can be played across multiple difficulty settings.
+* Mads Mikkelsen performed voice and movement capture for a villain in the campaign.
+* Modern Warfare 4 received an update on 17 Oct 2026 to fix issues in the end credits.
+* Players report that the campaign consists of 16 missions, takes around 6 hours to complete, and includes an open-world mission.
+* Players report campaign appearances of Makarov, a fist fight between Captain Price and Makarov, and a South Korea squad.
+* Players report that the campaign intro sequence included real-life footage from a 2022 South Korean tragedy, with Activision reportedly moving to remove it following family backlash.
 
-_Generated from 65 confirmed and 84 reported claims across 148 posts and 0 patch notes; last rendered 2026-11-02._
+## How does Modern Warfare 4 Multiplayer work?
+
+* Modern Warfare 4 launched with 12 core multiplayer maps, accompanied by 12 dynamic intros.
+* Free-for-All matches feature a party size limit of 2 players and a score limit of 25 kills.
+* Modern Warfare 4…
+
+_Generated from 65 confirmed and 82 reported claims across 146 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->
