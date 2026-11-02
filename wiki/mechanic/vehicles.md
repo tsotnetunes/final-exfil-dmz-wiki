@@ -5,8 +5,8 @@ description: "Every DMZ vehicle from the Camper to the Monarch: which ones you d
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9ccc2ae5bb3c, clm_040680c6c92c, clm_72df424759dc, clm_d9b59956c081, clm_f7b668517728, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-vehicles-2026-10-06, src-conquestcapped-dmz-guide-2026-10-26, src-xboxplay-dmz-tank-2026-10-28, src-dtgre-dmz-radar-truck-2026-10-25, src-gamingtrend-dmz-interview-2026-06-06, src-dmzhub-vehicles-2026-10-31, src-allthingshow-dmz-dreadnought-2026-10-21, src-allthingshow-dmz-watch-for-bumps-2026-10-21, src-codmunity-dmz-traits-2026-10-30]
-aliases: ["vehicle", "car", "cars", "boat", "boats", "helicopter", "Camper", "Sedan", "Grizzly", "Dreadnought", "Aston Martin Dreadnought", "Polaris Dagor A1", "Polaris DAGOR", "LTV", "Cargo Truck", "D50 Radar Flatbed", "Radar Truck", "Train", "Tram", "RHIB", "Armored Patrol Boat", "Heli", "Little Bird", "Heavy Chopper", "Monarch", "Cargo Plane", "tank", "Gas Station", "Marine Gas Station", "Gas Can", "fuel", "refuel", "AI cars", "vehicle repair parts", "steal a vehicle", "enemy vehicles"]
+sources: [clm_9ccc2ae5bb3c, clm_040680c6c92c, clm_72df424759dc, clm_d9b59956c081, clm_f7b668517728, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-vehicles-2026-10-06, src-conquestcapped-dmz-guide-2026-10-26, src-xboxplay-dmz-tank-2026-10-28, src-dtgre-dmz-radar-truck-2026-10-25, src-gamingtrend-dmz-interview-2026-06-06, src-dmzhub-vehicles-2026-10-31, src-allthingshow-dmz-dreadnought-2026-10-21, src-allthingshow-dmz-watch-for-bumps-2026-10-21, src-codmunity-dmz-traits-2026-10-30, clm_fdb1f8faf7ff]
+aliases: ["vehicle", "car", "cars", "boat", "boats", "helicopter", "Camper", "Sedan", "Grizzly", "Dreadnought", "Aston Martin Dreadnought", "Polaris Dagor A1", "Polaris DAGOR", "LTV", "Cargo Truck", "D50 Radar Flatbed", "Radar Truck", "Train", "Tram", "RHIB", "Armored Patrol Boat", "Heli", "Little Bird", "Heavy Chopper", "Monarch", "Cargo Plane", "tank", "Gas Station", "Marine Gas Station", "Gas Can", "fuel", "refuel", "AI cars", "vehicle repair parts", "steal a vehicle", "enemy vehicles", "AI behavior in Air Base", "AI driving through doors"]
 ---
 <!-- generated:start -->
 Vehicles in Modern Warfare 4 DMZ are transport options and hazards that players and AI encounter across the map. Understanding vehicle interactions matters because collisions can eliminate players or cause unusual positioning during matches.
@@ -85,7 +85,7 @@ The North Korean side drives road convoys and flies attack helicopter patrols [[
 
 ## Which vehicle problems were fixed?
 
-- 20 and 21 Oct 2026: enemy AI vehicles running players over during infil, including in the NK Wilderness [[src-mw4-launch-patch-notes-2026-10-29]].
+- 20 and 21 Oct 2026: enemy AI vehicles running players over during infil, including in the NK Wilderness [[src-mw4-launch-patch-notes-2026-10-29]]. Still reported on 1 Nov 2026: one player saw AI drivers go through the Air Base doors [clm_fdb1f8faf7ff] and through boxes to hit players [clm_d9b59956c081].
 - 23 Oct 2026: Infinity Ward began investigating enemy AI cars that drive with nobody in them or get stuck, released possible fixes and is watching for more reports [[src-mw4-launch-patch-notes-2026-10-29]].
 - 29 Oct 2026: several vehicles could end up overlapping one another close to Hajin's edge, and enemy helicopters sometimes flew into the exfil helicopter [[src-mw4-launch-patch-notes-2026-10-29]].
 - Players report that a player hit by a car can end up stuck on its bonnet (reported) [clm_9ccc2ae5bb3c].

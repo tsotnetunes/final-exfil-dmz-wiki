@@ -48,7 +48,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Barter | row in [[dmz-cash]] | [[src-activision-dmz-guide-part1-2026-10-05]] | none described |
 | Paid infil and its unlocks | [[paid-infil]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-guide-2026-10-24]] [[src-dmzhub-missions-2026-10-31]] | published (unlocks reported) |
 | MIA and recovery | [[mia-system]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-xbox-wire-dmz-operator-guide-2026-10-20]] | published (no official prices) |
-| Insurance: Weapon Insurance Contracts, Operator Rescue Beacons, recovery slots | rows in [[mia-system]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-guide-2026-10-24]] | published; how they work not confirmed |
+| Insurance: Weapon Insurance Contracts, Operator Rescue Beacons, recovery slots | rows in [[mia-system]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-guide-2026-10-24]] | published; tooltips reported on [[what-do-rescue-beacons-and-weapon-insurance-do]] |
 | Secure Slots (safe pocket) | [[secure-slots]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-guide-2026-10-24]] | published |
 | What carries over, on death and between seasons | [[what-carries-over]] | [[src-activision-dmz-deep-dive-2026-06]] [[src-activision-dmz-guide-part2-2026-10-09]] | published; wipe policy not announced |
 | Bounty system, Bounty Stations, paying off a Bounty | [[bounty-system]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-guide-2026-10-24]] | published |

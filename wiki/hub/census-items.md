@@ -67,8 +67,8 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | SERE Kit | row in [[kits]] | [[src-dmzhub-items-2026-10-31]] | published |
 | Advanced SERE Kit | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
 | Vault Edition Deployment Kit | row in [[kits]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
-| Weapon Insurance Contract (what it does not confirmed) | row in [[kits]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
-| Operator Rescue Beacon (what it does not confirmed) | row in [[kits]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
+| Weapon Insurance Contract | [[what-do-rescue-beacons-and-weapon-insurance-do]], row in [[kits]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
+| Operator Rescue Beacon | [[what-do-rescue-beacons-and-weapon-insurance-do]], row in [[kits]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
 | Smoke Grenade | row in [[tactical-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
 | Concussion Grenade | row in [[tactical-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
 | Snapshot Grenade | row in [[tactical-equipment]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |

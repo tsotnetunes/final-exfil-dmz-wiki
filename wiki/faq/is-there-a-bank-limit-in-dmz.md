@@ -1,11 +1,11 @@
 ---
 type: faq
 title: "Is there a cash limit in DMZ?"
-description: "Yes. Your Bank of DMZ Cash has a cap that ten Bank Upgrades raise: 250,000 at level I, 1,000,000 at III, up to 250 million at X (community data). Cash over the cap is lost (reported)."
+description: "Yes. Your Bank of DMZ Cash has a cap that Bank Upgrades raise: 250,000 at level I, 250 million at X (community data). A 1 Nov report says the line runs to XIII and 2 billion. Excess cash is lost."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-dmz-money-2026-10-26, src-codmunity-dmz-guide-2026-10-24]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-dmz-money-2026-10-26, src-codmunity-dmz-guide-2026-10-24, clm_aa158a74c396, clm_e5fe1043473f]
 aliases: ["bank cap DMZ", "DMZ cash cap", "bank limit DMZ", "wallet limit DMZ", "max DMZ cash", "how to upgrade bank DMZ", "DMZ bank upgrade", "Bank Upgrade III"]
 ---
 <!-- generated:start -->
@@ -24,7 +24,7 @@ Yes. DMZ Cash goes into a Bank with a capacity limit, and Bank upgrades raise it
 | IV | 2,000,000 | 200,000 and valuables |
 | V to X | 5 million, then 10, 25, 50, 100 and 250 million | 500,000 each and higher-rarity valuables; X needs 10 Gold Bars |
 
-Levels I to X from dmzhub (reported) [[src-dmzhub-upgrades-2026-10-31]]. The 500,000 and 1,000,000 steps and the Upgrade III price were also seen in play [[src-gamerfuzion-dmz-money-2026-10-26]], and the 2,000,000 step is in a second database [[src-codmunity-dmz-guide-2026-10-24]]. Before launch, players reported a starting cap of 100,000 (reported) [clm_06c3db0d22f9].
+Levels I to X from dmzhub (reported) [[src-dmzhub-upgrades-2026-10-31]]. A report of 1 Nov 2026 goes further: it calls Bank Upgrade XIII the last one [clm_e5fe1043473f], with a 2 billion cap [clm_aa158a74c396] and a cost of one of every Red DRC Locker Key and five Door Breacher Charges (reported). Both claims trace to one player's submission, and levels XI and XII have no figures yet. The 500,000 and 1,000,000 steps and the Upgrade III price were also seen in play [[src-gamerfuzion-dmz-money-2026-10-26]], and the 2,000,000 step is in a second database [[src-codmunity-dmz-guide-2026-10-24]]. Before launch, players reported a starting cap of 100,000 (reported) [clm_06c3db0d22f9].
 
 ## What happens to cash over the cap?
 It is reported to be lost without a warning (reported) [[src-codmunity-dmz-guide-2026-10-24]]. If you are close to the cap, spend before a big run: upgrades, the Gunsmith, the Vendor or an MIA recovery.

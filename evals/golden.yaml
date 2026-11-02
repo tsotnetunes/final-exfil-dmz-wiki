@@ -341,3 +341,12 @@
 - id: g114
   question: How do you get the Astaroth .57 sniper in DMZ?
   must_retrieve: [astaroth-57]
+- id: g115
+  question: What do Operator Rescue Beacons and Weapon Insurance Contracts do?
+  must_retrieve: [what-do-rescue-beacons-and-weapon-insurance-do]
+- id: g116
+  question: Can you play DMZ split screen on console?
+  must_retrieve: [can-you-play-dmz-split-screen]
+- id: g117
+  question: Can you play DMZ on a Steam Deck?
+  must_retrieve: [can-you-play-dmz-on-steam-deck]

@@ -31,7 +31,7 @@ The price rises with the Operator's Trait Points [[src-activision-dmz-guide-part
 
 ## Can you protect an Operator before you deploy?
 
-- The Vault Edition's Deployment Kit holds two Operator Rescue Beacons and two Weapon Insurance Contracts [[src-activision-dmz-guide-part2-2026-10-09]]; Activision has not explained how they work.
+- The Vault Edition's Deployment Kit holds two Operator Rescue Beacons and two Weapon Insurance Contracts [[src-activision-dmz-guide-part2-2026-10-09]]; Activision has not explained them; their tooltips, as reported, are on [[what-do-rescue-beacons-and-weapon-insurance-do]].
 - The round recovery slots beside the Ready button each protect one Operator or a set of weapons for a single deployment, and are used up even when you extract (reported) [[src-codmunity-dmz-guide-2026-10-24]].
 - The Warfighter Trait [[possum]] revives you from death into Last Stand once per match, and before 28 Oct 2026 some players used it to dodge the rescue fee [[src-destructoid-possum-debate-2026-10-24]]. Since the change of 28 Oct it cannot fire while the squad that killed you is nearby, or before four minutes have passed [[src-mw4-launch-patch-notes-2026-10-29]].
 - A Free Loadout protects nothing: your own Operator still goes in, and a death still means paying to recover them (reported) [[src-codmunity-dmz-guide-2026-10-24]].

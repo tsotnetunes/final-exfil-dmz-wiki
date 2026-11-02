@@ -1,9 +1,9 @@
 ---
 type: mechanic
 title: "Security System Exit Glitch"
-description: "The Security System Exit Glitch is an issue reported by players that traps them inside security system cameras when attempting to exit by holding X."
-status: draft
-brain_status: candidate
+description: "Retired duplicate. Getting stuck in security cameras is listed with the open issues on Server and performance problems."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_a74cf8c0bd17]
 ---
@@ -18,4 +18,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 1 Nov 2026: the report now sits with the open issues on [[server-and-performance-issues]].
 <!-- human:end -->

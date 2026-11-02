@@ -1,9 +1,9 @@
 ---
 type: mechanic
 title: "infil cost"
-description: "Following DMZ game adjustments, players report earning more cash during matches."
-status: draft
-brain_status: candidate
+description: "Retired duplicate. What each infil costs is on the Paid infil page; earning cash is on the DMZ Cash page."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_fea740a0e6b1]
 ---
@@ -18,4 +18,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 1 Nov 2026: prices are on [[paid-infil]], which carries this name as an alias. The player report here was about cash income; see [[dmz-cash]].
 <!-- human:end -->

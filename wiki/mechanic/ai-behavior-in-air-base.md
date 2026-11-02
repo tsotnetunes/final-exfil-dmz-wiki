@@ -1,9 +1,9 @@
 ---
 type: mechanic
 title: "AI behavior in Air Base"
-description: "In DMZ, AI can reportedly glitch and drive vehicles through Air Base doors to attack players."
-status: draft
-brain_status: candidate
+description: "Retired duplicate. Reports of AI vehicles driving through Air Base doors and boxes are in the vehicle problems on the Vehicles page."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_fdb1f8faf7ff]
 ---
@@ -19,4 +19,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 1 Nov 2026: the report is now a line on [[vehicles]], next to the earlier AI vehicle fixes.
 <!-- human:end -->

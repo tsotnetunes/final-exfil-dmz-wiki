@@ -5,7 +5,7 @@ description: "Prestige an Operator with 18 Trait Points by handing in rare gear 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_cb769aa684e4, clm_6714e141147a, clm_4e48d9ed9499, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-operator-guide-2026-10-20, src-dmztracker-operator-prestige-2026-10-20, src-gamerfuzion-dmz-best-traits-2026-10-23, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-traits-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-traits-2026-10-31]
+sources: [clm_cb769aa684e4, clm_6714e141147a, clm_4e48d9ed9499, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-operator-guide-2026-10-20, src-dmztracker-operator-prestige-2026-10-20, src-gamerfuzion-dmz-best-traits-2026-10-23, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-traits-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-traits-2026-10-31, clm_0c8f2f5cab3c, clm_698aa2d409ca]
 aliases: ["DMZ Operator Prestige", "Prestige Traits", "Permanent Prestige Trait", "Pro Traits", "prestige an operator", "operator prestige cost", "what does prestige give", "Prestige rewards"]
 ---
 <!-- generated:start -->
@@ -73,5 +73,6 @@ Not confirmed; see [[double-xp-tokens]]. A full Dog Tag takes about 450,000 Oper
 
 - On 21 Oct 2026 Infinity Ward acknowledged that Prestige failed for some Active Duty Operators. The workaround is to use Rare (blue) weapons with only three attachments [clm_ccfae152bab3], ones that have never carried four or more (reported) [[src-dmztracker-operator-prestige-2026-10-20]].
 - Players report Prestige taking the gear and cash and resetting the tag without the reward [clm_a92a2067495e]. One player reported losing a fourth-Prestige Operator after being kicked from a match during exfil [clm_b6179531b351].
+- New reports on 1 Nov 2026, each from one player: Prestige still fails to start, which also blocks the last mastery camo and calling card [clm_0c8f2f5cab3c]; and a Prestige that reset the Traits and took the items without granting the promised third perk [clm_4e48d9ed9499], the retained Trait that a Prestige should give [clm_698aa2d409ca]. We found no fix in the patch notes up to 30 Oct [[src-mw4-launch-patch-notes-2026-10-29]].
 - Not the same as player Prestige: starting Classic Prestige from the DMZ menus blocked new Multiplayer classes (known issue of 28 Oct) [clm_6e5b27f5a3c3], and the same day a fix made Prestige from the DMZ FOB reset Multiplayer Loadouts correctly [[src-mw4-launch-patch-notes-2026-10-29]].
 <!-- human:end -->

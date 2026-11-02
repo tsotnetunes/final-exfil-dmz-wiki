@@ -1,9 +1,9 @@
 ---
 type: mechanic
 title: "Drill Charge NERF"
-description: "Players report that the Drill Charge has been nerfed, reducing the equipment's effectiveness."
-status: draft
-brain_status: candidate
+description: "Retired duplicate. The Drill Charge nerf of 25 Oct 2026 is on the Lethal equipment page."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_5859c925f4ad]
 ---
@@ -18,4 +18,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 1 Nov 2026: the nerf is dated and sourced on [[lethal-equipment]]; this page only repeated a one-line player report.
 <!-- human:end -->

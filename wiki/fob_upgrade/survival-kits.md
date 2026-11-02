@@ -58,7 +58,7 @@ The official launch post lists each kit's contents [[src-activision-ready-for-la
 | Trap Equipment Kit | 42 | Razor Wire Traps, Trip Wires, Proximity Mines, Claymores and a Gun Store Weapons Locker Key |
 | Advanced SERE Kit (Legendary) | 70 | Operator Rescue Beacons, Weapon Insurance Contracts, Self-Revives and Medkits |
 
-The post names the items without counts; a community database lists counts for some kits (reported) [[src-dmzhub-items-2026-10-31]]. What a Weapon Insurance Contract or an Operator Rescue Beacon does is not described yet.
+The post names the items without counts; a community database lists counts for some kits (reported) [[src-dmzhub-items-2026-10-31]]. What a Weapon Insurance Contract or an Operator Rescue Beacon does: [[what-do-rescue-beacons-and-weapon-insurance-do]] (reported).
 
 ## What is the Vault Edition Deployment Kit?
 

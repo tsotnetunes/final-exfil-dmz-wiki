@@ -31,5 +31,5 @@ Players report that you claim the DMZ Vault Edition bonus at the Survival Kits s
 Three of them, the ISO Nightshade, Kastov 762 and Rezi 12, sit high on community tier lists [[src-wzstats-dmz-meta-2026-10-31]] [[src-playhub-dmz-tier-list-2026-10-21]]. Tier lists are opinion and move with patches; see [[best-weapons-in-dmz]].
 
 ## What is still unclear?
-The official guide does not say what Weapon Insurance Contracts and Operator Rescue Beacons do [[src-activision-dmz-guide-part2-2026-10-09]]; the Fulton Drop Marker is covered on [[what-does-the-fulton-drop-marker-do]]. More BlackCell benefits for DMZ were to be detailed before Season 1 [[src-activision-season-1-announcement-2026-10-28]]. Battle Pass and BlackCell: [[is-there-a-battle-pass-in-dmz]].
+The official guide does not say what Weapon Insurance Contracts and Operator Rescue Beacons do [[src-activision-dmz-guide-part2-2026-10-09]]; their tooltips, as reported, are on [[what-do-rescue-beacons-and-weapon-insurance-do]]; the Fulton Drop Marker is covered on [[what-does-the-fulton-drop-marker-do]]. More BlackCell benefits for DMZ were to be detailed before Season 1 [[src-activision-season-1-announcement-2026-10-28]]. Battle Pass and BlackCell: [[is-there-a-battle-pass-in-dmz]].
 <!-- human:end -->

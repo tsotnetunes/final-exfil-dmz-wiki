@@ -1,9 +1,9 @@
 ---
 type: mechanic
 title: "Server and performance problems"
-description: "Server and performance problems such as crashing in DMZ prevent extraction according to player reports."
-status: draft
-brain_status: candidate
+description: "Retired duplicate. Crashes, disconnects and lost gear are on the Server and performance problems page."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_9d9df8f6869e]
 ---
@@ -18,4 +18,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 1 Nov 2026 as a duplicate of [[server-and-performance-issues]].
 <!-- human:end -->

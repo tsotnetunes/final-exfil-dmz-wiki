@@ -5,7 +5,7 @@ description: "Every FOB upgrade you build at the MW4 DMZ 3D Printer, level by le
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_aa158a74c396, src-dmzhub-upgrades-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-allthingshow-dmz-crafting-guides-2026-10-21, src-xboxplay-dmz-crafting-guides-2026-10-23, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-vgtimes-dmz-3d-printer-2026-10-27, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24]
+sources: [clm_aa158a74c396, src-dmzhub-upgrades-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-allthingshow-dmz-crafting-guides-2026-10-21, src-xboxplay-dmz-crafting-guides-2026-10-23, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-vgtimes-dmz-3d-printer-2026-10-27, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, clm_e5fe1043473f]
 aliases: ["FOB upgrades", "printer upgrades", "upgrade costs", "Bank Upgrade", "Stash Item Upgrade", "Stash Weapon Upgrade", "MIA Recovery Discount", "Gunsmith Upgrade", "Vendor Item Upgrade", "Dog Tag Case Upgrade", "Bank limit", "how to increase stash space", "stash upgrade cost"]
 ---
 <!-- generated:start -->
@@ -65,7 +65,7 @@ Level I costs and the first effects are confirmed by several lists [[src-destruc
 | Uncommon Ingredient Printing | Print Uncommon ingredients | 50,000 | 20 Biomaterials, 10 High-Tenacity Fibers, 5 Comms Modules |
 | Epic Ingredient Printing | Print Epic ingredients | 100,000 | 10 Binding Catalyst, 10 Printed Circuit Boards, 5 Military Composites |
 
-All ten Bank levels together cost 3,370,000 DMZ Cash [[src-dmzhub-upgrades-2026-10-31]]. The Bank starts at about 100,000, by one guide and player reports [[src-xboxplay-dmz-crafting-guides-2026-10-23]] [clm_06c3db0d22f9]. Bank I to IV are confirmed by other lists or footage, but Bank V to X rest on that one database, so treat their caps and costs as reported; the full picture, and what is not settled, is on [[wallet]] [[src-codmunity-dmz-guide-2026-10-24]].
+All ten Bank levels together cost 3,370,000 DMZ Cash [[src-dmzhub-upgrades-2026-10-31]]. The Bank starts at about 100,000, by one guide and player reports [[src-xboxplay-dmz-crafting-guides-2026-10-23]] [clm_06c3db0d22f9]. Bank I to IV are confirmed by other lists or footage, but Bank V to X rest on that one database, so treat their caps and costs as reported. A report of 1 Nov 2026 says the line continues to Bank XIII at 2 billion [clm_e5fe1043473f] [clm_aa158a74c396]; the full picture, and what is not settled, is on [[wallet]] [[src-codmunity-dmz-guide-2026-10-24]].
 
 ## When can you build them?
 

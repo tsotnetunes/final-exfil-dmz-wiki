@@ -19,7 +19,7 @@ _Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Wanted is the Bounty state you reach after four player kills, counted across deployments [[src-activision-dmz-guide-part2-2026-10-09]] [clm_8c1bbf558597]. There are several Wanted levels, and the highest are called Most Wanted [[src-activision-dmz-guide-part2-2026-10-09]]. How the Bounty itself works: [[bounty-system]].
+Wanted is the Bounty state you reach after four player kills, counted across deployments [[src-activision-dmz-guide-part2-2026-10-09]] [clm_8c1bbf558597]. One report puts the same moment at a 25,000 Bounty (reported) [clm_0873af25017e]. There are several Wanted levels, and the highest are called Most Wanted [[src-activision-dmz-guide-part2-2026-10-09]]. How the Bounty itself works: [[bounty-system]].
 
 ## What happens when you are Wanted?
 

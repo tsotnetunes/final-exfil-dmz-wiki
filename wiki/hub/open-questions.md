@@ -25,15 +25,15 @@ What the Codex cannot answer yet, as of 31 Oct 2026. When one of these is settle
 - **Prestige rewards.** Prestiging several Operators earns calling cards and other rewards the 9 Oct guide keeps secret ([[operator-prestige]]).
 
 ## Items
-- **Vault Edition items.** What Weapon Insurance Contracts and Operator Rescue Beacons do is not documented [[src-activision-dmz-guide-part2-2026-10-09]]; whether the Fulton Drop Marker lifts you or only loot is not known [[src-dmztracker-fulton-drop-marker-2026-10-15]]. See [[what-does-the-fulton-drop-marker-do]].
+- **Vault Edition items.** Activision has not documented Weapon Insurance Contracts and Operator Rescue Beacons; a tooltip reading is on [[what-do-rescue-beacons-and-weapon-insurance-do]]. Whether the Fulton Drop Marker lifts you or only loot is not known [[src-dmztracker-fulton-drop-marker-2026-10-15]]. See [[what-does-the-fulton-drop-marker-do]].
 
 ## Matchmaking and platforms
 - **The PvP matchmaking change.** Press reported more PvP and fuller Story Mission lobbies after 28 Oct [[src-detonated-dmz-story-matchmaking-2026-10-29]], and players reported launch settings back by 31 Oct (reported) [clm_2738483c8aa0]; Infinity Ward has said nothing. See [[pvp-matchmaking-prioritization]].
 - **Crossplay settings in DMZ.** The listed crossplay settings name Multiplayer and Warzone Ranked only; whether they affect DMZ is not confirmed [[src-dexerto-mw4-crossplay-2026-10-31]].
 - **Switch 2 handheld.** DMZ runs at 40 fps on a 120Hz display; handheld performance was not covered [[src-nintendolife-df-switch-2-2026-10-30]].
-- **Split screen.** Whether DMZ supports split screen is not covered by any source we have.
+- **Split screen.** Press guides disagree on whether DMZ is included; no official word ([[can-you-play-dmz-split-screen]]).
 - **Skill-based matchmaking.** No source says whether DMZ matches players by skill; the developers only describe matching by deployment type and squad size [[src-westie-dmz-ama-recap-2026-10-11]].
-- **Handheld PCs.** Whether DMZ runs on the Steam Deck or similar handhelds is not covered; PC needs TPM 2.0, Secure Boot and an AVX processor ([[does-dmz-need-tpm-2-0-and-secure-boot]]).
+- **Handheld PCs.** One pre-launch report says a stock Steam Deck cannot start the game; no official word and no DMZ test ([[can-you-play-dmz-on-steam-deck]]).
 
 ## Season 1 and beyond
 - **Season 1 gaps.** X01's new enemy types, the 3D Printer upgrade, further BlackCell benefits for DMZ, the start dates of the Threat Briefings and the mid-season dates are all kept back [[src-activision-season-1-announcement-2026-10-28]]. See [[season-1]].

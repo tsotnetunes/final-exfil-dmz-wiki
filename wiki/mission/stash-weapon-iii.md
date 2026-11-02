@@ -1,9 +1,9 @@
 ---
 type: mission
 title: "Stash Weapon III"
-description: "Stash Weapon III is an upgrade in the DMZ FOB reported to grant 6 slots each time it is completed and can reset multiple times."
-status: draft
-brain_status: candidate
+description: "Retired duplicate. Stash Weapon Upgrade III is listed on Printer upgrades, and its reported reset is on the Stash page."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: [clm_d30c83263497]
 ---
@@ -20,4 +20,5 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 1 Nov 2026: this is an upgrade, not a mission, and a reported reset bug. See [[stash]] and [[printer-upgrades]].
 <!-- human:end -->

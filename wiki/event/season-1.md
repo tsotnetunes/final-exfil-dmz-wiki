@@ -1,12 +1,12 @@
 ---
 type: event
 title: "Season 1"
-description: "Season 1 starts at midnight ET on 6 Nov 2026 (9 PM PT on 5 Nov). DMZ gets the X01 Black Site, The Captain and Wheelson, two new Lieutenants, Threat Briefings and a Battle Pass station."
+description: "Season 1 starts at midnight ET on 6 Nov 2026 (9 PM PT on 5 Nov). DMZ gets the X01 Black Site, The Captain and Wheelson, two new Lieutenants and Threat Briefings. Warzone's side is Hajin Conflict."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, clm_bef876bdc624, clm_c1024f2fb281, clm_4ae545748dba, clm_3044325b8a18, clm_64b8588379af, clm_033219bea076, clm_7add6878604a, clm_58be93f33be7, clm_309415af8c86, clm_60448f273823, clm_86ec75d9e1ba, clm_7f843bb01556, clm_a9efdf32ec0d, clm_d26f8abc5b08, clm_2772a2678d45, clm_86d010463614, clm_92f2d591bc7a, clm_9953d19427fc, clm_755026b25f7e, clm_eca0b2db17c5, clm_911445d616b6, clm_89ae69b2f632, src-activision-season-1-announcement-2026-10-28, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16, src-westie-dmz-ama-recap-2026-10-11]
-aliases: ["DMZ Season 1", "MW4 Season 1", "when does Season 1 start", "Season 1 release time", "what does Season 1 add to DMZ", "X01 release date", "Season 1 DMZ content"]
+sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, clm_bef876bdc624, clm_c1024f2fb281, clm_4ae545748dba, clm_3044325b8a18, clm_64b8588379af, clm_033219bea076, clm_7add6878604a, clm_58be93f33be7, clm_309415af8c86, clm_60448f273823, clm_86ec75d9e1ba, clm_7f843bb01556, clm_a9efdf32ec0d, clm_d26f8abc5b08, clm_2772a2678d45, clm_86d010463614, clm_92f2d591bc7a, clm_9953d19427fc, clm_755026b25f7e, clm_eca0b2db17c5, clm_911445d616b6, clm_89ae69b2f632, src-activision-season-1-announcement-2026-10-28, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16, src-westie-dmz-ama-recap-2026-10-11, src-cod-x-hajin-conflict-2026-11-01, src-mw4gg-warzone-roadmap-tomorrow-2026-11-01, clm_a5a3e713d106]
+aliases: ["DMZ Season 1", "MW4 Season 1", "when does Season 1 start", "Season 1 release time", "what does Season 1 add to DMZ", "X01 release date", "Season 1 DMZ content", "Hajin Conflict", "Warzone Season 1", "Season 1 roadmap"]
 date: "2026-11-06"
 ---
 <!-- generated:start -->
@@ -44,7 +44,7 @@ Season 1 for Modern Warfare 4 and Warzone starts at midnight ET on Friday 6 Nov 
 ## What else comes with it?
 - A Battle Pass for 1,100 COD Points that includes DMZ Survival Kits; BlackCell, included in the Vault Edition [[src-activision-season-1-announcement-2026-10-28]]. See [[is-there-a-battle-pass-in-dmz]].
 - The Wager Match Event at launch, whose rewards include the Hyeon Auto and Kastov 545 Apex Attachments for DMZ, and later the Joint Fire Event with a DMZ Survival Kit [[src-activision-season-1-announcement-2026-10-28]].
-- Warzone: Modern Warfare 4 joins free-to-play Warzone, with Hajin and Zodiac as new maps and Verdansk and Rebirth Island returning; Warzone details follow on 2 Nov [[src-activision-season-1-announcement-2026-10-28]]. Hajin stays a battle royale map in the live seasons, per Infinity Ward's The Ward Room Ep. 02 as reported [[src-dotesports-hajin-warzone-season-1-2026-10-16]].
+- Warzone: Modern Warfare 4 joins free-to-play Warzone, with Hajin and Zodiac as new maps and Verdansk and Rebirth Island returning [[src-activision-season-1-announcement-2026-10-28]]. Since 1 Nov 2026 Warzone's season has a name, Hajin Conflict, and its trailer and roadmap are promised for 2 Nov, with no hour given and no word on DMZ [[src-cod-x-hajin-conflict-2026-11-01]] [[src-mw4gg-warzone-roadmap-tomorrow-2026-11-01]]. Hajin stays a battle royale map in the live seasons, per Infinity Ward's The Ward Room Ep. 02 as reported [[src-dotesports-hajin-warzone-season-1-2026-10-16]].
 - Season 1 Reloaded at mid-season, and later in the season the JAK 12 (a shotgun) and the ZLR Talonhawk (a melee weapon) [[src-activision-season-1-announcement-2026-10-28]].
 
 ## What is not in the announcement?

@@ -5,7 +5,7 @@ description: "Pay DMZ Cash from your Bank at the Operators station: the Operator
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-windows-central-dmz-reveal-2026-06-06, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-windows-central-dmz-reveal-2026-06-06, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-gamerfuzion-rescue-beacon-insurance-2026-10-28]
 aliases: ["MIA DMZ", "rescue operator", "recover operator DMZ", "operator missing in action", "Operator Rescue Beacon", "MIA recovery cost", "how much to rescue operator"]
 ---
 <!-- generated:start -->
@@ -25,7 +25,7 @@ There is no official price list: the fee grows with the Operator's Trait Points 
 Compare the fee with the build you would lose: a recovered Operator keeps all their Traits, while a new recruit starts with none and a Steel I Dog Tag [[src-activision-dmz-guide-part2-2026-10-09]]. Your Bank, Stash, Resources and Ingredients are shared by all Operators, so recruiting costs you no stored items [[src-activision-dmz-guide-part2-2026-10-09]].
 
 ## What are Operator Rescue Beacons?
-The Vault Edition Deployment Kit includes two, but the official guide does not say what they do [[src-activision-dmz-guide-part2-2026-10-09]]. Not confirmed yet.
+Spend one at the deploy screen and the Operator comes back free if you fail to exfil, by its tooltip as reported [[src-gamerfuzion-rescue-beacon-insurance-2026-10-28]]. The Vault Edition Deployment Kit includes two [[src-activision-dmz-guide-part2-2026-10-09]]. See [[what-do-rescue-beacons-and-weapon-insurance-do]].
 
 ## Can a bug put an Operator in MIA?
 It did: until a fix on 24 Oct 2026, a party leader could drag teammates out of a deployment against their will, leaving their Operators MIA [[src-mw4-launch-patch-notes-2026-10-29]]. Disconnects: [[what-happens-if-you-disconnect-in-dmz]].

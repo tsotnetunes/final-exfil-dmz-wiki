@@ -11,7 +11,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Every subject in the players' area (FAQ, glossary, events, guides and the mechanic pages this area owns), with its Codex page or list row, its main sources and its state on 31 Oct 2026. Official sources are listed first.
+Every subject in the players' area (FAQ, glossary, events, guides and the mechanic pages this area owns), with its Codex page or list row, its main sources and its state on 1 Nov 2026. Official sources are listed first.
 
 ## FAQ
 | Member | Codex page | Sources | State |
@@ -21,6 +21,9 @@ Every subject in the players' area (FAQ, glossary, events, guides and the mechan
 | Can you choose where you infil in DMZ? | [[can-you-choose-where-you-infil]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | Can you get banned for using glitches or duping in DMZ? | [[can-you-get-banned-for-exploits-in-dmz]] | [[src-codupdates-dmz-exploit-enforcement-2026-10-26]] | published |
 | Can you play DMZ solo? | [[can-you-play-dmz-solo]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
+| Can you play DMZ split screen? | [[can-you-play-dmz-split-screen]] | [[src-vandal-split-screen-2026-10-21]] [[src-gameoverdrive-split-screen-2026-11-02]] | published as reported |
+| Can you play DMZ on Steam Deck? | [[can-you-play-dmz-on-steam-deck]] | [[src-timesaver-steam-deck-2026-09-26]] | published as reported |
+| What do Operator Rescue Beacons and Weapon Insurance Contracts do? | [[what-do-rescue-beacons-and-weapon-insurance-do]] | [[src-gamerfuzion-rescue-beacon-insurance-2026-10-28]] | published as reported |
 | Can you replay Story Missions in DMZ? | [[can-you-replay-story-missions]] | [[src-playstation-blog-dmz-2026-10-05]] | published |
 | Can you reset or respec Traits in DMZ? | [[can-you-reset-traits-in-dmz]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | Can you revive yourself in DMZ? | [[can-you-revive-yourself-in-dmz]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
@@ -94,7 +97,7 @@ Every subject in the players' area (FAQ, glossary, events, guides and the mechan
 | Launch 2XP giveaway on X, entries until 26 Oct 10 AM PT (23 to 26 Oct) | row in [[events]] | [[src-cod-x-mw4-2xp-giveaway-2026-10-23]] [clm_1c82b2dd5121] | published |
 | Possession, a new Halloween mode (29 Oct) | row in [[events]] | [[src-gamerfuzion-launch-roadmap-2026-10-14]] | published |
 | Halloween Party Mode in the playlists (29 and 30 Oct) | row in [[events]] | [[src-mw4-launch-patch-notes-2026-10-29]] | published |
-| Warzone Season 1 details (2 Nov) | row in [[events]] | [[src-activision-season-1-announcement-2026-10-28]] | published |
+| Warzone Season 1, Hajin Conflict: trailer and roadmap (2 Nov) | row in [[events]] | [[src-cod-x-hajin-conflict-2026-11-01]] | published |
 | Wager Match Event (6 Nov) | row in [[events]] | [[src-activision-season-1-announcement-2026-10-28]] | published |
 | Threat Briefing: Battle Tank; Threat Briefing: The Captain; Resupply Run (Season 1, start not given) | row in [[events]] | [[src-activision-season-1-announcement-2026-10-28]] | published |
 | Joint Fire Event, more Threat Briefings, Season 1 Reloaded (later in Season 1) | row in [[events]] | [[src-activision-season-1-announcement-2026-10-28]] | published |
@@ -189,10 +192,7 @@ Every subject in the players' area (FAQ, glossary, events, guides and the mechan
 ## Questions players ask that have no page yet
 | Member | Codex page | Sources | State |
 | --- | --- | --- | --- |
-| Can you play DMZ split screen? | none; listed on [[open-questions]] | none | missing (no source covers it) |
 | Does DMZ have skill-based matchmaking? | none; listed on [[open-questions]] | none | missing (no source covers it) |
 | How big is Hajin? | none; listed on [[open-questions]] | none | missing (no area figure published) |
-| Can you play DMZ on Steam Deck or handheld PCs? | none; listed on [[open-questions]] | none | missing (no source covers it) |
 | How do you get a fourth Active Duty slot? | none; listed on [[open-questions]] | none | missing (not confirmed that one exists) |
-| What do Weapon Insurance Contracts and Operator Rescue Beacons do? | none; listed on [[open-questions]] | none | missing (not documented officially) |
 <!-- human:end -->

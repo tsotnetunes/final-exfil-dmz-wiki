@@ -35,6 +35,6 @@ One database counts two of each explosive in the Explosives Equipment Kit (repor
 ## What should you know about using them?
 
 - Vault Edition owners claim their bonus kit at the Survival Kits station, which adds it to the Stash [clm_d79723694987].
-- What the Weapon Insurance Contract and the Operator Rescue Beacon do in game is not confirmed yet; for how Operators come back after a death, see [[mia-system]] and [[rescue]].
+- What the Weapon Insurance Contract and the Operator Rescue Beacon do: [[what-do-rescue-beacons-and-weapon-insurance-do]] (reported); for how Operators come back after a death, see [[mia-system]] and [[rescue]].
 - The kits at DMZ levels 16 and 42 each include a Gun Store Weapons Locker key, the only free keys on the level track besides the two Recon kit keys [[src-activision-ready-for-launch-progression-2026-10-19]].
 <!-- human:end -->
