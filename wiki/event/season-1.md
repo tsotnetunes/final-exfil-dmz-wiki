@@ -10,27 +10,33 @@ aliases: ["DMZ Season 1", "MW4 Season 1", "when does Season 1 start", "Season 1 
 date: "2026-11-06"
 ---
 <!-- generated:start -->
-Season 1 is the post-launch content season for Call of Duty: Modern Warfare 4 and Call of Duty: Warzone, launching on 6 Nov 2026. It introduces new maps, Warzone integration, and the X01 facility to DMZ.
+Season 1 is an update cycle for Call of Duty: Modern Warfare 4 launching on 6 Nov 2026, introducing new environments across multiplayer and DMZ.
 
-* Season 1 was confirmed on 28 Oct 2026 to launch on 6 Nov.
-* Modern Warfare 4 Season 1 includes the DMZ X01 facility, confirmed on 1 Nov 2026.
-* X01 is confirmed as a new DMZ Blacksite location.
+* Season 1 kicks off on 6 Nov, confirmed on 28 Oct 2026.
+* Season 1 for Modern Warfare 4 includes the DMZ X01 facility, confirmed on 1 Nov 2026.
+* X01 is confirmed as a new DMZ Blacksite arriving in Season 1, as announced on 28 Oct 2026.
 * Players report that Call of Duty: Modern Warfare 4 Season 1 starts on 6 Nov 2026 with new maps, facilities, and a battle pass catch-up system.
-* Players report that Call of Duty: Warzone Season 1 is named Hajin Conflict and launches on 6 Nov.
-* Players report that Modern Warfare 4 Season 1 features Warzone integration and a snowbound North Korean Shoot House.
+* Players report that Call of Duty: Modern Warfare 4 Season 1 brings Warzone integration.
+* Players report that Call of Duty: Warzone Season 1 is titled Hajin Conflict and launches on 6 Nov.
 
-## What maps are in Season 1?
+## When does Season 1 launch?
 
-Players report several new maps arriving with the update:
+Season 1 begins on 6 Nov, confirmed on 28 Oct 2026. Modern Warfare 4 Season 1 launches on this date alongside Call of Duty: Warzone Season 1, as reported by players.
 
-| Map | Status | Notes |
+## What content arrives in Season 1?
+
+Season 1 brings new maps and DMZ facilities across modes. 
+
+| Map or Location | Type | Status |
 | --- | --- | --- |
-| Backstab | Supported | Reported as a new map |
-| Canyon | Supported | Reported as a new map |
-| Shoot House | Supported | Reported as a new snowbound North Korean map |
-| X01 | Confirmed | New DMZ Blacksite facility |
+| X01 | DMZ Blacksite facility | Confirmed |
+| Backstab | New map | Reported by players |
+| Canyon | New map | Reported by players |
+| Shoot House | Snowbound North Korean new map | Reported by players |
 
-_Generated from 5 confirmed and 9 reported claims across 13 posts and 0 patch notes; last rendered 2026-11-02._
+Players report that Shoot House is set in a snowbound North Korean location. Players also report that X01 releases as a map on 6 Nov.
+
+_Generated from 5 confirmed and 8 reported claims across 12 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->
