@@ -5,7 +5,7 @@ description: "Retired 31 Oct 2026: a complaint about too many UAVs, not a game s
 status: deprecated
 brain_status: retired
 sensitivity: public
-sources: [clm_9bddae4cc5ea]
+sources: []
 ---
 <!-- generated:start -->
 UAV spam refers to the frequent deployment of Unmanned Aerial Vehicles in extraction shooters, which players report as an issue in DMZ. Understanding player sentiment regarding radar reconnaissance highlights ongoing debates around match pacing and stealth mechanics.

@@ -5,23 +5,25 @@ description: "Prestige an Operator with 18 Trait Points by handing in rare gear 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_cb769aa684e4, clm_6714e141147a, clm_4e48d9ed9499, clm_698aa2d409ca, clm_eae0d58ce1e1, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-operator-guide-2026-10-20, src-dmztracker-operator-prestige-2026-10-20, src-gamerfuzion-dmz-best-traits-2026-10-23, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-traits-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-traits-2026-10-31]
+sources: [clm_cb769aa684e4, clm_6714e141147a, clm_4e48d9ed9499, clm_698aa2d409ca, clm_eae0d58ce1e1, clm_8541e0433130, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-operator-guide-2026-10-20, src-dmztracker-operator-prestige-2026-10-20, src-gamerfuzion-dmz-best-traits-2026-10-23, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-traits-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-traits-2026-10-31]
 aliases: ["DMZ Operator Prestige", "Prestige Traits", "Permanent Prestige Trait", "Pro Traits", "prestige an operator", "operator prestige cost", "what does prestige give", "Prestige rewards"]
 ---
 <!-- generated:start -->
-Operator Prestige and permanent Prestige Traits allow players in Modern Warfare 4 DMZ to progress characters and acquire bonuses. Players report there are 12 possible prestige traits in Modern Warfare 4 DMZ.
+Operator Prestige in Modern Warfare 4 DMZ is an upgrade system intended to grant permanent prestige traits to an operator. Players care about this system because it offers long-term benefits across deployments, though multiple issues have been reported during the process.
 
-* Prestiging an operator is supposed to grant a retained trait, according to player reports.
-* Prestiging an operator has been reported by players to reset traits instead.
-* Prestiging an operator fails to provide the third perk, as reported by players.
-* Prestiging an operator removes all items, according to player reports.
+## How does Operator Prestige work?
+
+* Modern Warfare 4 DMZ features 12 possible prestige traits, as reported by players.
+* Prestiging an operator in DMZ is supposed to award a retained trait, according to player reports.
 
 ## What issues affect Operator Prestige?
 
-* Attempting to prestige an operator in Modern Warfare 4 DMZ can cause the game to time out while loading the instance inventory, according to player reports.
-* Players report a bug where using an ultra item to prestige an operator past prestige 3 resets the operator level to 1 without applying the prestige.
+* Players report that prestiging an operator in DMZ resets traits, fails to provide the third perk, and removes all items.
+* Reaching prestige 3 was reported by a player to reset the skill tree and consume requirements and cash without granting a permanent trait point.
+* Using an ultra item to prestige an operator past prestige 3 is reported by players to reset the operator level to 1 without applying the prestige.
+* Attempting to prestige an operator in DMZ can cause the game to time out while loading the instance inventory, as reported by players.
 
-_Generated from 0 confirmed and 5 reported claims across 5 posts and 0 patch notes; last rendered 2026-11-02._
+_Generated from 0 confirmed and 6 reported claims across 6 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->

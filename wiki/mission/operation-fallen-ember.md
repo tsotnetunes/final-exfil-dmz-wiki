@@ -5,13 +5,15 @@ description: "The last Story Mission, at Haneul Nuclear Reactor: pull three fuel
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31]
+sources: [clm_7396b58ba0b0, src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31]
 aliases: ["Fallen Ember", "reactor mission", "nuclear reactor mission", "fuel rods", "uranium rods", "Kill Chemist", "final story mission", "last DMZ mission"]
 mission_kind: story
 steps: "17 HUD steps"
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Operation Fallen Ember is reported by players to be the last story mission in DMZ.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->

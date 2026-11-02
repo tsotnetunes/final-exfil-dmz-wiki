@@ -5,18 +5,18 @@ description: "The eleven DMZ Lethals, from Frag and Semtex to Thermite, Drill Ch
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_58f0ac314d99, src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-gamingpromax-dmz-keys-2026-10-27, src-xboxplay-dmz-keys-2026-10-22]
+sources: [clm_58f0ac314d99, clm_3ba528ab48d0, src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-gamingpromax-dmz-keys-2026-10-27, src-xboxplay-dmz-keys-2026-10-22]
 aliases: ["Lethals", "lethal", "grenades", "Frag Grenade", "Semtex", "Sticky Grenade", "Throwing Knife", "Drill Charge", "Molotov Cocktail", "Molotov", "Thermite", "C4", "Proximity Mine", "Claymore", "Trip Wire", "Zip Gun", "Drill Charge NERF"]
 ---
 <!-- generated:start -->
-Lethal equipment includes items such as the knife, which players utilize across game modes like DMZ.
+Lethal equipment consists of offensive combat gear used by players during engagements. Knowing how lethal gear behaves helps players survive hazards and track weapon progression.
 
-## How does the knife work in DMZ?
+## How does lethal equipment behave?
 
-* Players report that the knife features progress tracking in DMZ.
-* Players report that the knife is not available as a drop in DMZ.
+* Players report that the knife tracks progress in DMZ, though it is not available as a drop.
+* Players report that Claymores do not always kill a player who has used the Possum trait.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-02._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->
