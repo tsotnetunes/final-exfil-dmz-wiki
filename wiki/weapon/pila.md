@@ -1,24 +1,24 @@
 ---
 type: weapon
 title: "PILA"
-description: "The PILA is an unlockable weapon that players report can be dropped by another player in DMZ."
+description: "The PILA is an unlockable weapon in DMZ that can be dropped by another player who has already unlocked it."
 status: draft
 brain_status: candidate
 sensitivity: public
-sources: [clm_c23d886db28c]
+sources: [clm_c23d886db28c, clm_21d566fff9c5]
 ---
 <!-- generated:start -->
-The PILA is a weapon whose class and manual source are unconfirmed.
+The PILA is an unlockable weapon in DMZ.
 
 ## What is it?
 
-The PILA is an unlockable weapon.
+Players report that the PILA is an unlockable weapon featured in DMZ. Players also report that the JOKR is a weapon in DMZ.
 
 ## How do you get it?
 
-Players report that the PILA can be dropped by another player who has it unlocked in DMZ.
+Players report that another player who has the PILA unlocked can drop it for someone in DMZ.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->

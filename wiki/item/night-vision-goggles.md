@@ -5,11 +5,18 @@ description: "Three night vision goggles (Weak, standard, Elite) for Hajin's dar
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-gfinity-story-mission-rewards-2026-10-23]
+sources: [clm_d04086df34ae, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-gfinity-story-mission-rewards-2026-10-23]
 aliases: ["NVG", "NVGs", "night vision", "Weak Night Vision Goggles", "Elite Night Vision Goggles", "nods"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Night Vision Goggles are an item that players report will be required more consistently on the new X01 map due to dark close-quarters combat environments.
+
+## Where are Night Vision Goggles needed?
+
+* Players report that Night Vision Goggles will be needed more consistently on the new X01 map.
+* Players report that this need is due to dark close-quarters combat environments on the map.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->
