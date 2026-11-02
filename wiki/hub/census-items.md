@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: items"
-description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 31 Oct 2026."
+description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 2 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -158,13 +158,16 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Key: Haejeok Radio Station | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] | published |
 | Key: The Citadel South Wing | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-conquestcapped-dmz-keys-2026-10-28]] | published |
 | Key: The Citadel Main Control Room | row in [[keys-west-and-north]] | [[src-conquestcapped-dmz-keys-2026-10-28]] | published (reported) |
+| Key: The Citadel Secondary Control Room | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-11-02]] | published (reported) |
+| Key: The Citadel East Wing | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-11-02]] | published (reported) |
 | Key: South Block Armory | row in [[keys-west-and-north]] | [[src-conquestcapped-dmz-keys-2026-10-28]] | published (reported) |
 | Key: Kang's Arms Incinerator | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] | published |
 | Key: Prison Encampment Storage | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-dexerto-jang-ui-power-room-2026-10-24]] | published |
 | Key: Commandant Office | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-conquestcapped-dmz-keys-2026-10-28]] | published |
 | Key: Weapons Mod Workshop | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] | published |
-| Key: Field Depot | row in [[keys-west-and-north]] | [[src-gamingpromax-dmz-keys-2026-10-27]] [[src-xboxplay-dmz-keys-2026-10-22]] | published |
+| Key: Field Depot | row in [[keys-west-and-north]] | [[src-gamingpromax-dmz-keys-2026-10-27]] [[src-xboxplay-dmz-keys-2026-10-22]] [[src-dmzhub-keys-2026-11-02]] | published |
 | Key: Air Base Access Card - Multi Use | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-conquestcapped-dmz-keys-2026-10-28]] | published |
+| Key: Air Base Armory Card - Single Use | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-11-02]] | published (reported) |
 | Key: Supreme Leader's Bunker Access Card | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-conquestcapped-dmz-keys-2026-10-28]] | published |
 | Key: Air Base DRC Weapons Locker | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] | published |
 | Key: Underground Propaganda Store Room | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-gamingpromax-dmz-keys-2026-10-27]] | published |
@@ -186,6 +189,8 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Key: Militia Arms Depot | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-10-31]] [[src-gamingpromax-dmz-keys-2026-10-27]] | published |
 | Key: Mirae Electrical Room | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-10-31]] [[src-gamingpromax-dmz-keys-2026-10-27]] | published |
 | Key: The Doctor's Command Office | row in [[keys-hajin-city-and-east]] | [[src-gamingpromax-dmz-keys-2026-10-27]] [[src-xboxplay-dmz-keys-2026-10-22]] | published |
+| Key: Hospital Chemical Lab Key | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-11-02]] | published (reported) |
+| Key: Hospital Chemical Lockers | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-11-02]] | published (reported) |
 | Key: Iskra's Control Room | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] | published |
 | Key: Reactor DRC Locker | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-10-31]] [[src-conquestcapped-dmz-keys-2026-10-28]] | published |
 | Key: Reactor 02 Control Room | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | published |

@@ -1205,3 +1205,7 @@
 ## [2026-11-01 19:52 EST] edit | daily update 2026-11-01: Season 1 Warzone side named Hajin Conflict with roadmap due 2 Nov; Bank XIII and 2 billion report; Rescue Beacon and Weapon Insurance, split screen, Steam Deck FAQs; new Prestige and loss reports; 7 candidate stubs retired
 - changed: .kac 1, evals 1, index 11, index.md 1, raw 6, wiki 39
 - run: r-20261101-195250-fb15
+
+## [2026-11-01 21:29 EST] edit | community sweep 2026-11-02: DMZHub added seven keys; five new key rows (hospital chemical lab and lockers, Citadel East Wing and Secondary Control Room, Air Base Armory Card), Field Depot corrected, counts 53 and 59
+- changed: .kac 1, index 6, index.md 1, raw 1, wiki 9
+- run: r-20261101-212924-56fd

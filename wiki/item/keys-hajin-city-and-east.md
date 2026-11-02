@@ -5,8 +5,8 @@ description: "Every DMZ key door at The Grid, NuriGO Mall, Wolves Stadium, Songd
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_6d9e095f5c7b, src-activision-dmz-guide-part1-2026-10-05, src-conquestcapped-dmz-keys-2026-10-28, src-dmzhub-keys-2026-10-31, src-gfinity-story-mission-rewards-2026-10-23, src-criticalhits-dmz-keys-2026-10-26, src-gamingpromax-dmz-keys-2026-10-27, src-dexerto-jang-ui-power-room-2026-10-24, src-xboxplay-dmz-keys-2026-10-22, src-codmunity-dmz-items-2026-10-26]
-aliases: ["Roze's Highrise Armory", "Netshin IT Room", "Executive Arms Auction", "Hanex Guard Station", "Lucera Suite 703 Bedroom", "Hanwoori Art Records Room", "Coin Mining Den", "Jang-Ui's Converted Power Room", "Shopping DRC Locker", "Old Barber Shop", "Shop Records Room", "Police Weapon Depository", "Gangbyeon Apartment B", "Militia Arms Depot", "Mirae Electrical Room", "The Doctor's Command Office", "Iskra's Control Room", "Reactor DRC Locker", "Reactor 02 Control Room", "Hazard Storehouse", "Utility Maintenance Storage", "The Chemist's Secure Armory", "Black Keycard", "DRC Labs", "reactor keys", "Grid keys", "mall keys"]
+sources: [src-dmzhub-keys-2026-11-02, clm_6d9e095f5c7b, src-activision-dmz-guide-part1-2026-10-05, src-conquestcapped-dmz-keys-2026-10-28, src-dmzhub-keys-2026-10-31, src-gfinity-story-mission-rewards-2026-10-23, src-criticalhits-dmz-keys-2026-10-26, src-gamingpromax-dmz-keys-2026-10-27, src-dexerto-jang-ui-power-room-2026-10-24, src-xboxplay-dmz-keys-2026-10-22, src-codmunity-dmz-items-2026-10-26]
+aliases: ["Roze's Highrise Armory", "Netshin IT Room", "Executive Arms Auction", "Hanex Guard Station", "Lucera Suite 703 Bedroom", "Hanwoori Art Records Room", "Coin Mining Den", "Jang-Ui's Converted Power Room", "Shopping DRC Locker", "Old Barber Shop", "Shop Records Room", "Police Weapon Depository", "Gangbyeon Apartment B", "Militia Arms Depot", "Mirae Electrical Room", "The Doctor's Command Office", "Iskra's Control Room", "Reactor DRC Locker", "Reactor 02 Control Room", "Hazard Storehouse", "Utility Maintenance Storage", "The Chemist's Secure Armory", "Black Keycard", "DRC Labs", "reactor keys", "Grid keys", "mall keys", "Hospital Chemical Lab Key", "Hospital Chemical Lab", "Hospital Chemical Lockers", "chemical lab key", "morgue key"]
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
@@ -65,6 +65,8 @@ See [[mirae-general-hospital]] and [[cheonwang-peak-array]].
 | --- | --- | --- | --- | --- | --- |
 | Mirae Electrical Room | Rare | the electrical room in the northwest basement car park of [[mirae-general-hospital]] | F5 | Operation Critical Extraction; random loot | [[src-dmzhub-keys-2026-10-31]] [[src-gamingpromax-dmz-keys-2026-10-27]] [[src-gfinity-story-mission-rewards-2026-10-23]] |
 | The Doctor's Command Office | Legendary | an upper-floor office at Mirae General Hospital; its Lieutenant crate has held the [[tempered-armor-vest]] recipe | F5 | dropped by The Doctor | [[src-gamingpromax-dmz-keys-2026-10-27]] [[src-xboxplay-dmz-keys-2026-10-22]] [[src-criticalhits-dmz-keys-2026-10-26]] |
+| Hospital Chemical Lab Key | Rare | a chemical lab in the hospital's basement morgue (reported) | F5 | spawns inside [[mirae-general-hospital]] (reported) | [[src-dmzhub-keys-2026-11-02]] |
+| Hospital Chemical Lockers | Rare | one sealed locker inside that chemical lab (reported) | F5 (the lab's square) | found in the hospital (reported) | [[src-dmzhub-keys-2026-11-02]] |
 | Iskra's Control Room | Legendary | the control room upstairs in the broadcast building at [[cheonwang-peak-array]] | F7 (boss guides: F6) | not given | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] |
 
 ## Haneul Nuclear Reactor

@@ -5,8 +5,8 @@ description: "The walled NK prison in northwest Hajin: High threat, Critical in 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, src-dmzhub-locations-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27, src-gamingpromax-compounds-2026-10-26, src-gamerfuzion-solo-vault-run-2026-10-25, src-dmztracker-dynamic-side-ops-2026-10-20]
-aliases: ["Prison complex", "the Citadel", "Political Prison", "Fortress Prison Yard", "14th Political Prison", "prison", "Kang's Arms Incinerator", "Prison Encampment Storage", "The Citadel South Wing"]
+sources: [src-dmzhub-keys-2026-11-02, src-dmzhub-maps-2026-10-31, src-dmzhub-locations-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27, src-gamingpromax-compounds-2026-10-26, src-gamerfuzion-solo-vault-run-2026-10-25, src-dmztracker-dynamic-side-ops-2026-10-20]
+aliases: ["Prison complex", "the Citadel", "Political Prison", "Fortress Prison Yard", "14th Political Prison", "prison", "Kang's Arms Incinerator", "Prison Encampment Storage", "The Citadel South Wing", "The Citadel East Wing", "The Citadel Secondary Control Room"]
 region: "northwest Hajin (former NK)"
 danger: "high (the Citadel: critical)"
 loot_profile: military
@@ -43,6 +43,8 @@ The Warden holds the Citadel with a riot shield and a shotgun among many AI sold
 | Kang's Arms Incinerator | Legendary | Fortified incinerator room in the Citadel's northwest wing, B3 |
 | Prison Encampment Storage | Rare | Ordnance storeroom on the camp's southeast side, C3 |
 | The Citadel South Wing | Uncommon | The Citadel's south wing |
+| The Citadel East Wing | Uncommon | The Citadel's east wing [[src-dmzhub-keys-2026-11-02]] |
+| The Citadel Secondary Control Room | Uncommon | Above the central atrium, B3 [[src-dmzhub-keys-2026-11-02]] |
 
 Reported by one key database [[src-dmzhub-keys-2026-10-31]]. The key to the Militia Arms Depot in [[hajin-river-heights]] once turned up in a duffel bag in the Citadel's east wing (reported) [[src-allthingshow-key-doors-2026-10-21]].
 
