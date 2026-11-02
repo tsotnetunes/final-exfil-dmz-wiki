@@ -5,18 +5,19 @@ description: "All 11 DMZ backpacks, from the 8-slot Basic Pack to Ultra packs wi
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_ab20bc0d555f, clm_15a7de778829, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-cod-dmz-progression-video-2026-10-07, src-dmzcodex-backpacks-2026-10-31, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-dmzradar-backpacks-2026-10-20, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-xboxplay-large-backpack-2026-10-23, src-allthings-how-large-backpack-2026-10-21, src-windowscentral-dmz-backpacks-2026-10-22, src-conquestcapped-dmz-keys-2026-10-28]
+sources: [clm_ab20bc0d555f, clm_15a7de778829, clm_beb2e4caef3a, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-cod-dmz-progression-video-2026-10-07, src-dmzcodex-backpacks-2026-10-31, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-dmzradar-backpacks-2026-10-20, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-xboxplay-large-backpack-2026-10-23, src-allthings-how-large-backpack-2026-10-21, src-windowscentral-dmz-backpacks-2026-10-22, src-conquestcapped-dmz-keys-2026-10-28]
 aliases: ["backpack", "backpack sizes", "backpack tiers", "Basic Pack", "Small Backpack", "Medium Backpack", "Medium Weapon Backpack", "Medium Scavenger Backpack", "Small Secure Backpack", "Large Scavenger Backpack", "Medium Secure Backpack", "Large Secure Backpack", "Secure Scavenger Backpack", "Scavenger Backpack", "Secure Backpack", "Weapon Backpack", "bag", "Safe Pocket", "secure pocket"]
 ---
 <!-- generated:start -->
-Backpacks are inventory items used to carry gear and loot in Call of Duty: Modern Warfare 4 DMZ mode. Different variants provide specialized storage functions for players managing their inventory during matches.
+Backpacks are inventory items used in Call of Duty: Modern Warfare 4 DMZ mode to carry and manage gear during matches. They dictate item storage and extraction options for players.
 
-## Which backpack variants are available?
+## How do backpacks work in DMZ?
 
-* Large Secure Backpacks are available in Call of Duty: Modern Warfare 4 DMZ mode, as reported by players on 2 Nov 2026.
-* A Medium Scavenger Backpack can be brought to hotswap items into secure slots, according to player reports from 2 Nov 2026.
+* Large Secure Backpacks are available in Call of Duty: Modern Warfare 4 DMZ mode, as reported by players.
+* Players report that a Medium Scavenger Backpack can be brought into a match to hotswap items into secure slots.
+* Players report that they can extract from a DMZ match with an empty backpack.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-02._
+_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->

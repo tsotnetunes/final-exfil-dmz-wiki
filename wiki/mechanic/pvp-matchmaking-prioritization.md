@@ -5,18 +5,20 @@ description: "Reported, not confirmed: after the 28 Oct 2026 update DMZ matchmak
 status: draft
 brain_status: draft
 sensitivity: public
-sources: [clm_d1e82587707a, clm_bbaff371a6b3, clm_c7368582e2c4, src-detonated-dmz-story-matchmaking-2026-10-29, src-ixbt-dmz-pvp-matchmaking-2026-10-30, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-dmztracker-story-missions-2026-10-20]
+sources: [clm_d1e82587707a, clm_bbaff371a6b3, clm_c7368582e2c4, clm_ed4f8561c818, clm_2fb9802e1cca, src-detonated-dmz-story-matchmaking-2026-10-29, src-ixbt-dmz-pvp-matchmaking-2026-10-30, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-dmztracker-story-missions-2026-10-20]
 aliases: ["PvP priority DMZ", "DMZ matchmaking change", "more PvP in DMZ", "story mission matchmaking", "DMZ matchmaking rollback", "near-PvE story lobbies"]
 ---
 <!-- generated:start -->
-PVP matchmaking prioritization is a matchmaking adjustment in DMZ that alters how players are grouped into lobbies based on combat focus. Changes to this system directly impact the likelihood of encountering other players versus completing objectives during a match.
+PVP matchmaking prioritization is a matchmaking adjustment in Modern Warfare 4 DMZ reported by players to favor player-versus-player encounters over separate lobbies. This system influences whether squads encounter hostile operators or separate mission-specific sessions while deploying.
 
-## How has PVP matchmaking prioritization changed?
+## How does matchmaking prioritize PVP in DMZ?
 
-* Infinity Ward reportedly increased PVP matchmaking prioritization in DMZ, as reported by players on 31 Oct 2026.
-* The developer rolled back mission matchmaking changes in DMZ, as reported by players on 31 Oct 2026.
+* Infinity Ward reportedly increased PVP matchmaking prioritization in DMZ on 31 Oct 2026.
+* Infinity Ward reportedly adjusted DMZ matchmaking in Modern Warfare 4 to prioritize player-versus-player encounters, according to player reports on 2 Nov 2026.
+* Players replaying a story mission in DMZ are reportedly placed into regular lobbies instead of mission-specific ones.
+* The developer reportedly rolled back mission matchmaking changes in DMZ later on 31 Oct 2026.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-11-02._
 <!-- generated:end -->
 
 <!-- human:start -->
