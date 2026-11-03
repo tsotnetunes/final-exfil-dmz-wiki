@@ -10,7 +10,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[colossus]] — Roaming Commander: a seven-foot armoured soldier with a depleted-uranium minigun. Grenades fail; use Thermite, height and cover. First kill pays $50,000 plus L… · **published**
 - [[commander-threats]] — All DMZ Commanders: Colossus, the Deathstalker and the Main NK Battle Tank roam Hajin since launch; The Captain and Wheelson are announced for Season 1. How to… · **published**
 - [[deathstalker]] — Roaming Commander: a helicopter-sized autonomous drone with two machine-gun turrets over Hajin City. A captured SAM site downs it with one missile; pays $50,00… · **published**
-- [[helios]] — Helios is a commander who is currently reported by players to be bugged. · **candidate**
+- [[helios]] — Helios is a commander that players report is currently affected by a bug as of 2 Nov 2026. · **candidate**
 - [[main-nk-battle-tank]] — Roaming Commander: a North Korean battle tank on the roads of Hajin. Bullets do nothing; drop its armour with a DDOS and use rockets. Loot its front, back and … · **published**
 
 ## event (8) in `wiki/event/<id>.md`
@@ -255,7 +255,7 @@ Each line: page id, its one-sentence card, its state. To find something, search 
 - [[multiplayer]] — Modern Warfare 4's Multiplayer shares weapon levels and the 1 to 55 player level with DMZ, but its XP never raises your DMZ level; a few launch bugs crossed be… · **published**
 - [[operator-prestige]] — Prestige an Operator with 18 Trait Points by handing in rare gear and 200,000 to 500,000 DMZ Cash; Traits reset and you get a random permanent Prestige Trait, … · **published**
 - [[operator-prestige-and-permanent-prestige-traits]] — Retired duplicate. Operator Prestige, its costs, the Prestige Traits and the reported problems are on the Operator Prestige page. · **retired**
-- [[operator-reset-mechanic]] — Under the Operator reset mechanic, changing an operator requires resetting that operator's progress. · **candidate**
+- [[operator-reset-mechanic]] — The Operator reset mechanic requires resetting an operator's progress whenever you switch characters, according to player reports. · **candidate**
 - [[paid-infil]] — Infil for Dynamic Ops and Free Roam: on foot free, Polaris Dagor A1 5,000, LTV 25,000, helicopter 50,000, cargo plane 100,000 DMZ Cash; the paid drops open thr… · **published**
 - [[pings-and-communication]] — How to talk in DMZ: the Ping Wheel for silent commands and truce or join requests, Tac-Map and loot pings, proximity and party voice, and the alerts the game i… · **published**
 - [[proximity-chat]] — Voice between nearby players with distance-based falloff, directionality and environmental reverb (official, pre-launch). · **published**

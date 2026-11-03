@@ -9,13 +9,13 @@ sources: [clm_5d04f7dd5bb2, src-activision-dmz-deep-dive-2026-06, src-activision
 aliases: ["loot", "where to find loot", "best loot locations", "loot containers", "safes", "weapon lockers", "duffel bag", "military bag", "Ammo & Armor Caches", "loot spawns"]
 ---
 <!-- generated:start -->
-Loot placement governs where supply containers appear during a match. Knowing container locations helps players plan efficient scavenging paths.
+Loot placement determines where items spawn across the map, allowing players to plan efficient routes for acquiring gear. Knowing container locations matters for securing essential equipment quickly.
 
-## Where do weapon lockers appear?
+## Where can players find guaranteed loot containers?
 
-* Players report that each stop along the loot run route is a guaranteed weapon locker.
+* Players report that each stop along the loot run route features a guaranteed weapon locker.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

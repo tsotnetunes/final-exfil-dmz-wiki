@@ -9,16 +9,16 @@ sources: [clm_d1e82587707a, clm_bbaff371a6b3, clm_c7368582e2c4, clm_ed4f8561c818
 aliases: ["PvP priority DMZ", "DMZ matchmaking change", "more PvP in DMZ", "story mission matchmaking", "DMZ matchmaking rollback", "near-PvE story lobbies"]
 ---
 <!-- generated:start -->
-PVP matchmaking prioritization is a matchmaking adjustment in Modern Warfare 4 DMZ reported by players to favor player-versus-player encounters over separate lobbies. This system influences whether squads encounter hostile operators or separate mission-specific sessions while deploying.
+PVP matchmaking prioritization is a matchmaking setting in Modern Warfare 4 DMZ that directs how players are matched into lobbies based on player-versus-player combat. Adjustments to this system determine whether participants encounter other players more frequently or receive mission-specific lobby placements.
 
-## How does matchmaking prioritize PVP in DMZ?
+## How has PVP matchmaking prioritization changed?
 
-* Infinity Ward reportedly increased PVP matchmaking prioritization in DMZ on 31 Oct 2026.
+* Infinity Ward reportedly increased PVP matchmaking prioritization in DMZ, as reported by players on 31 Oct 2026.
+* The developer rolled back mission matchmaking changes in DMZ later on 31 Oct 2026, superseding the earlier adjustment.
 * Infinity Ward reportedly adjusted DMZ matchmaking in Modern Warfare 4 to prioritize player-versus-player encounters, according to player reports on 2 Nov 2026.
-* Players replaying a story mission in DMZ are reportedly placed into regular lobbies instead of mission-specific ones.
-* The developer reportedly rolled back mission matchmaking changes in DMZ later on 31 Oct 2026.
+* Players replaying a story mission in DMZ are reportedly placed into regular lobbies instead of mission-specific ones, as reported by players on 2 Nov 2026.
 
-_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-11-02._
+_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

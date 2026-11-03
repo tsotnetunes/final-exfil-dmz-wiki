@@ -13,9 +13,9 @@ unlock: start
 <!-- generated:start -->
 ## What are the rewards for deployment?
 
-Players report that deployment rewards in Modern Warfare 4 DMZ are insufficient.
+Players have reported that deployment rewards in Modern Warfare 4 DMZ are insufficient.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

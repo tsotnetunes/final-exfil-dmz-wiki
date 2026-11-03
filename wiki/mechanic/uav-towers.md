@@ -9,15 +9,15 @@ sources: [clm_ae67c70adc88, clm_0b7cfd4fc000, clm_1d639bef64e0, clm_03b714b0fbe6
 aliases: ["UAV Tower", "Activate UAV Tower", "activate a UAV tower", "UAV tower side op", "hack a UAV tower"]
 ---
 <!-- generated:start -->
-UAV Towers are interactive tactical stations in DMZ that provide reconnaissance control over an area. Understanding how to capture and contest UAV Towers allows squads to track threats or reclaim territory from opponents.
+UAV Towers are activatable stations in DMZ that players can trigger and recapture during matches. Activating them allows squads to contest area control across the map.
 
-## How do UAV Towers work?
+## How do UAV Towers work in DMZ?
 
-* UAV Towers can be activated by players, as reported by players.
-* Activating or popping UAV Towers is considered a common activity in DMZ, as reported by players.
-* Players can steal back UAV Towers from enemy control, confirmed on 22 Oct 2026.
+* UAV Towers can be activated by players, according to player reports.
+* Activating or popping UAV Towers is reported by players to be a common activity in DMZ.
+* As confirmed on 22 Oct 2026, players in DMZ can steal back UAV Towers from enemy control.
 
-_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

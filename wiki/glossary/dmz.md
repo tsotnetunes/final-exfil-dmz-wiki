@@ -9,37 +9,23 @@ sources: [clm_f73692b6b80c, clm_76e5ae66f00a, clm_0f762246daa5, clm_5e8135915868
 aliases: ["MW4 DMZ", "DMZ early access", "play DMZ early", "DMZ (the mode)", "DMZ mode", "what is DMZ", "Call of Duty DMZ"]
 ---
 <!-- generated:start -->
-Modern Warfare 4 DMZ is a deployment-based extraction shooter mode set in Hajin. It launched ahead of the main game to give players an early multiplayer experience focused on survival, looting, and progression.
+DMZ is an extraction game mode in Call of Duty: Modern Warfare 4 set in Hajin. It offers a dedicated progression track alongside high-stakes PvPvE survival, looting, and exfiltration gameplay.
 
 ## What is Modern Warfare 4 DMZ?
 
-Modern Warfare 4 DMZ is a game mode in Modern Warfare 4 that features PvPvE extractions where players form squads or queue solo.
+Modern Warfare 4 DMZ is a squad-based mode built around PvPvE extractions, reported by players as an extraction shooter experience. The mode takes place in Hajin, confirmed on 10 Oct 2026, which players report spans both North and South Korean territories across a huge map. 
 
-* Modern Warfare 4 DMZ takes place in Hajin, a map confirmed on 10 Oct 2026.
-* Modern Warfare 4 DMZ features a progression system offering 70 levels of rewards, confirmed on 19 Oct 2026.
-* Modern Warfare 4 DMZ contains three Mastery Camos: Chiral, Ripple Tide, and Helio, confirmed on 19 Oct 2026.
-* Modern Warfare 4 DMZ requires Variable Refresh Rate (VRR) for Performance Mode support on PS5 and Xbox Series X|S, confirmed on 20 Oct 2026.
-* Modern Warfare 4 DMZ Early Access required TPM 2.0 and Secure Boot to be enabled on PC, confirmed on 16 Oct 2026.
-* Modern Warfare 4 DMZ collaborated with Monster Gaming, confirmed on 22 Oct 2026.
-* Players who participated in the MWII DMZ Beta receive the Beta On Record emblem and Beta Squad calling card, confirmed on 19 Oct 2026.
-* Players report that Hajin covers both South and North Korean territories.
-* Players report that Modern Warfare 4 DMZ features its own weapon damage tuning close to Warzone.
-* Players report that lobbies are not solo-only, though solo matchmaking attempts to prioritize other solo players.
-* Players report that Modern Warfare 4 DMZ currently features only PvPvE play, and Infinity Ward noted that Single Squad Missions were internal only.
-* Players report that Modern Warfare 4 DMZ includes Dynamic Ops, ground orders, and a final cutscene after completing 24 pages of orders.
-* Players report that Military Composites and Experimental Compounds are used to upgrade the Forward Operating Base (FOB).
-* Players report finding items such as Ballistic Fabric, recipes, weapon manuals, and ULTRA tier items during runs.
-* Players report that exfilling the same weapon manual three additional times per weapon unlocks a hidden camo.
-* Players report that after the third prestige, each subsequent prestige unlocks a new trait and allows swapping a held trait.
+* The mode launched into Early Access on 20 Oct 2026 at 10:00 PT, ahead of the full Modern Warfare 4 launch on 23 Oct 2026.
+* Early Access participation required a digital pre-order.
+* PC systems required TPM 2.0 and Secure Boot enabled to run the Early Access launch.
+* Modern Warfare 4 includes DMZ as a core mode, and players report a DMZ-style mission appears in the campaign.
+* Infinity Ward confirmed a promotional collaboration with Monster Gaming within DMZ on 22 Oct 2026.
 
-## When did Modern Warfare 4 DMZ launch?
+## What are the display and system settings?
 
-Modern Warfare 4 DMZ Early Access launched globally on 20 Oct 2026 at 10 AM PT for digital pre-orders, ahead of Modern Warfare 4's full launch on 23 Oct 2026.
+Performance Mode on PlayStation 5 and Xbox Series X|S requires Variable Refresh Rate (VRR), confirmed on 20 Oct 2026.
 
-* Modern Warfare 4 DMZ preloads were made available on 19 Oct 2026.
-* Modern Warfare…
-
-_Generated from 31 confirmed and 71 reported claims across 97 posts and 0 patch notes; last rendered 2026-11-02._
+_Generated from 31 confirmed and 71 reported claims across 97 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

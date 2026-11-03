@@ -9,19 +9,19 @@ sources: [clm_1388e898e92b, clm_e39fdc756114, clm_07db6f377151, clm_6212bbf73d62
 aliases: ["map", "Tac Map", "tacmap", "grid", "coordinates", "grid square", "HUD", "minimap"]
 ---
 <!-- generated:start -->
-Tac-Map and grid coordinates are navigation and interface features used by players in MW4.
+The Tac-Map and HUD elements assist player navigation and situational awareness in Modern Warfare 4 DMZ. Understanding interface layouts and map resources helps players track combat events and navigate deployment zones.
 
-## How has the HUD been updated in MW4?
+## What changes were made to the HUD?
 
-* Players report that the HUD in MW4 has been updated to remove squad operator portraits.
-* Players report that the updated HUD uses more compact widgets.
-* Players report that the kill feed has been moved to its original position.
+* Players report that the Modern Warfare 4 HUD has been updated to remove squad operator portraits.
+* The update introduces more compact widgets, according to player reports.
+* Players report that the kill feed has been moved back to its original position.
 
-## What maps are available?
+## Are there interactive maps available?
 
 * Players report that an interactive map of Hajin exists.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-02._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

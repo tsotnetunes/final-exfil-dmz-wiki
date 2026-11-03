@@ -9,13 +9,14 @@ sources: [clm_72b3d4d85f63, clm_35a8cbf4582f, src-activision-dmz-guide-part2-202
 aliases: ["Colossus Commander", "Armored Commander", "minigun boss", "Collosus", "Colosus", "Goliath"]
 ---
 <!-- generated:start -->
-Colossus is a commander armed with heavy weaponry. Players encounter Colossus as a hostile threat that can attack during team revive attempts.
+Colossus is a commander armed with heavy weaponry. Players encounter Colossus as an enemy threat that can disrupt squad actions.
 
 ## What weapon does Colossus use?
 
 * Players report that Colossus uses a minigun.
+* Players report being attacked by Colossus while attempting to revive a teammate.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-02._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

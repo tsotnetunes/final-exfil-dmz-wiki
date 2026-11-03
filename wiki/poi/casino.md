@@ -12,23 +12,18 @@ danger: high
 loot_profile: high-value
 ---
 <!-- generated:start -->
-Heavenly Luck Casino is a location in Call of Duty: Modern Warfare 4 DMZ where players go to complete a story mission.
-
-Players report that Heavenly Luck Casino features a story mission spawn point. The mission at Heavenly Luck Casino can be repeated in Call of Duty: Modern Warfare 4 DMZ, as reported by players. Players also report that this assignment is referred to as the casino job.
+Heavenly Luck Casino is a point of interest featured in Call of Duty: Modern Warfare 4 DMZ mode missions.
 
 ## Where is it?
-
-Heavenly Luck Casino is located within Call of Duty: Modern Warfare 4 DMZ. A bank vault is also located within the DMZ mode of Call of Duty: Modern Warfare 4, as reported by players.
+Players report that Heavenly Luck Casino features a story mission spawn point. A bank vault is also located within the DMZ mode of Call of Duty: Modern Warfare 4. Players refer to the Heavenly Luck Casino mission as the casino job. Players report that the Heavenly Luck Casino mission can be repeated in DMZ.
 
 ## What loot is there?
-
-Players report that Call of Duty: Modern Warfare 4 DMZ contains a bank vault.
+No loot details have been confirmed for Heavenly Luck Casino.
 
 ## How dangerous is it?
+The danger level of Heavenly Luck Casino has not been confirmed.
 
-Specific threat levels for Heavenly Luck Casino have not been confirmed.
-
-_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-11-02._
+_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

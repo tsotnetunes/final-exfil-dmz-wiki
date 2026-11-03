@@ -11,15 +11,15 @@ station: bank
 unlock: start
 ---
 <!-- generated:start -->
+The Wallet sets the player's bank storage limit in DMZ. Players report that the DMZ bank caps at 100K.
+
 ## What is the bank capacity?
+Players report that the DMZ bank has a capacity cap of 100K.
 
-Players report that the DMZ bank caps at 100K.
-
-## What is the bank requirement for prestige?
-
+## How much bank space is needed to prestige?
 Players report that activating the prestige button requires 200k in the player's bank.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

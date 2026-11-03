@@ -8,13 +8,13 @@ sensitivity: public
 sources: [clm_5859c925f4ad]
 ---
 <!-- generated:start -->
-The Drill Charge NERF is a reported reduction to the effectiveness of the Drill Charge equipment.
+The Drill Charge NERF is an adjustment that reduces the effectiveness of the Drill Charge. This change directly impacts players who rely on the equipment in combat.
 
-## Has the Drill Charge been nerfed?
+## What changes were made to the Drill Charge?
 
 * Players report that the Drill Charge has been nerfed.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

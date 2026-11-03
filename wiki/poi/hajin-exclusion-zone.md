@@ -12,33 +12,33 @@ danger: varies
 loot_profile: all
 ---
 <!-- generated:start -->
-Hajin Exclusion Zone is an active Exclusion Zone location where players deploy for DMZ.
+The Hajin Exclusion Zone is an active Exclusion Zone location where players deploy for missions.
 
 ## Where is it?
 
 Hajin was confirmed as an active Exclusion Zone on 20 Oct 2026.
 
-Hajin was confirmed as a location in the game world on 26 Oct 2026.
+Hajin was confirmed as a location in the game on 26 Oct 2026.
 
-Players report that the DMZ mode takes place in Hajin.
+DMZ was confirmed on 28 Oct 2026 to have a whole new Exclusion Zone to explore in Season 1.
 
-On 28 Oct 2026, it was confirmed that a whole new Exclusion Zone is available to explore in DMZ in Season 1.
+Players report that DMZ takes place in Hajin.
 
-Players report that maps in Ground War mode are derived pockets of the Hajin map from DMZ.
+Players report that Ground War maps are derived pockets of the Hajin map from DMZ.
 
 ## What loot is there?
 
-No specific loot profiles or item drops are confirmed for the Hajin Exclusion Zone.
+No loot information has been confirmed for the Hajin Exclusion Zone.
 
 ## How dangerous is it?
 
-Players report that Operators can be encountered in Hajin.
+Players report that Operators can be present in Hajin.
 
-Players report that Hajin features 60 players across 20 squads.
+Players report that Hajin holds 60 players across 20 squads.
 
-Players report that Ground War mode supports 64 players on maps drawn from Hajin.
+Players report that Ground War supports 64 players on maps derived from Hajin.
 
-_Generated from 3 confirmed and 4 reported claims across 7 posts and 0 patch notes; last rendered 2026-11-02._
+_Generated from 3 confirmed and 4 reported claims across 7 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->
