@@ -1249,3 +1249,7 @@
 ## [2026-11-02 19:47 EST] edit | daily update 2026-11-02: Warzone Season 1 post reached the Codex (Player Level reset, Warzone vs DMZ Hajin, later Verdansk), High Stakes event dated, new level-reset FAQ, prestige and trait reports, Auto Fill published
 - changed: .kac 1, evals 1, index 14, index.md 1, raw 2, wiki 30
 - run: r-20261102-194738-8bc8
+
+## [2026-11-02 19:47 EST] edit | daily update 2026-11-02: correct a High Stakes pointer to death-and-loss
+- changed: wiki 1
+- run: r-20261102-194752-84be

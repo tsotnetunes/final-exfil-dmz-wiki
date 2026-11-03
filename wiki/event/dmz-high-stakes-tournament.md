@@ -25,7 +25,7 @@ _Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch not
 DMZ High Stakes was a one-day creator event held on 2 Nov 2026, starting at 12 PM PT and shown on Call of Duty's own broadcast [[src-cod-x-dmz-high-stakes-2026-11-02]]. The field was 42 creators split into 14 trios, playing for $75,000 [[src-cod-x-dmz-high-stakes-2026-11-02]] [clm_22fd7613b03d]. It is the first official money event built around DMZ that the Codex has on record.
 
 ## What were the rules?
-The official posts give no scoring or format [[src-cod-x-dmz-high-stakes-2026-11-02]]. One player taking part said only free loadouts were allowed (reported) [clm_13f10b61619e], which would put every squad on the same starting footing, with gear found during the match. How free loadouts work in normal play is on [[death-and-loss]].
+The official posts give no scoring or format [[src-cod-x-dmz-high-stakes-2026-11-02]]. One player taking part said only free loadouts were allowed (reported) [clm_13f10b61619e], which would put every squad on the same starting footing, with gear found during the match. What happens to a Free Loadout when you die in normal play is on [[death-and-loss]].
 
 ## Could anyone enter?
 The posts describe a fixed field of creators with captains and a broadcast, and they name no way for other players to sign up [[src-cod-x-dmz-high-stakes-2026-11-02]]. For everyone else it was something to watch.
