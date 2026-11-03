@@ -5,7 +5,7 @@ description: "Scout Major Trait, row 9: towers you switch on never time out. Pai
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-allthingshow-dmz-traits-2026-10-21, src-codcentral-dmz-traits-2026-10-23, src-gamerfuzion-dmz-best-traits-2026-10-23, src-destructoid-possum-debate-2026-10-24, src-destructoid-best-operator-traits-2026-10-20, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-allthingshow-dmz-traits-2026-10-21, src-codcentral-dmz-traits-2026-10-23, src-gamerfuzion-dmz-best-traits-2026-10-23, src-destructoid-possum-debate-2026-10-24, src-destructoid-best-operator-traits-2026-10-20, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, clm_43d914a1623b]
 aliases: ["Overwatch trait", "Overwatch perk", "Overwatch Pro", "permanent UAV", "permanent UAV tower", "infinite UAV"]
 tree: Scout
 tier: "Major, row 9"
@@ -15,7 +15,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Overwatch is a Major Trait in the [[scout-tree]]: once you activate a UAV Tower, it never runs out [[src-activision-dmz-guide-part2-2026-10-09]] [[src-destructoid-trait-effects-2026-10-20]]. A player report of a "permanent UAV" Trait [clm_24b10c8643de] most likely means this one. Activating a tower is a Side Op that pays DMZ Cash and pulses nearby Operators and enemies onto the map [[src-activision-dmz-guide-part1-2026-10-05]] ([[uav-towers]], [[locations-of-interest]]).
+Overwatch is a Major Trait in the [[scout-tree]]: once you activate a UAV Tower, it never runs out [[src-activision-dmz-guide-part2-2026-10-09]] [[src-destructoid-trait-effects-2026-10-20]]. Player reports of a "permanent UAV" Trait most likely mean this one [clm_24b10c8643de] [clm_43d914a1623b]. Activating a tower is a Side Op that pays DMZ Cash and pulses nearby Operators and enemies onto the map [[src-activision-dmz-guide-part1-2026-10-05]] ([[uav-towers]], [[locations-of-interest]]).
 
 ## Where is it in the tree?
 Row 9, the top of Scout, opposite [[thermal-padding]] [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-dmzhub-traits-2026-10-31]].

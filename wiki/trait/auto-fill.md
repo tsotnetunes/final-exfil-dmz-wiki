@@ -2,13 +2,13 @@
 type: trait
 title: "Auto Fill"
 description: "Minor Trait, seen in Scout: your Lethal and Tactical slots refill from spares in your backpack. Not the same as Equipment Professional, which recharges them over time."
-status: draft
-brain_status: draft
+status: stable
+brain_status: published
 sensitivity: public
 sources: [clm_afc354a32ecf, clm_6aac9d9c7dc0, clm_d5a1dc3ae648, src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-traits-2026-10-30, src-codcentral-dmz-traits-2026-10-23]
-aliases: ["Auto Fill trait", "Autofill", "auto refill lethals"]
+aliases: ["Auto Fill trait", "Autofill", "auto refill lethals", "does Auto Fill use backpack", "refill lethals from backpack"]
 tree: Scout
-tier: "Minor, random slot"
+tier: "Minor, Scout row 4 in one planner"
 ---
 <!-- generated:start -->
 The Auto Fill trait automatically replenishes lethals and tacticals, according to player reports.
@@ -29,5 +29,7 @@ Auto Fill is a Minor Trait: after you use an equipped Lethal or Tactical, the sl
 
 **Not the same as Equipment Professional.** That Warfighter Major recharges the slot slowly with no spares needed ([[equipment-professional]]).
 
-**Where to find it.** Guides have seen it among Scout's Minor Traits [[src-codmunity-dmz-traits-2026-10-30]], but Minors come from one pool of 48 that can roll into any tree [[src-dmzhub-traits-2026-10-31]]; like every Minor it sits in a random slot and costs one Trait Point ([[scout-tree]], [[trait-points]]). COD Central rates it a good pick [[src-codcentral-dmz-traits-2026-10-23]]. Thin page: the full row is on [[scout-tree]].
+**Where to find it.** One planner shows it on row 4 of Scout beside Mini Tracker and Key Cash [[src-codmunity-dmz-traits-2026-10-30]], but Minors come from one pool of 48 that can roll into any tree [[src-dmzhub-traits-2026-10-31]]; like every Minor it sits in a random slot and costs one Trait Point ([[scout-tree]], [[trait-points]]). So you may not be offered it on a given Operator.
+
+**Is it worth taking?** COD Central rates it a good pick [[src-codcentral-dmz-traits-2026-10-23]]. It only helps if you carry spares, so it costs backpack room; it saves opening the backpack in a fight rather than giving you free equipment.
 <!-- human:end -->

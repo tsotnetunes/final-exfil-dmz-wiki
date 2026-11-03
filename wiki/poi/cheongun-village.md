@@ -5,7 +5,7 @@ description: "The northernmost South Korean town in Hajin, Low threat around the
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-dmzhub-keys-2026-10-31, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamerfuzion-irradiated-container-2026-10-27, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-orders-page-14-2026-10-30, src-gamerfuzion-underground-orders-2026-10-23, src-gamerfuzion-solo-compound-run-2026-10-26, src-allthingshow-gun-store-key-2026-10-22, src-allthingshow-key-doors-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-gamingpromax-compounds-2026-10-26]
+sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-dmzhub-keys-2026-10-31, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamerfuzion-irradiated-container-2026-10-27, src-gamerfuzion-gold-bar-route-2026-10-29, src-gamerfuzion-orders-page-14-2026-10-30, src-gamerfuzion-underground-orders-2026-10-23, src-gamerfuzion-solo-compound-run-2026-10-26, src-allthingshow-gun-store-key-2026-10-22, src-allthingshow-key-doors-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-gamingpromax-compounds-2026-10-26, clm_a595d988f1aa]
 aliases: ["Cheongun", "Cheongun Outskirts", "Russian Border Crossing", "Russian Border", "Rin Oil", "Mechanic's Shack", "Rail Depot Storage", "Cheongun police station"]
 region: "north Hajin (former SK)"
 danger: "low (casino: high)"
@@ -54,4 +54,5 @@ Operation Silent Ledger takes squads into the casino's vault ([[operation-silent
 ## Where do you exfil?
 
 Exfil sites are mapped around the village, one of them a possible final exfil, and a Bounty terminal stands in the village (reported) [[src-codmunity-hajin-map-2026-10-31]] [[src-dmzhub-maps-2026-10-31]]; one solo run left from Cheongun Outskirts with guards pushing the smoke [[src-gamerfuzion-solo-compound-run-2026-10-26]]. Compound Charlie and another clinic lie a minute's walk southwest ([[compounds]]) [[src-gamerfuzion-irradiated-container-2026-10-27]] [[src-gamingpromax-compounds-2026-10-26]].
+A community map marks secret entrances at the Cheongun Village Police Station (reported) [clm_a595d988f1aa]; see [[police-stations]].
 <!-- human:end -->

@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: traits"
-description: "Every traits subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 31 Oct 2026."
+description: "Every traits subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 2 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-The official guide counts 66 Traits, 18 Major and 48 Minor, plus permanent Prestige Traits [[src-activision-dmz-guide-part2-2026-10-09]]. As of 31 Oct 2026 the Codex has all 18 Majors, all 12 Pro Traits and all 48 Minors. Minor Traits come from a pool shared by the three trees, so each is listed under every tree it has been seen in. Names that trait databases file as leaks (32 at codmunity) are left out, except Operator Tracker, which two other sources list as a live Minor and which completes the official count.
+The official guide counts 66 Traits, 18 Major and 48 Minor, plus permanent Prestige Traits [[src-activision-dmz-guide-part2-2026-10-09]]. As of 2 Nov 2026 the Codex has all 18 Majors, all 12 Pro Traits and all 48 Minors. Minor Traits come from a pool shared by the three trees, so each is listed under every tree it has been seen in. Names that trait databases file as leaks (32 at codmunity) are left out, except Operator Tracker, which two other sources list as a live Minor and which completes the official count.
 
 | Member | Codex page | Sources | State |
 | --- | --- | --- | --- |
@@ -79,7 +79,7 @@ The official guide counts 66 Traits, 18 Major and 48 Minor, plus permanent Prest
 | Fast Learner (Minor) | row in [[scout-tree]] | [[src-codmunity-dmz-traits-2026-10-30]] | published |
 | Mini Tracker (Minor) | row in [[scout-tree]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
 | Key Cash (Minor) | row in [[scout-tree]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
-| Auto Fill (Minor) | [[auto-fill]], row in [[scout-tree]] | [[src-codmunity-dmz-traits-2026-10-30]] | draft page (thin), published row |
+| Auto Fill (Minor) | [[auto-fill]], row in [[scout-tree]] | [[src-codmunity-dmz-traits-2026-10-30]] | published |
 | Ammo Reserves (Minor) | row in [[scout-tree]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
 | Field Medic (Minor) | row in [[scout-tree]] | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzhub-traits-2026-10-31]] | published |
 | Resource Hoarder (Minor) | row in [[scout-tree]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |

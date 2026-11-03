@@ -5,7 +5,7 @@ description: "Warfighter Major Trait, row 9: once per match, revive yourself fro
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_b4248fd85709, clm_6cd27932726d, clm_902fc3081685, clm_16115b4491dd, src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-gamerfuzion-dmz-best-traits-2026-10-23, src-dexerto-possum-complaints-2026-10-21, src-destructoid-possum-debate-2026-10-24, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-dexerto-best-operator-traits-2026-10-31, src-playhub-best-traits-2026-10-28]
+sources: [clm_b4248fd85709, clm_6cd27932726d, clm_902fc3081685, clm_16115b4491dd, src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-gamerfuzion-dmz-best-traits-2026-10-23, src-dexerto-possum-complaints-2026-10-21, src-destructoid-possum-debate-2026-10-24, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-dexerto-best-operator-traits-2026-10-31, src-playhub-best-traits-2026-10-28, clm_3ba528ab48d0]
 aliases: ["Possum Trait", "Possum Perk", "Possum Pro", "second life trait", "self revive trait", "opossum"]
 tree: Warfighter
 tier: "Major, row 9"
@@ -38,5 +38,5 @@ It sits on row 9 of Warfighter opposite [[adaptive-restock]], so it takes all ni
 It also removes the tourniquet's health penalty [[src-dmzmap-skill-tree-2026-10-29]] [[src-dmzhub-traits-2026-10-31]] [[src-codcentral-dmz-traits-2026-10-23]] [[src-gamerfuzion-dmz-best-traits-2026-10-23]]. COD Central ranks it the best Pro Trait [[src-codcentral-dmz-traits-2026-10-23]]. See [[pro-traits]].
 
 ## Is it worth taking?
-Dexerto calls it the best Trait in DMZ, and most build guides include it, solo builds above all [[src-dexerto-best-operator-traits-2026-10-31]] [[src-codcentral-dmz-traits-2026-10-23]] [[src-gamerfuzion-dmz-best-traits-2026-10-23]]. To deny an enemy's Possum, Playhub suggests trapping the body or staying near it (reported) [[src-playhub-best-traits-2026-10-28]]; since 28 Oct staying near also blocks the revive, at least until the 4-minute limit runs out [[src-mw4-launch-patch-notes-2026-10-29]].
+Dexerto calls it the best Trait in DMZ, and most build guides include it, solo builds above all [[src-dexerto-best-operator-traits-2026-10-31]] [[src-codcentral-dmz-traits-2026-10-23]] [[src-gamerfuzion-dmz-best-traits-2026-10-23]]. To deny an enemy's Possum, Playhub suggests trapping the body or staying near it (reported) [[src-playhub-best-traits-2026-10-28]]; since 28 Oct staying near also blocks the revive, at least until the 4-minute limit runs out [[src-mw4-launch-patch-notes-2026-10-29]]. A trap is no guarantee: one player reported on 2 Nov that Claymores do not always finish someone coming back through Possum (reported) [clm_3ba528ab48d0].
 <!-- human:end -->

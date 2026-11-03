@@ -5,7 +5,7 @@ description: "Scout Major Trait, row 6: your UAVs get more range and time and co
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-dexerto-best-operator-traits-2026-10-31, src-allthingshow-dmz-traits-2026-10-21, src-codcentral-dmz-traits-2026-10-23, src-gamerfuzion-dmz-best-traits-2026-10-23, src-destructoid-best-operator-traits-2026-10-20, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-dexerto-best-operator-traits-2026-10-31, src-allthingshow-dmz-traits-2026-10-21, src-codcentral-dmz-traits-2026-10-23, src-gamerfuzion-dmz-best-traits-2026-10-23, src-destructoid-best-operator-traits-2026-10-20, src-mw4-launch-patch-notes-2026-10-29, clm_ab817680481b]
 aliases: ["UAV Upgrade trait", "UAV Upgrade Pro", "Advanced UAV trait"]
 tree: Scout
 tier: "Major, row 6"
@@ -30,5 +30,5 @@ A larger minimap, on top of the stronger UAVs [[src-dmzmap-skill-tree-2026-10-29
 Destructoid and COD Central pair it with Overwatch for constant intel, and COD Central's squad build takes both [[src-destructoid-best-operator-traits-2026-10-20]] [[src-codcentral-dmz-traits-2026-10-23]]; it is also in the solo build reported by GamerFuzion [[src-gamerfuzion-dmz-best-traits-2026-10-23]]. Counterplay to know: rivals with [[thermal-padding]] are hidden from normal UAVs, but an Advanced UAV still shows them the way a normal UAV would [[src-activision-dmz-guide-part2-2026-10-09]].
 
 ## Has it changed?
-No DMZ patch note mentions it up to 31 Oct 2026; a change to UAV health on 21 Oct 2026 was for the Multiplayer killstreak [[src-mw4-launch-patch-notes-2026-10-29]].
+No DMZ patch note mentions it up to 2 Nov 2026; a change to UAV health on 21 Oct 2026 was for the Multiplayer killstreak [[src-mw4-launch-patch-notes-2026-10-29]]. One player reported on 2 Nov that Advanced UAVs do not show elevation, so a marked enemy could be on another floor (reported) [clm_ab817680481b].
 <!-- human:end -->

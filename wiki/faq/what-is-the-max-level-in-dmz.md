@@ -5,7 +5,7 @@ description: "DMZ level 70. Beside it, each Operator's Dog Tag tops out at Onyx 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-activision-warzone-season-1-blog-2026-11-02]
 aliases: ["max DMZ level", "DMZ level cap", "DMZ level 70", "DMZ prestige", "what is the highest level in DMZ", "DMZ max rank", "Onyx III"]
 ---
 <!-- generated:start -->
@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-DMZ level 70 is the top of the DMZ track, with an unlock at every level [[src-activision-dmz-guide-part1-2026-10-05]]. Two other tracks run beside it: each Operator's Dog Tag has 18 levels, Steel I to Onyx III, and your Modern Warfare 4 player level runs from 1 to 55, which DMZ XP also fills [[src-activision-dmz-guide-part2-2026-10-09]].
+DMZ level 70 is the top of the DMZ track, with an unlock at every level [[src-activision-dmz-guide-part1-2026-10-05]]. Two other tracks run beside it: each Operator's Dog Tag has 18 levels, Steel I to Onyx III, and your Modern Warfare 4 player level runs from 1 to 55, which DMZ XP also fills [[src-activision-dmz-guide-part2-2026-10-09]]. Player Level resets when Season 1 starts on 6 Nov 2026 [[src-activision-warzone-season-1-blog-2026-11-02]]; see [[does-your-level-reset-in-season-1]].
 
 ## What does each track give?
 | Track | Range | What it gives |

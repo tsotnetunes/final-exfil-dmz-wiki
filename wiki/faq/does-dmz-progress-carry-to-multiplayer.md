@@ -5,7 +5,7 @@ description: "Partly. DMZ XP raises your MW4 player level and weapon levels are 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-activision-season-1-announcement-2026-10-28]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-activision-season-1-announcement-2026-10-28, src-activision-warzone-season-1-blog-2026-11-02]
 aliases: ["does DMZ XP count for multiplayer", "weapon levels DMZ multiplayer", "shared progression DMZ", "does multiplayer XP count in DMZ", "DMZ weapon XP", "level guns in DMZ"]
 ---
 <!-- generated:start -->
@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Partly. DMZ XP counts toward your Modern Warfare 4 player level (1 to 55), and weapon levels and shared attachment unlocks count across Multiplayer and DMZ, so a gun you level in one mode is levelled in the other [[src-activision-dmz-guide-part2-2026-10-09]]. It does not work the other way for the DMZ level: XP from Multiplayer and Warzone never raises it [[src-activision-dmz-guide-part2-2026-10-09]].
+Partly. DMZ XP counts toward your Modern Warfare 4 player level (1 to 55), and weapon levels and shared attachment unlocks count across Multiplayer and DMZ, so a gun you level in one mode is levelled in the other [[src-activision-dmz-guide-part2-2026-10-09]]. It does not work the other way for the DMZ level: XP from Multiplayer and Warzone never raises it [[src-activision-dmz-guide-part2-2026-10-09]]. From 6 Nov 2026 Player Level resets across the three modes ([[does-your-level-reset-in-season-1]]) [[src-activision-warzone-season-1-blog-2026-11-02]].
 
 ## What stays inside DMZ?
 Your DMZ level, your Operators and their Traits, the Stash, DMZ Cash and FOB upgrades belong to DMZ [[src-activision-dmz-deep-dive-2026-06]] [[src-activision-dmz-guide-part2-2026-10-09]]. DMZ weapon builds are not for Multiplayer: a fix on 24 Oct 2026 stopped them showing as usable in Core Multiplayer [[src-mw4-launch-patch-notes-2026-10-29]]. DMZ has its own camos and camo grind [[src-westie-dmz-ama-recap-2026-10-11]]; see [[dmz-camos]].

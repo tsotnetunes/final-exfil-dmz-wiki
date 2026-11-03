@@ -5,7 +5,7 @@ description: "Hajin's five police stations (Cheongun Village, NuriGO Mall, Revol
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-gameshorizon-police-stations-2026-10-21, src-dmzhub-keys-2026-10-31, src-allthingshow-hajin-map-2026-10-21, src-allthingshow-key-doors-2026-10-21, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamerfuzion-solo-compound-run-2026-10-26, src-codmunity-hajin-map-2026-10-31]
+sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-gameshorizon-police-stations-2026-10-21, src-dmzhub-keys-2026-10-31, src-allthingshow-hajin-map-2026-10-21, src-allthingshow-key-doors-2026-10-21, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamerfuzion-solo-compound-run-2026-10-26, src-codmunity-hajin-map-2026-10-31, clm_c55b6228b9f7]
 aliases: ["Police Station", "police station locations", "police armory", "Police Station Armory", "Police Weapon Depository", "armory"]
 region: Hajin
 danger: "low to medium"
@@ -41,4 +41,5 @@ Rooms hold plates, weapons, ammo, gear and healing items; the armory holds bette
 ## Tips
 
 Clear the main floors before you loot and check corners for hidden guards; a door locked from inside means another way in by stairs or roof [[src-gameshorizon-police-stations-2026-10-21]] [[src-activision-dmz-guide-part1-2026-10-05]].
+One player reported that the larger stations have levers in their reception areas; what they do was not stated (reported) [clm_c55b6228b9f7].
 <!-- human:end -->

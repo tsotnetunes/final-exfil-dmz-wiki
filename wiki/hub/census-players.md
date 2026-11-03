@@ -16,6 +16,7 @@ Every subject in the players' area (FAQ, glossary, events, guides and the mechan
 ## FAQ
 | Member | Codex page | Sources | State |
 | --- | --- | --- | --- |
+| Does your level reset in Season 1? | [[does-your-level-reset-in-season-1]] | [[src-activision-warzone-season-1-blog-2026-11-02]] | published |
 | Are there events in DMZ? | [[are-there-events-in-dmz]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | What are the best weapons in DMZ? | [[best-weapons-in-dmz]] | [[src-mw4-launch-patch-notes-2026-10-29]] | published |
 | Can you choose where you infil in DMZ? | [[can-you-choose-where-you-infil]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
@@ -82,6 +83,7 @@ Every subject in the players' area (FAQ, glossary, events, guides and the mechan
 ## Events
 | Member | Codex page | Sources | State |
 | --- | --- | --- | --- |
+| DMZ High Stakes (2 Nov 2026) | [[dmz-high-stakes-tournament]] | [[src-cod-x-dmz-high-stakes-2026-11-02]] | published |
 | MW4 DMZ events and dates | [[events]] | [[src-activision-season-1-announcement-2026-10-28]] | published |
 | Season 1 | [[season-1]] | [[src-activision-season-1-announcement-2026-10-28]] | published |
 | DMZ Week | [[dmz-week]] | [[src-activision-dmz-guide-part1-2026-10-05]] | published |

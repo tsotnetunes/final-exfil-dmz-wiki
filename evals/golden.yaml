@@ -350,3 +350,12 @@
 - id: g117
   question: Can you play DMZ on a Steam Deck?
   must_retrieve: [can-you-play-dmz-on-steam-deck]
+- id: g118
+  question: Does my level reset in Season 1?
+  must_retrieve: [does-your-level-reset-in-season-1]
+- id: g119
+  question: What was the DMZ High Stakes tournament?
+  must_retrieve: [dmz-high-stakes-tournament]
+- id: g120
+  question: What does the Auto Fill trait do?
+  must_retrieve: [auto-fill]

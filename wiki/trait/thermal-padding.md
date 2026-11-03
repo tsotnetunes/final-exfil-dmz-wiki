@@ -5,7 +5,7 @@ description: "Scout Major Trait, row 9: UAVs do not show you, and Advanced UAVs 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-dexerto-best-operator-traits-2026-10-31, src-allthingshow-dmz-traits-2026-10-21, src-codcentral-dmz-traits-2026-10-23, src-gamerfuzion-dmz-best-traits-2026-10-23, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-dexerto-best-operator-traits-2026-10-31, src-allthingshow-dmz-traits-2026-10-21, src-codcentral-dmz-traits-2026-10-23, src-gamerfuzion-dmz-best-traits-2026-10-23, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, clm_531b123e8546]
 aliases: ["Thermal Padding trait", "Thermal Padding Pro", "anti UAV trait", "ghost perk DMZ", "hide from UAV"]
 tree: Scout
 tier: "Major, row 9"
@@ -30,5 +30,5 @@ A vehicle you ride in is also kept off UAVs [[src-dmzmap-skill-tree-2026-10-29]]
 For solo play several guides make it the key Scout pick, since a lone Operator has nobody to cover them once a UAV shows where they are [[src-playhub-best-traits-2026-10-28]] [[src-codcentral-dmz-traits-2026-10-23]] [[src-gamerfuzion-dmz-best-traits-2026-10-23]]. Squads that hold [[uav-towers]] often take Overwatch instead. Whether it also hides you from the pulse of an activated UAV Tower is not confirmed ([[locations-of-interest]]).
 
 ## Has it changed?
-No patch note mentions it up to 31 Oct 2026 [[src-mw4-launch-patch-notes-2026-10-29]].
+No patch note mentions it up to 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]]. One player reported on 2 Nov being shown on a rival's UAV despite Thermal Padding Pro while under a Sedative Inhaler, so the two may not combine as expected (reported) [clm_531b123e8546].
 <!-- human:end -->

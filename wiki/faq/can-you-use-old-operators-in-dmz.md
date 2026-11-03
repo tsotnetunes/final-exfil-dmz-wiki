@@ -5,7 +5,7 @@ description: "No. DMZ lives in Modern Warfare 4, not Warzone, so there is no ski
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-activision-dmz-guide-part2-2026-10-09, src-activision-pc-specs-2026-09-29, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-cod-dmz-progression-video-2026-10-07]
+sources: [src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-activision-dmz-guide-part2-2026-10-09, src-activision-pc-specs-2026-09-29, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-cod-dmz-progression-video-2026-10-07, src-activision-warzone-season-1-blog-2026-11-02]
 aliases: ["old operators DMZ", "skin toggle DMZ", "Warzone operators in DMZ", "change operator skin DMZ", "operator skins DMZ", "carry forward operators MW4"]
 ---
 <!-- generated:start -->
@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-No. The developers say DMZ belongs to Modern Warfare 4 rather than Warzone, so Operators from older games do not appear and there is no skin toggle (developers' Q&A, as relayed) [[src-westie-dmz-ama-recap-2026-10-11]].
+No. The developers say DMZ belongs to Modern Warfare 4 rather than Warzone, so Operators from older games do not appear and there is no skin toggle (developers' Q&A, as relayed) [[src-westie-dmz-ama-recap-2026-10-11]]. From Season 1 older Operators carry forward into Warzone, and the new skin toggle is for Warzone only, which fits that answer [[src-activision-warzone-season-1-blog-2026-11-02]].
 
 ## Where do DMZ Operators come from?
 - Finishing Campaign missions unlocks eight base Operators: Cho, Dallas, Luca, Oh-Ji, Kal, Dunn, West and Park [[src-activision-campaign-early-access-live-2026-10-16]].
