@@ -5,7 +5,7 @@ description: "No wipe is announced, but Player Level resets on 6 Nov 2026 across
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-season-1-announcement-2026-10-28, src-gamerfuzion-dmz-things-to-know-2026-10-03, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-windows-central-dmz-reveal-2026-06-06, src-westie-dmz-ama-recap-2026-10-11, src-activision-warzone-season-1-blog-2026-11-02, clm_ec947898aaaf]
+sources: [src-activision-season-1-announcement-2026-10-28, src-gamerfuzion-dmz-things-to-know-2026-10-03, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-windows-central-dmz-reveal-2026-06-06, src-westie-dmz-ama-recap-2026-10-11, src-activision-warzone-season-1-blog-2026-11-02]
 aliases: ["DMZ wipe", "DMZ reset", "season reset DMZ", "progress reset DMZ", "will DMZ wipe in Season 1", "DMZ wipe Season 1", "retire operators"]
 ---
 <!-- generated:start -->

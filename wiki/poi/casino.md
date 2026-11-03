@@ -5,7 +5,7 @@ description: "Dark, multi-floor casino in Cheongun Village, High threat: Lieuten
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_c049aff19a6e, clm_27cf8e87cc3c, clm_5008eef40a70, clm_27bf4044d2d2, clm_82e276dd1672, clm_edbf6a027646, clm_77c980f6ba51, src-dmzhub-locations-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-gamerfuzion-solo-vault-run-2026-10-25, src-allthingshow-exfil-guide-2026-10-21, src-codmunity-hajin-map-2026-10-31, clm_3460b7f54bf5]
+sources: [clm_c049aff19a6e, clm_27cf8e87cc3c, clm_5008eef40a70, clm_27bf4044d2d2, clm_82e276dd1672, clm_edbf6a027646, clm_77c980f6ba51, src-dmzhub-locations-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-gamerfuzion-solo-vault-run-2026-10-25, src-allthingshow-exfil-guide-2026-10-21, src-codmunity-hajin-map-2026-10-31]
 aliases: ["Casino (with vault)", "casino", "Heavenly Luck", "Counting Room Vault", "Vault Armory", "Jin-Tae's Private Lounge", "casino vault"]
 region: "Cheongun Village, north Hajin (former SK)"
 danger: high

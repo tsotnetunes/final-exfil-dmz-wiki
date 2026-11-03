@@ -5,13 +5,17 @@ description: "Scout Major Trait, row 9: UAVs do not show you, and Advanced UAVs 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-dexerto-best-operator-traits-2026-10-31, src-allthingshow-dmz-traits-2026-10-21, src-codcentral-dmz-traits-2026-10-23, src-gamerfuzion-dmz-best-traits-2026-10-23, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, clm_531b123e8546]
+sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-dexerto-best-operator-traits-2026-10-31, src-allthingshow-dmz-traits-2026-10-21, src-codcentral-dmz-traits-2026-10-23, src-gamerfuzion-dmz-best-traits-2026-10-23, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Thermal Padding trait", "Thermal Padding Pro", "anti UAV trait", "ghost perk DMZ", "hide from UAV"]
 tree: Scout
 tier: "Major, row 9"
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+## Does Thermal Padding hide players from a UAV?
+
+Players report that equipping Thermal Padding Pro does not prevent a player's ping from being visible to another player using a UAV while under the effect of the Sedative Inhaler.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

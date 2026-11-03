@@ -5,7 +5,7 @@ description: "A one-day creator event on 2 Nov 2026: 14 trios (42 creators) play
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_6986bb6d190c, clm_7abaf3329ba5, clm_657efcf38b94, clm_fcf3e80098d9, src-cod-x-dmz-high-stakes-2026-11-02, clm_5bb373ef1fd0, clm_13f10b61619e, clm_22fd7613b03d]
+sources: [clm_6986bb6d190c, clm_7abaf3329ba5, clm_657efcf38b94, clm_fcf3e80098d9, src-cod-x-dmz-high-stakes-2026-11-02]
 aliases: ["High Stakes Tournament", "DMZ tournament", "DMZ creator tournament", "$75,000 DMZ tournament", "DMZ High Stakes", "who won DMZ High Stakes"]
 date: "2026-11-02"
 ---

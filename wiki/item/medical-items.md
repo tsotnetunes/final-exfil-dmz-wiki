@@ -5,7 +5,7 @@ description: "Every DMZ healing and boost item: Bandage, Medkit, Self-Revive Kit
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-activision-mw4-launch-weapons-2026-10-19, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-gfinity-story-mission-rewards-2026-10-23]
+sources: [clm_60a7c6324200, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-activision-mw4-launch-weapons-2026-10-19, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-gfinity-story-mission-rewards-2026-10-23]
 aliases: ["medical items", "meds", "healing items", "consumables", "Bandage", "Medkit", "Med Kit", "Stim", "Pain Killers", "Painkillers", "Smelling Salts", "Energy Drink", "Sedative Inhaler", "Radiation Blockers", "Defibrillator", "defib", "Revive Pistol"]
 ---
 <!-- generated:start -->

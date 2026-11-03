@@ -5,9 +5,8 @@ description: "Yes for Player Level: it resets on 6 Nov 2026, with optional Prest
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-warzone-season-1-blog-2026-11-02, clm_ec947898aaaf, clm_03bac0765ec2, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09]
+sources: [src-activision-warzone-season-1-blog-2026-11-02, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["Season 1 level reset", "Player Level reset", "does Season 1 reset my level", "do levels reset in MW4", "Season 1 Prestige", "seasonal Prestige MW4"]
-stale_after: 2026-11-13
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

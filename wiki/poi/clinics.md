@@ -5,7 +5,7 @@ description: "Green-marked clinics hold medical loot and yellow chemical lockers
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-codmunity-dmz-guide-2026-11-03, clm_bc97c9cacd06, src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-gamerfuzion-irradiated-container-2026-10-27, src-codmunity-hajin-map-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-dmzhub-keys-2026-10-31]
+sources: [clm_bc97c9cacd06, src-codmunity-dmz-guide-2026-11-03, src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-gamerfuzion-irradiated-container-2026-10-27, src-codmunity-hajin-map-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-dmzhub-keys-2026-10-31]
 aliases: ["Clinic", "clinic locations", "hospital", "pharmacy", "medical loot", "Chemical Storage", "yellow locker", "Irradiated Container"]
 region: Hajin
 danger: low
