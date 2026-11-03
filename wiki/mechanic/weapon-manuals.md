@@ -5,7 +5,7 @@ description: "Extract a weapon's Manual once and you can buy that gun in the Gun
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9ee7db0a613a, clm_829158fd0af8, clm_7c38c749ea9e, clm_361b76712abe, clm_4f7ad24e07bb, clm_ba8f6549bb93, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-gfinity-dmz-weapon-manuals-2026-10-27, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-weapon-manual-farm-2026-10-22, src-dmzhub-weapon-manuals-2026-10-31, src-dmzhub-weapons-2026-10-31]
+sources: [src-codmunity-dmz-guide-2026-11-03, clm_9ee7db0a613a, clm_829158fd0af8, clm_7c38c749ea9e, clm_361b76712abe, clm_4f7ad24e07bb, clm_ba8f6549bb93, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-gfinity-dmz-weapon-manuals-2026-10-27, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-weapon-manual-farm-2026-10-22, src-dmzhub-weapon-manuals-2026-10-31, src-dmzhub-weapons-2026-10-31]
 aliases: ["weapon manual", "manual", "manuals", "gun manual", "Manual: M4", "how to unlock weapons", "unlock guns in DMZ", "3 weapon manuals"]
 ---
 <!-- generated:start -->
@@ -76,7 +76,7 @@ They have no fixed spawns [[src-conquestcapped-dmz-weapon-manuals-2026-10-28]]. 
 - **Military containers**, most often in police stations and compounds [[src-activision-dmz-guide-part2-2026-10-09]] [[src-gfinity-dmz-weapon-manuals-2026-10-27]].
 - **Safes and locked rooms** behind keys or keycards; a Door Breacher Charge opens rooms that need no card [[src-gfinity-dmz-weapon-manuals-2026-10-27]] ([[keys]]). One guide names police station armories, the Gun Store Weapons Locker and Gangbyeon Apartment B [[src-conquestcapped-dmz-weapon-manuals-2026-10-28]].
 - **Everyday containers** such as duffel bags, footlockers, toolboxes and medicine cabinets [[src-conquestcapped-dmz-weapon-manuals-2026-10-28]], and the backpacks of enemy Operators [[src-allthingshow-dmz-gunsmith-weapons-2026-10-21]].
-- **Irradiated Containers** processed at Reactor 02 in [[haneul-nuclear-reactor]] give one almost every time (reported) [[src-conquestcapped-dmz-weapon-manuals-2026-10-28]].
+- **Irradiated Containers** processed at Reactor 02 in [[haneul-nuclear-reactor]] give one almost every time, and a second guide calls the Manual guaranteed (reported) [[src-conquestcapped-dmz-weapon-manuals-2026-10-28]] [[src-codmunity-dmz-guide-2026-11-03]].
 - **A farming spot:** the barracks by the perimeter wall at [[chang-san-air-base]], opened with no gear during the Operation Iron Citadel mission, gave Manuals on many runs (reported) [[src-gamerfuzion-dmz-weapon-manual-farm-2026-10-22]].
 
 ## How do you keep one until exfil?

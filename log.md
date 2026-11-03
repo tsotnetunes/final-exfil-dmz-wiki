@@ -1253,3 +1253,7 @@
 ## [2026-11-02 19:47 EST] edit | daily update 2026-11-02: correct a High Stakes pointer to death-and-loss
 - changed: wiki 1
 - run: r-20261102-194752-84be
+
+## [2026-11-02 21:19 EST] edit | community sweep 2026-11-03: DMZHub keys now 54 (Hanwoori Art Records Room grid and floor, Black Market locker pins); CODMunity 2 Nov guide adds chemical locker counts, hospital lab key spawn, Possum signs
+- changed: .kac 1, index 6, index.md 1, raw 2, wiki 13
+- run: r-20261102-211909-7ec5

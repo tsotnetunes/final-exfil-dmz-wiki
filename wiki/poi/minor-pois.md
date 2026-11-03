@@ -5,7 +5,7 @@ description: "Every smaller named place in Hajin: the 8 official minor POIs, the
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_faba5ed43637, src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-dexerto-hajin-map-2026-10-05, src-dmzhub-locations-2026-10-31, src-dmzhub-keys-2026-10-31, src-codmunity-hajin-map-2026-10-31, src-allthingshow-hajin-map-2026-10-21, src-allthingshow-key-doors-2026-10-21, src-allthingshow-hajin-gameplay-2026-10-21, src-allthingshow-gun-store-key-2026-10-22, src-gfinity-dmz-lieutenants-2026-10-22, src-gamingpromax-compounds-2026-10-26, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27, src-gamerfuzion-irradiated-container-2026-10-27, src-gamerfuzion-underground-orders-2026-10-23, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamerfuzion-compound-echo-farm-2026-10-23, src-allthingshow-exfil-guide-2026-10-21]
+sources: [src-dmzhub-keys-2026-11-03, clm_faba5ed43637, src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-dexerto-hajin-map-2026-10-05, src-dmzhub-locations-2026-10-31, src-dmzhub-keys-2026-10-31, src-codmunity-hajin-map-2026-10-31, src-allthingshow-hajin-map-2026-10-21, src-allthingshow-key-doors-2026-10-21, src-allthingshow-hajin-gameplay-2026-10-21, src-allthingshow-gun-store-key-2026-10-22, src-gfinity-dmz-lieutenants-2026-10-22, src-gamingpromax-compounds-2026-10-26, src-techwiser-silo-bunkers-2026-10-27, src-xboxplay-silo-bunkers-2026-10-27, src-gamerfuzion-irradiated-container-2026-10-27, src-gamerfuzion-underground-orders-2026-10-23, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamerfuzion-compound-echo-farm-2026-10-23, src-allthingshow-exfil-guide-2026-10-21]
 aliases: ["minor POI", "minor points of interest", "small POIs", "Hajin locations", "all Hajin locations", "Tong-il Village", "Revolution Dam", "Pyonghwa Village", "Pyeonghwa Village", "Imjin Suburb", "Mujin Pass", "Daesong Ridge", "Namjin Riverside", "Hajin River", "Hanrim Village", "La Grande Vie", "Admin Complex No. 2"]
 region: Hajin
 danger: varies
@@ -100,7 +100,8 @@ The Russian Border Crossing has posts in the west, centre and east of the north 
 | Eundeok Restaurant | Deadtown, with a keypad-locked door | [[src-dmzhub-maps-2026-10-31]] |
 | Deadtown Sewer Cache, Highway Service Tunnel, Inside a Rusty Old Shack | Named hidden caches: in Deadtown's sewers, a tunnel in the west and a shack in the northwest (reported) | [[src-dmzhub-maps-2026-10-31]] |
 | Haneul Boat House | Key room at the reactor's boat house, beside The Chemist's armory (reported) | [[src-dmzhub-maps-2026-10-31]] |
-| Netshin Security Office, Hanwoori Arts Records Room, Underground Equipment Storage | Key rooms pinned at the Nenshin Tech Complex, in the city around H7 and under Deadtown; their keys are not listed yet (reported) | [[src-dmzhub-maps-2026-10-31]] |
+| Netshin Security Office, Underground Equipment Storage | Key rooms pinned at the Nenshin Tech Complex and under Deadtown; their keys are not listed yet (reported) | [[src-dmzhub-maps-2026-10-31]] |
+| Hanwoori Arts Records Room | Key room pinned in the city around H7; opened by the Hanwoori Art Records Room key, see [[keys-hajin-city-and-east]] (reported) | [[src-dmzhub-maps-2026-10-31]] [[src-dmzhub-keys-2026-11-03]] |
 | Sniper Tower | One pinned on the community map; place not described | [[src-dmzhub-maps-2026-10-31]] |
 | Bubun Yard, Jayon Warehouses, The Epic | Named by community maps; what and where they are is not confirmed yet | [[src-dmzhub-locations-2026-10-31]] [[src-codmunity-hajin-map-2026-10-31]] |
 

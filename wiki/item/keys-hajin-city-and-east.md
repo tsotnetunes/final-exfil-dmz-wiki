@@ -5,7 +5,7 @@ description: "Every DMZ key door at The Grid, NuriGO Mall, Wolves Stadium, Songd
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_6d9e095f5c7b, src-dmzhub-keys-2026-11-02, src-activision-dmz-guide-part1-2026-10-05, src-conquestcapped-dmz-keys-2026-10-28, src-dmzhub-keys-2026-10-31, src-gfinity-story-mission-rewards-2026-10-23, src-criticalhits-dmz-keys-2026-10-26, src-gamingpromax-dmz-keys-2026-10-27, src-dexerto-jang-ui-power-room-2026-10-24, src-xboxplay-dmz-keys-2026-10-22, src-codmunity-dmz-items-2026-10-26]
+sources: [src-dmzhub-keys-2026-11-03, clm_6d9e095f5c7b, src-dmzhub-keys-2026-11-02, src-activision-dmz-guide-part1-2026-10-05, src-conquestcapped-dmz-keys-2026-10-28, src-dmzhub-keys-2026-10-31, src-gfinity-story-mission-rewards-2026-10-23, src-criticalhits-dmz-keys-2026-10-26, src-gamingpromax-dmz-keys-2026-10-27, src-dexerto-jang-ui-power-room-2026-10-24, src-xboxplay-dmz-keys-2026-10-22, src-codmunity-dmz-items-2026-10-26]
 aliases: ["Roze's Highrise Armory", "Netshin IT Room", "Executive Arms Auction", "Hanex Guard Station", "Lucera Suite 703 Bedroom", "Hanwoori Art Records Room", "Coin Mining Den", "Jang-Ui's Converted Power Room", "Shopping DRC Locker", "Old Barber Shop", "Shop Records Room", "Police Weapon Depository", "Gangbyeon Apartment B", "Militia Arms Depot", "Mirae Electrical Room", "The Doctor's Command Office", "Iskra's Control Room", "Reactor DRC Locker", "Reactor 02 Control Room", "Hazard Storehouse", "Utility Maintenance Storage", "The Chemist's Secure Armory", "Black Keycard", "DRC Labs", "reactor keys", "Grid keys", "mall keys", "Hospital Chemical Lab Key", "Hospital Chemical Lab", "Hospital Chemical Lockers", "chemical lab key", "morgue key"]
 ---
 <!-- generated:start -->
@@ -26,7 +26,7 @@ See [[the-grid]].
 | Executive Arms Auction | Epic | the arms auction room at the top of the DBN Headquarters tower | G6 | elite AI and high-value targets | [[src-dmzhub-keys-2026-10-31]] [[src-gamingpromax-dmz-keys-2026-10-27]] |
 | Hanex Guard Station | Epic | a guard post on an upper floor by the Hanex Bank vault | G6 | not given | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] |
 | Lucera Suite 703 Bedroom | Epic | an executive suite high up in Hotel Lucera | H7 | not given | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] |
-| Hanwoori Art Records Room | Rare | the east wing of the Hanwoori Design Complex | not given | not given | [[src-criticalhits-dmz-keys-2026-10-26]] [[src-dexerto-jang-ui-power-room-2026-10-24]] |
+| Hanwoori Art Records Room | Rare | a records room on the first floor of the Hanwoori Design Complex, in its east wing | G7 on the key (reported); the same database's map pin sits in H7 | not given | [[src-dmzhub-keys-2026-11-03]] [[src-criticalhits-dmz-keys-2026-10-26]] [[src-dexerto-jang-ui-power-room-2026-10-24]] |
 
 ## NuriGO Mall
 

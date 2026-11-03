@@ -1,11 +1,11 @@
 ---
 type: poi
 title: "The Grid"
-description: "The walled business district at the heart of Hajin City: Critical threat, Extreme in the Nenshin Tech Complex; Roze, Operation Grid Assault, five key rooms in its towers, roaming bosses."
+description: "The walled business district at the heart of Hajin City: Critical threat, Extreme in the Nenshin Tech Complex; Roze, Operation Grid Assault, six key rooms in its towers, roaming bosses."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_0d5aa093524d, clm_c72f996bc161, src-dmzhub-maps-2026-10-31, src-dmzhub-locations-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-dmzhub-keys-2026-10-31, src-dmzhub-missions-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-gamerfuzion-orders-page-14-2026-10-30, src-gamerfuzion-solo-vault-run-2026-10-25]
+sources: [src-dmzhub-keys-2026-11-03, clm_0d5aa093524d, clm_c72f996bc161, src-dmzhub-maps-2026-10-31, src-dmzhub-locations-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-dmzhub-keys-2026-10-31, src-dmzhub-missions-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-allthingshow-exfil-guide-2026-10-21, src-gamerfuzion-orders-page-14-2026-10-30, src-gamerfuzion-solo-vault-run-2026-10-25]
 aliases: ["Grid", "Nenshin Tech Complex", "Netshin Tech Complex", "DBN Headquarters", "DBN tower", "Hanex Bank", "Minsok Art School", "Construction Zone", "Donpyeong Gate", "Hotel Lucera", "Grid Assault", "Roze's Highrise Armory", "Executive Arms Auction", "Netshin IT Room", "Hanex Guard Station", "Lucera Suite 703 Bedroom"]
 region: "central Hajin City (former SK)"
 danger: "critical (Nenshin Tech Complex: extreme)"
@@ -30,7 +30,7 @@ _Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-The Grid is the walled-off business district at the heart of Hajin City: Critical threat everywhere and Extreme in the Nenshin Tech Complex, with rooftop fights, few ways out at street level and five key-locked rooms in its towers [[src-activision-dmz-guide-part1-2026-10-05]] [[src-dmzhub-keys-2026-10-31]].
+The Grid is the walled-off business district at the heart of Hajin City: Critical threat everywhere and Extreme in the Nenshin Tech Complex, with rooftop fights, few ways out at street level and six key-locked rooms in its towers [[src-activision-dmz-guide-part1-2026-10-05]] [[src-dmzhub-keys-2026-10-31]].
 
 ## Where is it?
 
@@ -62,6 +62,7 @@ Donpyeong Gate, the DBN TV tower (no building in Hajin is taller), the Hanex Ban
 | Netshin IT Room | Epic | Server room on the upper floors of the Nenshin Tech Complex, G6 |
 | Hanex Guard Station | Epic | Guard post on an upper floor near the Hanex Bank vault, G6 |
 | Lucera Suite 703 Bedroom | Epic | Executive suite on an upper floor of Hotel Lucera, H7 |
+| Hanwoori Art Records Room | Rare | First floor of the Hanwoori Design Complex, G7 (reported) [[src-dmzhub-keys-2026-11-03]] |
 
 [[src-dmzhub-keys-2026-10-31]] [[src-allthingshow-key-doors-2026-10-21]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. A Netshin Security Office key room is also pinned beside the IT Room, its key not yet listed (reported) [[src-dmzhub-maps-2026-10-31]].
 

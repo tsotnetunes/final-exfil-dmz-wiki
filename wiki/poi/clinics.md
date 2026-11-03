@@ -5,7 +5,7 @@ description: "Green-marked clinics hold medical loot and yellow chemical lockers
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_bc97c9cacd06, src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-gamerfuzion-irradiated-container-2026-10-27, src-codmunity-hajin-map-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-dmzhub-keys-2026-10-31]
+sources: [src-codmunity-dmz-guide-2026-11-03, clm_bc97c9cacd06, src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-gamerfuzion-irradiated-container-2026-10-27, src-codmunity-hajin-map-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-dmzhub-keys-2026-10-31]
 aliases: ["Clinic", "clinic locations", "hospital", "pharmacy", "medical loot", "Chemical Storage", "yellow locker", "Irradiated Container"]
 region: Hajin
 danger: low
@@ -50,7 +50,7 @@ A community map pins nine clinics (reported) [[src-dmzhub-maps-2026-10-31]]; the
 
 ## What loot is there?
 
-Chemicals, Medkits, stims and bandages, and yellow lockers often labelled Chemical Storage; a community map counts 22 such lockers, clustered at the air base, the reactor, the hospital and Cheongun Village (reported) [[src-dmzhub-maps-2026-10-31]]. Most of those lockers hold ordinary loot, but some hold an Irradiated Container, an Ultra item that pays out once decontaminated in Reactor 02 at the [[haneul-nuclear-reactor]] (reported) [[src-gamerfuzion-irradiated-container-2026-10-27]].
+Chemicals, Medkits, stims and bandages, and yellow lockers often labelled Chemical Storage; a community map counts 22 such lockers, clustered at the air base, the reactor, the hospital and Cheongun Village (reported) [[src-dmzhub-maps-2026-10-31]]. Most of those lockers hold ordinary loot, but some hold an Irradiated Container, an Ultra item that pays out once decontaminated in Reactor 02 at the [[haneul-nuclear-reactor]] (reported) [[src-gamerfuzion-irradiated-container-2026-10-27]]. One guide counts about ten of these lockers across the two reactors, eight at the Chang-san Air Base clinic (six downstairs, two upstairs) and one or two at most other clinics, usually in a room marked Laboratory; creators it quotes needed 30 to 60 minutes of farming per container (reported) [[src-codmunity-dmz-guide-2026-11-03]].
 
 ## Tips
 

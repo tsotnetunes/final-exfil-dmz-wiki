@@ -5,7 +5,7 @@ description: "Low-threat hospital in north-central Hajin: The Doctor holds it, O
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_1cc7e4e33a63, src-dmzhub-keys-2026-11-02, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-fpsjp-story-missions-trailer-2026-10-09, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-hajin-map-2026-10-31]
+sources: [src-codmunity-dmz-guide-2026-11-03, clm_1cc7e4e33a63, src-dmzhub-keys-2026-11-02, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-fpsjp-story-missions-trailer-2026-10-09, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-hajin-map-2026-10-31]
 aliases: ["Mirae", "hospital", "Mujin Pass", "The Doctor's Command Office", "Mirae Electrical Room", "Critical Extraction", "Hospital Chemical Lab", "Hospital Chemical Lockers"]
 region: "north-central Hajin (former SK)"
 danger: low
@@ -50,7 +50,7 @@ The Doctor is met on the roof, the first floor or in the underground parking, wi
 | --- | --- | --- |
 | The Doctor's Command Office | Dropped by The Doctor | Top floor of the hospital behind a pale wooden door, F5 |
 | Mirae Electrical Room | Rare, a reward from Operation Critical Extraction | Northwest basement car park, level B2, F5 |
-| Hospital Chemical Lab | Rare key that spawns in the hospital (reported) | Basement morgue, F5 [[src-dmzhub-keys-2026-11-02]] |
+| Hospital Chemical Lab | Rare key that spawns in the hospital, usually in the seventh-floor offices (reported) [[src-codmunity-dmz-guide-2026-11-03]] | Basement morgue, F5 [[src-dmzhub-keys-2026-11-02]] |
 | Hospital Chemical Lockers | Rare key, one locker each (reported) | Inside the chemical lab [[src-dmzhub-keys-2026-11-02]] |
 
 [[src-allthingshow-key-doors-2026-10-21]] [[src-dmzhub-keys-2026-10-31]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. The Electrical Room has held electronics, an Encrypted Archive and plates; the Command Office's crate a Tempered Armor Vest recipe (reported) [[src-allthingshow-key-doors-2026-10-21]].

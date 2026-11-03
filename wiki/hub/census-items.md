@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: items"
-description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 2 Nov 2026."
+description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 3 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -141,7 +141,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Recipe (looted) | row in [[mission-items]] | [[src-activision-dmz-guide-part2-2026-10-09]] | draft |
 | Key: Police Station Key (Police Station Armory) | row in [[keys]] | [[src-dmzhub-keys-2026-10-31]] [[src-conquestcapped-dmz-keys-2026-10-28]] | published |
 | Key: Gun Store Weapons Locker Key | row in [[keys]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-keys-2026-10-31]] | published |
-| Key: Black Market Weapons Locker Key | row in [[keys]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-keys-2026-10-31]] | published |
+| Key: Black Market Weapons Locker Key | row in [[keys]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-keys-2026-10-31]] [[src-dmzhub-keys-2026-11-03]] | published |
 | Key: Bank Branch Vault Access | row in [[keys]] | [[src-dmzhub-keys-2026-10-31]] [[src-conquestcapped-dmz-keys-2026-10-28]] | published |
 | Key: Gas Station Electrical Room | row in [[keys]] | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] | published |
 | Key: Fire Station Storage | row in [[keys]] | [[src-conquestcapped-dmz-keys-2026-10-28]] | published (reported) |
@@ -178,7 +178,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Key: Executive Arms Auction | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-10-31]] [[src-gamingpromax-dmz-keys-2026-10-27]] | published |
 | Key: Hanex Guard Station | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] | published |
 | Key: Lucera Suite 703 Bedroom | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] | published |
-| Key: Hanwoori Art Records Room | row in [[keys-hajin-city-and-east]] | [[src-criticalhits-dmz-keys-2026-10-26]] [[src-dexerto-jang-ui-power-room-2026-10-24]] | published |
+| Key: Hanwoori Art Records Room | row in [[keys-hajin-city-and-east]] | [[src-criticalhits-dmz-keys-2026-10-26]] [[src-dexerto-jang-ui-power-room-2026-10-24]] [[src-dmzhub-keys-2026-11-03]] | published |
 | Key: Coin Mining Den | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-10-31]] [[src-conquestcapped-dmz-keys-2026-10-28]] | published |
 | Key: Jang-Ui's Converted Power Room | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-10-31]] [[src-dexerto-jang-ui-power-room-2026-10-24]] | published |
 | Key: Shopping DRC Locker | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] | published |
