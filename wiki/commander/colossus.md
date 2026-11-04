@@ -5,7 +5,7 @@ description: "Roaming Commander: a seven-foot armoured soldier with a depleted-u
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_72b3d4d85f63, clm_35a8cbf4582f, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-colossus-2026-10-21, src-xboxplay-colossus-2026-10-22, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31]
+sources: [src-dmzhub-items-2026-11-04, clm_72b3d4d85f63, clm_35a8cbf4582f, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-colossus-2026-10-21, src-xboxplay-colossus-2026-10-22, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31]
 aliases: ["Colossus Commander", "Armored Commander", "minigun boss", "Collosus", "Colosus", "Goliath"]
 ---
 <!-- generated:start -->
@@ -39,7 +39,7 @@ Steady automatic fire down halls and through gates, an electric shock at close r
 
 ## What does Colossus drop?
 
-Killing a Commander and extracting gives valuable 3D Printer ingredients [[src-activision-dmz-guide-part2-2026-10-09]]. Colossus has dropped the Legendary ingredients [[military-composites]] and [[experimental-compounds]], each valued at $3,500, along with other materials [[src-allthingshow-colossus-2026-10-21]] [[src-dexerto-dmz-enemy-types-2026-10-31]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-dmzhub-bosses-2026-10-31]]. Commanders drop no dog tags (reported) [[src-conquestcapped-dmz-bosses-2026-10-28]]. The kill banner reads ELIMINATED ARMORED COMMANDER, and an assist paid 1,075 XP [[src-allthingshow-colossus-2026-10-21]] [[src-xboxplay-colossus-2026-10-22]]. Commander kills count toward the King Slayer calling card [[src-mw4-launch-patch-notes-2026-10-29]].
+Killing a Commander and extracting gives valuable 3D Printer ingredients [[src-activision-dmz-guide-part2-2026-10-09]]. Colossus has dropped the Legendary ingredients [[military-composites]] and [[experimental-compounds]], each valued at $3,500, along with other materials [[src-allthingshow-colossus-2026-10-21]] [[src-dexerto-dmz-enemy-types-2026-10-31]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-dmzhub-bosses-2026-10-31]]. One database also lists the Epic ingredient Alloyed Plating as a Colossus drop (reported) [[src-dmzhub-items-2026-11-04]]. Commanders drop no dog tags (reported) [[src-conquestcapped-dmz-bosses-2026-10-28]]. The kill banner reads ELIMINATED ARMORED COMMANDER, and an assist paid 1,075 XP [[src-allthingshow-colossus-2026-10-21]] [[src-xboxplay-colossus-2026-10-22]]. Commander kills count toward the King Slayer calling card [[src-mw4-launch-patch-notes-2026-10-29]].
 
 ## What changed since launch?
 

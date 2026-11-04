@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: items"
-description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 3 Nov 2026."
+description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 4 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -160,6 +160,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Key: The Citadel Main Control Room | row in [[keys-west-and-north]] | [[src-conquestcapped-dmz-keys-2026-10-28]] | published (reported) |
 | Key: The Citadel Secondary Control Room | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-11-02]] | published (reported) |
 | Key: The Citadel East Wing | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-11-02]] | published (reported) |
+| Key: The Citadel East Wing Office | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-11-04]] [[src-youtube-citadel-east-wing-office-2026-10-26]] | published (reported) |
 | Key: South Block Armory | row in [[keys-west-and-north]] | [[src-conquestcapped-dmz-keys-2026-10-28]] | published (reported) |
 | Key: Kang's Arms Incinerator | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] | published |
 | Key: Prison Encampment Storage | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-dexerto-jang-ui-power-room-2026-10-24]] | published |
