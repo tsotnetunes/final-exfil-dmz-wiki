@@ -11,28 +11,26 @@ station: hub
 unlock: start
 ---
 <!-- generated:start -->
-The Forward Operating Base (FOB) serves as the starting point for deployments and preparation. It is confirmed as the deployment start point and command center on 5 Oct 2026. Players report that the Forward Operating Base is a feature in Modern Warfare 4 DMZ.
+The FOB (Forward Operating Base) serves as the starting point for deployments in Modern Warfare 4 DMZ.
 
-## What is the Forward Operating Base?
+It was confirmed on 5 Oct 2026 that the Forward Operating Base is the deployment start point and command center. Preparation also begins at the base, as confirmed on 7 Oct 2026. Players report that the Forward Operating Base functions as a social hub shared with their squad. Players also report that it is a walk-around base. In addition, players report that the base shows party leaders. Players report that the base is a starting point for bringing back Headquarters.
 
-The Forward Operating Base functions as the starting point for preparation, confirmed on 7 Oct 2026. Players report that the base is a walk-around area shared with your squad. Players also describe the facility as a squad social hub that shows party leaders. Furthermore, players report that the base serves as a starting point for bringing back Headquarters.
+## What features are inside the FOB?
 
-## What stations are in the Forward Operating Base?
+Players report that the Forward Operating Base includes a Firing Range, Vendors, and Crafting. 
 
-Players report that the Forward Operating Base contains several operational stations. Station access is reported either directly inside the base or through the left side blade menu.
+Access to specific facilities within the base or through the left side blade menu has been reported by players:
 
-| Station | Access Method | Unlock Requirement |
+| Facility | Unlock Requirement | Access Method |
 | :--- | :--- | :--- |
-| Vendor | Inside FOB or left side blade menu | DMZ Level 5 |
-| Gunsmith | Inside FOB or left side blade menu | DMZ Level 10 |
-| Firing Range | Inside FOB | Unspecified |
-| Crafting | Inside FOB | Unspecified |
+| Vendor | DMZ Level 5 | FOB or left side blade menu |
+| Gunsmith | DMZ Level 10 | FOB or left side blade menu |
 
-## How do you complete Forward Operating Base upgrades?
+## What is required for FOB upgrades?
 
-Players report that essential base upgrades require specific crafting items in DMZ. Stock Rods and Turned Components are reported as essential crafting materials needed for key upgrades and high tier crafts. Players also report that you need to down Deathstalker Commander Bosses to finish base upgrades in DMZ.
+Players report that Stock Rods and Turned Components are essential crafting items needed for essential base upgrades and high tier crafts. Players also report that downing Deathstalker Commander Bosses is required to finish upgrades in DMZ.
 
-_Generated from 3 confirmed and 10 reported claims across 13 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 3 confirmed and 10 reported claims across 13 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

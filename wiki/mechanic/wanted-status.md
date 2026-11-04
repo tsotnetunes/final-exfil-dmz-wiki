@@ -9,13 +9,15 @@ sources: [clm_8c1bbf558597, clm_0873af25017e, clm_78736c3e7fe4, src-activision-d
 aliases: ["Wanted", "Most Wanted", "Wanted level", "how to stop being Wanted"]
 ---
 <!-- generated:start -->
-Wanted status is a gameplay mechanic that marks players who eliminate rival Operators. It tracks targets for other combatants and carries implications across matches.
+Wanted status is a gameplay condition in DMZ that players incur by taking down rival Operators, placing them under an active target state.
 
-* Players can become Wanted by taking down rival Operators, confirmed on 9 Oct 2026.
+## How does Wanted status work?
+
+* Players can become Wanted by taking down rival Operators, as confirmed on 9 Oct 2026.
 * Players report that Wanted status in DMZ activates when a player has a $25,000 bounty.
-* Players report that once a player has Wanted status, kills count across multiple DMZ matches.
+* Players report that once an Operator has Wanted status, kills count across multiple DMZ matches.
 
-_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -8,13 +8,13 @@ sensitivity: public
 sources: [clm_1f94c720b316, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-dmzhub-items-2026-10-31]
 ---
 <!-- generated:start -->
-Tank Looting is the process of retrieving high-tier rewards from destroyed tanks. This mechanic matters to players seeking rare equipment during combat encounters.
+Tank Looting is the process of acquiring items after destroying a tank. It provides players with high-tier rewards for defeating these heavy targets.
 
-## What rewards do tanks drop?
+## What items do tanks drop?
 
 * Players report that tanks drop legendary loot after they are taken down.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

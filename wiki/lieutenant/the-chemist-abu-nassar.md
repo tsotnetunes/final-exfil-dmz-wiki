@@ -12,21 +12,18 @@ location: Haneul Nuclear Reactor warehouse, inside the radiation
 drops: Revenant or plain rifle, The Chemist's Dog Tag, The Chemist's Secure Armory key
 ---
 <!-- generated:start -->
-The Chemist (Abu Nassar) is reported by players to be an upcoming new boss in DMZ.
+The Chemist, also referred to as Abu Nassar, is reported by players to be an upcoming new boss in DMZ.
 
 ## Where does it appear?
-
-Players report that The Chemist (Abu Nassar) is set to appear in DMZ.
+Players report that The Chemist is planned to appear as a boss in DMZ.
 
 ## How does it fight?
-
-No combat details are currently confirmed for The Chemist (Abu Nassar).
+Combat details for The Chemist have not been reported.
 
 ## What does it drop?
+Item drops for The Chemist have not been reported.
 
-No drop details are currently confirmed for The Chemist (Abu Nassar).
-
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

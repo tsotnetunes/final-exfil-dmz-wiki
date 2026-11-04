@@ -11,12 +11,13 @@ mission_kind: dynamic_op
 steps: "6 to 7 steps, route varies"
 ---
 <!-- generated:start -->
-Dead Man's Cache is a mission whose payouts were increased to $15,000, according to player reports.
+Dead Man's Cache is a mission that provides a monetary payout.
 
-## What rewards does Dead Man's Cache offer?
-Players reported on 31 Oct 2026 that Dead Man's Cache mission payouts were increased to $15,000.
+## What are the rewards?
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-31._
+Players report that Dead Man's Cache mission payouts were increased to $15,000.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

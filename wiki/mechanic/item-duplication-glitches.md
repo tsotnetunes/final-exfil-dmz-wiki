@@ -8,14 +8,14 @@ sensitivity: public
 sources: [clm_da4bc104bb5a, clm_504afbc78ee4, clm_304434c0da1f]
 ---
 <!-- generated:start -->
-Item duplication glitches are exploits that violate the Terms of Service. They carry specific penalties for accounts caught exploiting them.
+Item duplication glitches are exploits that violate the Terms of Service, making them subject to account penalties. Players track these exploits because using them puts inventory items and account standing at risk.
 
-## What happens if you duplicate items?
+## What happens if players use item duplication glitches?
 
-* Item duplication glitches violate the Terms of Service, confirmed on 26 Oct 2026.
-* Players report that the current punishment for weapon duplication in DMZ is the deletion of all duplicated weapons from your stash.
+* Item duplication glitches violate the Terms of Service, as confirmed on 26 Oct 2026.
+* Players report that the current punishment for weapon duplication in DMZ is the deletion of all duplicated weapons from a player's stash.
 
-_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-28._
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -5,28 +5,28 @@ description: "Green-marked clinics hold medical loot and yellow chemical lockers
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_bc97c9cacd06, src-codmunity-dmz-guide-2026-11-03, src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-gamerfuzion-irradiated-container-2026-10-27, src-codmunity-hajin-map-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-dmzhub-keys-2026-10-31]
+sources: [clm_bc97c9cacd06, clm_9d65ec6a52cf, src-codmunity-dmz-guide-2026-11-03, src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-gamerfuzion-irradiated-container-2026-10-27, src-codmunity-hajin-map-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-dmzhub-keys-2026-10-31]
 aliases: ["Clinic", "clinic locations", "hospital", "pharmacy", "medical loot", "Chemical Storage", "yellow locker", "Irradiated Container"]
 region: Hajin
 danger: low
 loot_profile: medical
 ---
 <!-- generated:start -->
-Clinics and chemical storage areas in Modern Warfare 4 DMZ are searched by players hunting for rare containers.
+Players search for Clinics and Chemical Storage locations in Modern Warfare 4 DMZ to find irradiated containers inside storage lockers.
 
 ## Where is it?
 
-Players search chemical storage locations within DMZ to find specific containers.
+Specific clinic coordinates are not established in available reports. Chemical storage lockers appear throughout DMZ locations.
 
 ## What loot is there?
 
-Players report opening over 200 chemical storage lockers to find a single irradiated box.
+Players report opening over 200 chemical storage lockers to find a single irradiated box. A glitch related to the Irradiated Container in DMZ was reported updated on 3 Nov 2026.
 
 ## How dangerous is it?
 
-Threat levels for these locations are not specified.
+Threat levels for Clinics and Chemical Storage areas remain undocumented.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

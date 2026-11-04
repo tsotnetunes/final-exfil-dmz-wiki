@@ -12,7 +12,7 @@ location: DBN Headquarters rooftop, The Grid
 drops: The Kraken or Astaroth .57, Roze's Dog Tag, Highrise Armory key
 ---
 <!-- generated:start -->
-Roze is a lieutenant boss who appears in DMZ, as reported by players.
+Roze is a lieutenant boss who appears in DMZ.
 
 ## Where does it appear?
 
@@ -20,13 +20,13 @@ Players report that Roze appears in DMZ.
 
 ## How does it fight?
 
-Players report that defeating Roze yields unique rewards.
+Players report that killing Roze yields unique rewards.
 
 ## What does it drop?
 
-Players report that killing Roze yields unique rewards. Players also report that Roze drops the Kraken weapon.
+Players report that Roze drops The Kraken weapon. Defeating Roze is also reported by players to reward unique items.
 
-_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

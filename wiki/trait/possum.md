@@ -5,21 +5,17 @@ description: "Warfighter Major Trait, row 9: once per match, revive yourself fro
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_b4248fd85709, clm_6cd27932726d, clm_902fc3081685, clm_16115b4491dd, src-codmunity-dmz-guide-2026-11-03, src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-gamerfuzion-dmz-best-traits-2026-10-23, src-dexerto-possum-complaints-2026-10-21, src-destructoid-possum-debate-2026-10-24, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-dexerto-best-operator-traits-2026-10-31, src-playhub-best-traits-2026-10-28]
+sources: [clm_b4248fd85709, clm_6cd27932726d, clm_902fc3081685, clm_16115b4491dd, clm_fd860c1d0de8, src-codmunity-dmz-guide-2026-11-03, src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-gamerfuzion-dmz-best-traits-2026-10-23, src-dexerto-possum-complaints-2026-10-21, src-destructoid-possum-debate-2026-10-24, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-dexerto-best-operator-traits-2026-10-31, src-playhub-best-traits-2026-10-28]
 aliases: ["Possum Trait", "Possum Perk", "Possum Pro", "second life trait", "self revive trait", "opossum"]
 tree: Warfighter
 tier: "Major, row 9"
 ---
 <!-- generated:start -->
-## What is Possum?
+## Where is Possum available?
 
-Possum is a feature present in DMZ, as reported by players.
+Players report that the Possum trait is currently available in DMZ.
 
-## How is Possum balanced?
-
-Players have proposed that using Possum should require a 30 second wait timer.
-
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

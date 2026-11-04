@@ -5,11 +5,21 @@ description: "All 33 Modern Warfare 4 launch weapons as they work in DMZ: class,
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_468f37e372cb, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-gamerfuzion-dmz-prices-2026-10-08, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-codmunity-dmz-guide-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-codmunity-dmz-tier-list-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-wzstats-dmz-meta-2026-10-31, src-conquestcapped-mw4-weapons-2026-10-26, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-dmzhub-weapons-2026-10-31, src-allthingshow-dmz-bosses-2026-10-21, src-gamingpromax-dmz-boss-locations-2026-10-23]
+sources: [clm_468f37e372cb, clm_7892351aa1dd, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-gamerfuzion-dmz-prices-2026-10-08, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-codmunity-dmz-guide-2026-10-24, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-codmunity-dmz-tier-list-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-wzstats-dmz-meta-2026-10-31, src-conquestcapped-mw4-weapons-2026-10-26, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-dmzhub-weapons-2026-10-31, src-allthingshow-dmz-bosses-2026-10-21, src-gamingpromax-dmz-boss-locations-2026-10-23]
 aliases: ["guns", "weapon list", "all weapons", "DMZ weapons", "launch weapons", "best DMZ weapons", "DMZ meta", "how to unlock weapons in DMZ", "Kraken"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Players report that 33 weapons are available for the War Spoils DMZ camo grind.
+
+## What is it?
+
+Weapons include 33 options available for the War Spoils DMZ camo grind, as reported by players.
+
+## How do you get it?
+
+Players report that 33 weapons are available to use toward the War Spoils DMZ camo grind.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

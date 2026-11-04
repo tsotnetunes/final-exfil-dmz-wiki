@@ -11,28 +11,15 @@ tree: all
 tier: n/a
 ---
 <!-- generated:start -->
-Trait Points and trait trees customize operators in Modern Warfare 4 DMZ across multiple specializations. Available traits confirmed on 9 Oct 2026 include Warfighter, Scout, and Survivalist. 
+Operator traits in Modern Warfare 4 DMZ provide specific bonuses and abilities for customized operators. Available traits confirmed on 9 Oct 2026 include Warfighter, Scout, and Survivalist. 
 
-## Which traits exist in Modern Warfare 4 DMZ?
+## Which traits are available in Modern Warfare 4 DMZ?
 
-Players report several individual traits available across matches.
+Players report that Modern Warfare 4 DMZ includes traits such as a permanent UAV and the Quick Exfil Trait. Players also report that the Final Intel trait marks an additional exfil point on the map. According to player reports, Final Intel provides a free additional exfil for the entire match, allowing a helicopter to be summoned at any time.
 
-| Trait | Reported Effect |
-| :--- | :--- |
-| Final Intel | Marks an additional exfil point on the map, providing a free exfil to summon a helicopter at any point for the entire game |
-| Quick Exfil Trait | Present as a match trait |
-| Permanent UAV | Present as a match trait |
-| Possum | Intended to grant a high-level operator a second chance |
+The Possum trait is intended to grant high-level operators a second chance, according to player reports. Players report that the Possum perk was patched in Modern Warfare 4 DMZ. Following an update, players report that the Possum trait cannot be used when near other operators. Additionally, players report that operators with traits earned in a PvE mode should not be eligible for use in regular DMZ matches.
 
-## How does the Possum trait work?
-
-The Possum perk was patched in Modern Warfare 4 DMZ. Players report that Possum cannot be used near other operators. It can no longer be activated when the team that killed the operator is nearby unless 4 minutes have passed. The range and duration of the Possum trait remain tunable in future updates.
-
-## How are traits obtained and restricted?
-
-Players report that operators with traits farmed in a PvE mode should not be usable in regular DMZ.
-
-_Generated from 1 confirmed and 9 reported claims across 10 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 1 confirmed and 7 reported claims across 8 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

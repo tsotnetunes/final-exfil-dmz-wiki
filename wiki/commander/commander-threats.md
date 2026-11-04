@@ -9,25 +9,27 @@ sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db
 aliases: ["Commanders", "Commander", "The Captain", "Captain", "Wheelson", "Juggernaut", "Elite Strike Team", "drone swarm", "King Slayer", "King Slayer calling card", "commander bosses", "roaming commanders"]
 ---
 <!-- generated:start -->
-Commander threats are powerful hostile targets encountered in DMZ that offer high-tier rewards and unique combat challenges. Knowing the capabilities and specific counters for each commander helps players defeat them efficiently.
+Commander threats are major hostile encounters in DMZ that provide high-value combat targets. Encountering and defeating them yields combat advantages and lootable rewards.
 
-* The Captain was confirmed on 28 Oct 2026 to be a Juggernaut accompanied by his elite guard.
-* Wheelson was confirmed on 28 Oct 2026 to be an autonomous patrolling commander.
+* The Captain was confirmed on 28 Oct 2026 to be a Juggernaut and his elite guard.
+* Wheelson was confirmed on 28 Oct 2026 as an autonomous patrolling commander.
 
-## How do players defeat the Deathstalker commander boss?
+## What commanders appear in DMZ?
 
+* The Captain is confirmed as a Juggernaut accompanied by his elite guard.
+* Wheelson operates as an autonomous patrolling commander.
 * Players report that a Death Stalker can appear above buildings.
 * Players report that a drone swarm can hover around buildings.
-* Players report that an RPG can eliminate the Deathstalker commander boss in DMZ using 2 rockets.
-* Players report that an Astaroth 57 sniper rifle can take down the Deathstalker commander boss in DMZ with 4 well-placed shots.
-* Players report that the Deathstalker commander drops 3 lootable parts.
 
-## How can players eliminate Colossus solo?
+## How do players defeat commander threats?
 
-* Players report that Colossus can be eliminated solo in DMZ.
-* Players report that defeating Colossus solo requires 2 shock sticks and 7 to 8 thermites.
+* Players report that the Deathstalker commander boss in DMZ drops 3 lootable parts.
+* Players report that an RPG can take down the Deathstalker commander boss in DMZ with 2 rockets.
+* Players report that the Astaroth 57 sniper can take down the Deathstalker commander boss in DMZ with 4 well placed shots.
+* Players report that Colossus can be taken down solo in DMZ.
+* Players report that defeating Colossus solo requires 2 shock sticks and 7-8 thermite.
 
-_Generated from 2 confirmed and 8 reported claims across 10 posts and 0 patch notes; last rendered 2026-11-02._
+_Generated from 2 confirmed and 8 reported claims across 10 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

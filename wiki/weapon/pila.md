@@ -5,7 +5,7 @@ description: "The PILA is an unlockable weapon in DMZ that can be dropped by ano
 status: draft
 brain_status: candidate
 sensitivity: public
-sources: [clm_c23d886db28c, clm_21d566fff9c5]
+sources: [clm_c23d886db28c]
 ---
 <!-- generated:start -->
 The PILA is an unlockable weapon in DMZ.

@@ -8,13 +8,13 @@ sensitivity: public
 sources: [clm_121f8118faaf]
 ---
 <!-- generated:start -->
-Gold Bars are an item reported to carry a high monetary value. Players look for them to secure substantial funds.
+Gold Bars are an item reported to carry a value of 25K. Players track them primarily for their high worth.
 
 ## How much are Gold Bars worth?
 
-* Gold Bars are worth 25K, according to player reports.
+* Gold Bars are reported by players to be worth 25K.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

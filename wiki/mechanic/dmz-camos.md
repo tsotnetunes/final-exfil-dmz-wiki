@@ -5,30 +5,33 @@ description: "DMZ's Mastery camos: Chiral (2,500 Tier 3+ kills), Ripple Tide (tw
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_3a8e17bcc079, clm_a9fba1b8bb2f, clm_23d4f9bb7b2b, clm_f1b717014ef6, clm_e85655747a23, clm_d7f7ed624ff4, clm_e31370beac8b, clm_7be12d197052, clm_d0991c0c7966, clm_ea0c5a1cdac4, clm_2b05fa148d3c, clm_e153c3eb028f, clm_e48247d4fe41, clm_752431ee4dc9, src-activision-ready-for-launch-progression-2026-10-19, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_3a8e17bcc079, clm_a9fba1b8bb2f, clm_23d4f9bb7b2b, clm_f1b717014ef6, clm_e85655747a23, clm_d7f7ed624ff4, clm_e31370beac8b, clm_7be12d197052, clm_d0991c0c7966, clm_ea0c5a1cdac4, clm_2b05fa148d3c, clm_e153c3eb028f, clm_e48247d4fe41, src-activision-ready-for-launch-progression-2026-10-19, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["Camo grind", "Serpentine camo", "Mastery camos", "Chiral", "Ripple Tide", "Helio", "DMZ Mastery", "DMZ calling cards", "Divergence"]
 ---
 <!-- generated:start -->
-DMZ camos and the camo hunt involve a progression grind that lets players unlock weapon cosmetics through specific mode objectives. Players can engage in camo grinding during DMZ Early Access, as confirmed on 18 Oct 2026.
+DMZ camos and the camo hunt involve weapon skin progression objectives that require a dedicated grind across matches. Players can camo grind during DMZ Early Access, as confirmed on 18 Oct 2026, and in the standard DMZ mode.
 
-## How do players unlock DMZ mastery camos?
+* Camo grinding in DMZ Early Access is confirmed.
+* Camo grinding involves a dedicated gameplay grind, confirmed on 28 Oct 2026.
+* Players report that War Spoils camo is available on the Patriot XMR.
+* Players report that War Spoils camo is available on the Hyeon Burst.
+* Players report that Monster Energy skins unlocked by redeeming codes from Modern Warfare 4 themed cans are usable in DMZ.
+* Players report that 2XP tokens unlocked via Monster Energy codes are usable in DMZ.
 
-Players report several requirements for DMZ Mastery Camos:
+## What are the DMZ camo unlock requirements?
 
-* DMZ Mastery Camos require 2,500 tier 3+ kills.
-* DMZ Mastery Camos require extracting two Lieutenant Dog Tags in a single match 50 times.
-* DMZ Mastery Camos require 25,000 kills using legendary weapons.
-* Players report that the requirement to extract with two Lieutenant tags is not tracking correctly in Modern Warfare 4 DMZ.
+Players report several specific requirements for DMZ Mastery Camos and Special camos:
 
-## Which other camos and rewards can be unlocked?
+| Camo Category | Requirement |
+| --- | --- |
+| DMZ Mastery Camos | 2,500 tier 3+ kills |
+| DMZ Mastery Camos | 25,000 kills using legendary weapons |
+| DMZ Mastery Camos | Extracting 2 Lieutenant Dog Tags in a single match 50 times |
+| Special camos | 125 Silenced kills in DMZ |
 
-* Special camos require 125 silenced kills in DMZ according to player reports.
-* The War Spoils camo is reported by players to be available on both the Patriot XMR and the Hyeon Burst.
-* Players report that the Divergence camo can be unlocked in Modern Warfare 4.
-* Monster Energy skins can be used in DMZ if unlocked by redeeming codes from Modern Warfare 4 themed cans.
-* Double XP tokens can also be unlocked through Monster Energy codes and used in DMZ.
+Players report that the camo requirement to extract with 2 Lieutenant tags is not tracking correctly in DMZ MW4.
 
-_Generated from 2 confirmed and 11 reported claims across 12 posts and 0 patch notes; last rendered 2026-11-02._
+_Generated from 2 confirmed and 10 reported claims across 11 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

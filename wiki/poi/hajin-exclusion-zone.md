@@ -5,40 +5,28 @@ description: "DMZ's launch map and its 13 named points of interest on the old NK
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_8accaa3d7831, clm_30653443233a, clm_60ec641390e2, clm_d81ecfda94de, clm_ebf7085229f9, clm_3816e02ae781, clm_d7748e7ec8bb, clm_a15a34d449f0, clm_75bb19ee9527, clm_055bb42b8019, src-dmzhub-maps-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-dexerto-hajin-map-2026-10-05, src-activision-season-1-announcement-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-conquestcapped-dmz-guide-2026-10-26, src-gamespot-from-the-ward-ep7-2026-10-05, src-dmzhub-locations-2026-10-31, src-activision-warzone-season-1-blog-2026-11-02]
+sources: [clm_8accaa3d7831, clm_30653443233a, clm_60ec641390e2, clm_d81ecfda94de, clm_ebf7085229f9, clm_3816e02ae781, clm_d7748e7ec8bb, clm_a15a34d449f0, clm_75bb19ee9527, clm_055bb42b8019, clm_f68f29a313a0, clm_c78333ede552, clm_51e1596ff034, src-dmzhub-maps-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-dexerto-hajin-map-2026-10-05, src-activision-season-1-announcement-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-conquestcapped-dmz-guide-2026-10-26, src-gamespot-from-the-ward-ep7-2026-10-05, src-dmzhub-locations-2026-10-31, src-activision-warzone-season-1-blog-2026-11-02]
 aliases: ["Hajin", "the Exclusion Zone", "Hajin map", "DMZ map", "Hajin POIs", "Hajin points of interest", "named points of interest", "major POIs", "Vondel"]
 region: Hajin
 danger: varies
 loot_profile: all
 ---
 <!-- generated:start -->
-The Hajin Exclusion Zone is an active Exclusion Zone location where players deploy for missions.
+The Hajin Exclusion Zone is an active Exclusion Zone location in the game that hosts DMZ missions. On 20 Oct 2026, it was confirmed to be an active Exclusion Zone. A whole new Exclusion Zone to explore in DMZ in Season 1 was confirmed on 28 Oct 2026. Players enter the area to undertake DMZ deployments alongside other Operators.
 
 ## Where is it?
 
-Hajin was confirmed as an active Exclusion Zone on 20 Oct 2026.
-
-Hajin was confirmed as a location in the game on 26 Oct 2026.
-
-DMZ was confirmed on 28 Oct 2026 to have a whole new Exclusion Zone to explore in Season 1.
-
-Players report that DMZ takes place in Hajin.
-
-Players report that Ground War maps are derived pockets of the Hajin map from DMZ.
+The Hajin Exclusion Zone is a confirmed in-game map location as of 26 Oct 2026. Players report that MW4 Warzone Season 1 adds the new Hajin map on 6 Nov. Players also report that the DMZ mode takes place across Hajin. In addition, players report that Ground War mode supports 64 players and uses maps derived from the Hajin map in DMZ. Players report that the map features dynamic weather conditions. Localized weather systems also affect the Hajin Gulag according to player reports.
 
 ## What loot is there?
 
-No loot information has been confirmed for the Hajin Exclusion Zone.
+No specific loot profiles or items for the Hajin Exclusion Zone have been documented.
 
 ## How dangerous is it?
 
-Players report that Operators can be present in Hajin.
+The Hajin Exclusion Zone poses a threat from other combatants on the map. Players report that Hajin accommodates 60 players across 20 squads. Operators can encounter one another within the zone, though players report that not every Operator in Hajin is focused on the mission.
 
-Players report that Hajin holds 60 players across 20 squads.
-
-Players report that Ground War supports 64 players on maps derived from Hajin.
-
-_Generated from 3 confirmed and 4 reported claims across 7 posts and 0 patch notes; last rendered 2026-11-03._
+_Generated from 3 confirmed and 7 reported claims across 10 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

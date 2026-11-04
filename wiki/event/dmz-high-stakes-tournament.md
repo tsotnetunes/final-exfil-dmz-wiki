@@ -5,20 +5,19 @@ description: "A one-day creator event on 2 Nov 2026: 14 trios (42 creators) play
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_6986bb6d190c, clm_7abaf3329ba5, clm_657efcf38b94, clm_fcf3e80098d9, src-cod-x-dmz-high-stakes-2026-11-02]
+sources: [clm_7abaf3329ba5, clm_657efcf38b94, clm_70ed3d25ac40, src-cod-x-dmz-high-stakes-2026-11-02]
 aliases: ["High Stakes Tournament", "DMZ tournament", "DMZ creator tournament", "$75,000 DMZ tournament", "DMZ High Stakes", "who won DMZ High Stakes"]
 date: "2026-11-02"
 ---
 <!-- generated:start -->
-The DMZ High Stakes Tournament is a scheduled competitive event featuring a $75,000 prize pool. It brings together content creators to compete in trios for cash prizes.
+The DMZ High Stakes Tournament is a competitive event featuring a $75,000 prize pool. Players track the event to follow competitive play and prize distribution.
 
-## What is the format of the tournament?
+## What are the tournament details?
 
 * Players report that the DMZ High Stakes Tournament features a $75,000 prize pool.
-* Players report that the event includes 14 trios.
-* Players report that 42 creators participate in the tournament.
+* Players report that the DMZ High Stakes Tournament is scheduled to begin at 2PM CT.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-02._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

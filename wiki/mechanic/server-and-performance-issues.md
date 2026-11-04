@@ -5,22 +5,23 @@ description: "DMZ's launch week brought server crashes and disconnects that cost
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_fd065cd2a969, clm_ca6990fa1a25, clm_6458fc835c19, src-gfinity-dmz-tech-issues-2026-10-22, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-activision-pc-specs-2026-09-29]
+sources: [clm_fd065cd2a969, clm_ca6990fa1a25, clm_6458fc835c19, clm_3cb352a2f22e, src-gfinity-dmz-tech-issues-2026-10-22, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-activision-pc-specs-2026-09-29]
 aliases: ["server crash", "server crashes", "crash", "crashes", "disconnect", "disconnects", "disconnected", "lost loot", "loot loss", "lost gear after crash", "rejoin", "reconnect", "lag", "performance", "120 FPS", "VRR", "Performance Mode", "network error", "Visibility and Graphics", "graphics", "Server and performance problems", "Security System Exit Glitch", "stuck in security cameras", "stuck holding X camera"]
 ---
 <!-- generated:start -->
-Server and performance problems in Modern Warfare 4 DMZ can disrupt matches and cause players to lose items and active operators. These issues impact survivability during active deployments and storage management.
+Server and performance problems in Modern Warfare 4 DMZ can disrupt matches and cause the loss of operators, gear, and stored equipment. Players must contend with technical faults that wipe their inventory during active gameplay and extraction.
 
-## What happens to operators during lag or crashes?
+## What happens when crashes or lag occur in a match?
 
-* Players report that system lag can cause a player to be kicked from a match, resulting in the loss of their operator.
+* Players report that system lag can cause a player to be kicked from a DMZ match, resulting in the loss of their operator.
+* Players report that playing Modern Warfare 4 DMZ on Xbox can lead to game crashes that result in the loss of gear.
 * Players report that when Modern Warfare 4 DMZ crashes during extraction and a player rejoins, the operator is dead.
 
-## Can items disappear from inventory?
+## Can inventory items disappear outside of matches?
 
-* Players report that moving a legendary gas mask and a radiation suit from a backpack to the stash caused them to disappear.
+* Players report that the legendary gas mask and radiation suit disappeared after moving them from a backpack to the stash.
 
-_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

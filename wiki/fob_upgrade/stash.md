@@ -11,18 +11,19 @@ station: stash
 unlock: start
 ---
 <!-- generated:start -->
-The Stash stores extracted gear in Modern Warfare 4 DMZ. What players extract matters as they build up their Stash.
+The Stash is a storage system in Modern Warfare 4 DMZ built up by extracting items.
 
-## How much does the Stash hold?
-Players reported that the DMZ stash holds 12 weapons and 58 items. Players also reported that the Stash user interface can likely be updated for increased space.
+What players extract matters as they build up their Stash, as confirmed on 7 Oct 2026. Players report that DMZ stash upgrades require finding specific items to complete. Players also report that the Stash user interface can likely be updated for increased space.
 
-## How do you upgrade the Stash?
-Players reported that DMZ stash upgrades require finding specific items.
+## How much can the Stash hold?
+
+Players report that the DMZ stash holds 12 weapons and 58 items.
 
 ## What issues affect the Stash?
-Players reported that Stash Weapon Upgrade I continues to appear in the upgrade list after completion. A player also reported being unable to put items into their DMZ stash.
 
-_Generated from 1 confirmed and 6 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-31._
+Players report that Stash Weapon Upgrade I continues to appear in the upgrade list after completion. Players have also reported being unable to put items into their DMZ stash.
+
+_Generated from 1 confirmed and 6 reported claims across 7 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

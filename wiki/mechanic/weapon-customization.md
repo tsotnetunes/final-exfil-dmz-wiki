@@ -5,7 +5,7 @@ description: "How DMZ weapon builds work: attachments unlock by weapon level sha
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_55b26f37e758, clm_36375a19fdcb, clm_7190ea4faab3, clm_37725b1711f7, clm_24071e7fd6d6, clm_f989b1252f87, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-launch-weapons-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmztracker-gunsmith-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-weapons-2026-10-31, src-westie-dmz-ama-recap-2026-10-11]
+sources: [clm_55b26f37e758, clm_36375a19fdcb, clm_7190ea4faab3, clm_37725b1711f7, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-launch-weapons-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmztracker-gunsmith-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-weapons-2026-10-31, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["attachments", "weapon builds", "Gunsmith builds", "weapon rarity", "Shared Attachments", "Optic Rail Placement", "damaged weapons", "broken attachments", "weapon levels", "weapon prestige", "Ultra weapons"]
 ---
 <!-- generated:start -->

@@ -9,13 +9,13 @@ sources: [clm_15b35293c60f, src-activision-dmz-guide-part2-2026-10-09, src-activ
 aliases: ["MIA", "rescue team", "missing in action", "lost operator", "operator does not exfil", "died without exfil", "Rescue", "rescue an operator", "recover an Operator", "MIA recovery cost", "Operator Rescue Beacon", "recovery slots", "get an Operator back"]
 ---
 <!-- generated:start -->
-The MIA system designates an Operator as missing in action when that Operator dies.
+The MIA system causes an Operator to be classified as missing in action when a player dies during a match. This status applies directly to the character who was lost in action.
 
-## What happens when an Operator dies?
+## What happens when a player dies?
 
-* An Operator is marked MIA upon death, confirmed on 7 Oct 2026.
+* If a player dies, that Operator becomes MIA.
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

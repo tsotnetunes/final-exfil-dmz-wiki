@@ -11,33 +11,23 @@ station: 3d-printer
 unlock: "DMZ level 1 (official launch table); level 2 in the 9 Oct guide"
 ---
 <!-- generated:start -->
-The 3D Printer allows players to use Resources, Ingredients, and Recipes to craft essentials, build loadouts, and upgrade the FOB, as confirmed on 9 Oct 2026.
-
-Players report that the 3D Printer requires DMZ Level 2 to unlock. Players report that the 3D Printer is located at the FOB.
+The 3D Printer requires Resources, Ingredients, and Recipes to craft essentials, build loadouts, and upgrade the FOB, confirmed on 9 Oct 2026. Players report that the 3D Printer requires DMZ Level 2 to unlock.
 
 ## What can the 3D Printer craft?
 
-Players report that the 3D Printer provides crafting capabilities in DMZ.
+Players report that the 3D Printer allows for crafting gear and upgrading stations.
 
-Players report that the 3D Printer crafts gear and upgrades stations.
+Players report that DMZ armor is created using the 3D Printer. Crafting a 1-Plate Armor Vest requires 25 Synthetics and 25 Metals according to player reports. Players report that advanced armor types remain locked until recipes are unlocked.
 
-Players report that DMZ armor is created using the 3D Printer.
+Players report that a recipe for the Door Breacher Charge can be found in a raid, which then allows players to print it at the FOB 3D Printer.
 
-Crafting a 1-Plate Armor Vest requires 25 Synthetics and 25 Metals, according to player reports.
-
-Players report that advanced armor types remain locked until their recipes are unlocked.
-
-Players report that a recipe for the Door Breacher Charge can be found in a raid.
-
-Finding this recipe allows players to print the Door Breacher Charge at the FOB 3D Printer, according to player reports.
-
-Players report that the DMZ Crafting Calculator displays available 3D Printer recipes based on the resources held by the player.
+Players report that the DMZ Crafting Calculator shows available 3D Printer recipes based on resources held by the player.
 
 ## Can the 3D Printer be upgraded?
 
-Players report that the 3D Printer can be upgraded.
+Players report that the 3D Printer itself can be upgraded.
 
-_Generated from 1 confirmed and 10 reported claims across 11 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 1 confirmed and 10 reported claims across 11 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

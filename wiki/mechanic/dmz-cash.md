@@ -9,15 +9,15 @@ sources: [clm_1227a6a278fb, src-activision-dmz-guide-part2-2026-10-09, src-activ
 aliases: ["cash", "money", "how to make money in DMZ", "how to earn DMZ Cash", "DMZ economy", "economy", "sell items", "selling valuables", "barter", "cash rewards"]
 ---
 <!-- generated:start -->
-DMZ Cash is the currency earned by completing objectives and contracts during matches in Modern Warfare 4 DMZ.
+DMZ Cash is the currency earned by completing activities in Modern Warfare 4 DMZ. Cash payouts impact how quickly players accumulate resources during matches.
 
-## How do payouts work in DMZ?
+## How much DMZ Cash do activities pay?
 
-* Players reported that DMZ Cash payout rates for Dynamic Ops were increased in an overnight patch.
-* Players reported that payout rates for Side Ops were increased in the same overnight patch.
-* Players reported that payout rates for mission steps were also increased in that update.
+* Players report that DMZ Cash payout rates for Dynamic Ops were increased in an overnight patch.
+* Players report that payout rates for Side Ops were increased in the overnight patch.
+* Players report that payout rates for mission steps were also increased in the overnight patch.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-02._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

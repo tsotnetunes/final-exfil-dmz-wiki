@@ -9,18 +9,14 @@ sources: [clm_580e04417c3f, clm_88179a380fbb, clm_5e6b181a2f4d, src-activision-d
 aliases: ["100 Spirits", "100 Spirits NK Faction", "Hundred Spirits", "NK forces", "Korean People's Army", "AI enemies", "AI tiers", "Tier 1", "Tier 2", "Tier 3", "Tier 4", "K9", "robot dog", "drone swarm", "LMG drone", "convoy", "hazmat soldiers"]
 ---
 <!-- generated:start -->
-North Korean forces are an AI enemy faction occupying the former Russian facility X01 in the northern Exclusion Zone. Players encounter these hostile units while exploring and fighting across DMZ areas.
+North Korean forces are an enemy faction operating within the northern Exclusion Zone. On 28 Oct 2026, it was confirmed that North Korean forces have occupied the former Russian facility codenamed X01 in the northern Exclusion Zone.
 
-## Where are North Korean forces located?
+## Where are AI enemies encountered and how difficult are they?
 
-* North Korean forces have occupied the former Russian facility X01 in the northern Exclusion Zone, confirmed on 28 Oct 2026.
+* Low tier AI enemies are easy to kill in DMZ, as reported by players on 21 Oct 2026.
 * Stacked armor AI can be found positioned on rooftops, as reported by players on 30 Oct 2026.
 
-## How difficult are AI enemies in DMZ?
-
-* Low tier AI enemies in DMZ are easy to kill, as reported by players on 21 Oct 2026.
-
-_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

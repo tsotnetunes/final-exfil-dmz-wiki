@@ -11,13 +11,11 @@ tree: Warfighter
 tier: "Minor, random slot"
 ---
 <!-- generated:start -->
-The Adrenaline Burst trait resets tactical sprint upon killing an enemy, as reported by players.
-
 ## What does Adrenaline Burst do?
 
-Players report that killing an enemy resets tactical sprint when using Adrenaline Burst.
+Players report that the Adrenaline Burst trait resets tactical sprint upon killing an enemy.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-30._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

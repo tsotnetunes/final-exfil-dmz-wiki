@@ -1,20 +1,21 @@
 ---
 type: mechanic
 title: "Operator reset mechanic"
-description: "The Operator reset mechanic requires resetting an operator's progress whenever you switch characters, according to player reports."
+description: "The Operator reset mechanic requires players to reset progress to change operators and can cost 212,000 to buy back a lost operator."
 status: draft
 brain_status: candidate
 sensitivity: public
 sources: [clm_af3cd50b0ae7]
 ---
 <!-- generated:start -->
-The Operator reset mechanic governs what happens to an operator's progress when swapping characters. Players need to be aware of this system because changing to another operator can impact their current standing.
+The Operator reset mechanic governs the loss and recovery of operator progression during play. Understanding this mechanic is important because swapping or losing characters impacts accrued progress and available currency.
 
-## How does changing an operator work?
+## How does the Operator reset mechanic work?
 
-* Players report that changing an operator requires resetting that operator's progress.
+* Changing an operator requires resetting that operator's progress, as reported by players.
+* Players report that it cost 212,000 to buy back an operator after losing it.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-03._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-03._
 <!-- generated:end -->
 
 <!-- human:start -->

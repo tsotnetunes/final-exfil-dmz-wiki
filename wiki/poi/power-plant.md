@@ -12,17 +12,13 @@ The Power Plant is reported by players to be an in-game location.
 
 ## Where is it?
 
-Players report that the Power Plant is a location in the game.
+Players report that the Power Plant exists as a location in the game.
 
 ## What loot is there?
 
-No loot details have been reported for the Power Plant.
-
 ## How dangerous is it?
 
-No danger details have been reported for the Power Plant.
-
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->
