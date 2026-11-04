@@ -50,9 +50,9 @@ Reported by one key database [[src-dmzhub-keys-2026-10-31]]. The key to the Mili
 
 ## What else is nearby?
 
-Two [[silo-bunkers]] sit on the ridges north and northeast of the camp [[src-techwiser-silo-bunkers-2026-10-27]] [[src-xboxplay-silo-bunkers-2026-10-27]]. Revolution Dam has a police station with an Armory ([[police-stations]]) [[src-allthingshow-hajin-map-2026-10-21]]. A clinic, a fire station, a gas station, a marine gas jetty, an Ammo and Armor Cache and a UAV tower by the Citadel are mapped around the prison, and three exfil sites nearby (reported) [[src-codmunity-hajin-map-2026-10-31]]. A SAM site sits on the roof of the Citadel (reported) [[src-dmztracker-dynamic-side-ops-2026-10-20]] ([[capture-sam-site]]). For crafting, the 3D Printer points to chemical buildings in the prison yard for Volatile Explosives (reported) [[src-gamerfuzion-solo-vault-run-2026-10-25]].
+Two [[silo-bunkers]] sit on the ridges north and northeast of the camp [[src-techwiser-silo-bunkers-2026-10-27]] [[src-xboxplay-silo-bunkers-2026-10-27]]. Revolution Dam has a police station with an Armory ([[police-stations]]) [[src-allthingshow-hajin-map-2026-10-21]]. A clinic, a fire station, a gas station, a marine gas jetty, an Ammo and Armor Cache and a UAV tower by the Citadel (not always there since 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]], see [[uav-towers]]) are mapped around the prison, and three exfil sites nearby (reported) [[src-codmunity-hajin-map-2026-10-31]]. A SAM site sits on the roof of the Citadel (reported) [[src-dmztracker-dynamic-side-ops-2026-10-20]] ([[capture-sam-site]]). For crafting, the 3D Printer points to chemical buildings in the prison yard for Volatile Explosives (reported) [[src-gamerfuzion-solo-vault-run-2026-10-25]].
 
 ## Tips
 
-Use the UAV tower by the Citadel to see who is inside before you push, keep your squad together in the walkways, and plan your exit early: the exfils change every match ([[exfil]]).
+If a UAV tower is up by the Citadel, use it to see who is inside before you push, keep your squad together in the walkways, and plan your exit early: the exfils change every match ([[exfil]]).
 <!-- human:end -->

@@ -34,7 +34,7 @@ Flat floodplain, exposed fields and narrow roads give long sightlines and little
 
 ## What loot is there?
 
-A fire station, a gas station, Ammo and Armor Caches and two UAV towers are mapped here (reported) [[src-codmunity-hajin-map-2026-10-31]], and two guides name a SAM site at Imjin Farmland ([[capture-sam-site]]) [[src-dmztracker-dynamic-side-ops-2026-10-20]] [[src-allthingshow-dmz-orders-2026-10-31]]. Players report a clinic with yellow chemical lockers and a keypad door whose code is unknown [[src-gamerfuzion-irradiated-container-2026-10-27]], and a bedroom safe [[src-allthingshow-hajin-gameplay-2026-10-21]]. For crafting, the 3D Printer points to the Rice Mill for Stock Rods and to the farm's storage tents for Volatile Explosives (reported) [[src-gamerfuzion-solo-vault-run-2026-10-25]].
+A fire station, a gas station, Ammo and Armor Caches and two UAV tower spots are mapped (at most one at a time, and not always, since 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]], see [[uav-towers]]) here (reported) [[src-codmunity-hajin-map-2026-10-31]], and two guides name a SAM site at Imjin Farmland ([[capture-sam-site]]) [[src-dmztracker-dynamic-side-ops-2026-10-20]] [[src-allthingshow-dmz-orders-2026-10-31]]. Players report a clinic with yellow chemical lockers and a keypad door whose code is unknown [[src-gamerfuzion-irradiated-container-2026-10-27]], and a bedroom safe [[src-allthingshow-hajin-gameplay-2026-10-21]]. For crafting, the 3D Printer points to the Rice Mill for Stock Rods and to the farm's storage tents for Volatile Explosives (reported) [[src-gamerfuzion-solo-vault-run-2026-10-25]].
 
 ## Which locked rooms are here?
 

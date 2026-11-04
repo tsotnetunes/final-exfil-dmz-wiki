@@ -25,8 +25,9 @@ Activision keeps one living page of launch patch notes for Modern Warfare 4, edi
 | 28 Oct | Possum limited, Backpack weapon losses and the level 37 vest fixed |
 | 29 Oct | more cash for Dynamic Ops, Side Ops and Story Mission replays, exfil helicopter crashes fixed |
 | 30 Oct | the cash increases with numbers, Boss Board intel purchase fixed |
+| 2 Nov | 40% fewer UAV Towers, placed at random; Sedative Inhaler 120 seconds; Truce Flag cooldown 60 seconds; SAM Site, retired Operator and Bounty fixes |
 
-All from the official patch notes [[src-mw4-launch-patch-notes-2026-10-29]]. Cash numbers: [[how-to-make-money-in-dmz]].
+All from the official patch notes [[src-mw4-launch-patch-notes-2026-10-29]]. Cash numbers: [[how-to-make-money-in-dmz]]. Season 1 gets its own notes, promised for the days before launch [[src-mw4-launch-patch-notes-2026-10-29]].
 
 ## Where are known issues listed?
 Infinity Ward's public Modern Warfare 4 Trello board, linked from the patch notes page, has a DMZ Known Issues list [[src-iw-mw4-trello-2026-10-19]]. The patch notes also carry known issues by day [[src-mw4-launch-patch-notes-2026-10-29]].

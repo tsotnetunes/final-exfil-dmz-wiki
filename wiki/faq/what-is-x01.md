@@ -25,7 +25,7 @@ _Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch not
 X01 is Season 1's new DMZ location, which Activision calls a Black Site: a weapons facility nobody knew about, believed to be a GRANIT Arms black site, now held by North Korean forces [[src-activision-season-1-announcement-2026-10-28]] [clm_64b8588379af]. It arrives with Season 1 at midnight ET on 6 Nov 2026, which is 9 PM PT on 5 Nov [[src-activision-season-1-announcement-2026-10-28]].
 
 ## Where is it, and how do you get there?
-It is a facility that used to be Russian, at the edge of Hajin near North Korea's northern border, and you deploy to it through the Hajin Exclusion Zone [[src-activision-season-1-announcement-2026-10-28]] [clm_88179a380fbb].
+It is a facility that used to be Russian, at the edge of Hajin near North Korea's northern border, and you deploy to it through the Hajin Exclusion Zone [[src-activision-season-1-announcement-2026-10-28]] [clm_88179a380fbb]. One outlet reports an elevator entrance with a countdown that leaves late squadmates behind in Hajin (reported) [clm_a66709e01ef4] [clm_3d4c81c4b97c].
 
 ## What is inside?
 Cargo bays, vehicle depots, underground labs, production lines and a sealed Deep Vault, linked by tunnels and routes that climb several floors, with hazards that change [[src-activision-season-1-announcement-2026-10-28]]. It holds equipment you cannot find anywhere else [[src-activision-season-1-announcement-2026-10-28]].

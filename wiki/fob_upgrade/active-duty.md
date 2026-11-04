@@ -39,6 +39,7 @@ You recruit an Operator into a slot and they stay there until you dismiss them; 
 
 ## Known problems
 
+- Fixed 2 Nov 2026: retired Active Duty Operators did not always save [[src-mw4-launch-patch-notes-2026-10-29]].
 - Fixed 20 Oct 2026: an Active Duty Operator could not be put in your Showcase, and selling starting equipment or dismissing an Operator who wore it before the first deployment could soft lock the game [[src-mw4-launch-patch-notes-2026-10-29]].
 - Fixed 24 Oct 2026: a Party Leader could remove squadmates from DMZ without asking, which left their Operators MIA [[src-mw4-launch-patch-notes-2026-10-29]].
 - Acknowledged 21 Oct 2026: Prestige could fail for some Active Duty Operators; the workaround is on [[operator-prestige]] [clm_ccfae152bab3].

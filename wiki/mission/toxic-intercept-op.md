@@ -25,7 +25,7 @@ One run started in the South Korean Border Zone [[src-codcentral-dmz-dynamic-ops
 
 1. Loot an encrypted drive from a hidden cache (one was on Oamsik Turtle Island).
 2. Decrypt it at an enemy computer (a tent in Compound Delta in that run) and hold the spot while it works.
-3. Request a fuel resupply at a UAV Tower ([[uav-towers]]); NuriGO West in that run.
+3. Request a fuel resupply at a UAV Tower ([[uav-towers]]); NuriGO West in that run, but tower places vary since 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]].
 4. Hijack the marked yellow fuel tanker.
 5. Drive it to the marked location to finish the Op.
 

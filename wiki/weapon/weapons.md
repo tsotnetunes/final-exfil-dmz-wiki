@@ -51,7 +51,7 @@ Names, classes and Apex Attachments are official [[src-activision-mw4-launch-wea
 | Mojave .357 | Pistol | Mojave Lawless | not listed | none |
 | PILA | Launcher | none | not listed | none |
 | RPG-8 | Launcher | none | not listed | none |
-| JOKR | Launcher | none | not listed | none |
+| JOKR (Infrared mode off since 2 Nov 2026, until an exploit is fully fixed [[src-mw4-launch-patch-notes-2026-10-29]]) | Launcher | none | not listed | none |
 | PM-40 Anvil | Launcher | none | not listed | none |
 | FSS Carbon Edge 1095 | Melee | none | not listed | none |
 
@@ -101,6 +101,7 @@ From the launch patch notes [[src-mw4-launch-patch-notes-2026-10-29]]:
 - **20 Oct:** the ISO Nightshade's Apex did not work as intended in DMZ.
 - **21 Oct:** on PC, performance suffered when a Heartbeat Sensor was held while a weapon was equipped.
 - **28 Oct:** guns could drop when you moved them from the primary slot into a Backpack, or vanish after repeated swaps with a Backpack that stores weapons; and adding items to your Backpack with the 3D Printer during a deployment could send you in without your Free Loadout weapons.
+- **2 Nov:** a fix to the Apex the notes call the KG-9 Drill Charge, details not given ([[kg-7-vulcan]]).
 
 Gunsmith fixes are on [[gunsmith]].
 

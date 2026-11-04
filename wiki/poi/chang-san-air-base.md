@@ -64,5 +64,5 @@ Sources: [[src-dexerto-supreme-leaders-bunker-card-2026-10-24]] [[src-gfinity-do
 
 ## What else is nearby?
 
-Two [[silo-bunkers]]: one west of the base facing the runway, one south of it by fuel tanks [[src-techwiser-silo-bunkers-2026-10-27]] [[src-xboxplay-silo-bunkers-2026-10-27]]; their control room is the "hidden nuke" players mention [clm_97324b4d4a3d] [clm_17a343625b92]. Two clinics, three Ammo and Armor Caches and a UAV tower are mapped at the base (reported) [[src-codmunity-hajin-map-2026-10-31]]. Go in as a full squad with spare plates and ammo.
+Two [[silo-bunkers]]: one west of the base facing the runway, one south of it by fuel tanks [[src-techwiser-silo-bunkers-2026-10-27]] [[src-xboxplay-silo-bunkers-2026-10-27]]; their control room is the "hidden nuke" players mention [clm_97324b4d4a3d] [clm_17a343625b92]. Two clinics, three Ammo and Armor Caches and a UAV tower (not always there since 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]], see [[uav-towers]]) are mapped at the base (reported) [[src-codmunity-hajin-map-2026-10-31]]. Go in as a full squad with spare plates and ammo.
 <!-- human:end -->

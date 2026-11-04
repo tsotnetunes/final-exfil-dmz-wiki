@@ -14,7 +14,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-What the Codex cannot answer yet, as of 2 Nov 2026. When one of these is settled, the answer goes on its page and the line leaves this list.
+What the Codex cannot answer yet, as of 3 Nov 2026. When one of these is settled, the answer goes on its page and the line leaves this list.
 
 ## Progress and persistence
 - **The Season 1 level reset.** Player Level resets on 6 Nov across modes, but Activision has not said whether the 1 to 70 DMZ level or its unlocks move [[src-activision-warzone-season-1-blog-2026-11-02]]. See [[does-your-level-reset-in-season-1]].
@@ -37,6 +37,7 @@ What the Codex cannot answer yet, as of 2 Nov 2026. When one of these is settled
 - **Handheld PCs.** One pre-launch report says a stock Steam Deck cannot start the game; no official word and no DMZ test ([[can-you-play-dmz-on-steam-deck]]).
 
 ## Season 1 and beyond
+- **UAV Tower count.** Towers are 40% rarer since 2 Nov 2026, but no new total is published [[src-mw4-launch-patch-notes-2026-10-29]]; see [[uav-towers]]. **X01 entrance:** the elevator is reported by one outlet only ([[x01]]).
 - **Season 1 gaps.** X01's new enemy types, the 3D Printer upgrade, further BlackCell benefits for DMZ, the start dates of the Threat Briefings and the mid-season dates are all kept back [[src-activision-season-1-announcement-2026-10-28]]. See [[season-1]].
 - **Map area.** Developers say Hajin becomes the largest Call of Duty map when its Russian area opens in Season 2 [[src-westie-dmz-ama-recap-2026-10-11]]; no area figure yet.
 - **Long-term support.** Developers plan to support and evolve DMZ without commitments beyond the early seasons [[src-westie-dmz-ama-recap-2026-10-11]]. See [[what-post-launch-support-is-planned-for-dmz]].

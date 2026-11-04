@@ -359,3 +359,12 @@
 - id: g120
   question: What does the Auto Fill trait do?
   must_retrieve: [auto-fill]
+- id: g121
+  question: How many UAV towers are there now and did the patch reduce them?
+  must_retrieve: [uav-towers]
+- id: g122
+  question: What is the Truce Flag cooldown?
+  must_retrieve: [how-to-team-up-with-other-squads]
+- id: g123
+  question: Do contraband weapons keep their attachments after exfil?
+  must_retrieve: [extraction-rules]

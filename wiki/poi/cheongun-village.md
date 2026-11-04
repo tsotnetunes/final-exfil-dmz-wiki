@@ -45,7 +45,7 @@ North Hajin, on the Hajin River, split by two border posts (South Korean to the 
 | Train station by the fire station | Rail Depot Storage, a basement storeroom (Rare key) [[src-dmzhub-keys-2026-10-31]] |
 | Mechanic's Shack, south of the clinic | Key room, F5; has held a KG-7 Vulcan (reported) [[src-allthingshow-key-doors-2026-10-21]] |
 
-Two clinics, a UAV tower, Ammo and Armor Caches and a marine gas jetty are mapped too (reported) [[src-codmunity-hajin-map-2026-10-31]]. The Rin Oil gas station stands by the Russian Border [[src-gamerfuzion-underground-orders-2026-10-23]].
+Two clinics, a UAV tower (not always there since 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]], see [[uav-towers]]), Ammo and Armor Caches and a marine gas jetty are mapped too (reported) [[src-codmunity-hajin-map-2026-10-31]]. The Rin Oil gas station stands by the Russian Border [[src-gamerfuzion-underground-orders-2026-10-23]].
 
 ## Which missions start here?
 

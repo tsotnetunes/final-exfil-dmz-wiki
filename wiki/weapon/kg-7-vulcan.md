@@ -27,7 +27,7 @@ Its Weapon Manual is on the community list of Manuals [[src-dmzhub-weapon-manual
 
 ## What is its Apex Attachment?
 
-**KG-7 Drillcharge:** rounds loaded from the side that drill into a surface, then explode [[src-activision-mw4-launch-weapons-2026-10-19]]. Players report that the Drillcharge rounds cannot be refilled during a DMZ match (reported) [clm_e384ad820ccc]. See [[apex-attachments]].
+**KG-7 Drillcharge:** rounds loaded from the side that drill into a surface, then explode [[src-activision-mw4-launch-weapons-2026-10-19]]. Players report that the Drillcharge rounds cannot be refilled during a DMZ match (reported) [clm_e384ad820ccc]. The notes of 2 Nov 2026 list a fix to an Apex they name KG-9 Drill Charge without saying what changed; the official weapon list has only the KG-7 Drillcharge, so this is most likely the same Apex [[src-mw4-launch-patch-notes-2026-10-29]]. See [[apex-attachments]].
 
 ## What comes in Season 1?
 

@@ -69,6 +69,6 @@ At the bottom of Reactor 02 a Decontamination Station processes an Irradiated Co
 
 ## How do you get in and out?
 
-One route: take the RHIB by the bridge, keep to the edge of the radiation and land on the beach below the reactor (reported) [[src-gamerfuzion-reactor-02-2026-10-27]]. An exfil site, Ammo and Armor Caches, a UAV tower and a marine gas jetty are mapped nearby (reported) [[src-codmunity-hajin-map-2026-10-31]].
+One route: take the RHIB by the bridge, keep to the edge of the radiation and land on the beach below the reactor (reported) [[src-gamerfuzion-reactor-02-2026-10-27]]. An exfil site, Ammo and Armor Caches, a UAV tower (not always there since 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]], see [[uav-towers]]) and a marine gas jetty are mapped nearby (reported) [[src-codmunity-hajin-map-2026-10-31]].
 Only DMZ's version has the cloud: Warzone's Hajin, from 6 Nov 2026, has no radioactive cloud here [[src-activision-warzone-season-1-blog-2026-11-02]].
 <!-- human:end -->

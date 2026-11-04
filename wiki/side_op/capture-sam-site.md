@@ -24,6 +24,8 @@ Capture SAM Site is the Side Op at an enemy surface-to-air missile site: you hac
 
 If you wander too far off, enemies can retake the site [[src-dtgre-dmz-ops-guides-2026-10-21]] [[src-dmztracker-dynamic-side-ops-2026-10-20]]. The Survivalist Trait Air Superiority keeps SAM Sites captured longer ([[air-superiority]]) [[src-activision-dmz-guide-part2-2026-10-09]] [clm_c3633bb72757].
 
+Since a fix of 2 Nov 2026 you can capture a site that another squad gave up on or failed to finish; before that it could stay locked [[src-mw4-launch-patch-notes-2026-10-29]].
+
 ## Where are SAM sites?
 
 Named so far: [[deadtown]], [[imjin-farmland]], NuriGO West just north of [[nurigo-mall]], the roof of the Citadel, [[chang-san-air-base]], and a tent camp on South Island [[src-allthingshow-dmz-orders-2026-10-31]] [[src-dmztracker-dynamic-side-ops-2026-10-20]] [[src-dtgre-dmz-ops-guides-2026-10-21]] [[src-gamerfuzion-dmz-orders-guides-2026-10-21]]. This list is not complete; check the Tac-Map.

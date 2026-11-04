@@ -24,7 +24,7 @@ Central Hajin, former South Korean side, in the South Korean Wilderness; Daesong
 
 ## What is there?
 
-The DBN TV station's array: buildings turned into barracks and a roof with a helipad and long views [[src-activision-dmz-guide-part1-2026-10-05]]. One player met many regular soldiers but none of the high tiers, and calls it a source of tech ingredients such as Comms Modules (reported) [[src-destructoid-best-loot-2026-10-25]]. A clinic, two Ammo and Armor Caches, a UAV tower and two gas stations are mapped here (reported) [[src-codmunity-hajin-map-2026-10-31]].
+The DBN TV station's array: buildings turned into barracks and a roof with a helipad and long views [[src-activision-dmz-guide-part1-2026-10-05]]. One player met many regular soldiers but none of the high tiers, and calls it a source of tech ingredients such as Comms Modules (reported) [[src-destructoid-best-loot-2026-10-25]]. A clinic, two Ammo and Armor Caches, a UAV tower (not always there since 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]], see [[uav-towers]]) and two gas stations are mapped here (reported) [[src-codmunity-hajin-map-2026-10-31]].
 
 ## Are there safes?
 

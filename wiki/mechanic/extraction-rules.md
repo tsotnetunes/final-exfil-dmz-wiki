@@ -6,7 +6,7 @@ status: stable
 brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-bounty-systems-video-2026-10-08, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-guide-2026-10-26, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-mw4-launch-patch-notes-2026-10-29]
-aliases: ["extract", "extracting", "successful exfil", "failed exfil", "exfil rules", "what you keep", "exfil countdown", "Bank deposit"]
+aliases: ["contraband weapons", "contraband", "keep attachments after exfil", "extract", "extracting", "successful exfil", "failed exfil", "exfil rules", "what you keep", "exfil countdown", "Bank deposit"]
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
@@ -17,7 +17,7 @@ You keep only what you carry out of Hajin: a successful exfil sends your gear to
 
 ## What do you get when you extract?
 
-- Gear and weapons go to your [[stash]]. Each weapon you bring out is kept as one copy that you can modify at the [[gunsmith]] [[src-activision-dmz-guide-part2-2026-10-09]].
+- Gear and weapons go to your [[stash]]. Each weapon you bring out is kept as one copy that you can modify at the [[gunsmith]] [[src-activision-dmz-guide-part2-2026-10-09]]. One walkthrough says a looted gun comes out with its broken attachments, and taking each off costs 1,000 DMZ Cash (reported) [[src-dmzcodex-gunsmith-2026-10-29]]. Contraband weapons belong to the 2022 DMZ; no MW4 source lists them.
 - The DMZ Cash you carry goes into the Bank, as the After Action Report shows [[src-activision-dmz-guide-part1-2026-10-05]]. The Bank has a cap, and codmunity warns that cash beyond it is lost without a warning (reported) [[src-codmunity-dmz-guide-2026-10-24]].
 - Recipes and Weapon Manuals are used up at exfil: each becomes a permanent unlock and pays 5,000 DMZ Cash [[src-activision-dmz-guide-part2-2026-10-09]] ([[weapon-manuals]], [[3d-printer]]).
 - A Lieutenant's Dog Tag Case only advances the [[boss-board]] once you extract with it [[src-activision-dmz-guide-part1-2026-10-05]].

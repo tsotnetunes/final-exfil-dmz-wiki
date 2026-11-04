@@ -37,13 +37,13 @@ The wrecked home of the city's baseball team, an abandoned open-air theatre to i
 
 | Spot | What players report |
 | --- | --- |
-| Two Hanex Bank branches | North (the side facing The Grid) and south (next to a UAV tower), each a coded vault ([[bank-vaults]]) [[src-gamerfuzion-gold-bar-route-2026-10-29]] [[src-codmunity-hajin-map-2026-10-31]] |
+| Two Hanex Bank branches | North (the side facing The Grid) and south (next to a UAV tower spot), each a coded vault ([[bank-vaults]]) [[src-gamerfuzion-gold-bar-route-2026-10-29]] [[src-codmunity-hajin-map-2026-10-31]] |
 | Police station | A key usually on an upstairs desk opens a room downstairs; a medicine cabinet held a Drill Charge recipe (reported) [[src-gamerfuzion-solo-compound-run-2026-10-26]] [[src-allthingshow-hajin-map-2026-10-21]] |
 | Police Weapon Depository | Epic key room, an extra police armory just north of the station, G7 [[src-dmzhub-keys-2026-10-31]] [[src-gameshorizon-police-stations-2026-10-21]] |
 | Shop Records Room | Rare key room above the Goh24 supermarket south of the clinic, behind a frosted-glass door, F7 [[src-dmzhub-keys-2026-10-31]] [[src-allthingshow-key-doors-2026-10-21]] |
 | Clinic | Yellow chemical lockers (reported) [[src-gamerfuzion-irradiated-container-2026-10-27]] |
 
-Ammo and Armor Caches, a UAV tower, a Lieutenant Hunt tower and two gas stations are mapped too (reported) [[src-codmunity-hajin-map-2026-10-31]].
+Ammo and Armor Caches, a UAV tower (not always there since 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]], see [[uav-towers]]), a Lieutenant Hunt tower and two gas stations are mapped too (reported) [[src-codmunity-hajin-map-2026-10-31]].
 
 ## Where do you exfil?
 

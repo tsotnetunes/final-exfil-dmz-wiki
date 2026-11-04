@@ -31,7 +31,7 @@ They show as white markers on the [[tac-map]], while Dynamic Ops use green phone
 
 | Side Op | What you do | Page |
 | --- | --- | --- |
-| Activate UAV Tower | Clear the guards, use the laptop, and the tower pings enemies around it. | [[uav-towers]] |
+| Activate UAV Tower | Clear the guards, use the laptop, and the tower pings enemies around it. Towers are random and 40% rarer since 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]]. | [[uav-towers]] |
 | Download Intel To Locate Lieutenant | Climb a Lieutenant Hunt tower and use the laptop on top. | [[download-intel-to-locate-lieutenant]] |
 | Paid Intel, and free Kill side ops | Reach and kill a Lieutenant you bought intel on, or one you run into. | [[paid-intel]] |
 | Capture SAM Site | Hack the launcher and hold the area until the bar fills. | [[capture-sam-site]] |

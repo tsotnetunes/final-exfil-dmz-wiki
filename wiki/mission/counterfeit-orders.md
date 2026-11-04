@@ -23,7 +23,7 @@ Counterfeit is one of the three chapters of [[dmz-orders]] you choose after page
 | --- | --- | --- |
 | 1/2 | Hostile Force | Enter a Police Station, search three containers inside and kill five soldiers there. |
 | 1/2 | Robbery | Open a safe ([[crack-safe]]), then extract with 5,000 of value in your backpack and loadout. |
-| 1/2 | Execute Intel | Hack the UAV Tower in [[deadtown]] ([[uav-towers]]), kill five soldiers it marks and pick up the Counterfeit Cash they drop. |
+| 1/2 | Execute Intel | Hack the UAV Tower in [[deadtown]] ([[uav-towers]]; it stays when other towers were cut on 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]]), kill five soldiers it marks and pick up the Counterfeit Cash they drop. |
 | 2/2 | Suit Breach | Kill 15 enemies wearing hazmat suits, found mostly in radiation. |
 | 2/2 | Eyes Everywhere | Print a Recon Drone, fly it over the Heavenly Luck Casino ([[casino]]) and mark ten enemies inside. |
 | 2/2 | Operation Silent Ledger | Finish that Story Mission. |

@@ -43,7 +43,7 @@ Homes around the luxury La Grande Vie tower, a tented market by the sea, a bridg
 | Old Barber Shop | Rare key room beside the crab shack on the south side, I7 [[src-dmzhub-keys-2026-10-31]] |
 | La Grande Vie | A DMZ Order has you climb the stairwell to the roof and place a transmitter at a terminal under a camo tarp [[src-gamerfuzion-underground-orders-2026-10-23]] [[src-codmunity-hajin-map-2026-10-31]] |
 
-Two Ammo and Armor Caches, a UAV tower, two gas stations and a marine gas jetty are mapped too (reported) [[src-codmunity-hajin-map-2026-10-31]].
+Two Ammo and Armor Caches, a UAV tower (not always there since 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]], see [[uav-towers]]), two gas stations and a marine gas jetty are mapped too (reported) [[src-codmunity-hajin-map-2026-10-31]].
 
 ## Where do you exfil?
 

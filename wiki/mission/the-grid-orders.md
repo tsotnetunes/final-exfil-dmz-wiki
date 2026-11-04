@@ -34,7 +34,7 @@ Tasks: [[src-codcentral-dmz-orders-2026-10-21]] [[src-dmzmap-dmz-orders-2026-10-
 
 - The Inflatable Decoy for I'm Over Here comes from page 11's reward [[src-codcentral-dmz-orders-2026-10-21]] [[src-dmzhub-orders-2026-10-31]].
 - No Time: on 23 Oct 2026 Infinity Ward fixed the under-8-minutes requirement being shown wrongly [[src-mw4-launch-patch-notes-2026-10-29]]. One player's counter read 2 but it ticked after a single fast Op [[src-codcentral-dmz-orders-2026-10-21]] (reported). A short Op such as Ignition Point ([[dynamic-operations]]) once ended about a minute after deploying [[src-codcentral-dmz-dynamic-ops-2026-10-21]] (reported).
-- Opulent: UAV Towers, SAM Sites, Lieutenant Hunt towers, marked safes and military compounds all count as Side Ops, so plan a route that passes several of them [[src-dmztracker-dynamic-side-ops-2026-10-20]] [[src-dmzcodex-com-operations-2026-10-31]].
+- Opulent: UAV Towers, SAM Sites, Lieutenant Hunt towers, marked safes and military compounds all count as Side Ops, so plan a route that passes several of them, with fewer towers since 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]], [[src-dmztracker-dynamic-side-ops-2026-10-20]] [[src-dmzcodex-com-operations-2026-10-31]].
 - A later Order on page 23 is also called No Time and asks for four Dynamic Ops in one deployment [[src-codcentral-dmz-orders-2026-10-21]] [[src-dmzhub-orders-2026-10-31]].
 
 ## What are the rewards?

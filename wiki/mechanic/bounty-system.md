@@ -55,6 +55,7 @@ Not known. The June intel said that chasing bounty targets could make you less o
 
 ## Known problems
 
+- Fixed 2 Nov 2026: Bounty progress could go back to zero between deployments for some Operators [[src-mw4-launch-patch-notes-2026-10-29]].
 - Fixed 23 Oct 2026: several Bounty tracking issues [[src-mw4-launch-patch-notes-2026-10-29]].
 - Fixed 24 Oct 2026: taken Dog Tags and Bounties sometimes showed the wrong details. Known issue the same day: on PC, extracting with a tag you took can end in a network error [[src-mw4-launch-patch-notes-2026-10-29]].
 <!-- human:end -->

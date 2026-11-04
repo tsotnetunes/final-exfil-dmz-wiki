@@ -38,7 +38,7 @@ North-central Hajin, former South Korean side, next to a train station, with [[t
 
 ## What is inside?
 
-Triage tents and temporary barracks on the stepped grounds, a parking structure, and a gutted multi-level lobby leading to wards and emergency rooms colour-coded by floor; fights inside are close quarters [[src-activision-dmz-guide-part1-2026-10-05]]. Hospitals hold medical supplies [[src-activision-dmz-deep-dive-2026-06]] ([[loot-placement]]). An Ammo and Armor Cache, a Lieutenant Hunt tower, a gas station and two UAV towers are mapped around it (reported) [[src-codmunity-hajin-map-2026-10-31]].
+Triage tents and temporary barracks on the stepped grounds, a parking structure, and a gutted multi-level lobby leading to wards and emergency rooms colour-coded by floor; fights inside are close quarters [[src-activision-dmz-guide-part1-2026-10-05]]. Hospitals hold medical supplies [[src-activision-dmz-deep-dive-2026-06]] ([[loot-placement]]). An Ammo and Armor Cache, a Lieutenant Hunt tower, a gas station and two UAV tower spots are mapped (not always filled since 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]], see [[uav-towers]]) around it (reported) [[src-codmunity-hajin-map-2026-10-31]].
 
 ## Who is here?
 

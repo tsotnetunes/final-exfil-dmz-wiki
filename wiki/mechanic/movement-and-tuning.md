@@ -1,7 +1,7 @@
 ---
 type: mechanic
 title: "Movement, stamina and weapon tuning"
-description: "Tac sprint is on by default in DMZ; weapon damage has its own DMZ tuning built around armor, and the 28 Oct weapon changes were listed for Multiplayer only. What is known about TTK and bullet speed."
+description: "Tac sprint is on by default in DMZ; weapons have their own DMZ tuning built around armor; 28 Oct weapon changes were Multiplayer only; dive speed came back on 2 Nov 2026. TTK and bullet speed."
 status: stable
 brain_status: published
 sensitivity: public
@@ -42,4 +42,7 @@ No official DMZ time-to-kill (TTK) figures exist. What sets it is known in outli
 ## Where do shots go, and how fast?
 
 In Modern Warfare 4 a shot leaves from the weapon's barrel instead of landing at random inside a spread, both aimed and from the hip; a laser attachment shows where shots travel (official, 29 Sep, for the whole game) [[src-activision-pc-specs-2026-09-29]]. No bullet velocity figures for DMZ are published; the only velocity change so far is a cut to the Oden's Sentinel Apex on 28 Oct, listed under Multiplayer ([[oden]]) [[src-mw4-launch-patch-notes-2026-10-29]].
+## Did diving change on 2 Nov 2026?
+
+Yes, in every mode: Infinity Ward removed a temporary exploit fix, which gives back the 23% of dive speed it had cost, and closed a way to stand up from prone with no animation. Small visual bugs remain until a later update [[src-mw4-launch-patch-notes-2026-10-29]].
 <!-- human:end -->

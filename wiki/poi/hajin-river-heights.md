@@ -53,7 +53,7 @@ Apartments and narrow shopping streets hit hard by the fighting; one apartment b
 - **Compound Echo stronghold:** an Uncommon Gangbyeon Apartment B key, found once in a desk drawer in the first building, opens the next building, which has a SAM site on its roof; unlocking it gives 300 XP (reported) [[src-gamerfuzion-compound-echo-farm-2026-10-23]] [[src-dmzhub-keys-2026-10-31]]. The Rare Militia Arms Depot key opens an armory on that building's ground floor, G7 [[src-dmzhub-keys-2026-10-31]] [[src-allthingshow-key-doors-2026-10-21]]. See [[compounds]].
 - **South Island:** a SAM site in a tent camp with a watchtower and a launcher truck, and two grey lattice radio towers used by a DMZ Order (reported) [[src-gamerfuzion-underground-orders-2026-10-23]].
 - **Safes:** one on a roof reached by climbing, one down in a parking garage (reported) [[src-codmunity-hajin-map-2026-10-31]] ([[safes]]).
-- An Ammo and Armor Cache, a UAV tower, a Lieutenant Hunt tower and marine gas jetties are mapped here (reported) [[src-codmunity-hajin-map-2026-10-31]].
+- An Ammo and Armor Cache, a UAV tower (not always there since 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]], see [[uav-towers]]), a Lieutenant Hunt tower and marine gas jetties are mapped here (reported) [[src-codmunity-hajin-map-2026-10-31]].
 
 ## Where do you exfil?
 

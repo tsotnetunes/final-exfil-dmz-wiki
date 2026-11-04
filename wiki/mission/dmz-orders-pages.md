@@ -38,7 +38,7 @@ These are the [[dmz-orders]] pages that belong to no chapter: pages 1, 4, 7, 10,
 | 7 | Healer | Pin the Medkit recipe as tracked at the [[3d-printer]], then print one Medkit. |
 | 10 | Crashed Crate | Recover three lost Supply Drops ([[secure-lost-supply-drop]]) and finish a Loot Radio Tower side op. |
 | 10 | Surprise Me | Finish five Dynamic Ops and one Story Mission picked through the random mission deploy. |
-| 10 | Healer (as listed) | Print or extract three Reactive Metals, extract 30 Metals, then print an Armor Box. |
+| 10 | Healer | Print or extract three Reactive Metals, extract 30 Metals, then print an Armor Box. |
 | 11 | Information Power | Purchase intel on a Lieutenant from the [[boss-board]], then kill that Lieutenant ([[paid-intel]]). |
 | 11 | Arms Deal | Purchase a gun from the Gunsmith, then fit any weapon with at least three attachments. |
 | 11 | Friendly Face | Use Request Truce on the ping wheel. |
@@ -98,6 +98,7 @@ Rewards: [[src-codcentral-dmz-orders-2026-10-21]] [[src-dmzhub-orders-2026-10-31
 - Operation Rewards and Payment Due need a phone: deploy through Free Roam, because an Op assigned at deploy does not count, and walk to a green phone icon [[src-pcgamer-dynamic-op-phone-2026-10-21]] [[src-allthingshow-dmz-orders-2026-10-31]].
 - Crashed Crate wants lost drops, marked by red smoke and an on-screen alert; drops from SAM sites or finished Ops do not count [[src-patchcrazy-crashed-crate-2026-10-22]] (reported).
 - Mechanic's radar truck needs four parts (a Car Battery, an Alternator, a Spark Plug and a Vehicle Water Pump), mostly at gas stations and garages; no single station is sure to have all four, and some trucks already have parts fitted. Once fixed, the truck pings nearby enemies while you drive, and those are the 19 kills the Order counts; it sat on page 15 for that writer and may be numbered differently for you (reported) [[src-dtgre-dmz-ops-guides-2026-10-21]] [[src-dtgre-dmz-radar-truck-2026-10-25]]. See [[repair-the-vehicle]].
+- For page 10: a guide confirms the third Order shares the name Healer with the one on page 7, and lists the Armor Box under Field Upgrades in the 3D Printer. It climbed a Loot Radio Tower at Imjin Farmland and found a Lost Supply Drop on a hill north of Deadtown beside an exfil, others near Operation Iron Citadel, in the hospital lobby and on the ocean side by the reactor; Surprise Me's random Story Mission asks for a full squad (reported) [[src-gamerfuzion-orders-page-10-2026-10-29]].
 - For page 10's metals Order, Reactive Metals turn up in garages and construction areas; for Locksmith, jackets and household containers are good places to find keys [[src-dmzhub-orders-2026-10-31]] (reported).
 - Philanthropist did not count weekly challenges finished before it unlocked until a fix on 24 Oct 2026 [[src-mw4-launch-patch-notes-2026-10-29]].
 - Ears Everywhere's voice logs did not always spawn until a fix on 29 Oct 2026, and Information Power could stall because Boss Board intel would not sell, fixed on 30 Oct 2026 [[src-mw4-launch-patch-notes-2026-10-29]].

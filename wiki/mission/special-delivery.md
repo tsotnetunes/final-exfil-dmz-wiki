@@ -27,7 +27,7 @@ Special Delivery is a Dynamic Op ([[dynamic-operations]]) in which you build a b
 
 1. Collect three bomb parts. One route had the explosives in a dead drop at Cheongun Outskirts and the wiring in a safe at Compound Charlie; another used Songdo Wharf, a dumpster dead drop and a hidden cache in the Construction Zone [[src-dtgre-dmz-ops-guides-2026-10-21]] [[src-codcentral-dmz-dynamic-ops-2026-10-21]].
 2. Craft the bomb at the marked workbench, in Cheongun Village or the Construction Zone depending on the route [[src-dtgre-dmz-ops-guides-2026-10-21]] [[src-codcentral-dmz-dynamic-ops-2026-10-21]].
-3. Do the technical step: either upload intel at a laptop on top of a lattice tower near Cheongun Outskirts, or capture a UAV Tower ([[uav-towers]]), for example on South Island [[src-dtgre-dmz-ops-guides-2026-10-21]] [[src-codcentral-dmz-dynamic-ops-2026-10-21]].
+3. Do the technical step: either upload intel at a laptop on top of a lattice tower near Cheongun Outskirts, or capture a UAV Tower ([[uav-towers]]), for example on South Island [[src-dtgre-dmz-ops-guides-2026-10-21]] [[src-codcentral-dmz-dynamic-ops-2026-10-21]]; tower places vary since 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]].
 4. Reach the Mobile Launch Platform: at Shoreline Station, or far north across the Hajin River near Hanrim Village and Revolution Dam [[src-codcentral-dmz-dynamic-ops-2026-10-21]] [[src-dtgre-dmz-ops-guides-2026-10-21]].
 5. Plant the bomb, defend it while the countdown runs (about a minute), then get clear before it blows [[src-dtgre-dmz-ops-guides-2026-10-21]] [[src-codcentral-dmz-dynamic-ops-2026-10-21]].
 

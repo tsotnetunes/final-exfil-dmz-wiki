@@ -1,12 +1,12 @@
 ---
 type: faq
 title: "How do you team up with another squad in DMZ?"
-description: "Use the Ping Wheel to request a truce or to join up, or talk on proximity chat. An assimilated squad is capped at four players, and anyone can still betray you."
+description: "Use the Ping Wheel to request a truce or to join up, or talk on proximity chat. The Truce Flag cooldown is 60 seconds since 2 Nov 2026. Assimilated squads cap at four, and betrayal is allowed."
 status: stable
 brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-dmzhub-orders-2026-10-31]
-aliases: ["truce DMZ", "assimilation", "assimilate DMZ", "join another squad", "DMZ truce", "team up DMZ", "friendly squads DMZ"]
+aliases: ["Truce Flag", "Truce Flag cooldown", "truce cooldown", "truce DMZ", "assimilation", "assimilate DMZ", "join another squad", "DMZ truce", "team up DMZ", "friendly squads DMZ"]
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
@@ -17,6 +17,9 @@ Open the Ping Wheel: it can request a Truce or ask to join up with another squad
 
 ## Truce or assimilation?
 A truce is an agreement not to fight; players report the truce function lets two squads work through a deployment together (reported) [clm_3f9c4cb39462]. Assimilation means joining the other squad after you have spawned, up to the cap of four [[src-westie-dmz-ama-recap-2026-10-11]] [clm_5b76bd4676ec]. A fix on 29 Oct 2026 lets you pick up a hostage after assimilating, which used to fail [[src-mw4-launch-patch-notes-2026-10-29]].
+
+## How long is the Truce Flag cooldown?
+Since 2 Nov 2026 it is 60 seconds, down from 180 [[src-mw4-launch-patch-notes-2026-10-29]].
 
 ## Can they turn on you?
 Yes: betrayal is part of the mode (as relayed) [[src-westie-dmz-ama-recap-2026-10-11]]. It has a cost, though: killing players earns a Bounty, and four player kills make an Operator Wanted, which alerts nearby Operators [[src-activision-dmz-guide-part2-2026-10-09]]. See [[bounty-system]].

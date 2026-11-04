@@ -26,7 +26,7 @@ Bank vaults are the cash rooms of Hanex Bank branches in the South Korean towns;
 | NuriGO West (G6) | [[nurigo-mall]] | High threat, with heavy AI and riot shields (reported) [[src-gamerfuzion-gold-bar-route-2026-10-29]] |
 | Songdo Wharf (I7) | [[songdo-wharf]] | Low threat [[src-codmunity-hajin-map-2026-10-31]] |
 | Wolves Stadium north (G7) | [[wolves-stadium]], the side facing The Grid | A Gold Bar came from here once (reported) [[src-gamerfuzion-gold-bar-route-2026-10-29]] |
-| Wolves Stadium south (G8) | [[wolves-stadium]], next to a UAV tower | (reported) [[src-gamerfuzion-gold-bar-route-2026-10-29]] |
+| Wolves Stadium south (G8) | [[wolves-stadium]], next to a UAV tower spot | (reported) [[src-gamerfuzion-gold-bar-route-2026-10-29]] |
 
 A community map pins exactly five banks, at about F4, G6, G7, G8 and I7, each beside a keypad door and safes; the squares in the table are our matching of those pins to the branches (reported) [[src-dmzhub-maps-2026-10-31]]. Another run opened a vault at the north tip of [[the-grid]], probably one of the five (reported) [[src-gamerfuzion-orders-page-14-2026-10-30]]. The Hanex Bank tower inside The Grid is a Critical-threat area [[src-activision-dmz-guide-part1-2026-10-05]], and a separate Epic key opens a guard post on an upper floor near its vault (reported) [[src-dmzhub-keys-2026-10-31]].
 

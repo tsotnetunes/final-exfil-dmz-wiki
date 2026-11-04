@@ -74,7 +74,7 @@ The words you meet in DMZ, in plain English, each with the Codex page that has t
 | Lieutenant Hunt tower | a tower whose terminal marks the nearest Lieutenant [[src-activision-dmz-guide-part1-2026-10-05]] | [[how-to-find-lieutenants]] |
 | Commander | a roaming boss such as the Colossus, Deathstalker or a battle tank [[src-activision-dmz-guide-part1-2026-10-05]] | [[commander-threats]] |
 | Compound | a fortified enemy site marked on the Tac-Map [[src-activision-dmz-guide-part1-2026-10-05]] | [[locations-of-interest]] |
-| Truce | an agreement with another squad not to fight, asked for on the Ping Wheel [[src-activision-dmz-guide-part1-2026-10-05]] | [[how-to-team-up-with-other-squads]] |
+| Truce | an agreement with another squad not to fight, asked for on the Ping Wheel [[src-activision-dmz-guide-part1-2026-10-05]]; the Truce Flag cooldown is 60 seconds since 2 Nov 2026 [[src-mw4-launch-patch-notes-2026-10-29]] | [[how-to-team-up-with-other-squads]] |
 | Assimilation | joining another squad mid-match, up to four players (as relayed) [[src-westie-dmz-ama-recap-2026-10-11]] | [[how-to-team-up-with-other-squads]] |
 | Ping Wheel | quick commands, including truce and join-up requests [[src-activision-dmz-guide-part1-2026-10-05]] | [[proximity-chat]] |
 | Proximity chat | voice with nearby players that fades with distance [[src-activision-dmz-deep-dive-2026-06]] | [[proximity-chat]] |
