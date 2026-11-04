@@ -5,16 +5,17 @@ description: "Retired duplicate. Crashes, disconnects and lost gear are on the S
 status: deprecated
 brain_status: retired
 sensitivity: public
-sources: [clm_9d9df8f6869e]
+sources: [clm_9d9df8f6869e, clm_16b585872ac3]
 ---
 <!-- generated:start -->
-Server and performance problems encompass technical disruptions that directly affect a match's outcome in DMZ. When these issues occur, they can interrupt gameplay and stop participants from securing their progress.
+Server and performance problems in DMZ disrupt matches and directly threaten extraction. Issues such as crashes and latency can interrupt a run and cause players to lose their exfil attempts.
 
-## How do crashes affect matches?
+## How do server and performance problems affect extraction?
 
-* Players report that crashing in DMZ prevents extraction.
+* Crashing in DMZ prevents extraction, as reported by players.
+* Lag can cause a player to be ejected from the exfil chopper, as reported by players.
 
-_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

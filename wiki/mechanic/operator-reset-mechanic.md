@@ -5,7 +5,7 @@ description: "The Operator reset mechanic requires players to reset progress to 
 status: draft
 brain_status: candidate
 sensitivity: public
-sources: [clm_af3cd50b0ae7]
+sources: []
 ---
 <!-- generated:start -->
 The Operator reset mechanic governs the loss and recovery of operator progression during play. Understanding this mechanic is important because swapping or losing characters impacts accrued progress and available currency.

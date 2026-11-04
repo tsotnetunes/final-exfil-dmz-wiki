@@ -9,15 +9,15 @@ sources: [clm_b9d5f0d9bab7, clm_7e1b19e52f1e, clm_ca51ba0b61c2, src-mw4-launch-p
 aliases: ["Parachute", "Infinite parachute", "Disposable Parachute", "parachute uses", "chute", "reusable parachute"]
 ---
 <!-- generated:start -->
-Parachutes in Modern Warfare 4 DMZ are gear items that allow players to jump safely from heights and escape buildings. They matter because operators must acquire and equip them to survive steep drops.
-
-## How do parachutes work in Modern Warfare 4 DMZ?
+Parachutes are items in DMZ mode that allow players to jump safely from elevated positions. Obtaining one is essential for survival when operating at height.
 
 * Players must find or craft a parachute in DMZ mode, confirmed on 21 Oct 2026.
-* Players report that you need a parachute equipped in Modern Warfare 4 DMZ to avoid falling to your death.
-* Players report that operators can escape buildings by jumping off with parachutes.
 
-_Generated from 1 confirmed and 2 reported claims across 3 posts and 0 patch notes; last rendered 2026-11-02._
+## How can players use parachutes?
+
+* Players report that players can escape buildings by jumping off with parachutes.
+
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

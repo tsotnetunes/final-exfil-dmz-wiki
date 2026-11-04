@@ -5,7 +5,7 @@ description: "Helios is a commander that players report is currently affected by
 status: draft
 brain_status: candidate
 sensitivity: public
-sources: [clm_5d83f3269d68]
+sources: []
 ---
 <!-- generated:start -->
 Helios is a commander that players report is currently affected by a bug.

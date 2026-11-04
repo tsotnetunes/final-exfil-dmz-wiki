@@ -5,34 +5,30 @@ description: "How to exfil in DMZ: reach a green-smoke site, call the helicopter
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_00d9ca66573a, clm_502f1885f07b, clm_19763d29ca5b, clm_907d1988e248, clm_0654da754a95, clm_4821865b60e5, clm_75fd786e4d31, clm_cf56ba61e6f8, clm_c772bf67ab75, clm_233daf06dc99, clm_d985129a6673, clm_d4e8823da54c, clm_5765e08bf423, clm_dea77ea2af4d, clm_82ee0b20b746, src-dmzhub-maps-2026-10-31, src-dmzhub-items-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-exfil-guide-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-gfinity-exfil-2026-10-20, src-conquestcapped-dmz-guide-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-underground-orders-2026-10-23, src-activision-season-1-announcement-2026-10-28]
+sources: [clm_00d9ca66573a, clm_502f1885f07b, clm_19763d29ca5b, clm_907d1988e248, clm_0654da754a95, clm_4821865b60e5, clm_75fd786e4d31, clm_cf56ba61e6f8, clm_c772bf67ab75, clm_233daf06dc99, clm_d985129a6673, clm_d4e8823da54c, clm_5765e08bf423, clm_dea77ea2af4d, clm_82ee0b20b746, clm_9881a8b26722, src-dmzhub-maps-2026-10-31, src-dmzhub-items-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-exfil-guide-2026-10-21, src-allthingshow-hajin-map-2026-10-21, src-gfinity-exfil-2026-10-20, src-conquestcapped-dmz-guide-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-underground-orders-2026-10-23, src-activision-season-1-announcement-2026-10-28]
 aliases: ["extraction", "extract", "how to exfil", "exfil helicopter", "exfil chopper", "Twin Heli", "skyhook", "Fulton", "Fulton balloon", "Fulton Drop Marker", "Flare", "exfil flare", "green smoke", "Monarch", "Final Intel", "exfil area"]
 method: "helicopter|fulton|flare"
 ---
 <!-- generated:start -->
-In Modern Warfare 4 DMZ, exfil allows players to leave an extraction shooter match with their collected loot and cash. Surviving the extraction process is essential, as failing to escape can result in losing an operator.
+Exfil in Modern Warfare 4 DMZ is the extraction process that allows players to leave an active match with their gear. In Modern Warfare 4 DMZ, securing an extraction is essential because players risk losing their operators and inventory if they fail to escape.
 
-* Modern Warfare 4 DMZ is reported by players to be an extraction shooter.
-* PvP, money and economy, and AI difficulty are reported by players to be fundamental mechanics of an extraction shooter.
-* Operation Critical Extraction is reported by players to be a story mission in DMZ.
-* Players report that exfil campers exist in DMZ.
-* Extraction points are reported by players as locations where enemies wait to kill players.
-* Players are advised to leave if an exfil point is open and their backpack is full.
-* Players report being able to escape via ladders on buildings.
-* Recovering an operator lost during exfil is reported by players to cost 270,000.
+* Modern Warfare 4 DMZ is reported by players to be an extraction shooter where PvP, economy, and AI difficulty serve as fundamental mechanics.
+* Players report that calling in an exfil takes about 90 seconds from the initial call until the chopper is down.
+* Players report that extraction points frequently attract campers and waiting enemies.
+* Players report that it is possible to load cash onto an exfil chopper.
+* Players report that four people can extract together on an exfil chopper without betraying each other.
+* Players report that players can still be killed while inside an exfil chopper.
+* Players report that escaping via building ladders is possible during gameplay.
+* Players advise leaving immediately when an exfil is open and a backpack is full.
+* Players report that recovering an operator lost during exfil costs 270,000.
+* DMZ features a story mission titled Operation Critical Extraction, as reported by players.
 
-## How does the exfil chopper work?
+## How does the final exfil work?
 
-* The exfil process is reported by players to take about 90 seconds from calling it in until the chopper is down.
-* Players report that they can be killed while inside the exfil chopper.
-* Players report that cash can be loaded onto an exfil chopper.
+* Players report that the final exfil icon turns white after all other extraction points have been engulfed by radiation.
+* Final Exfil is reported by players to be a key location where players hunt other players.
 
-## What is the final exfil?
-
-* The final exfil is reported by players to turn white after all other extraction points have been engulfed by radiation.
-* Final Exfil is reported by players to be a location where players can hunt other players in DMZ.
-
-_Generated from 0 confirmed and 14 reported claims across 14 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 0 confirmed and 15 reported claims across 15 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

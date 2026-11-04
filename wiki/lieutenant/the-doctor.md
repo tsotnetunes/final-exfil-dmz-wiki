@@ -5,14 +5,25 @@ description: "Lieutenant at Mirae General Hospital: a heavy in a bloodied white 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-allthingshow-the-doctor-2026-10-21, src-xboxplay-the-doctor-2026-10-23, src-dexerto-doctors-command-office-key-2026-10-22, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-bosses-2026-10-31, src-xboxplay-dmz-keys-2026-10-22, src-activision-mw4-launch-weapons-2026-10-19]
+sources: [clm_5cc86f6b0731, src-allthingshow-the-doctor-2026-10-21, src-xboxplay-the-doctor-2026-10-23, src-dexerto-doctors-command-office-key-2026-10-22, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-bosses-2026-10-31, src-xboxplay-dmz-keys-2026-10-22, src-activision-mw4-launch-weapons-2026-10-19]
 aliases: ["Doctor", "The Doctor's Dog Tag", "Doctor's Salve", "hospital boss", "Command Office key", "The Doctor's Command Office"]
 weapon: Patriot XMR assault rifle
 location: Mirae General Hospital (wards, garage, grounds)
 drops: Doctor's Salve or Patriot XMR, The Doctor's Dog Tag, Command Office key
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+The Doctor is a boss in DMZ, as reported by players.
+
+## Where does it appear?
+Players report that The Doctor appears as a boss in DMZ.
+
+## How does it fight?
+Information about how The Doctor fights has not been reported.
+
+## What does it drop?
+Information about what The Doctor drops has not been reported.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

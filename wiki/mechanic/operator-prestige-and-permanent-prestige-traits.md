@@ -5,7 +5,7 @@ description: "Retired duplicate. Operator Prestige, its costs, the Prestige Trai
 status: deprecated
 brain_status: retired
 sensitivity: public
-sources: [clm_412306ad7d17, clm_b7e787712b21, clm_265401f47032, clm_11a821d78fe1, clm_4492bef2ee58, clm_a92a2067495e, clm_c9f987c1c562, clm_b6179531b351, clm_0ae88ae7a759, clm_91537ed052fc]
+sources: [clm_412306ad7d17, clm_b7e787712b21, clm_265401f47032, clm_11a821d78fe1, clm_4492bef2ee58, clm_a92a2067495e, clm_c9f987c1c562, clm_b6179531b351, clm_0ae88ae7a759]
 ---
 <!-- generated:start -->
 Operator Prestige and permanent Prestige Traits are progression mechanics in Modern Warfare 4 DMZ that allow players to advance individual operators through prestige levels. This progression matters because players invest resources and reach milestones like Prestige 4 or 10 traits, though issues can cause lost operators or missing bonuses.

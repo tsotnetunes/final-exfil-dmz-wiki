@@ -5,23 +5,20 @@ description: "The DMZ Tac-Map: objectives, POIs, threat areas, services and spre
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_1388e898e92b, clm_e39fdc756114, clm_07db6f377151, clm_6212bbf73d62, clm_8c22c84b9742, src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-gameshorizon-police-stations-2026-10-21, src-gfinity-exfil-2026-10-20, src-techwiser-silo-bunkers-2026-10-27, src-codmunity-hajin-map-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_1388e898e92b, clm_e39fdc756114, clm_07db6f377151, clm_6212bbf73d62, clm_8c22c84b9742, clm_0807c36db5a4, src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-gameshorizon-police-stations-2026-10-21, src-gfinity-exfil-2026-10-20, src-techwiser-silo-bunkers-2026-10-27, src-codmunity-hajin-map-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["map", "Tac Map", "tacmap", "grid", "coordinates", "grid square", "HUD", "minimap"]
 ---
 <!-- generated:start -->
-The Tac-Map and HUD elements assist player navigation and situational awareness in Modern Warfare 4 DMZ. Understanding interface layouts and map resources helps players track combat events and navigate deployment zones.
+The Tac-Map and HUD elements provide navigation and combat information for players in Modern Warfare 4. Interface changes adjust where critical data appears on screen, while area tracking includes map tools for regions like Hajin.
 
-## What changes were made to the HUD?
-
-* Players report that the Modern Warfare 4 HUD has been updated to remove squad operator portraits.
-* The update introduces more compact widgets, according to player reports.
-* Players report that the kill feed has been moved back to its original position.
-
-## Are there interactive maps available?
+## What features are reported for the map and HUD?
 
 * Players report that an interactive map of Hajin exists.
+* The heads-up display in Modern Warfare 4 has been updated to remove squad operator portraits, according to player reports.
+* The update introduced more compact widgets to the heads-up display, as reported by players.
+* Players report that the kill feed has been moved to its original position.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-03._
+_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

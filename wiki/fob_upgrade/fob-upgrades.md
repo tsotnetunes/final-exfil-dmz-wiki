@@ -5,27 +5,25 @@ description: "Every permanent FOB upgrade printed at the 3D Printer, with what e
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_e5fe1043473f, clm_c168498fe928, clm_2c3c3d4d6b3b, clm_d002b3aea621, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23]
+sources: [clm_e5fe1043473f, clm_c168498fe928, clm_2c3c3d4d6b3b, clm_d002b3aea621, clm_bf03d0691aa3, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23]
 aliases: ["FOB Upgrades", "station upgrades", "Bank Upgrade", "Stash Item Upgrade", "Stash Weapon Upgrade", "MIA Recovery Discount", "Gunsmith Upgrade", "Vendor Item Upgrade", "Dog Tag Case Upgrade", "Uncommon Ingredient Printing", "Epic Ingredient Printing", "upgrade the FOB", "bank cap upgrade"]
 station: 3d-printer
 unlock: "3D Printer"
 ---
 <!-- generated:start -->
-FOB upgrades improve stations and unlock crafting capabilities in Modern Warfare 4 DMZ.
+FOB upgrades provide station enhancements and feature unlocks across Modern Warfare 4 DMZ. 
 
-## What upgrades are available?
+## What upgrades are available for FOB stations?
 
-Bank Upgrade XIII is reported by players to be the final upgrade in Modern Warfare 4 DMZ.
+Players report that an upgrade at the 3D printer station allows printing epic ingredients.
 
-Players report that one FOB upgrade in Modern Warfare 4 DMZ is referred to as the unemployment final boss FOB upgrade.
+Players report that a bug prevents crafting Rare (Blue) ingredients even after unlocking the ability.
 
-An upgrade in the 3D printer allows players to print epic ingredients.
+Players report that Bank Upgrade XIII serves as the final upgrade in Modern Warfare 4 DMZ.
 
-## What bugs affect FOB upgrades?
+Players also report an FOB upgrade referred to as the unemployment final boss FOB upgrade.
 
-Players report a bug that prevents the crafting of Rare (Blue) ingredients even after the ability is unlocked.
-
-_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-11-02._
+_Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

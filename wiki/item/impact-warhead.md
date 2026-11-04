@@ -5,7 +5,7 @@ description: "The Impact Warhead is an item that players report can be looted in
 status: draft
 brain_status: candidate
 sensitivity: public
-sources: [clm_97d1b0fc0545]
+sources: []
 ---
 <!-- generated:start -->
 The Impact Warhead is an item found in DMZ. Players may encounter this item while looting during a match.

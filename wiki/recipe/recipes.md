@@ -5,11 +5,21 @@ description: "All 81 item recipes at the MW4 DMZ 3D Printer with inputs, rarity 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-recipes-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-vgtimes-dmz-3d-printer-2026-10-27, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gfinity-dmz-3d-printer-2026-10-22, src-altchar-dmz-story-missions-2026-10-22, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31]
+sources: [clm_24431131a969, src-dmzhub-recipes-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-vgtimes-dmz-3d-printer-2026-10-27, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gfinity-dmz-3d-printer-2026-10-22, src-altchar-dmz-story-missions-2026-10-22, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31]
 aliases: ["Recipes", "crafting recipes", "DMZ recipes", "printer recipes", "3D printer recipe list", "what can you craft", "all recipes", "crafting list", "recipe cards"]
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+3D Printer recipes can be found by players in DMZ, as reported by players.
+
+## What does it need?
+
+Specific material costs for 3D Printer recipes have not been detailed.
+
+## How do you print it?
+
+Players reported finding 3D Printer recipes during dynamic Ops in DMZ.
+
+_Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

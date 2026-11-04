@@ -5,23 +5,20 @@ description: "How DMZ weapon builds work: attachments unlock by weapon level sha
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_55b26f37e758, clm_36375a19fdcb, clm_7190ea4faab3, clm_37725b1711f7, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-launch-weapons-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmztracker-gunsmith-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-weapons-2026-10-31, src-westie-dmz-ama-recap-2026-10-11]
+sources: [clm_55b26f37e758, clm_36375a19fdcb, clm_7190ea4faab3, clm_62fa4a279a75, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-launch-weapons-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmztracker-gunsmith-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-weapons-2026-10-31, src-westie-dmz-ama-recap-2026-10-11]
 aliases: ["attachments", "weapon builds", "Gunsmith builds", "weapon rarity", "Shared Attachments", "Optic Rail Placement", "damaged weapons", "broken attachments", "weapon levels", "weapon prestige", "Ultra weapons"]
 ---
 <!-- generated:start -->
-Weapon customization is a system that allows players to modify their firearms with attachments using DMZ Cash. It matters because equipping attachments tailors weapons for encounters across game modes.
+Weapon customization is a mechanic that lets players modify firearms with attachments by spending DMZ Cash. It dictates how players tailor their loadouts for survival and effectiveness during matches.
 
-* Customizing weapons with attachments requires DMZ Cash, confirmed on 9 Oct 2026.
-* Weapon customization in Modern Warfare 4 is reported by players to feel deeper than ever before.
+## How does weapon customization work?
 
-## How do weapon options and rewards work?
+* DMZ Cash is required to customize weapons with attachments, confirmed on 9 Oct 2026.
+* Attachments cost DMZ Cash for every build, as reported by players on 4 Nov 2026.
+* Weapon customization in Modern Warfare 4 feels deeper than ever before, as reported by players on 31 Oct 2026.
+* The pistol is described as a winning strategy in DMZ, confirmed on 24 Oct 2026.
 
-* The pistol is confirmed as a winning strategy in DMZ as of 24 Oct 2026.
-* Gold Camo is reported by players to be available for both Multiplayer and DMZ modes.
-* A VEL 46 can be found in a weapons locker, as reported by players.
-* An M4 can be looted from a player in DMZ, as reported by players.
-
-_Generated from 2 confirmed and 4 reported claims across 6 posts and 0 patch notes; last rendered 2026-11-02._
+_Generated from 2 confirmed and 2 reported claims across 4 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->
