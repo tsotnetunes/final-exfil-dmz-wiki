@@ -5,7 +5,7 @@ description: "Guarded towers: hack the laptop for a Side Op (2,000 DMZ Cash) and
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_ae67c70adc88, clm_0b7cfd4fc000, clm_1d639bef64e0, clm_03b714b0fbe6, clm_648f812941bc, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-allthingshow-dmz-orders-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-codcentral-dmz-dynamic-ops-2026-10-21, src-codcentral-dmz-orders-2026-10-21, src-dtgre-dmz-ops-guides-2026-10-21, src-codmunity-dmz-missions-2026-10-31, src-codmunity-hajin-map-2026-10-31]
+sources: [clm_ae67c70adc88, clm_0b7cfd4fc000, clm_1d639bef64e0, clm_03b714b0fbe6, clm_648f812941bc, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-allthingshow-dmz-orders-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-codcentral-dmz-dynamic-ops-2026-10-21, src-codcentral-dmz-orders-2026-10-21, src-dtgre-dmz-ops-guides-2026-10-21, src-codmunity-dmz-missions-2026-10-31, src-codmunity-hajin-map-2026-10-31, clm_afeff77fc10d]
 aliases: ["UAV tower reduction", "UAV tower spawns", "fewer UAV towers", "UAV Tower", "Activate UAV Tower", "activate a UAV tower", "UAV tower side op", "hack a UAV tower"]
 ---
 <!-- generated:start -->
@@ -26,7 +26,7 @@ UAV Towers are guarded towers marked on the Hajin map: activating one completes 
 
 ## How many UAV Towers are there?
 
-Fewer than at launch, and no longer in fixed places. Since 2 Nov 2026 towers appear at random and 40% less often; a point of interest is not sure to have one, and two will not turn up in one area [[src-mw4-launch-patch-notes-2026-10-29]]. [[deadtown]] is the exception and keeps its tower, because a DMZ Order needs it [[src-mw4-launch-patch-notes-2026-10-29]]. Before that, one guide counted 14 on the map (reported) [[src-dmztracker-dynamic-side-ops-2026-10-20]], and a community map pins 21 spots, which now shows where a tower can be, not where one will be [[src-codmunity-hajin-map-2026-10-31]]. Check your map each deployment.
+Fewer than at launch, and no longer in fixed places. Since 2 Nov 2026 towers appear at random and 40% less often; a point of interest is not sure to have one, and two will not turn up in one area [[src-mw4-launch-patch-notes-2026-10-29]]. [[deadtown]] is the exception and keeps its tower, because a DMZ Order needs it [[src-mw4-launch-patch-notes-2026-10-29]]. Before that, one guide counted 14 on the map (reported) [[src-dmztracker-dynamic-side-ops-2026-10-20]], and a community map pins 21 spots, which now shows where a tower can be, not where one will be [[src-codmunity-hajin-map-2026-10-31]]. A player report of 4 Nov 2026 says towers do not always appear where the notes suggest (reported) [clm_afeff77fc10d]. Check your map each deployment.
 
 ## How do you activate one?
 

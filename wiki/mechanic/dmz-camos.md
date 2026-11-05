@@ -5,7 +5,7 @@ description: "DMZ's Mastery camos: Chiral (2,500 Tier 3+ kills), Ripple Tide (tw
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_3a8e17bcc079, clm_a9fba1b8bb2f, clm_23d4f9bb7b2b, clm_f1b717014ef6, clm_e85655747a23, clm_d7f7ed624ff4, clm_e31370beac8b, clm_7be12d197052, clm_d0991c0c7966, clm_ea0c5a1cdac4, clm_2b05fa148d3c, clm_e153c3eb028f, clm_e48247d4fe41, src-activision-ready-for-launch-progression-2026-10-19, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_3a8e17bcc079, clm_a9fba1b8bb2f, clm_23d4f9bb7b2b, clm_f1b717014ef6, clm_e85655747a23, clm_d7f7ed624ff4, clm_e31370beac8b, clm_7be12d197052, clm_d0991c0c7966, clm_ea0c5a1cdac4, clm_2b05fa148d3c, clm_e153c3eb028f, clm_e48247d4fe41, src-activision-ready-for-launch-progression-2026-10-19, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, clm_9e05ae7aa090]
 aliases: ["Camo grind", "Serpentine camo", "Mastery camos", "Chiral", "Ripple Tide", "Helio", "DMZ Mastery", "DMZ calling cards", "Divergence"]
 ---
 <!-- generated:start -->
@@ -68,4 +68,5 @@ A successor to the 2022 beta's Serpentine camo hunt is planned for post-launch s
 - Fixed 20 Oct 2026: only the player who landed the final blow on a Commander got King Slayer progress [[src-mw4-launch-patch-notes-2026-10-29]].
 - Fixed 29 Oct 2026: some squadmate actions did not count toward DMZ Mastery camo challenges [[src-mw4-launch-patch-notes-2026-10-29]].
 - Reported 31 Oct 2026: the two-Lieutenant-tag challenge not tracking correctly [clm_e48247d4fe41].
+- Reported 4 Nov 2026: on the Pila, JOKR and RPG, the challenge to destroy vehicles or killstreaks counts in DMZ rather than Multiplayer and needs 50, not 30 (reported) [clm_9e05ae7aa090].
 <!-- human:end -->

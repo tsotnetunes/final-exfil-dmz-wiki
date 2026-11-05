@@ -368,3 +368,6 @@
 - id: g123
   question: Do contraband weapons keep their attachments after exfil?
   must_retrieve: [extraction-rules]
+- id: g124
+  question: Can I see my K/D and extraction rate in DMZ?
+  must_retrieve: [how-to-check-your-stats-in-dmz]

@@ -17,6 +17,7 @@ Every subject in the players' area (FAQ, glossary, events, guides and the mechan
 | Member | Codex page | Sources | State |
 | --- | --- | --- | --- |
 | Does your level reset in Season 1? | [[does-your-level-reset-in-season-1]] | [[src-activision-warzone-season-1-blog-2026-11-02]] | published |
+| Can you see your K/D and extraction rate in DMZ? | [[how-to-check-your-stats-in-dmz]] | [[src-u4n-check-stats-2026-11-04]] | published |
 | Are there events in DMZ? | [[are-there-events-in-dmz]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | What are the best weapons in DMZ? | [[best-weapons-in-dmz]] | [[src-mw4-launch-patch-notes-2026-10-29]] | published |
 | Can you choose where you infil in DMZ? | [[can-you-choose-where-you-infil]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |

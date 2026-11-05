@@ -5,7 +5,7 @@ description: "On Activision's living Modern Warfare 4 launch patch notes page, u
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-mw4-launch-patch-notes-2026-10-29, src-iw-mw4-trello-2026-10-19, src-activision-pc-specs-2026-09-29, src-activision-season-1-announcement-2026-10-28]
+sources: [src-mw4-launch-patch-notes-2026-10-29, src-iw-mw4-trello-2026-10-19, src-activision-pc-specs-2026-09-29, src-activision-season-1-announcement-2026-10-28, src-activision-known-issues-2026-11-04]
 aliases: ["DMZ patch notes", "DMZ updates", "MW4 patch notes", "DMZ update today", "content updates", "Call of Duty app updates", "DMZ known issues", "MW4 Trello", "latest DMZ update"]
 ---
 <!-- generated:start -->
@@ -30,7 +30,7 @@ Activision keeps one living page of launch patch notes for Modern Warfare 4, edi
 All from the official patch notes [[src-mw4-launch-patch-notes-2026-10-29]]. Cash numbers: [[how-to-make-money-in-dmz]]. Season 1 gets its own notes, promised for the days before launch [[src-mw4-launch-patch-notes-2026-10-29]].
 
 ## Where are known issues listed?
-Infinity Ward's public Modern Warfare 4 Trello board, linked from the patch notes page, has a DMZ Known Issues list [[src-iw-mw4-trello-2026-10-19]]. The patch notes also carry known issues by day [[src-mw4-launch-patch-notes-2026-10-29]].
+Infinity Ward's public Modern Warfare 4 Trello board, linked from the patch notes page, has a DMZ Known Issues list [[src-iw-mw4-trello-2026-10-19]]. The patch notes also carry known issues by day [[src-mw4-launch-patch-notes-2026-10-29]]. Activision's support site has its own known issues page, which on 4 Nov 2026 listed three DMZ entries and showed the date 30 Oct; one of them, the Boss Board intel fault, is marked fixed in the patch notes, so check both [[src-activision-known-issues-2026-11-04]].
 
 ## Do updates force a restart?
 Updates no longer need a restart when you start the game; one that goes live while you play asks you to restart between matches [[src-activision-pc-specs-2026-09-29]].

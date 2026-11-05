@@ -14,16 +14,17 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-What the Codex cannot answer yet, as of 3 Nov 2026. When one of these is settled, the answer goes on its page and the line leaves this list.
+What the Codex cannot answer yet, as of 4 Nov 2026. When one of these is settled, the answer goes on its page and the line leaves this list.
 
 ## Progress and persistence
 - **The Season 1 level reset.** Player Level resets on 6 Nov across modes, but Activision has not said whether the 1 to 70 DMZ level or its unlocks move [[src-activision-warzone-season-1-blog-2026-11-02]]. See [[does-your-level-reset-in-season-1]].
 - **Wipe policy.** No wipe is announced, and neither Season 1 post mentions a reset of Stash, Operators or FOB [[src-activision-season-1-announcement-2026-10-28]] [[src-activision-warzone-season-1-blog-2026-11-02]]; the pre-launch "no hard wipes, retire Operators instead" line was never confirmed in writing [[src-gamerfuzion-dmz-things-to-know-2026-10-03]]. A Japanese report says the [[boss-board]] is filled again each season [[src-fpsjp-dynamic-ops-trailer-2026-10-07]]. See [[does-dmz-wipe]].
 - **Double XP and Dog Tags.** Being checked: whether a Rank 2XP token speeds up an Operator's Dog Tag, and whether XP from a failed exfil moves it at all [[src-activision-dmz-guide-part2-2026-10-09]] [[src-dmztracker-level-up-fast-2026-10-22]]. See [[does-double-xp-work-on-operator-dog-tags]].
 - **Active Duty slots.** The level of the third slot is only reported (15) [[src-codmunity-dmz-progression-2026-10-19]]; whether a fourth slot exists is not confirmed. See [[how-to-get-more-active-duty-slots]].
+- **Lifetime DMZ stats.** No source shows a DMZ K/D or extraction rate in the game ([[how-to-check-your-stats-in-dmz]]).
 - **Bank cap at the start.** Community data begins at Bank Upgrade I (250,000) [[src-dmzhub-upgrades-2026-10-31]]; the cap before any upgrade was reported as 100,000 before launch (reported) [clm_06c3db0d22f9]. See [[is-there-a-bank-limit-in-dmz]].
 - **Level 37 vest for early players.** On 29 Oct Activision was still working on granting the 3-Plate Armor Vest to players who passed level 37 before the fix [[src-mw4-launch-patch-notes-2026-10-29]].
-- **Prestige rewards.** Prestiging several Operators earns calling cards and other rewards the 9 Oct guide keeps secret ([[operator-prestige]]).
+- **Prestige rewards and the bug.** Prestiging several Operators earns calling cards and other rewards the 9 Oct guide keeps secret, and Activision gives no fix date for the fault that takes items without granting a Trait ([[operator-prestige]]).
 
 ## Items
 - **Vault Edition items.** Activision has not documented Weapon Insurance Contracts and Operator Rescue Beacons; a tooltip reading is on [[what-do-rescue-beacons-and-weapon-insurance-do]]. Whether the Fulton Drop Marker lifts you or only loot is not known [[src-dmztracker-fulton-drop-marker-2026-10-15]]. See [[what-does-the-fulton-drop-marker-do]].

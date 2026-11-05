@@ -1,11 +1,11 @@
 ---
 type: mechanic
 title: "Operator Prestige and permanent Prestige Traits"
-description: "Prestige an Operator with 18 Trait Points by handing in rare gear and 200,000 to 500,000 DMZ Cash; Traits reset and you get a random permanent Prestige Trait, up to three."
+description: "Prestige an Operator with 18 Trait Points for rare gear and 200,000 to 500,000 DMZ Cash; Traits reset for a random permanent Trait. Activision lists a bug that can take the items and give no Trait."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_cb769aa684e4, clm_6714e141147a, clm_4e48d9ed9499, clm_698aa2d409ca, clm_eae0d58ce1e1, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-operator-guide-2026-10-20, src-dmztracker-operator-prestige-2026-10-20, src-gamerfuzion-dmz-best-traits-2026-10-23, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-traits-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-traits-2026-10-31]
+sources: [clm_cb769aa684e4, clm_6714e141147a, clm_4e48d9ed9499, clm_698aa2d409ca, clm_eae0d58ce1e1, src-activision-dmz-guide-part2-2026-10-09, src-xbox-wire-dmz-operator-guide-2026-10-20, src-dmztracker-operator-prestige-2026-10-20, src-gamerfuzion-dmz-best-traits-2026-10-23, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-traits-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-traits-2026-10-31, src-activision-known-issues-2026-11-04, clm_7a1e93c85a77, clm_201fd282270b]
 aliases: ["DMZ Operator Prestige", "Prestige Traits", "Permanent Prestige Trait", "Pro Traits", "prestige an operator", "operator prestige cost", "what does prestige give", "Prestige rewards"]
 ---
 <!-- generated:start -->
@@ -45,7 +45,7 @@ Costs from the 9 Oct guide [[src-activision-dmz-guide-part2-2026-10-09]]. The li
 
 The gear and the cash are consumed and the Operator's Traits reset [[src-activision-dmz-guide-part2-2026-10-09]]. The Backpack is emptied too, so move valuables to the [[stash]] first [[src-xbox-wire-dmz-operator-guide-2026-10-20]]; the screen warns that whatever is left on the Operator is used up (reported) [[src-gamerfuzion-dmz-best-traits-2026-10-23]]. You earn the Trait Points again by levelling the Dog Tag ([[dog-tags]]) [[src-dmztracker-operator-prestige-2026-10-20]], and players report the tag starting over [clm_a92a2067495e].
 
-In return the Operator gets one random permanent Prestige Trait. It stays with them if you dismiss them, move them to another slot or change their skin; they can hold three. These Pro Traits sit in three Prestige slots of their own, outside the three trees, and cost no Trait Points (reported) [[src-dmzhub-traits-2026-10-31]]. From the fourth Prestige you are offered a new one and either swap it for one of your three or keep the three [[src-activision-dmz-guide-part2-2026-10-09]] [clm_f979ff654d78]. Prestiging several Operators also earns calling cards and other rewards Activision has not revealed [[src-activision-dmz-guide-part2-2026-10-09]].
+In return the Operator gets one random permanent Prestige Trait. It stays with them if you dismiss them, move them to another slot or change their skin; they can hold three. These Pro Traits sit in three Prestige slots of their own, outside the three trees, and cost no Trait Points (reported) [[src-dmzhub-traits-2026-10-31]]. From the fourth Prestige you are offered a new one and either swap it for one of your three or keep the three [[src-activision-dmz-guide-part2-2026-10-09]] [clm_f979ff654d78]. Prestiging several Operators also earns calling cards and other rewards Activision has not revealed [[src-activision-dmz-guide-part2-2026-10-09]]. One player says Min-Hee's Hajin Hound skin comes after five Prestiges (reported) [clm_201fd282270b].
 
 ## Which Prestige Traits are there?
 
@@ -72,8 +72,9 @@ Not confirmed; see [[double-xp-tokens]]. A full Dog Tag takes about 450,000 Oper
 
 ## Known problems
 
-- On 21 Oct 2026 Infinity Ward acknowledged that Prestige failed for some Active Duty Operators. The workaround is to use Rare (blue) weapons with only three attachments [clm_ccfae152bab3], ones that have never carried four or more (reported) [[src-dmztracker-operator-prestige-2026-10-20]].
+- **Under investigation, no fix date:** Activision's known issues page lists two Prestige faults. A Prestige can take the items from your Stash and give no Prestige Trait, and some Operators cannot Prestige at all even when they qualify [[src-activision-known-issues-2026-11-04]]. Press on 4 Nov 2026 reports the same loss with no date for a fix (reported) [clm_7a1e93c85a77]. Until a fix ships, paying for a Prestige risks the gear and the cash.
+- On 21 Oct 2026 Infinity Ward acknowledged that Prestige failed for some Active Duty Operators. The workaround is to use Rare (blue) weapons that have only ever held three attachments [clm_ccfae152bab3] [[src-activision-known-issues-2026-11-04]].
 - Players report Prestige taking the gear and cash and resetting the tag without the reward [clm_a92a2067495e]. One player reported losing a fourth-Prestige Operator after being kicked from a match during exfil [clm_b6179531b351].
-- Reports from 1 and 2 Nov 2026, each from one player: Prestige still fails to start, which also blocks the last mastery camo and calling card [clm_0c8f2f5cab3c]; it can time out while loading the inventory [clm_eae0d58ce1e1]; and a Prestige reset the Traits and took the items and cash without granting the Trait it should give, including at a third Prestige [clm_4e48d9ed9499] [clm_698aa2d409ca] [clm_8541e0433130]. Until there is a fix, weigh that before paying. The patch notes up to 30 Oct list no fix [[src-mw4-launch-patch-notes-2026-10-29]], and our patch database holds nothing newer as of 2 Nov.
+- Reports from 1 and 2 Nov 2026, each from one player: Prestige still fails to start, which also blocks the last mastery camo and calling card [clm_0c8f2f5cab3c]; it can time out while loading the inventory [clm_eae0d58ce1e1]; and a Prestige reset the Traits and took the items and cash without granting the Trait it should give, including at a third Prestige [clm_4e48d9ed9499] [clm_698aa2d409ca] [clm_8541e0433130]. Until there is a fix, weigh that before paying. The patch notes up to 2 Nov 2026 list no fix [[src-mw4-launch-patch-notes-2026-10-29]].
 - Not the same as player Prestige: starting Classic Prestige from the DMZ menus blocked new Multiplayer classes (known issue of 28 Oct) [clm_6e5b27f5a3c3], and the same day a fix made Prestige from the DMZ FOB reset Multiplayer Loadouts correctly [[src-mw4-launch-patch-notes-2026-10-29]].
 <!-- human:end -->

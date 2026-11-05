@@ -5,7 +5,7 @@ description: "Killing players puts a Bounty on your Dog Tag; four kills make you
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_bb4b2157af60, clm_162bac1414e5, clm_8ed714d7c354, clm_fc75f811681c, clm_25cf22beb910, clm_c80b93d2008f, clm_d240548672df, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-cod-dmz-bounty-systems-video-2026-10-08, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-traits-2026-10-30, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_bb4b2157af60, clm_162bac1414e5, clm_8ed714d7c354, clm_fc75f811681c, clm_25cf22beb910, clm_c80b93d2008f, clm_d240548672df, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-cod-dmz-bounty-systems-video-2026-10-08, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-traits-2026-10-30, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, clm_ee65f5d8c119, clm_609749ca75a5]
 aliases: ["notoriety", "bounty", "Bounty Station", "pay off bounty", "Reduce Bounty", "Most Wanted", "bounty hunter", "Killer", "vultures", "bounty payout", "how to claim a bounty", "DMZ Bounty System"]
 ---
 <!-- generated:start -->
@@ -55,6 +55,7 @@ Not known. The June intel said that chasing bounty targets could make you less o
 
 ## Known problems
 
+- Reports from 4 Nov 2026, each from one player: a high Bounty drops to 750,000 when a match starts [clm_ee65f5d8c119], and the Bounty Board seems bugged [clm_609749ca75a5]. Activision has not confirmed either.
 - Fixed 2 Nov 2026: Bounty progress could go back to zero between deployments for some Operators [[src-mw4-launch-patch-notes-2026-10-29]].
 - Fixed 23 Oct 2026: several Bounty tracking issues [[src-mw4-launch-patch-notes-2026-10-29]].
 - Fixed 24 Oct 2026: taken Dog Tags and Bounties sometimes showed the wrong details. Known issue the same day: on PC, extracting with a tag you took can end in a network error [[src-mw4-launch-patch-notes-2026-10-29]].
