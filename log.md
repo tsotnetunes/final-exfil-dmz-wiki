@@ -1289,3 +1289,7 @@
 ## [2026-11-04 19:52 EST] edit | daily update 2026-11-04: Activision's Prestige bug listing reached the Codex (items taken, no Trait, no fix date); X01 teasers; Season 1 notes due; stats FAQ; Eun Pond; Bounty, UAV Tower, camo and recipe reports
 - changed: .kac 1, evals 1, index 11, index.md 1, raw 3, wiki 17
 - run: r-20261104-195223-2667
+
+## [2026-11-04 21:18 EST] edit | community sweep 2026-11-05: DMZHub keys now 56 (Netshin Security Office key, reported); Bombing Run value disagreement and loot places (reported); CODMunity no new members
+- changed: .kac 1, index 7, index.md 1, raw 2, wiki 9
+- run: r-20261104-211824-af31

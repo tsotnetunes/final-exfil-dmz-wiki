@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: hajin"
-description: "Every hajin subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 4 Nov 2026."
+description: "Every hajin subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 5 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -11,7 +11,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-The map of Hajin, its places, location types, exfil methods and map systems, as of 4 Nov 2026. Rows marked "row" live in a list page.
+The map of Hajin, its places, location types, exfil methods and map systems, as of 5 Nov 2026. Rows marked "row" live in a list page.
 
 | Member | Codex page | Sources | State |
 | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ The map of Hajin, its places, location types, exfil methods and map systems, as 
 | Hajin River, Tong-il Village, Revolution Dam, Pyonghwa Village, Imjin Suburb, Mujin Pass, Daesong Ridge, Namjin Riverside (8 official minor POIs) | rows in [[minor-pois]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-dmzhub-locations-2026-10-31]] | published (rows; none has 150 words of facts yet) |
 | 28 threat-rated areas inside major POIs (Prison to Jinseo Park Towers, Songdo Pier) | rows in [[minor-pois]] and on each POI page | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-dmzhub-locations-2026-10-31]] | published (rows) |
 | Landmarks: Hanrim Village, Admin Complex No. 2, Tank Depot, Haksan School, Haejeok Radio Station, Rin Oil, Cheongun train station, Mujin Nightclub, City Hall, Han-Go Korean BBQ, Donpyeong Gate, Hotel Lucera, La Grande Vie, crab shack and Old Barber Shop, Goh24, Baseball Stadium B Station, Gangbyeon Apartment B, gun stores | rows in [[minor-pois]] | [[src-dmzhub-keys-2026-10-31]] [[src-codmunity-hajin-map-2026-10-31]] | published (rows) |
-| Eundeok Restaurant, named hidden caches, Haneul Boat House, Netshin Security Office, Hanwoori Arts Records Room, Underground Equipment Storage, Sniper Tower | rows in [[minor-pois]] | [[src-dmzhub-maps-2026-10-31]] | published (rows, reported) |
+| Eundeok Restaurant, named hidden caches, Haneul Boat House, Netshin Security Office (key in [[keys-hajin-city-and-east]]), Hanwoori Arts Records Room, Underground Equipment Storage, Sniper Tower | rows in [[minor-pois]] | [[src-dmzhub-maps-2026-10-31]] | published (rows, reported) |
 | Namjjog Station, Bubun Yard, Jayon Warehouses, The Epic | rows in [[minor-pois]] | [[src-dmzhub-locations-2026-10-31]] [[src-codmunity-hajin-map-2026-10-31]] | rows; where and what not confirmed yet |
 | Eun Pond | [[eun-pond]] | [clm_8719e23e99b8] [clm_668532822df7] | draft (one player only) |
 | Police Stations (5) | [[police-stations]] | [[src-gameshorizon-police-stations-2026-10-21]] [[src-dmzhub-keys-2026-10-31]] | published |

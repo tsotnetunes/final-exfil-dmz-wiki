@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: items"
-description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 4 Nov 2026."
+description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 5 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -176,6 +176,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Key: Re-Education Center Annex | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-gamingpromax-dmz-keys-2026-10-27]] | published |
 | Key: Roze's Highrise Armory | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-10-31]] [[src-gfinity-story-mission-rewards-2026-10-23]] | published |
 | Key: Netshin IT Room | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] | published |
+| Key: Netshin Security Office | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-11-05]] [[src-dmzhub-maps-2026-10-31]] | published (reported) |
 | Key: Executive Arms Auction | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-10-31]] [[src-gamingpromax-dmz-keys-2026-10-27]] | published |
 | Key: Hanex Guard Station | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] | published |
 | Key: Lucera Suite 703 Bedroom | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] | published |

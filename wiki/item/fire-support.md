@@ -5,7 +5,7 @@ description: "The ten DMZ Fire Support items (Killstreaks you carry): UAV, Advan
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-wzstats-dmz-loot-2026-10-30]
+sources: [src-dmzhub-items-2026-11-05, src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-wzstats-dmz-loot-2026-10-30]
 aliases: ["Killstreaks", "killstreak", "UAV", "Advanced UAV", "Care Package", "Combat Drone", "Bombing Run", "Crossfire", "Artillery Beacon", "Impact Warhead", "Bomb Glider", "Railgun Sentry", "airstrike"]
 ---
 <!-- generated:start -->
@@ -36,6 +36,7 @@ Effects: [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-202
 
 - **Killed Operators drop theirs.** Until a fix on 23 Oct 2026, eliminated Operators sometimes dropped extra Killstreaks; the same day a bug carrying Multiplayer Killstreak indicators into DMZ was fixed [[src-mw4-launch-patch-notes-2026-10-29]].
 - **UAV Traits.** The Scout Trait UAV Upgrade gives your UAVs more range and duration and turns them into Advanced UAVs; Thermal Padding hides you from enemy UAVs [[src-activision-dmz-guide-part2-2026-10-09]]. The UAV Towers on the map are a different thing: see [[uav-towers]].
-- **Value.** UAV cards show 1,000 to 2,500 and the Bombing Run 4,500, so spare Fire Support sells well compared with grenades [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] [[src-wzstats-dmz-loot-2026-10-30]].
+- **Value.** UAV cards show 1,000 to 2,500, so spare Fire Support sells well compared with grenades [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] [[src-wzstats-dmz-loot-2026-10-30]]. Sources differ on the Bombing Run: one list gave 4,500 in October, while DMZHub's card has shown about 1,100 since 4 Nov 2026 (reported) [[src-wzstats-dmz-loot-2026-10-30]] [[src-dmzhub-items-2026-11-05]].
+- **Looting a Bombing Run.** Besides printing, it is reported in weapon lockers and crates, weapon backpacks, supply drops, safes, ordinary lockers and some boss drops (reported) [[src-dmzhub-items-2026-11-05]].
 - Multiplayer-only streaks such as the Counter UAV, Wheelson, Gunship and Argonaut do not appear in the DMZ item databases [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]].
 <!-- human:end -->

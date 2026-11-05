@@ -1,11 +1,11 @@
 ---
 type: mechanic
 title: "Keys and locked loot rooms"
-description: "Every known DMZ key (59): what it opens, its grid square, rarity and source. A key is used up when its door opens; keep it in a Secure Slot so a death does not cost it."
+description: "Every known DMZ key (61): what it opens, its grid square, rarity and source. A key is used up when its door opens; keep it in a Secure Slot so a death does not cost it."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_2faa69935f53, clm_615bc6b7091c, clm_2595c71db2ff, src-dmzhub-keys-2026-11-03, src-dmzhub-keys-2026-11-02, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-gamespot-from-the-ward-ep7-2026-10-05, src-dmzhub-keys-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-keys-2026-10-28, src-gamingpromax-dmz-keys-2026-10-27, src-xboxplay-dmz-keys-2026-10-22, src-criticalhits-dmz-keys-2026-10-26, src-dexerto-jang-ui-power-room-2026-10-24, src-gamerfuzion-solo-vault-run-2026-10-25, src-gfinity-story-mission-rewards-2026-10-23, src-codmunity-dmz-traits-2026-10-30]
+sources: [clm_2faa69935f53, clm_615bc6b7091c, clm_2595c71db2ff, src-dmzhub-keys-2026-11-05, src-dmzhub-keys-2026-11-03, src-dmzhub-keys-2026-11-02, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-gamespot-from-the-ward-ep7-2026-10-05, src-dmzhub-keys-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-keys-2026-10-28, src-gamingpromax-dmz-keys-2026-10-27, src-xboxplay-dmz-keys-2026-10-22, src-criticalhits-dmz-keys-2026-10-26, src-dexerto-jang-ui-power-room-2026-10-24, src-gamerfuzion-solo-vault-run-2026-10-25, src-gfinity-story-mission-rewards-2026-10-23, src-codmunity-dmz-traits-2026-10-30]
 aliases: ["key", "keys", "MW4 DMZ keys", "are there keys in DMZ", "DMZ keys list", "locked room", "loot room", "key rooms", "where to find keys", "key locations", "access card", "keycard", "red key", "DRC Locker", "DRC weapon locker key", "Police Station Key", "Police Station Armory", "Gun Store Weapons Locker Key", "Black Market Weapons Locker Key", "Blackmarket Weapons Locker", "Bank Branch Vault Access", "Gas Station Electrical Room", "Fire Station Storage"]
 ---
 <!-- generated:start -->
@@ -21,7 +21,7 @@ _Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Keys open locked loot rooms in Hajin, and each key's description starts with the grid square of its door on the [[tac-map]] [[src-activision-dmz-guide-part1-2026-10-05]]. The key card also shows the key's rarity, a value of 100 DMZ Cash and the name of the place [[src-gamingpromax-dmz-keys-2026-10-27]] [[src-dmzhub-keys-2026-10-31]]. The largest community database lists 54 keys and another 35; adding doors that only guides name, 59 are known [[src-dmzhub-keys-2026-11-03]] [[src-codmunity-dmz-items-2026-10-26]].
+Keys open locked loot rooms in Hajin, and each key's description starts with the grid square of its door on the [[tac-map]] [[src-activision-dmz-guide-part1-2026-10-05]]. The key card also shows the key's rarity, a value of 100 DMZ Cash and the name of the place [[src-gamingpromax-dmz-keys-2026-10-27]] [[src-dmzhub-keys-2026-10-31]]. The largest community database lists 56 keys and another 35; adding doors that only guides name, 61 are known [[src-dmzhub-keys-2026-11-05]] [[src-codmunity-dmz-items-2026-10-26]].
 
 ## How do keys work?
 
@@ -40,7 +40,7 @@ Keys open locked loot rooms in Hajin, and each key's description starts with the
 
 ## Which keys are there?
 
-The full lists, with what each door holds, its grid square and where the key drops, are split by map area: [[keys-west-and-north]] (Cheongun Village and the casino, Imjin Farmland, the prison, Chang-san Air Base, Deadtown) and [[keys-hajin-city-and-east]] (The Grid, NuriGO Mall, Wolves Stadium, Songdo Wharf, Hajin River Heights, Mirae Hospital, Cheonwang Peak, the reactor). By rarity the databases count 4 Uncommon, 20 Rare, 11 Epic, 8 Legendary and 3 Ultra keys [[src-dmzhub-keys-2026-10-31]]. Ultra is the red tier, which is why players speak of red keys [clm_615bc6b7091c].
+The full lists, with what each door holds, its grid square and where the key drops, are split by map area: [[keys-west-and-north]] (Cheongun Village and the casino, Imjin Farmland, the prison, Chang-san Air Base, Deadtown) and [[keys-hajin-city-and-east]] (The Grid, NuriGO Mall, Wolves Stadium, Songdo Wharf, Hajin River Heights, Mirae Hospital, Cheonwang Peak, the reactor). By rarity the largest database counts 7 Uncommon, 26 Rare, 11 Epic, 9 Legendary and 3 Ultra keys [[src-dmzhub-keys-2026-11-05]]. Ultra is the red tier, which is why players speak of red keys [clm_615bc6b7091c].
 
 ## Which keys fit more than one door?
 
