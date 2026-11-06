@@ -1297,3 +1297,7 @@
 ## [2026-11-05 19:52 EST] edit | daily update 2026-11-05: Season 1 patch notes reached the Codex (X01 details, Possum 5 min and 2.5x distance, Supplied Drops 50%, Crossfire, vehicle Weapon XP, about 110 DMZ lines); new FAQ, Battle Tank and Wager Match events, The Captain
 - changed: .kac 1, evals 1, index 11, index.md 1, raw 1, wiki 64
 - run: r-20261105-195229-bbea
+
+## [2026-11-05 21:18 EST] edit | community sweep 2026-11-06: DMZHub revisions: SANG 9mm now a Manual, Mill Explosives Lab key location, Tempered vest value, Gorani teleporting and camps (reported); CODMunity no new members
+- changed: .kac 1, index 5, index.md 1, raw 2, wiki 10
+- run: r-20261105-211837-2c1b

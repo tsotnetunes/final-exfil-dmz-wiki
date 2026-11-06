@@ -5,7 +5,7 @@ description: "Low-threat rice fields in south-southwest Hajin (grid D7) around t
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-dmzhub-keys-2026-10-31, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-allthingshow-key-doors-2026-10-21, src-allthingshow-hajin-gameplay-2026-10-21, src-gamerfuzion-irradiated-container-2026-10-27, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamingpromax-compounds-2026-10-26, src-dmztracker-dynamic-side-ops-2026-10-20, src-allthingshow-dmz-orders-2026-10-31]
+sources: [src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-hajin-map-2026-10-31, src-dmzhub-keys-2026-10-31, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-allthingshow-key-doors-2026-10-21, src-allthingshow-hajin-gameplay-2026-10-21, src-gamerfuzion-irradiated-container-2026-10-27, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamingpromax-compounds-2026-10-26, src-dmztracker-dynamic-side-ops-2026-10-20, src-allthingshow-dmz-orders-2026-10-31, src-dmzhub-items-2026-11-06]
 aliases: ["Rice Mill", "Jeong Loading Dock", "Farmland Exterior", "D7", "Imjin", "Gorani's Scout Overlook", "Hoesik Supply Room", "Mill Explosives Lab", "Imjin Mill Foreman's Office", "Haejeok Radio Station", "Rice Mill Bunker"]
 region: "south-southwest Hajin (former SK)"
 danger: "low (Rice Mill: medium)"
@@ -43,7 +43,7 @@ A fire station, a gas station, Ammo and Armor Caches and two UAV tower spots are
 | Gorani's Scout Overlook | Legendary | Fortified lookout on the mill's roof, reached by climbing, D8 |
 | Hoesik Supply Room | Epic | Supply closet in the southernmost office building of the mill, D8 |
 | Imjin Mill Foreman's Office | Rare | First floor of the mill, D8 |
-| Mill Explosives Lab | Uncommon | The mill's explosives lab |
+| Mill Explosives Lab | Uncommon | The mill's explosives lab, D8; the key itself is reported in a second-floor room you enter from the roof, through the window |
 | Rice Mill Bunker | Its own key | A green metal door with a round handle |
 | Haejeok Radio Station | Rare | Radio room at the northernmost relay station, D6 |
 

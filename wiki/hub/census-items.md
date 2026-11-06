@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: items"
-description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 5 Nov 2026."
+description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 6 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -20,7 +20,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | 3-Plate Ballistic Gel Vest | row in [[armor-vests]] | [[src-dmzhub-items-2026-10-31]] [[src-dmzcodex-armor-backpacks-guide-2026-10-24]] | published |
 | 3-Plate Helmet Armor Vest | row in [[armor-vests]] | [[src-dmzhub-items-2026-10-31]] [[src-dmzcodex-armor-backpacks-guide-2026-10-24]] | published |
 | 3-Plate Armor Vest | [[3-plate-armor-vest]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |
-| Tempered Armor Vest | [[tempered-armor-vest]] | [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] | published |
+| Tempered Armor Vest | [[tempered-armor-vest]] | [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] [[src-dmzhub-items-2026-11-06]] | published |
 | Emergency Egress Keycard | note in [[keys]] | [[src-mw4-season-1-patch-notes-2026-11-05]] | published note (use not stated) |
 | Armor Plate | section in [[armor-vests]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Red Tier 3 Plate Vest (not an item name) | [[red-tier-3-plate-vest]], alias on [[armor-vests]] | [clm_6cdd88af06b9] | retired |
@@ -153,7 +153,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Key: Mechanic's Shack | row in [[keys-west-and-north]] | [[src-gamingpromax-dmz-keys-2026-10-27]] [[src-xboxplay-dmz-keys-2026-10-22]] | published |
 | Key: Imjin Mill Foreman's Office | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] | published |
 | Key: Hoesik Supply Room | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] | published |
-| Key: Mill Explosives Lab | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-dexerto-jang-ui-power-room-2026-10-24]] | published |
+| Key: Mill Explosives Lab | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-dexerto-jang-ui-power-room-2026-10-24]] [[src-dmzhub-items-2026-11-06]] | published |
 | Key: Rice Mill Bunker | row in [[keys-west-and-north]] | [[src-gamingpromax-dmz-keys-2026-10-27]] [[src-xboxplay-dmz-keys-2026-10-22]] | published |
 | Key: Gorani's Scout Overlook | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-activision-dmz-guide-part1-2026-10-05]] | published |
 | Key: Haejeok Radio Station | row in [[keys-west-and-north]] | [[src-dmzhub-keys-2026-10-31]] [[src-criticalhits-dmz-keys-2026-10-26]] | published |

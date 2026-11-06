@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: enemies"
-description: "Every enemies subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 31 Oct 2026."
+description: "Every enemies subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 6 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -17,7 +17,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Bale (Lieutenant) | [[bale]] | [[src-allthingshow-bale-2026-10-21]] [[src-fpsjp-dynamic-ops-trailer-2026-10-07]] [[src-conquestcapped-dmz-bosses-2026-10-28]] | published (file still in the commander folder; the move waits on the Bale proposal) |
 | The Chemist (Lieutenant) | [[the-chemist-abu-nassar]] | [[src-allthingshow-chemist-2026-10-21]] [[src-conquestcapped-dmz-bosses-2026-10-28]] | published (the name Abu Nassar in its title is unconfirmed) |
 | The Doctor (Lieutenant) | [[the-doctor]] | [[src-allthingshow-the-doctor-2026-10-21]] [[src-xboxplay-the-doctor-2026-10-23]] [[src-dexerto-doctors-command-office-key-2026-10-22]] | published |
-| Gorani (Lieutenant) | [[gorani]] | [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-activision-dmz-guide-part1-2026-10-05]] | published |
+| Gorani (Lieutenant) | [[gorani]] | [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-activision-dmz-guide-part1-2026-10-05]] [[src-dmzhub-bosses-2026-11-06]] | published |
 | Iskra (Lieutenant) | [[iskra]] | [[src-allthingshow-hunter-order-2026-10-21]] [[src-conquestcapped-dmz-bosses-2026-10-28]] | published |
 | Jang-ui (Lieutenant) | [[jang-ui]] | [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-dexerto-jang-ui-power-room-2026-10-24]] | published |
 | Jin-Tae (Lieutenant) | [[jin-tae]] | [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-conquestcapped-dmz-bosses-2026-10-28]] | published |

@@ -5,7 +5,7 @@ description: "The Ultra heavy plate carrier with enhanced plates. Print it from 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_bc3d420f777c, clm_7182ba17a6b0, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-gamingpromax-dmz-keys-2026-10-27, src-xboxplay-dmz-keys-2026-10-22, src-criticalhits-dmz-keys-2026-10-26, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_bc3d420f777c, clm_7182ba17a6b0, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-gamingpromax-dmz-keys-2026-10-27, src-xboxplay-dmz-keys-2026-10-22, src-criticalhits-dmz-keys-2026-10-26, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-11-06]
 aliases: ["Tempered vest", "Tempered Armour Vest", "Tempered plate carrier"]
 ---
 <!-- generated:start -->
@@ -20,7 +20,7 @@ _Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-The Tempered Armor Vest is the top plate carrier in DMZ: an Ultra vest built heavy, using enhanced plates [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] [[src-dmzcodex-armor-backpacks-guide-2026-10-24]]. It sits at the top of the eight vests in the Plate Carriers tab [[src-codmunity-dmz-guide-2026-10-24]] [clm_bc3d420f777c], and players have found it in Hajin as loot [clm_7182ba17a6b0]. How many plates it holds and how much tougher its plates are is not confirmed yet.
+The Tempered Armor Vest is the top plate carrier in DMZ: an Ultra vest built heavy, using enhanced plates [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] [[src-dmzcodex-armor-backpacks-guide-2026-10-24]]. It sits at the top of the eight vests in the Plate Carriers tab [[src-codmunity-dmz-guide-2026-10-24]] [clm_bc3d420f777c], and players have found it in Hajin as loot [clm_7182ba17a6b0]. How many plates it holds and how much tougher its plates are is not confirmed yet. One community database values it at 15,000 DMZ Cash (reported) [[src-dmzhub-items-2026-11-06]].
 
 ## How do you get the Tempered Armor Vest?
 

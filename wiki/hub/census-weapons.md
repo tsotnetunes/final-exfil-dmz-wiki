@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: weapons"
-description: "Every weapons subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 31 Oct 2026."
+description: "Every weapons subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 6 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -85,7 +85,7 @@ All are rows in the Manual table of [[weapon-manuals]], listed by a community da
 | Manual: Krait P68, .50 GS | rows in [[weapon-manuals]] | [[src-dmzhub-weapon-manuals-2026-10-31]] | published (reported) |
 | Manual: Mojave .357, Pila, RPG-8 | rows in [[weapon-manuals]] | [[src-dmzhub-weapon-manuals-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Manual: Jokr, PM-40 Anvil | rows in [[weapon-manuals]] | [[src-dmzhub-weapon-manuals-2026-10-31]] | published (reported) |
-| SANG 9mm entry | row in [[weapon-manuals]] | [[src-dmzhub-weapon-manuals-2026-10-31]] | published (unclear whether it is a Manual) |
+| Manual: SANG 9mm | row in [[weapon-manuals]] | [[src-dmzhub-weapon-manuals-2026-10-31]] [[src-dmzhub-items-2026-11-06]] | published (reported; value of 900 unconfirmed) |
 | FSS Carbon Edge 1095 | none | [[src-dmzhub-weapons-2026-10-31]] | no Manual listed |
 
 ## Stations, upgrades and systems
