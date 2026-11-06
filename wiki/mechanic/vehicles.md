@@ -5,7 +5,7 @@ description: "Every DMZ vehicle from the Camper to the Monarch: which ones you d
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9ccc2ae5bb3c, clm_040680c6c92c, clm_72df424759dc, clm_d9b59956c081, clm_f7b668517728, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-vehicles-2026-10-06, src-conquestcapped-dmz-guide-2026-10-26, src-xboxplay-dmz-tank-2026-10-28, src-dtgre-dmz-radar-truck-2026-10-25, src-gamingtrend-dmz-interview-2026-06-06, src-dmzhub-vehicles-2026-10-31, src-allthingshow-dmz-dreadnought-2026-10-21, src-allthingshow-dmz-watch-for-bumps-2026-10-21, src-codmunity-dmz-traits-2026-10-30]
+sources: [clm_9ccc2ae5bb3c, clm_040680c6c92c, clm_72df424759dc, clm_d9b59956c081, clm_f7b668517728, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-hajin-map-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-vehicles-2026-10-06, src-conquestcapped-dmz-guide-2026-10-26, src-xboxplay-dmz-tank-2026-10-28, src-dtgre-dmz-radar-truck-2026-10-25, src-gamingtrend-dmz-interview-2026-06-06, src-dmzhub-vehicles-2026-10-31, src-allthingshow-dmz-dreadnought-2026-10-21, src-allthingshow-dmz-watch-for-bumps-2026-10-21, src-codmunity-dmz-traits-2026-10-30, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["vehicle", "car", "cars", "boat", "boats", "helicopter", "Camper", "Sedan", "Grizzly", "Dreadnought", "Aston Martin Dreadnought", "Polaris Dagor A1", "Polaris DAGOR", "LTV", "Cargo Truck", "D50 Radar Flatbed", "Radar Truck", "Train", "Tram", "RHIB", "Armored Patrol Boat", "Heli", "Little Bird", "Heavy Chopper", "Monarch", "Cargo Plane", "tank", "Gas Station", "Marine Gas Station", "Gas Can", "fuel", "refuel", "AI cars", "vehicle repair parts", "steal a vehicle", "enemy vehicles", "AI behavior in Air Base", "AI driving through doors"]
 ---
 <!-- generated:start -->
@@ -89,4 +89,7 @@ The North Korean side drives road convoys and flies attack helicopter patrols [[
 - 23 Oct 2026: Infinity Ward began investigating enemy AI cars that drive with nobody in them or get stuck, released possible fixes and is watching for more reports [[src-mw4-launch-patch-notes-2026-10-29]].
 - 29 Oct 2026: several vehicles could end up overlapping one another close to Hajin's edge, and enemy helicopters sometimes flew into the exfil helicopter [[src-mw4-launch-patch-notes-2026-10-29]].
 - Players report that a player hit by a car can end up stuck on its bonnet (reported) [clm_9ccc2ae5bb3c].
+## What was fixed in Season 1?
+
+From 6 Nov 2026: trying to get into a vehicle no longer leaves you unable to drive, shoot or sprint; you can take a vehicle after killing its driver; delayed controls and missing sounds are gone; RHIBs stop spawning on top of each other along the shore; and tanks stop bouncing over Razor Wire [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

@@ -5,7 +5,7 @@ description: "The DMZ Tac-Map: objectives, POIs, threat areas, services and spre
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_1388e898e92b, clm_e39fdc756114, clm_07db6f377151, clm_6212bbf73d62, clm_8c22c84b9742, clm_0807c36db5a4, src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-gameshorizon-police-stations-2026-10-21, src-gfinity-exfil-2026-10-20, src-techwiser-silo-bunkers-2026-10-27, src-codmunity-hajin-map-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_1388e898e92b, clm_e39fdc756114, clm_07db6f377151, clm_6212bbf73d62, clm_8c22c84b9742, clm_0807c36db5a4, src-dmzhub-maps-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-keys-2026-10-31, src-allthingshow-key-doors-2026-10-21, src-gameshorizon-police-stations-2026-10-21, src-gfinity-exfil-2026-10-20, src-techwiser-silo-bunkers-2026-10-27, src-codmunity-hajin-map-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["map", "Tac Map", "tacmap", "grid", "coordinates", "grid square", "HUD", "minimap"]
 ---
 <!-- generated:start -->
@@ -41,4 +41,5 @@ Time Remaining; Objectives (Story Missions, Dynamic Ops and Side Ops on the left
 ## Known map bugs
 
 Fixed on 25 Oct 2026: a Sedan was sometimes absent from the spot the Tac-Map marked for it, and the Last Stand icon was oversized on the minimap [[src-mw4-launch-patch-notes-2026-10-29]].
+Since 6 Nov 2026 pinned locations no longer slip behind the map's edges, and the Killfeed now reports downed players [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

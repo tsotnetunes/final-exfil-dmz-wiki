@@ -5,7 +5,7 @@ description: "Downed, you can be revived or use a tourniquet; killed, your Opera
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-allthingshow-dmz-death-rules-2026-10-21, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-guide-2026-10-26, src-westie-dmz-ama-recap-2026-10-11, src-gamingtrend-dmz-interview-2026-06-06, src-cod-dmz-bounty-systems-video-2026-10-08, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-allthingshow-dmz-death-rules-2026-10-21, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-guide-2026-10-26, src-westie-dmz-ama-recap-2026-10-11, src-gamingtrend-dmz-interview-2026-06-06, src-cod-dmz-bounty-systems-video-2026-10-08, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["what happens when you die", "dying", "death", "death penalty", "die", "Last Stand", "downed", "give up", "giving up", "Audio cue for giving up", "bleed out", "lose gear", "lost loadout", "eliminated", "body", "loot bag"]
 ---
 <!-- generated:start -->
@@ -22,7 +22,7 @@ When you are killed in DMZ your Operator goes MIA and the gear you took in stays
 - Last Stand has a bleed-out timer, which the Die Hard Trait removes [[src-activision-dmz-guide-part2-2026-10-09]].
 - Enemies can stop you getting up: before launch the developers said a melee hit interrupts a tourniquet or self-revive, and that a downed player can be dragged away from their squad [[src-gamingtrend-dmz-interview-2026-06-06]].
 - Players report a distinct sound when a downed player gives up (reported) [clm_05f439dded08].
-- The [[possum]] Trait brings you back into Last Stand once per match after you are killed; since 28 Oct 2026 it stays locked while your killers' squad is close by, or until 4 minutes pass [[src-mw4-launch-patch-notes-2026-10-29]].
+- The [[possum]] Trait brings you back into Last Stand once per match after you are killed; from 6 Nov 2026 it stays locked while your killers' squad is within 2.5 times the old distance, or until 5 minutes pass [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What do you lose and what do you keep?
 

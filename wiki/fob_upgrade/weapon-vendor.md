@@ -1,11 +1,11 @@
 ---
 type: fob_upgrade
 title: "Weapon Vendor"
-description: "The FOB Vendor opens at DMZ level 5 (not 10) and sells weapons and gear for DMZ Cash from a stock that changes daily; two printed upgrades add offers. Its guns are lost on death."
+description: "The FOB Vendor opens at DMZ level 5 and sells weapons and gear for DMZ Cash from a stock that changes daily; printed upgrades and Season 1 BlackCell add offers. Its guns are lost on death."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_2388562c52bf, clm_13dd447ee402, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-activision-season-1-announcement-2026-10-28, src-codmunity-dmz-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-dmztracker-gunsmith-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-dmzhub-upgrades-2026-10-31, src-dmzhub-weapons-2026-10-31]
+sources: [clm_2388562c52bf, clm_13dd447ee402, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-activision-season-1-announcement-2026-10-28, src-codmunity-dmz-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-dmztracker-gunsmith-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-dmzhub-upgrades-2026-10-31, src-dmzhub-weapons-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05]
 station: weapon-vendor
 unlock: "DMZ level 5"
 aliases: ["Vendor", "FOB Vendor", "DMZ vendor", "Vendor Item Upgrade", "vendor reset", "vendor stock"]
@@ -41,7 +41,7 @@ Better gear appears as your DMZ level rises, and Vendor upgrades printed at the 
 | Vendor Item Upgrade I | more items for sale | 20 Electronic Sensors, 10 CPU, 10 Printed Circuit Board, 2 Prototype RF Module |
 | Vendor Item Upgrade II | more items for sale | 20 Control Unit, 10 High-Tenacity Fibers, 10 Nylon Cloth, 2 Nano-Structured Alloy |
 
-No DMZ Cash cost is listed for either. From Season 1 (6 Nov 2026), owners of the Season 1 BlackCell pass get extra weapons and gear at the Vendor, still paid in DMZ Cash [[src-activision-season-1-announcement-2026-10-28]].
+No DMZ Cash cost is listed for either. From Season 1 (6 Nov 2026), owners of the Season 1 BlackCell pass get extra weapons and gear at the Vendor, still paid in DMZ Cash [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]]. The same notes say all FOB vendors were refreshed to match the current items and crafting rules, with no list of what moved [[src-mw4-season-1-patch-notes-2026-11-05]]. One player reports the BlackCell extra as bonus Vendor slots (reported) [clm_578dba5bae96].
 
 ## What else should you know?
 

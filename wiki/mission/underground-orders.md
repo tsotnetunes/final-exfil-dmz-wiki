@@ -5,7 +5,7 @@ description: "The Underground chapter of DMZ Orders: Eye in the Sky, Watch for B
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-codcentral-dmz-orders-2026-10-21, src-game8-dmz-orders-2026-10-31, src-dmzmap-dmz-orders-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-gamerfuzion-dmz-orders-guides-2026-10-21, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-dtgre-dmz-ops-guides-2026-10-21, src-dmzhub-orders-2026-10-31, src-codmunity-dmz-missions-2026-10-31, src-gamerfuzion-underground-orders-2026-10-23, src-allthingshow-dmz-watch-for-bumps-2026-10-21]
+sources: [src-codcentral-dmz-orders-2026-10-21, src-game8-dmz-orders-2026-10-31, src-dmzmap-dmz-orders-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-gamerfuzion-dmz-orders-guides-2026-10-21, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-dtgre-dmz-ops-guides-2026-10-21, src-dmzhub-orders-2026-10-31, src-codmunity-dmz-missions-2026-10-31, src-gamerfuzion-underground-orders-2026-10-23, src-allthingshow-dmz-watch-for-bumps-2026-10-21, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Underground", "Underground 1/2", "Underground 2/2", "CH. Underground", "Eye in the Sky", "Watch for Bumps", "Joyride", "Triangulation", "La Grande Vie", "Dead Battery", "Death From Above", "Drone Motherboard"]
 mission_kind: order
 steps: "2 pages, 6 Orders"
@@ -24,7 +24,7 @@ Underground is one of the three chapters of [[dmz-orders]] you choose after page
 | 1/2 | Eye in the Sky | Take over a SAM Site ([[capture-sam-site]]), let it shoot down a cargo helicopter, then open the crate from the wreck. |
 | 1/2 | Watch for Bumps | Take a vehicle from the enemy, fix and fuel it at a Gas Station, then drive over seven enemies ([[vehicles]]). |
 | 1/2 | Triangulation | Put transmitters on top of two radio towers, then on the roof of the La Grande Vie building at [[songdo-wharf]]. |
-| 2/2 | Dead Battery | Print the DDOS field upgrade, then use it to disable three drones or enemy vehicles. |
+| 2/2 | Dead Battery | Print the DDOS field upgrade, then use it to disable three drones or enemy vehicles. Robot dogs knocked out by a DDOS count since 6 Nov 2026 [[src-mw4-season-1-patch-notes-2026-11-05]]. |
 | 2/2 | Death From Above | Distract a drone using a Decoy Grenade, shoot down three drones and take a Drone Motherboard from the wreckage. |
 | 2/2 | Operation Shopping Hacks | Finish that Story Mission. |
 

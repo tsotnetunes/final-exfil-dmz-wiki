@@ -5,7 +5,7 @@ description: "Max health is 150. The tourniquet gets you up from Last Stand at 1
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_3fc45e2c36d0, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-launch-weapons-2026-10-19, src-dmzhub-items-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, src-dmzmap-skill-tree-2026-10-29, src-gamerfuzion-dmz-best-traits-2026-10-23, src-playhub-best-traits-2026-10-28]
+sources: [clm_3fc45e2c36d0, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-launch-weapons-2026-10-19, src-dmzhub-items-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, src-dmzmap-skill-tree-2026-10-29, src-gamerfuzion-dmz-best-traits-2026-10-23, src-playhub-best-traits-2026-10-28, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Healing", "Wounds", "Health", "Medkit", "Bandage", "Self-revive kit", "wound", "how to heal", "max health", "Last Stand"]
 ---
 <!-- generated:start -->
@@ -33,7 +33,7 @@ Yes. The Quick Fix Trait shortens the delay before regeneration starts after a k
 
 ## Which Traits change healing?
 
-From the Survivalist tree: Free Revive repairs your first Wound automatically; Faster Revive is in the same tree; Numb the Pain gives revived players the effects of Painkillers and Smelling Salts; Consumable Duration makes consumables last longer; Die Hard removes the Last Stand bleed-out timer and calls an exfil automatically if you crawl into one [[src-activision-dmz-guide-part2-2026-10-09]]. From the Warfighter tree, Possum revives you into Last Stand once per match [[src-activision-dmz-guide-part2-2026-10-09]]; since 28 Oct 2026 it cannot fire while the squad that killed you is nearby, or before four minutes have passed [[src-mw4-launch-patch-notes-2026-10-29]] ([[possum]]).
+From the Survivalist tree: Free Revive repairs your first Wound automatically; Faster Revive is in the same tree; Numb the Pain gives revived players the effects of Painkillers and Smelling Salts; Consumable Duration makes consumables last longer; Die Hard removes the Last Stand bleed-out timer and calls an exfil automatically if you crawl into one [[src-activision-dmz-guide-part2-2026-10-09]]. From the Warfighter tree, Possum revives you into Last Stand once per match [[src-activision-dmz-guide-part2-2026-10-09]]; from 6 Nov 2026 it cannot fire while the squad that killed you is within 2.5 times the old distance, until a 5-minute failsafe runs out [[src-mw4-season-1-patch-notes-2026-11-05]] ([[possum]]).
 
 Two more change the tourniquet itself. Free Revive Pro, a permanent Trait from Operator Prestige, lets you use the tourniquet while you are Wounded [[src-dmzmap-skill-tree-2026-10-29]] [[src-gamerfuzion-dmz-best-traits-2026-10-23]], and the Minor Trait Metabolism slowly gives back the health the tourniquet costs [[src-playhub-best-traits-2026-10-28]] [[src-dmzmap-skill-tree-2026-10-29]]. Possum Pro also skips the tourniquet health penalty on its revive [[src-dmzmap-skill-tree-2026-10-29]]. See [[tourniquet]] and [[pro-traits]].
 

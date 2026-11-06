@@ -5,7 +5,7 @@ description: "Every Apex Attachment: 28 at launch, one per weapon except launche
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmzradar-gunsmith-2026-10-20, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-gamerfuzion-dmz-free-blueprints-2026-10-21]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmzradar-gunsmith-2026-10-20, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-gamerfuzion-dmz-free-blueprints-2026-10-21, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Apex", "Apex slot", "Apex list", "all Apex Attachments", "Han X20 Skybreaker", "M4 Hurricane", "Hyeon Hyperburst", "Hyperburst", "Patriot XMR Volt", "Kastov ARC", "Oden Sentinel", "Axion Clearcut", "Axion Reaver", "Cronen Maelstrom", "ISO Trace", "VEL 46 Snap", "Striga Rampage", "PPSh-41 Ember", "X-58 Void", "Rezi 12 Enforcer", "Warlord Lumen", "FiNN Adverse", "Type 73 Assault", "APOC-338 Praetor", "MAR-9 Auto", "Oris 8.6 Razor", "Mosin Harpoon", "KG-7 Drillcharge", "Astaroth .57 Infiltrator", "Signal Inferno", "SANG Breach", "Krait P68 Commando", "GS Magna", "Mojave Lawless", "Cronen Helix Mk. II", "CSG Crossfire", "JAK Barrage", "Hyeon Auto", "Kastov 545"]
 ---
 <!-- generated:start -->
@@ -45,9 +45,9 @@ Launch list from the official guide, effects in our words [[src-activision-mw4-l
 | VEL 46 Snap | [[vel-46]] | tactical sling: faster swaps, Quick Draw with Overkill | Stock |
 | WZ.55 Striga Rampage | [[wz-55-striga]] | akimbo pair | Optic, Stock, Underbarrel |
 | PPSh-41 Ember | [[ppsh-41]] | underbarrel incendiary launcher | Barrel, Underbarrel, Magazine |
-| X-58 Void | [[x-58-nyx]] | subsonic setup: very quiet shots, hidden hits | Barrel, Ammunition |
+| X-58 Void | [[x-58-nyx]] | subsonic setup: very quiet shots, hidden hits; since 6 Nov 2026 it no longer overdamages AI in DMZ [[src-mw4-season-1-patch-notes-2026-11-05]] | Barrel, Ammunition |
 | Rezi 12 Enforcer | [[rezi-12]] | pump-action cycling and a side saddle of explosive slugs | none listed |
-| Warlord Lumen | [[warlord]] | blinding strobe when you aim, then a recharge | Optic, Laser |
+| Warlord Lumen | [[warlord]] | blinding strobe when you aim, then a recharge; works reliably on AI since 6 Nov 2026 [[src-mw4-season-1-patch-notes-2026-11-05]] | Optic, Laser |
 | FiNN Adverse | [[finn-lmg]] | uncapped fire rate that can overheat | none listed |
 | Type 73 Assault | [[type-73]] | top-mounted magazine of explosive rounds | Magazine, Ammunition |
 | APOC-338 Praetor | [[apoc-338]] | ten-round belt, semi-auto only | Magazine |
@@ -59,7 +59,7 @@ Launch list from the official guide, effects in our words [[src-activision-mw4-l
 | Signal Inferno | Signal 50 | incendiary rounds, extra damage to vehicles and Killstreaks | Ammunition |
 | SANG Breach | SANG 9mm | one-shell 12-gauge underbarrel shotgun | Laser |
 | Krait P68 Commando | Krait P68 | icepick-grip knife: more melee damage and lunge range | none listed |
-| GS Magna | .50 GS | fast fully automatic fire, not built for accuracy | Trigger Action |
+| GS Magna | .50 GS | fast fully automatic fire, not built for accuracy; a Backpack bug that could lose the Apex pistol on deploy is fixed since 6 Nov 2026 [[src-mw4-season-1-patch-notes-2026-11-05]] | Trigger Action |
 | Mojave Lawless | Mojave .357 | hip-fire hammer fanning | Trigger Action |
 
 One guide says the game names the Axion's Apex Axion Reaver (reported) [[src-conquestcapped-mw4-weapons-2026-10-26]].

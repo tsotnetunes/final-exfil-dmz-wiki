@@ -5,7 +5,7 @@ description: "The last way out of a deployment: after the 30-minute radiation ti
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_0b63df977b11, src-dmzhub-maps-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-gamerfuzion-orders-page-14-2026-10-30, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-hajin-gameplay-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23]
+sources: [clm_0b63df977b11, src-dmzhub-maps-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-gamerfuzion-orders-page-14-2026-10-30, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-hajin-gameplay-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["last exfil", "final extraction", "white exfil", "exfil after radiation"]
 method: helicopter
 ---
@@ -36,5 +36,5 @@ Yes. Final Intel, a Minor Trait that can appear in the Warfighter and Survivalis
 
 ## What are the risks?
 
-Every squad still alive heads for the same spot, and players describe the final exfil as a place where squads hunt each other [clm_233daf06dc99]. Arrive early, hold cover and wear a gas mask in case the radiation edge reaches you. Some DMZ Orders ask you to exfil after the radiation has started, and one, Astronaut, to leave on the white final exfil helicopter three times ([[dmz-orders]]) [[src-gamerfuzion-orders-page-14-2026-10-30]] [[src-dmzhub-maps-2026-10-31]]. More: [[exfil]], [[radiation-storm]].
+Every squad still alive heads for the same spot, and players describe the final exfil as a place where squads hunt each other [clm_233daf06dc99]. Arrive early, hold cover and wear a gas mask in case the radiation edge reaches you. Some DMZ Orders ask you to exfil after the radiation has started, and one, Astronaut, to leave on the white final exfil helicopter three times ([[dmz-orders]]) [[src-gamerfuzion-orders-page-14-2026-10-30]] [[src-dmzhub-maps-2026-10-31]]. From Season 1 (6 Nov 2026) the final exfil aircraft no longer fails to show up, a fault Infinity Ward lists as fixed [[src-mw4-season-1-patch-notes-2026-11-05]]. More: [[exfil]], [[radiation-storm]].
 <!-- human:end -->

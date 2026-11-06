@@ -5,7 +5,7 @@ description: "What is not known yet about DMZ: wipes and the Season 1 level rese
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16, src-activision-season-1-announcement-2026-10-28, src-gamerfuzion-dmz-things-to-know-2026-10-03, src-dmztracker-level-up-fast-2026-10-22, src-detonated-dmz-story-matchmaking-2026-10-29, src-codmunity-dmz-progression-2026-10-19, src-dmztracker-fulton-drop-marker-2026-10-15, src-dmzhub-upgrades-2026-10-31, src-nintendolife-df-switch-2-2026-10-30, src-dexerto-mw4-crossplay-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-bosses-2026-10-31, clm_2738483c8aa0, clm_06c3db0d22f9, src-activision-warzone-season-1-blog-2026-11-02]
+sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16, src-activision-season-1-announcement-2026-10-28, src-gamerfuzion-dmz-things-to-know-2026-10-03, src-dmztracker-level-up-fast-2026-10-22, src-detonated-dmz-story-matchmaking-2026-10-29, src-codmunity-dmz-progression-2026-10-19, src-dmztracker-fulton-drop-marker-2026-10-15, src-dmzhub-upgrades-2026-10-31, src-nintendolife-df-switch-2-2026-10-30, src-dexerto-mw4-crossplay-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-bosses-2026-10-31, clm_2738483c8aa0, clm_06c3db0d22f9, src-activision-warzone-season-1-blog-2026-11-02, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["unknowns", "what we don't know about DMZ", "unanswered DMZ questions"]
 stale_after: 2026-11-13
 ---
@@ -14,10 +14,10 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-What the Codex cannot answer yet, as of 4 Nov 2026. When one of these is settled, the answer goes on its page and the line leaves this list.
+What the Codex cannot answer yet, as of 5 Nov 2026. When one of these is settled, the answer goes on its page and the line leaves this list.
 
 ## Progress and persistence
-- **The Season 1 level reset.** Player Level resets on 6 Nov across modes, but Activision has not said whether the 1 to 70 DMZ level or its unlocks move [[src-activision-warzone-season-1-blog-2026-11-02]]. See [[does-your-level-reset-in-season-1]].
+- **The Season 1 level reset.** Player Level resets on 6 Nov across modes, and neither the post nor the Season 1 patch notes say the 1 to 70 DMZ level or its unlocks move [[src-activision-warzone-season-1-blog-2026-11-02]] [[src-mw4-season-1-patch-notes-2026-11-05]]. See [[does-your-level-reset-in-season-1]].
 - **Wipe policy.** No wipe is announced, and neither Season 1 post mentions a reset of Stash, Operators or FOB [[src-activision-season-1-announcement-2026-10-28]] [[src-activision-warzone-season-1-blog-2026-11-02]]; the pre-launch "no hard wipes, retire Operators instead" line was never confirmed in writing [[src-gamerfuzion-dmz-things-to-know-2026-10-03]]. A Japanese report says the [[boss-board]] is filled again each season [[src-fpsjp-dynamic-ops-trailer-2026-10-07]]. See [[does-dmz-wipe]].
 - **Double XP and Dog Tags.** Being checked: whether a Rank 2XP token speeds up an Operator's Dog Tag, and whether XP from a failed exfil moves it at all [[src-activision-dmz-guide-part2-2026-10-09]] [[src-dmztracker-level-up-fast-2026-10-22]]. See [[does-double-xp-work-on-operator-dog-tags]].
 - **Active Duty slots.** The level of the third slot is only reported (15) [[src-codmunity-dmz-progression-2026-10-19]]; whether a fourth slot exists is not confirmed. See [[how-to-get-more-active-duty-slots]].
@@ -39,7 +39,7 @@ What the Codex cannot answer yet, as of 4 Nov 2026. When one of these is settled
 
 ## Season 1 and beyond
 - **UAV Tower count.** Towers are 40% rarer since 2 Nov 2026, but no new total is published [[src-mw4-launch-patch-notes-2026-10-29]]; see [[uav-towers]]. **X01 entrance:** the elevator is reported by one outlet only ([[x01]]).
-- **Season 1 gaps.** X01's new enemy types, the 3D Printer upgrade, further BlackCell benefits for DMZ, the start dates of the Threat Briefings and the mid-season dates are all kept back [[src-activision-season-1-announcement-2026-10-28]]. See [[season-1]].
+- **Season 1 gaps.** X01's enemy types and items, what its 3D Printer makes, the new FOB recipes, the official list of BlackCell benefits for DMZ, the dates of The Captain's Threat Briefing and Wager Match, and the mid-season dates are all kept back [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]]. See [[season-1]].
 - **Map area.** Developers say Hajin becomes the largest Call of Duty map when its Russian area opens in Season 2 [[src-westie-dmz-ama-recap-2026-10-11]]; no area figure yet.
 - **Long-term support.** Developers plan to support and evolve DMZ without commitments beyond the early seasons [[src-westie-dmz-ama-recap-2026-10-11]]. See [[what-post-launch-support-is-planned-for-dmz]].
 

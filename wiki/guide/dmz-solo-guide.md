@@ -5,7 +5,7 @@ description: "How to play MW4 DMZ alone: switch Squad Fill off, expect other sol
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-destructoid-dmz-interview-2026-06-06, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-solo-2026-10-26, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-missions-2026-10-31]
+sources: [src-destructoid-dmz-interview-2026-06-06, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-solo-2026-10-26, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-missions-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["DMZ solo guide", "solo DMZ tips", "how to play DMZ solo", "DMZ alone", "solo player DMZ", "best traits for solo DMZ"]
 ---
 <!-- generated:start -->
@@ -22,7 +22,7 @@ Switch Squad Fill off at Ready Up, with 1 on keyboard or the left trigger on con
 The stealth meter goes from white to yellow to orange as AI notice you, and the developers built it with solos in mind [[src-activision-dmz-deep-dive-2026-06]] [[src-westie-dmz-ama-recap-2026-10-11]]. Noise raises an area's Threat Level and stealth calms it [[src-activision-dmz-guide-part1-2026-10-05]]. Avoid the Critical and Extreme areas early, such as The Grid, the Chang-san bunker and The Citadel [[src-activision-dmz-guide-part1-2026-10-05]] [[src-conquestcapped-dmz-solo-2026-10-26]], and do not kill every AI: a full Hostiles Kill Count sends a Hunt Squad [[src-activision-dmz-guide-part1-2026-10-05]].
 
 ## Plan for going down
-The tourniquet gets you up from Last Stand without help, then works again only once you are back at full health [[src-westie-dmz-ama-recap-2026-10-11]]. Carry a Self-Revive kit in its loadout slot [[src-activision-dmz-guide-part2-2026-10-09]]. Possum still revives you once a match, but since 28 Oct 2026 not while your killers are nearby or before four minutes have passed [[src-mw4-launch-patch-notes-2026-10-29]]. More: [[can-you-revive-yourself-in-dmz]].
+The tourniquet gets you up from Last Stand without help, then works again only once you are back at full health [[src-westie-dmz-ama-recap-2026-10-11]]. Carry a Self-Revive kit in its loadout slot [[src-activision-dmz-guide-part2-2026-10-09]]. Possum still revives you once a match, but from 6 Nov 2026 your killers must be 2.5 times farther away than before, or 5 minutes must pass [[src-mw4-season-1-patch-notes-2026-11-05]]. More: [[can-you-revive-yourself-in-dmz]].
 
 ## Traits that suit a solo
 | Trait | Tree | Why it helps alone |

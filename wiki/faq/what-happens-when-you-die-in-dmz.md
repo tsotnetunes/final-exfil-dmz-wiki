@@ -5,7 +5,7 @@ description: "You lose what you carried except Secure Slot items, your Operator 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-westie-dmz-ama-recap-2026-10-11, src-mw4-launch-patch-notes-2026-10-29, src-cod-dmz-bounty-systems-video-2026-10-08]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-westie-dmz-ama-recap-2026-10-11, src-mw4-launch-patch-notes-2026-10-29, src-cod-dmz-bounty-systems-video-2026-10-08, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["dying in DMZ", "what do you lose when you die DMZ", "DMZ death penalty", "lose gear DMZ", "what happens if you die in DMZ", "do you lose everything when you die DMZ"]
 ---
 <!-- generated:start -->
@@ -16,7 +16,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 If you are eliminated and nobody revives you, you lose the gear and loot you carried except what sits in Secure Slots, and your Operator goes MIA [[src-activision-dmz-guide-part2-2026-10-09]] [clm_b83a508a7fac]. The XP you earned still counts: dying or failing to exfil costs no XP [[src-activision-dmz-deep-dive-2026-06]] [[src-activision-dmz-guide-part2-2026-10-09]] [clm_43eb9661dfec].
 
 ## Can you get back up first?
-Often. When downed you go into Last Stand. Every Operator can use the tourniquet to get up at 100 health with a wound, it works again only once you are back at full health, a squadmate can revive you, and Self-Revive kits can be looted or printed (developers' Q&A, as relayed) [[src-westie-dmz-ama-recap-2026-10-11]]. The Possum Trait brings you back once per match, but since 28 Oct 2026 not while the squad that killed you is nearby or before four minutes have passed [[src-activision-dmz-guide-part2-2026-10-09]] [[src-mw4-launch-patch-notes-2026-10-29]]. See [[health-and-healing]].
+Often. When downed you go into Last Stand. Every Operator can use the tourniquet to get up at 100 health with a wound, it works again only once you are back at full health, a squadmate can revive you, and Self-Revive kits can be looted or printed (developers' Q&A, as relayed) [[src-westie-dmz-ama-recap-2026-10-11]]. The Possum Trait brings you back once per match, but from 6 Nov 2026 not while the squad that killed you is within 2.5 times the old distance, until a 5-minute failsafe runs out [[src-activision-dmz-guide-part2-2026-10-09]] [[src-mw4-season-1-patch-notes-2026-11-05]]. See [[health-and-healing]].
 
 ## What exactly do you lose?
 - Your loadout and backpack contents, apart from Secure Slots [[src-activision-dmz-guide-part2-2026-10-09]].

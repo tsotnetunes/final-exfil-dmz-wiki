@@ -21,6 +21,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | 3-Plate Helmet Armor Vest | row in [[armor-vests]] | [[src-dmzhub-items-2026-10-31]] [[src-dmzcodex-armor-backpacks-guide-2026-10-24]] | published |
 | 3-Plate Armor Vest | [[3-plate-armor-vest]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |
 | Tempered Armor Vest | [[tempered-armor-vest]] | [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] | published |
+| Emergency Egress Keycard | note in [[keys]] | [[src-mw4-season-1-patch-notes-2026-11-05]] | published note (use not stated) |
 | Armor Plate | section in [[armor-vests]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Red Tier 3 Plate Vest (not an item name) | [[red-tier-3-plate-vest]], alias on [[armor-vests]] | [clm_6cdd88af06b9] | retired |
 | Basic Pack | row in [[backpacks]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-dmzradar-backpacks-2026-10-20]] | published |

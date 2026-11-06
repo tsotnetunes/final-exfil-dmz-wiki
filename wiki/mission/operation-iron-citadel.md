@@ -5,7 +5,7 @@ description: "Critical-threat Story Mission at Chang-san Air Base, run by Bale: 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_7305266685a7, src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_7305266685a7, src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Iron Citadel", "Iron Citadel Story Mission", "air base mission", "Chang-san Air Base mission", "armory code", "Airbase Access Card", "Air Base Armory Card", "Armory Manifest"]
 mission_kind: story
 steps: "14 HUD steps"
@@ -41,5 +41,5 @@ The card lists 25,000 DMZ Cash, the Supreme Leader's Bunker Access Card and the 
 
 ## Known bugs and fixes
 
-On 28 Oct 2026 Infinity Ward fixed the Airbase Access Card not upgrading during a Story Mission when it was kept in the Secure Slot [[src-mw4-launch-patch-notes-2026-10-29]].
+On 28 Oct 2026 Infinity Ward fixed the Airbase Access Card not upgrading during a Story Mission when it was kept in the Secure Slot [[src-mw4-launch-patch-notes-2026-10-29]]. From 6 Nov 2026 the Chang-san Air Base mission stops showing as unfinished on the Story Mission map after you complete it, the mission screen recommends the intended 3-Plate Armor Vest, and the dead Door Breacher prompt on the bunker's double doors is gone [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

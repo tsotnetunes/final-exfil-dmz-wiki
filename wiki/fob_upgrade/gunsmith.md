@@ -5,7 +5,7 @@ description: "Opens at DMZ level 10: buy guns whose Manual you extracted, then s
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_7bd9889680ab, clm_6ecd75a4da6f, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmzradar-gunsmith-2026-10-20, src-dmzcodex-gunsmith-2026-10-29, src-dmztracker-gunsmith-2026-10-29, src-codmunity-dmz-progression-2026-10-19, src-gamerfuzion-dmz-prices-2026-10-08, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-upgrades-2026-10-31, src-dmzhub-orders-2026-10-31]
+sources: [clm_7bd9889680ab, clm_6ecd75a4da6f, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-playstation-blog-dmz-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmzradar-gunsmith-2026-10-20, src-dmzcodex-gunsmith-2026-10-29, src-dmztracker-gunsmith-2026-10-29, src-codmunity-dmz-progression-2026-10-19, src-gamerfuzion-dmz-prices-2026-10-08, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-upgrades-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Gunny", "weapon bench", "Gunsmith discount", "Gunsmith Upgrade", "Gunsmith Upgrade I", "Gunsmith Upgrade II", "attachment slot cost", "Buy New Weapon"]
 station: gunsmith
 unlock: "DMZ level 10"
@@ -66,4 +66,5 @@ From the official notes [[src-mw4-launch-patch-notes-2026-10-29]]:
 ## What else is at the bench?
 
 Gunny suggests a close-range, balanced or long-range build from the parts you own [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzradar-gunsmith-2026-10-20]]. You can also prestige a fully levelled weapon here, which relocks its attachments for exclusive camos [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzradar-gunsmith-2026-10-20]]. Several DMZ Orders send you here: fit a suppressor (page 4), buy a gun and build one with three or more attachments (page 11), and build a sniper rifle with five or more (page 24) (reported) [[src-dmzhub-orders-2026-10-31]] ([[dmz-orders]]). How attachments, rarity and builds work: [[weapon-customization]].
+Since 6 Nov 2026 you can no longer try to re-equip attachments you have lost in the DMZ Gunsmith, reticles preview correctly, and a warning appears when a Receiver change may alter a gun [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

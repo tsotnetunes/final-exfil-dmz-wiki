@@ -1,11 +1,11 @@
 ---
 type: commander
 title: "Main NK Battle Tank"
-description: "Roaming Commander: a North Korean battle tank on the roads of Hajin. Bullets do nothing; drop its armour with a DDOS and use rockets. Loot its front, back and top; pays $50,000."
+description: "Roaming Commander: a North Korean battle tank on Hajin's roads. Bullets do nothing; use a DDOS, rockets and, since Season 1, a stronger Crossfire. Loot front, back and top; pays $50,000."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-season-1-announcement-2026-10-28, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-items-2026-10-31, src-xboxplay-dmz-tank-2026-10-28]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-season-1-announcement-2026-10-28, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-items-2026-10-31, src-xboxplay-dmz-tank-2026-10-28, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Tank", "Battle Tank", "NK tank", "North Korean tank", "Commander Tank", "NK Battle Tank", "tank boss", "Tank Looting", "tank loot", "battle tank loot", "Main NK Battle Tank loot", "loot from tanks", "what does the tank drop"]
 ---
 <!-- generated:start -->
@@ -32,7 +32,11 @@ Once it is destroyed, loot three spots: the front, the back and the top [[src-al
 
 ## What is the Battle Tank Threat Briefing?
 
-An event in Season 1's first part (the season starts on 6 Nov 2026; no event dates yet): take one tank part per deployment, and the more parts you collect over several deployments, the better the reward. When one squad member exfils with a part, the whole squad gets credit [[src-activision-season-1-announcement-2026-10-28]].
+A Season 1 event: destroy the tank, loot its armor fragments and exfil with them for rewards. Details: [[threat-briefing-battle-tank]] [[src-mw4-season-1-patch-notes-2026-11-05]].
+
+## What changed in Season 1?
+
+From 6 Nov 2026 the Crossfire Killstreak hits vehicles harder, tanks most of all, and tanks stop bouncing into the air when they drive over Razor Wire [[src-mw4-season-1-patch-notes-2026-11-05]] ([[fire-support]]).
 
 The other Commanders are on [[commander-threats]].
 <!-- human:end -->

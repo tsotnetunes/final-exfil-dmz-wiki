@@ -5,7 +5,7 @@ description: "An Operator killed in Hajin goes MIA: pay DMZ Cash at the Operator
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_15b35293c60f, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-xbox-wire-dmz-operator-guide-2026-10-20, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-upgrades-2026-10-31, src-destructoid-possum-debate-2026-10-24]
+sources: [clm_15b35293c60f, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-xbox-wire-dmz-operator-guide-2026-10-20, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-upgrades-2026-10-31, src-destructoid-possum-debate-2026-10-24, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["MIA", "rescue team", "missing in action", "lost operator", "operator does not exfil", "died without exfil", "Rescue", "rescue an operator", "recover an Operator", "MIA recovery cost", "Operator Rescue Beacon", "recovery slots", "get an Operator back"]
 ---
 <!-- generated:start -->
@@ -33,7 +33,7 @@ The price rises with the Operator's Trait Points [[src-activision-dmz-guide-part
 
 - The Vault Edition's Deployment Kit holds two Operator Rescue Beacons and two Weapon Insurance Contracts [[src-activision-dmz-guide-part2-2026-10-09]]; Activision has not explained them; their tooltips, as reported, are on [[what-do-rescue-beacons-and-weapon-insurance-do]].
 - The round recovery slots beside the Ready button each protect one Operator or a set of weapons for a single deployment, and are used up even when you extract (reported) [[src-codmunity-dmz-guide-2026-10-24]].
-- The Warfighter Trait [[possum]] revives you from death into Last Stand once per match, and before 28 Oct 2026 some players used it to dodge the rescue fee [[src-destructoid-possum-debate-2026-10-24]]. Since the change of 28 Oct it cannot fire while the squad that killed you is nearby, or before four minutes have passed [[src-mw4-launch-patch-notes-2026-10-29]].
+- The Warfighter Trait [[possum]] revives you from death into Last Stand once per match, and before 28 Oct 2026 some players used it to dodge the rescue fee [[src-destructoid-possum-debate-2026-10-24]]. From 6 Nov 2026 it cannot fire while the squad that killed you is within 2.5 times the old distance, until a 5-minute failsafe runs out [[src-mw4-season-1-patch-notes-2026-11-05]].
 - A Free Loadout protects nothing: your own Operator still goes in, and a death still means paying to recover them (reported) [[src-codmunity-dmz-guide-2026-10-24]].
 - A Blueprint weapon can be bought back at a discount if you lose it [[src-activision-dmz-guide-part2-2026-10-09]].
 

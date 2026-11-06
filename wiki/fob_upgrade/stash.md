@@ -5,7 +5,7 @@ description: "FOB storage shared by all your Operators: 40 items and 12 weapons 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_fe49071395d4, clm_52ae1fb94e2f, clm_972cffa0bd29, clm_cd43cdd0d14f, clm_1d5b2eabae74, clm_112b93b311ed, clm_4fd0c7201984, clm_9ac6093a89c7, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_fe49071395d4, clm_52ae1fb94e2f, clm_972cffa0bd29, clm_cd43cdd0d14f, clm_1d5b2eabae74, clm_112b93b311ed, clm_4fd0c7201984, clm_9ac6093a89c7, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Stash/Loadout", "Loadout", "stash space", "stash size", "how big is the stash", "Overflow Stash", "stash upgrade", "weapon stash", "Stash Weapon III", "Stash Weapon Upgrade resets"]
 station: stash
 unlock: start
@@ -52,4 +52,5 @@ One player reported on 1 Nov 2026 that Stash Weapon Upgrade III comes back after
 ## What happens to duplicated items?
 
 Players report that weapons made with duplication glitches are deleted from the Stash [clm_304434c0da1f]; see [[item-duplication-glitches]].
+Since 6 Nov 2026 Weapon Stash 1 stops offering itself again once bought, and Season 1 also repairs lost headgear when moved out of its slot and white weapon silhouettes in the Stash [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

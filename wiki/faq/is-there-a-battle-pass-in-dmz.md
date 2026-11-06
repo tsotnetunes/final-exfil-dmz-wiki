@@ -5,7 +5,7 @@ description: "From Season 1 (6 Nov 2026): the Battle Pass (1,100 COD Points) ope
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-season-1-announcement-2026-10-28, src-activision-pc-specs-2026-09-29, src-activision-dmz-guide-part2-2026-10-09]
+sources: [src-activision-season-1-announcement-2026-10-28, src-activision-pc-specs-2026-09-29, src-activision-dmz-guide-part2-2026-10-09, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Battle Pass DMZ", "BlackCell", "BlackCell DMZ", "DMZ Survival Kits battle pass", "DMZ season pass", "Battle Pass and Store Station"]
 ---
 <!-- generated:start -->
@@ -21,7 +21,7 @@ Yes, from Season 1. The Battle Pass opens from a new Battle Pass and Store Stati
 - If you buy late, you receive every reward up to the season's current day, as far as day 50 [[src-activision-season-1-announcement-2026-10-28]].
 
 ## What is BlackCell?
-The premium tier. It includes the XERO Operator, 1,100 COD Points, a DMZ Survival Pack and a clan tag, with more DMZ benefits to be explained before Season 1 [[src-activision-season-1-announcement-2026-10-28]]. In DMZ, Season 1 BlackCell owners can buy extra weapons and gear from the Vendor for DMZ Cash [[src-activision-season-1-announcement-2026-10-28]]. The Vault Edition includes one season of BlackCell, and buying BlackCell after the Battle Pass returns 1,100 COD Points [[src-activision-season-1-announcement-2026-10-28]] [[src-activision-pc-specs-2026-09-29]].
+The premium tier. It includes the XERO Operator, 1,100 COD Points, a DMZ Survival Pack and a clan tag [[src-activision-season-1-announcement-2026-10-28]]. Players add weapon blueprints, Survival Kits, bonus Vendor slots and a free daily ingredient refresh, and a reported price of $29.99 (reported) [clm_10685d3b70d8] [clm_7ecc64c071c8]; Activision's posts have not listed these for DMZ. In DMZ, Season 1 BlackCell owners can buy extra weapons and gear from the Vendor for DMZ Cash [[src-activision-season-1-announcement-2026-10-28]]. The Vault Edition includes one season of BlackCell, and buying BlackCell after the Battle Pass returns 1,100 COD Points [[src-activision-season-1-announcement-2026-10-28]] [[src-activision-pc-specs-2026-09-29]].
 
 ## What is a DMZ Survival Kit?
 A themed bundle of gear, such as Deployment, Triage, Armor, Equipment or SERE kits, that you open into your Stash; unopened kits stack at the station [[src-activision-dmz-guide-part2-2026-10-09]]. See [[survival-kits]].

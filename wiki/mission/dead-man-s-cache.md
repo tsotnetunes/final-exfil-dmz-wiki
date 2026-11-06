@@ -5,7 +5,7 @@ description: "Dynamic Op: find where an enemy cache is, take a bomb, blow up the
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_fa5585a7795f, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzmap-dynamic-ops-2026-10-31, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_fa5585a7795f, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzmap-dynamic-ops-2026-10-31, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Dead Mans Cache", "Operation Dead Man's Cache", "encrypted drive op", "ammo armor cache op"]
 mission_kind: dynamic_op
 steps: "6 to 7 steps, route varies"
@@ -43,4 +43,7 @@ In early access it paid 7,500 DMZ Cash and 4,575 XP [[src-allthingshow-dmz-dynam
 ## Tips
 
 The radiation countdown keeps running during the Op, so start it early [[src-allthingshow-dmz-orders-2026-10-31]]. The route can cross several areas, so a vehicle saves time [[src-allthingshow-dmz-dynamic-ops-2026-10-31]] (reported).
+## Known bugs and fixes
+
+From 6 Nov 2026 the Op starts properly at Daesong Ridge, where it sometimes failed [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

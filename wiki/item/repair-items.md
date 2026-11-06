@@ -5,7 +5,7 @@ description: "Gas Can, Car Battery, Spark Plug, Alternator, and the Legendary Ta
 status: draft
 brain_status: draft
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-dtgre-dmz-ops-guides-2026-10-21, src-xboxplay-dmz-tank-2026-10-28]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-dtgre-dmz-ops-guides-2026-10-21, src-xboxplay-dmz-tank-2026-10-28, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["repair item", "vehicle parts", "Gas Can", "Car Battery", "Spark Plug", "Alternator", "Tank Alternator", "Tank Water Pump", "fuel can"]
 ---
 <!-- generated:start -->
@@ -25,4 +25,5 @@ Repair items are loot for keeping vehicles running. DMZ vehicles have limited ar
 | Tank Water Pump | Legendary | repairs heavy military tanks | 100 | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] |
 
 Guides name two repairs that use these parts. A Car Battery, an Alternator, a Spark Plug and a Vehicle Water Pump fix a broken radar truck for the Repair the Vehicle Side Op ([[repair-the-vehicle]]) (reported) [[src-dtgre-dmz-ops-guides-2026-10-21]]. The Tank Alternator and Tank Water Pump, with a Tank Battery and Tank Plugs found loose around [[chang-san-air-base]], fix the drivable tank in its Tank Depot ([[vehicles]]) (reported) [[src-xboxplay-dmz-tank-2026-10-28]]. What the "emergency power" use is, is not confirmed yet. Players report that tanks drop Legendary loot when destroyed [clm_1f94c720b316]; whether that loot includes these parts is not known ([[main-nk-battle-tank]]).
+From 6 Nov 2026 fewer Batteries spawn at Banks, with no figure given [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

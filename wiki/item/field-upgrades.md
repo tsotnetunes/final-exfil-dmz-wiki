@@ -5,7 +5,7 @@ description: "The 16 DMZ Field Upgrades, from Armor Box and Ammo Box to the Fult
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-allthings-how-large-backpack-2026-10-21, src-conquestcapped-dmz-keys-2026-10-28]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-allthings-how-large-backpack-2026-10-21, src-conquestcapped-dmz-keys-2026-10-28, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Field Upgrade", "field upgrade", "Armor Box", "Ammo Box", "Munitions Box", "Portable Radar", "DDOS", "Fulton Drop Marker", "Fulton", "Inflatable Decoy", "Razor Wire Trap", "Rebreather", "Recon Drone", "Riot Shield", "SAM Airburst Turret", "Seeker Drone", "Smoke Wall", "Trophy System"]
 ---
 <!-- generated:start -->
@@ -28,7 +28,7 @@ A Field Upgrade is the deployable gadget in your loadout's Field Upgrade slot [[
 | Riot Shield | Uncommon | a shield you plant for cover; it can be destroyed | printable |
 | Smoke Wall | Uncommon | a fast rocket that leaves a long wall of smoke | printable |
 | Rebreather | Uncommon | lets you breathe underwater | printable |
-| DDOS | Rare | briefly jams electronics and enemy sensors nearby | printable |
+| DDOS | Rare | briefly jams electronics and enemy sensors nearby; since 6 Nov 2026 it also destroys Screamer Mines already placed [[src-mw4-season-1-patch-notes-2026-11-05]] | printable |
 | Recon Drone | Rare | remote drone that marks targets by hand or by itself | Recon Equipment Kit |
 | SAM Airburst Turret | Rare | portable turret that shoots down air threats | printable |
 | Trophy System | Rare | destroys up to three incoming projectiles | printable |

@@ -1293,3 +1293,7 @@
 ## [2026-11-04 21:18 EST] edit | community sweep 2026-11-05: DMZHub keys now 56 (Netshin Security Office key, reported); Bombing Run value disagreement and loot places (reported); CODMunity no new members
 - changed: .kac 1, index 7, index.md 1, raw 2, wiki 9
 - run: r-20261104-211824-af31
+
+## [2026-11-05 19:52 EST] edit | daily update 2026-11-05: Season 1 patch notes reached the Codex (X01 details, Possum 5 min and 2.5x distance, Supplied Drops 50%, Crossfire, vehicle Weapon XP, about 110 DMZ lines); new FAQ, Battle Tank and Wager Match events, The Captain
+- changed: .kac 1, evals 1, index 11, index.md 1, raw 1, wiki 64
+- run: r-20261105-195229-bbea

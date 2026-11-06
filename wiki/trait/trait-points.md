@@ -5,7 +5,7 @@ description: "Each Operator earns one Trait Point per Dog Tag level, 18 in all (
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9f492a24aab7, clm_e0f0b4c3d158, clm_f607b6b9963b, clm_24b10c8643de, clm_2c5d28cefa18, clm_0d5fa6dad722, clm_9d97c2d998df, clm_f1102b42c29e, clm_c31d86f01350, src-dmzhub-traits-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-cod-dmz-progression-video-2026-10-07, src-destructoid-trait-effects-2026-10-20, src-allthingshow-dmz-traits-2026-10-21, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-codmunity-dmz-traits-2026-10-30, src-dexerto-best-operator-traits-2026-10-31, src-playhub-best-traits-2026-10-28, src-gamerfuzion-dmz-best-traits-2026-10-23, src-destructoid-best-operator-traits-2026-10-20, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_9f492a24aab7, clm_e0f0b4c3d158, clm_f607b6b9963b, clm_24b10c8643de, clm_2c5d28cefa18, clm_0d5fa6dad722, clm_9d97c2d998df, clm_f1102b42c29e, clm_c31d86f01350, src-dmzhub-traits-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-cod-dmz-progression-video-2026-10-07, src-destructoid-trait-effects-2026-10-20, src-allthingshow-dmz-traits-2026-10-21, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-codmunity-dmz-traits-2026-10-30, src-dexerto-best-operator-traits-2026-10-31, src-playhub-best-traits-2026-10-28, src-gamerfuzion-dmz-best-traits-2026-10-23, src-destructoid-best-operator-traits-2026-10-20, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["traits", "trait tree", "trait trees", "Trait Points", "Operator Traits", "skill trees", "skill tree", "Skill Trees", "respec traits", "reset traits", "how many trait points", "Major Traits", "Minor Traits", "best traits", "best DMZ traits", "best solo traits", "best squad traits", "Operator Tracker", "random traits"]
 tree: all
 tier: n/a
@@ -61,6 +61,7 @@ Pro versions of the row 6 and row 9 Major Traits, twelve in all, granted at rand
 - 20 Oct 2026: Impact Smokes Pro did not trigger when a player was downed; fixed [[src-mw4-launch-patch-notes-2026-10-29]].
 - 23 Oct: the descriptions of Numb the Pain and Numb the Pain Pro were corrected [[src-mw4-launch-patch-notes-2026-10-29]].
 - 25 Oct: the Resource Management Trait's description scrolled too fast to read; fixed [[src-mw4-launch-patch-notes-2026-10-29]].
+- 6 Nov: Possum's blocking distance grows 2.5 times and its failsafe goes to 5 minutes; Supplied Drops rises to 50% [[src-mw4-season-1-patch-notes-2026-11-05]].
 - 28 Oct: Possum can no longer be triggered while the squad that killed you is nearby, with a 4-minute limit, and two Possum bugs were fixed ([[possum]]) [[src-mw4-launch-patch-notes-2026-10-29]] [clm_2c5d28cefa18] [clm_0d5fa6dad722].
 
 ## Which Traits are best for solo and for squads?

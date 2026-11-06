@@ -5,7 +5,7 @@ description: "The 12 Pro Traits that Operator Prestige grants at random, four pe
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-best-traits-2026-10-23, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-codmunity-dmz-traits-2026-10-30, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-best-traits-2026-10-23, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-codmunity-dmz-traits-2026-10-30, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Pro Trait", "Pro Traits list", "permanent Prestige Trait", "Prestige Trait list", "Prestige Traits tier list", "permanent traits"]
 tree: all
 tier: Pro
@@ -46,4 +46,7 @@ Impact Smokes Pro did not trigger when a player was downed until a fix on 20 Oct
 
 ## What is not known yet?
 Whether a Pro Trait works on its own or only with its base Trait picked in the tree, and what happens when you hold both; whether the pool changes with Season 1 (6 Nov 2026).
+## Do store Operators come with a Trait?
+
+From Season 1 some BlackCell and Store Bundle skins are reported as DMZ+ Operators with a Prestige Trait already active, such as Die Hard Pro and Free Revive Pro (reported) [clm_74677aaa64cb] [clm_c1ad17248890] [clm_d10cf45819cb]. One player says these do not stack with earned Prestige Traits, and another gives a limit of three at a time (reported) [clm_a19f6a1030a9] [clm_6ea378bb3ec9]. Activision's posts have not described this yet; see [[operator-prestige]].
 <!-- human:end -->

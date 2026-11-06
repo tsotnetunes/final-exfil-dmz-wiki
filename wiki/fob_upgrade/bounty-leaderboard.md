@@ -5,7 +5,7 @@ description: "The FOB board of the top 50 Most Wanted players and top 50 Bounty 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_84fd4d1811bc, clm_0a8db7cc19eb, clm_76c6387a25e4, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24]
+sources: [clm_84fd4d1811bc, clm_0a8db7cc19eb, clm_76c6387a25e4, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Bounty Board", "Most Wanted leaderboard", "Bounty Hunters leaderboard", "DMZ leaderboard"]
 station: bounty-leaderboard
 unlock: start
@@ -41,4 +41,5 @@ For Most Wanted, build a large Bounty by killing players and stay alive: dying, 
 ## When does it unlock?
 
 The 9 Oct guide lists it among the stations open from the start [[src-activision-dmz-guide-part2-2026-10-09]], and the launch level table names no unlock level for it [[src-activision-ready-for-launch-progression-2026-10-19]]. Players report it needing DMZ level 17 [clm_84fd4d1811bc]; check it in game.
+Since 6 Nov 2026 the Friends tab also shows your own rank [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

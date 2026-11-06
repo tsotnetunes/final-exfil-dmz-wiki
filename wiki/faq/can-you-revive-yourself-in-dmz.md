@@ -5,7 +5,7 @@ description: "Yes. Every Operator carries a tourniquet that gets you up from Las
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-deep-dive-2026-06, src-dmzhub-recipes-2026-10-31, src-dmzhub-items-2026-10-31]
+sources: [src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-deep-dive-2026-06, src-dmzhub-recipes-2026-10-31, src-dmzhub-items-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["self revive DMZ", "how to self revive DMZ", "tourniquet DMZ", "Self-Revive kit", "Last Stand DMZ", "revive yourself DMZ"]
 ---
 <!-- generated:start -->
@@ -23,7 +23,7 @@ Yes. Every Operator deploys able to use a tourniquet, a self-revive from Last St
 | Die Hard (Survivalist) | no bleed-out timer in Last Stand, and reaching an exfil calls it for you [[src-activision-dmz-guide-part2-2026-10-09]] |
 | Free Revive (Survivalist) | your first Wound is repaired automatically [[src-activision-dmz-guide-part2-2026-10-09]] |
 
-Since 28 Oct 2026 Possum cannot be used while the squad that killed you is nearby or before four minutes have passed [[src-mw4-launch-patch-notes-2026-10-29]].
+From 6 Nov 2026 Possum cannot be used while the squad that killed you is within 2.5 times the old distance, until a 5-minute failsafe runs out (it was 4 minutes) [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## How do you clear the wound?
 A Bandage lifts you to 150 health for a short time before it drops back to 100; a Medkit repairs the wound and keeps you at 150 [[src-westie-dmz-ama-recap-2026-10-11]]. Maximum health is 150 [[src-westie-dmz-ama-recap-2026-10-11]].

@@ -1,0 +1,8 @@
+URL: https://www.callofduty.com/patchnotes/2026/11/call-of-duty-modern-warfare-4-season-1-patch-notes
+Captured: 6 Nov 2026 (from Final Exfil's parsed copy of the page)
+Published: 5 Nov 2026 by Infinity Ward; a second block was added the same day. Notes in our own words.
+
+New: X01 location under Hajin, X01 Orders, a printer in X01, Boss Board intel, BlackCell Vendor stock, refreshed FOB vendors and recipes. Threat Briefing: Battle Tank (armor fragments). Wager Match marked coming soon. Battle Pass of 100 tiers includes DMZ Survival Kits.
+Balance: Possum needs killers 2.5x farther, failsafe 5 min (was 4). Supplied Drops 50% (was 25%), now on Op crates. Crossfire stronger on vehicles, most on tanks. Bomb Glider markers shorter. Fewer Batteries at Banks. Less Weapon XP from vehicle kills on AI; Operator kills unchanged.
+Fixes: duplication; Care Packages and second crates; final exfil plane; helicopter vanish and countdown; black screen on revive; Threat Meter; vehicle entry and controls; armor plate loss on vest swap; plates in Secure Case; lost headgear; Apex .50 GS loss on deploy; Lieutenant tags for camos; Career rewards past 70; Boss Board duplicates; Iskra's Screamer Mines; DDOS on placed mines; LT Hunter with squadmate; Free Prep; Colossus at the air base before the Armory opens; Dead Man's Cache at Daesong Ridge; Viral Reckoning, Silent Ledger, Shopping Hacks, Dead Battery; X-58 Void and Warlord Lumen vs AI; NVG selling and recipe text; Hydrochloric Acid removed from loot; Emergency Egress Keycard pickup with a full Backpack.
+Not mentioned: a wipe, a DMZ level reset, X01 details (marked classified).

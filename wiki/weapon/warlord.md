@@ -5,7 +5,7 @@ description: "Pump-action 12-gauge shotgun with a big tube and slow reloads; Isk
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31, src-allthingshow-dmz-bosses-2026-10-21]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31, src-allthingshow-dmz-bosses-2026-10-21, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Warlord shotgun", "Warlord Lumen", "Lumen", "Widow Maker"]
 class: "Shotgun"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -27,7 +27,7 @@ Extract with its Weapon Manual, then buy it in the [[gunsmith]] ([[weapon-manual
 
 ## What is its Apex Attachment?
 
-**Warlord Lumen:** a strobe that blinds when you aim and then needs to recharge; it takes the place of the Optic and Laser [[src-activision-mw4-launch-weapons-2026-10-19]]. See [[apex-attachments]].
+**Warlord Lumen:** a strobe that blinds when you aim and then needs to recharge; it takes the place of the Optic and Laser [[src-activision-mw4-launch-weapons-2026-10-19]]. Since 6 Nov 2026 it works reliably on AI in DMZ, which it did not before [[src-mw4-season-1-patch-notes-2026-11-05]]. See [[apex-attachments]].
 
 ## What changed on 28 Oct 2026?
 

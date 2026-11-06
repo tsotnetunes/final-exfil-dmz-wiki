@@ -5,7 +5,7 @@ description: "A DMZ deployment lasts up to about 45 minutes: some 30 on the Time
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-gamerfuzion-dmz-solo-play-2026-10-03, src-conquestcapped-dmz-guide-2026-10-26, src-gamerfuzion-dmz-60-players-2026-10-12, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, src-insider-gaming-season-1-date-2026-10-14]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-gamerfuzion-dmz-solo-play-2026-10-03, src-conquestcapped-dmz-guide-2026-10-26, src-gamerfuzion-dmz-60-players-2026-10-12, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, src-insider-gaming-season-1-date-2026-10-14, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["how long is a match", "deployment timer", "deployment length", "Time Remaining clock"]
 ---
 <!-- generated:start -->
@@ -30,7 +30,7 @@ Yes, for now. In their 9 Oct 2026 Q&A the developers said all squads drop into a
 | Exfil helicopter, from the call to landing | about 90 seconds (reported) | [clm_0654da754a95] |
 | Countdown once you are aboard | 5 seconds solo; for a squad 30 to 45 seconds until everyone is aboard, then 5 seconds (reported) | [[src-codmunity-dmz-guide-2026-10-24]] |
 | Ammo and armour caches | refill 60 seconds after use (reported) | [[src-codmunity-dmz-guide-2026-10-24]] |
-| [[possum]] self-revive | locked while your killers' squad is close by, or until 4 minutes pass (since 28 Oct 2026) | [[src-mw4-launch-patch-notes-2026-10-29]] |
+| [[possum]] self-revive | locked while your killers' squad is within 2.5 times the old distance, or until 5 minutes pass (since 6 Nov 2026; 4 minutes before) [[src-mw4-season-1-patch-notes-2026-11-05]] | [[src-mw4-launch-patch-notes-2026-10-29]] |
 | Fast Dynamic Operation challenge | under 8 minutes; the requirement shown in game was corrected on 23 Oct 2026 | [[src-mw4-launch-patch-notes-2026-10-29]] |
 
 ## What is not confirmed?

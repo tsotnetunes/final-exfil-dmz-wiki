@@ -5,7 +5,7 @@ description: "The combat Trait tree: six fixed Major Traits from Equipment Profe
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-dexerto-best-operator-traits-2026-10-31, src-gamerfuzion-dmz-best-traits-2026-10-23, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-dexerto-best-operator-traits-2026-10-31, src-gamerfuzion-dmz-best-traits-2026-10-23, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Warfighter", "Warfighter traits", "Warfighter trait tree", "Warfighter skill tree", "combat tree"]
 tree: Warfighter
 tier: all
@@ -47,10 +47,10 @@ Minor Traits fill rows 1, 2, 4, 5, 7 and 8. Guides report that they come from on
 | --- | --- | --- | --- |
 | [[adrenaline-burst]] | a kill refills your tactical sprint | | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] |
 | Killing Spree | each kill stretches effects already running on you, up to double | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-dexerto-best-operator-traits-2026-10-31]] |
-| Free Prep | your Free Loadout comes with one random consumable | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-codcentral-dmz-traits-2026-10-23]] |
+| Free Prep | your Free Loadout comes with one random consumable; before Season 1 it only ever gave Radiation Blockers [[src-mw4-season-1-patch-notes-2026-11-05]] | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-codcentral-dmz-traits-2026-10-23]] |
 | Plate Pouch | carry 2 more spare armor plates; stacks with Plate Organization | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-codcentral-dmz-traits-2026-10-23]] [[src-dmzhub-traits-2026-10-31]] |
-| Supplied Drops | a supply drop can come with one more container; reportedly it works for the whole squad and stacks | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzhub-traits-2026-10-31]] |
-| LT Hunter | a Lieutenant Hunt tower you use reveals one more Lieutenant | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-allthingshow-dmz-traits-2026-10-21]] |
+| Supplied Drops | a 50% chance (25% before 6 Nov 2026) that a supply drop has one more container, and it now covers Dynamic Operations crates [[src-mw4-season-1-patch-notes-2026-11-05]]; reportedly it works for the whole squad and stacks | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzhub-traits-2026-10-31]] |
+| LT Hunter | a Lieutenant Hunt tower reveals one more Lieutenant; from Season 1 it also works when a squadmate uses the tower [[src-mw4-season-1-patch-notes-2026-11-05]] | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-allthingshow-dmz-traits-2026-10-21]] |
 | Final Intel | your Tac-Map shows where the final exfil will be from the start of the match | Survivalist | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-codcentral-dmz-traits-2026-10-23]] |
 | Bounty Intel | you pay less for Bounty intel | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-codcentral-dmz-traits-2026-10-23]] [[src-dmzhub-traits-2026-10-31]] |
 | Bounty Hunter | bigger payouts for bounties you claim | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-codcentral-dmz-traits-2026-10-23]] [[src-dmzhub-traits-2026-10-31]] |
@@ -71,5 +71,5 @@ Related pages: [[lieutenants]], [[bounty-system]], [[exfil]], [[tourniquet]].
 [[possum]] is the most recommended Trait in DMZ [[src-dexerto-best-operator-traits-2026-10-31]] [[src-codcentral-dmz-traits-2026-10-23]]. On row 6 guides split between [[quick-fix]] and [[viper-sense]]; on row 3 between [[combat-resistance]] and [[equipment-professional]] [[src-gamerfuzion-dmz-best-traits-2026-10-23]] [[src-codcentral-dmz-traits-2026-10-23]] [[src-playhub-best-traits-2026-10-28]]. Solo builds often pair a full Warfighter tree with Scout [[src-codcentral-dmz-traits-2026-10-23]] [[src-gamerfuzion-dmz-best-traits-2026-10-23]]. Among the Minors, COD Central rates Plate Speed and Plate Pouch as must-takes and the Popcorn and ammo Minors as skips [[src-codcentral-dmz-traits-2026-10-23]].
 
 ## What has changed?
-Possum was limited on 28 Oct 2026 ([[possum]]) [[src-mw4-launch-patch-notes-2026-10-29]]. No other Warfighter Trait appears in the patch notes up to 31 Oct 2026.
+Possum was limited on 28 Oct 2026 and again from 6 Nov 2026 ([[possum]]) [[src-mw4-launch-patch-notes-2026-10-29]] [[src-mw4-season-1-patch-notes-2026-11-05]]. The Season 1 notes also raise Supplied Drops and repair Free Prep and LT Hunter, as the table shows [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

@@ -5,7 +5,7 @@ description: "Dynamic Op: kill an HVT for his radio, free a captive scientist fr
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzmap-dynamic-ops-2026-10-31, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzmap-dynamic-ops-2026-10-31, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Operation Viral Reckoning", "scientist rescue op", "rescue the scientist", "biological WMD"]
 mission_kind: dynamic_op
 steps: "about 10 steps"
@@ -39,4 +39,7 @@ In early access it paid 7,500 DMZ Cash and about 4,200 XP [[src-codcentral-dmz-d
 ## Risks
 
 Waypoints sat 650 to 915 m apart in one run, so bring or find a vehicle, and the landing zone defence runs on a timer until the helicopter arrives [[src-codcentral-dmz-dynamic-ops-2026-10-21]] (reported).
+## Known bugs and fixes
+
+From 6 Nov 2026 the helicopter no longer gets stuck in the ground [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

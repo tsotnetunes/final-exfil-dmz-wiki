@@ -5,7 +5,7 @@ description: "DMZ has 70 levels with a reward at each, from the 3D Printer to bi
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_ddf327b1e62d, clm_43eb9661dfec, clm_7395536c245c, clm_bd9383775a93, clm_5153b4480340, clm_33babd127a04, clm_0c8f2f5cab3c, src-activision-ready-for-launch-progression-2026-10-19, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-codcentral-dmz-xp-strategies-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codmunity-dmz-traits-2026-10-30, src-mw4-launch-patch-notes-2026-10-29, src-destructoid-trait-effects-2026-10-20]
+sources: [clm_ddf327b1e62d, clm_43eb9661dfec, clm_7395536c245c, clm_bd9383775a93, clm_5153b4480340, clm_33babd127a04, clm_0c8f2f5cab3c, src-activision-ready-for-launch-progression-2026-10-19, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-codcentral-dmz-xp-strategies-2026-10-30, src-dmztracker-level-up-fast-2026-10-22, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codmunity-dmz-traits-2026-10-30, src-mw4-launch-patch-notes-2026-10-29, src-destructoid-trait-effects-2026-10-20, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["DMZ Player Level", "Progression Track", "DMZ level", "level 70", "Dog Tag level", "Onyx III", "DMZ XP", "DMZ Progression", "level rewards", "DMZ level unlocks", "how to level up fast in DMZ", "Operator level", "Operator XP", "fastest XP", "fastest leveling", "what each DMZ level unlocks", "DMZ level rewards", "level unlocks", "level 1 to 70 rewards"]
 ---
 <!-- generated:start -->
@@ -110,4 +110,7 @@ Start each deployment with a Story Mission (one per deployment), chain Dynamic O
 
 - The 3-Plate Armor Vest for DMZ Level 37 was not granted until a fix of 28 Oct 2026; players past Level 37 before it were still without the vest on 29 Oct, when Infinity Ward said it was working on it [[src-mw4-launch-patch-notes-2026-10-29]].
 - Fixed 20 Oct 2026: the After Action Report could show 0 XP after a first match, Story Missions could count twice, and only the player who landed the final blow on a Commander got XP [[src-mw4-launch-patch-notes-2026-10-29]].
+## What changed in Season 1?
+
+From 6 Nov 2026 vehicle kills on AI give less Weapon XP; kills on Operators pay as before. Career rewards past level 70 show again, and Threat Meter progress registers more reliably [[src-mw4-season-1-patch-notes-2026-11-05]]. Notes for the [[does-your-level-reset-in-season-1|level reset]] are on its own page.
 <!-- human:end -->

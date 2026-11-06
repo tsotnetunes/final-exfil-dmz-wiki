@@ -5,7 +5,7 @@ description: "Unlocks at DMZ level 20: shows the dog tags you extracted (rarity,
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_d156c7a1a567, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_d156c7a1a567, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-upgrades-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["tag case", "trophy case", "Dog Tag Case station", "Dog Tag Case upgrade", "bounty payout upgrade"]
 station: dog-tag-case
 unlock: "DMZ level 20"
@@ -48,4 +48,5 @@ No. A Lieutenant drops a Dog Tag Case item when killed; extracting with that ite
 - Fixed 21 Oct 2026: an error when opening the station [[src-mw4-launch-patch-notes-2026-10-29]] [clm_60f9fe17bb96] [clm_d969dea9faf7].
 - Fixed 24 Oct 2026: taken Dog Tags and Bounties sometimes showed the wrong details [[src-mw4-launch-patch-notes-2026-10-29]].
 - Fixed 29 Oct 2026: the tag of a squadmate who had disconnected could be extracted and kept here [[src-mw4-launch-patch-notes-2026-10-29]].
+Since Season 1 (6 Nov 2026) the case lists your newest tags first, wrong details on tags are corrected, and your own tag returns to you when the Operator holding it joins your squad [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

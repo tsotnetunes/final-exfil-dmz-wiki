@@ -5,7 +5,7 @@ description: "Lieutenant in the office building at Cheonwang Peak Array (Medium)
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_990eabb39f96, src-allthingshow-hunter-order-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-allthingshow-roze-2026-10-21, src-dmzhub-bosses-2026-10-31]
+sources: [clm_990eabb39f96, src-allthingshow-hunter-order-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-gfinity-dmz-lieutenants-2026-10-22, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-allthingshow-roze-2026-10-21, src-dmzhub-bosses-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Iskra's Dog Tag", "Widowmaker", "Widow Maker", "Cheonwang boss", "hooded Lieutenant", "Iskra's Control Room"]
 weapon: Warlord shotgun
 location: Cheonwang Peak Array office building
@@ -54,5 +54,11 @@ Her cache has also held a Control Unit and a Disposable Parachute, and the kill 
 
 ## Is Iskra the hooded sniper?
 
-Before launch the 9 Oct guide showed a hooded Lieutenant with a sniper rifle without naming her, and community accounts called her Iskra [[src-activision-dmz-guide-part2-2026-10-09]]. In the game Iskra fights with a shotgun and [[roze]] is the rooftop sniper, so who that image shows is still not confirmed [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-allthingshow-roze-2026-10-21]]. All Lieutenants: [[lieutenants]].
+Before launch the 9 Oct guide showed a hooded Lieutenant with a sniper rifle without naming her, and community accounts called her Iskra [[src-activision-dmz-guide-part2-2026-10-09]]. In the game Iskra fights with a shotgun and [[roze]] is the rooftop sniper, so who that image shows is still not confirmed [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-allthingshow-roze-2026-10-21]]. 
+
+## What changed in Season 1?
+
+From 6 Nov 2026 her Screamer Mines blind you as intended, where before they did not, and a DDOS clears any she has already placed [[src-mw4-season-1-patch-notes-2026-11-05]].
+
+All Lieutenants: [[lieutenants]].
 <!-- human:end -->

@@ -5,7 +5,7 @@ description: "Medium-threat Story Mission at the Heavenly Luck Casino: restore p
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9eae7e022413, clm_cc5286446ac5, src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-game8-dmz-orders-2026-10-31, src-gamingtrend-dmz-interview-2026-06-06, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31, src-fpsjp-story-missions-trailer-2026-10-09, src-allthingshow-dmz-dynamic-ops-2026-10-31]
+sources: [clm_9eae7e022413, clm_cc5286446ac5, src-codmunity-dmz-missions-2026-10-31, src-allthingshow-dmz-story-missions-2026-10-31, src-gamingpromax-dmz-story-missions-2026-10-23, src-altchar-dmz-story-missions-2026-10-22, src-codcentral-dmz-orders-2026-10-21, src-game8-dmz-orders-2026-10-31, src-gamingtrend-dmz-interview-2026-06-06, src-dmzhub-missions-2026-10-31, src-dmzhub-orders-2026-10-31, src-fpsjp-story-missions-trailer-2026-10-09, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Silent Ledger", "casino mission", "casino heist", "casino vault", "Heavenly Luck Casino mission", "printing plates", "cash bags"]
 mission_kind: story
 steps: "8 HUD steps"
@@ -39,4 +39,7 @@ Once the plates are out, a Cash Bags Secured counter appears: up to 12 bags wort
 ## What are the rewards?
 
 The card lists 25,000 DMZ Cash, a Gold Bar, the Counting Room Vault Key and the Polaris Dagor A1 vehicle [[src-altchar-dmz-story-missions-2026-10-22]] [[src-gamingpromax-dmz-story-missions-2026-10-23]] [[src-dmzhub-missions-2026-10-31]]. The Polaris insertion itself costs 5,000 and is open from the start, unlike the three dearer ones ([[paid-infil]]) [[src-allthingshow-dmz-dynamic-ops-2026-10-31]] (reported). An early-access extraction summary also showed a 5,000 Story Mission Payout [[src-allthingshow-dmz-story-missions-2026-10-31]] (reported). Players say the mission can be repeated [clm_27bf4044d2d2]; how replays pay: [[story-missions]].
+## Known bugs and fixes
+
+From 6 Nov 2026 Cash Duffel Bags no longer make boarding the exfil helicopter hard [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

@@ -371,3 +371,15 @@
 - id: g124
   question: Can I see my K/D and extraction rate in DMZ?
   must_retrieve: [how-to-check-your-stats-in-dmz]
+- id: g125
+  question: What changed in DMZ with the Season 1 patch notes?
+  must_retrieve: [what-changed-in-dmz-in-season-1]
+- id: g126
+  question: How does the Battle Tank Threat Briefing event work with armor fragments?
+  must_retrieve: [threat-briefing-battle-tank]
+- id: g127
+  question: What is the Wager Match Event and Trophies?
+  must_retrieve: [wager-match]
+- id: g128
+  question: Who is The Captain in X01?
+  must_retrieve: [the-captain]

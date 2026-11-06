@@ -5,7 +5,7 @@ description: "Every dated DMZ and Modern Warfare 4 event from DMZ Week to Season
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-iw-dmz-early-access-time-2026-10-19, src-activision-pc-specs-2026-09-29, src-cod-x-mw4-2xp-giveaway-2026-10-23, src-gamerfuzion-launch-roadmap-2026-10-14, src-mw4-launch-patch-notes-2026-10-29, src-cod-x-hajin-conflict-2026-11-01, src-activision-warzone-season-1-blog-2026-11-02, src-cod-x-dmz-high-stakes-2026-11-02]
+sources: [src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-iw-dmz-early-access-time-2026-10-19, src-activision-pc-specs-2026-09-29, src-cod-x-mw4-2xp-giveaway-2026-10-23, src-gamerfuzion-launch-roadmap-2026-10-14, src-mw4-launch-patch-notes-2026-10-29, src-cod-x-hajin-conflict-2026-11-01, src-activision-warzone-season-1-blog-2026-11-02, src-cod-x-dmz-high-stakes-2026-11-02, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["DMZ events", "DMZ calendar", "MW4 roadmap", "MW4 events", "DMZ schedule", "launch roadmap", "events list", "DMZ dates"]
 date: "2026-11-06"
 ---
@@ -14,7 +14,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-The next big date is Season 1, at midnight ET on 6 Nov 2026, which brings DMZ's first events: Threat Briefings and the Resupply Run [[src-activision-season-1-announcement-2026-10-28]]. In the game, running events appear at the FOB's Events station [[src-activision-dmz-guide-part2-2026-10-09]]. Below is every dated event since DMZ Week.
+Season 1 starts at midnight ET on 6 Nov 2026 and brings DMZ's first events: [[threat-briefing-battle-tank]] first, with Threat Briefing: The Captain and the Resupply Run announced [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]]. In the game, running events appear at the FOB's Events station [[src-activision-dmz-guide-part2-2026-10-09]]. Below is every dated event since DMZ Week.
 
 ## What has happened so far?
 | Date | Event | For DMZ | Page |
@@ -38,11 +38,12 @@ The next big date is Season 1, at midnight ET on 6 Nov 2026, which brings DMZ's 
 | Date | Event | For DMZ | Page |
 | --- | --- | --- | --- |
 | 6 Nov, 00:00 ET | Season 1 starts | X01, new bosses, Battle Pass station, Player Level reset | [[season-1]] |
-| 6 Nov | Wager Match Event | rewards include Hyeon Auto and Kastov 545 Apex Attachments for DMZ | [[season-1]] |
-| Season 1, start not given | Threat Briefing: Battle Tank; Threat Briefing: The Captain; Resupply Run | DMZ events | [[are-there-events-in-dmz]] |
+| Season 1, listed as coming soon on 5 Nov | Wager Match Event | rewards include Hyeon Auto and Kastov 545 Apex Attachments for DMZ | [[wager-match]] |
+| from 6 Nov | Threat Briefing: Battle Tank | armor fragments for rewards | [[threat-briefing-battle-tank]] |
+| Season 1, start not given | Threat Briefing: The Captain; Resupply Run | DMZ events | [[are-there-events-in-dmz]] |
 | later in Season 1 | Joint Fire Event, more Threat Briefings, Season 1 Reloaded | a DMZ Survival Kit and more | [[season-1]] |
 
-All rows in this table from the official Season 1 post [[src-activision-season-1-announcement-2026-10-28]], with the Player Level reset from the Warzone post [[src-activision-warzone-season-1-blog-2026-11-02]].
+All rows in this table from the official Season 1 post [[src-activision-season-1-announcement-2026-10-28]] and the patch notes [[src-mw4-season-1-patch-notes-2026-11-05]], with the Player Level reset from the Warzone post [[src-activision-warzone-season-1-blog-2026-11-02]].
 
 ## Where do you see events in the game?
 The FOB's Events station shows limited-time challenges and unlocks while an event runs, and events are one of the ways to earn Survival Kits [[src-activision-dmz-guide-part2-2026-10-09]]. Questions about them: [[are-there-events-in-dmz]].
