@@ -5,7 +5,7 @@ description: "An Operator killed in Hajin goes MIA: pay DMZ Cash at the Operator
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_15b35293c60f, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-xbox-wire-dmz-operator-guide-2026-10-20, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-upgrades-2026-10-31, src-destructoid-possum-debate-2026-10-24, src-mw4-season-1-patch-notes-2026-11-05]
+sources: [clm_15b35293c60f, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-xbox-wire-dmz-operator-guide-2026-10-20, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-upgrades-2026-10-31, src-destructoid-possum-debate-2026-10-24, src-mw4-season-1-patch-notes-2026-11-05, clm_a42c6beff33f]
 aliases: ["MIA", "rescue team", "missing in action", "lost operator", "operator does not exfil", "died without exfil", "Rescue", "rescue an operator", "recover an Operator", "MIA recovery cost", "Operator Rescue Beacon", "recovery slots", "get an Operator back"]
 ---
 <!-- generated:start -->
@@ -27,7 +27,7 @@ At the Operators station, pay DMZ Cash from your Bank ([[wallet]]). The Operator
 
 ## How much does recovery cost?
 
-The price rises with the Operator's Trait Points [[src-activision-dmz-guide-part2-2026-10-09]]; Activision has published no figures. A beginner guide reports prices from a few hundred DMZ Cash up to about 90,000 for an Operator with all 18 Trait Points (reported) [[src-codmunity-dmz-guide-2026-10-24]]. One player reported a price of 270,000 for an Operator lost during an exfil [clm_5765e08bf423], far above that, so the top price is not settled. The [[3d-printer]] prints permanent MIA recovery discounts [[src-activision-dmz-guide-part2-2026-10-09]]: four MIA Recovery Discount levels of 5% each, 20% in all, paid in printer ingredients and valuables rather than cash (reported) [[src-dmzhub-upgrades-2026-10-31]]. Costs per level: [[fob-upgrades]]. The guides mention no timer and no free recovery.
+The price rises with the Operator's Trait Points [[src-activision-dmz-guide-part2-2026-10-09]]; Activision has published no figures. A beginner guide reports prices from a few hundred DMZ Cash up to about 90,000 for an Operator with all 18 Trait Points (reported) [[src-codmunity-dmz-guide-2026-10-24]]. One player reported a price of 270,000 for an Operator lost during an exfil [clm_5765e08bf423], far above that, and on 6 Nov 2026 another quoted 75,000 for one recovery (reported) [clm_a42c6beff33f], so the top price is not settled. The [[3d-printer]] prints permanent MIA recovery discounts [[src-activision-dmz-guide-part2-2026-10-09]]: four MIA Recovery Discount levels of 5% each, 20% in all, paid in printer ingredients and valuables rather than cash (reported) [[src-dmzhub-upgrades-2026-10-31]]. Costs per level: [[fob-upgrades]]. The guides mention no timer and no free recovery.
 
 ## Can you protect an Operator before you deploy?
 

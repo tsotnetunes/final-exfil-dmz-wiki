@@ -5,7 +5,7 @@ description: "Every DMZ Orders page outside the five chapters (pages 1, 4, 7, 10
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_2e1526a65f69, clm_285eea02f847, src-codcentral-dmz-orders-2026-10-21, src-dmzmap-dmz-orders-2026-10-31, src-dmzhub-orders-2026-10-31, src-game8-dmz-orders-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-pcgamer-dynamic-op-phone-2026-10-21, src-patchcrazy-crashed-crate-2026-10-22, src-dtgre-dmz-ops-guides-2026-10-21, src-codmunity-dmz-missions-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-dtgre-dmz-radar-truck-2026-10-25]
+sources: [clm_2e1526a65f69, clm_285eea02f847, src-codcentral-dmz-orders-2026-10-21, src-dmzmap-dmz-orders-2026-10-31, src-dmzhub-orders-2026-10-31, src-game8-dmz-orders-2026-10-31, src-allthingshow-dmz-orders-2026-10-31, src-pcgamer-dynamic-op-phone-2026-10-21, src-patchcrazy-crashed-crate-2026-10-22, src-dtgre-dmz-ops-guides-2026-10-21, src-codmunity-dmz-missions-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-dtgre-dmz-radar-truck-2026-10-25, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["First Orders", "Orders page 1", "page 4 orders", "page 19 orders", "Gear Up", "Crackshot", "First Op", "Operation Rewards", "Preparation", "Work Quietly", "Recognition", "Radiation Station", "Healer", "Crashed Crate", "Surprise Me", "Information Power", "Arms Deal", "Friendly Face", "Lethal Tools", "Committed", "Nothing Is Secure", "Fire Insurance", "Quiet", "Mechanic", "How Bulletproof?", "Abandoned", "Locksmith", "Avionics", "Philanthropist", "Multi-Talented", "Ears Everywhere", "The Vault", "Massive Damage", "Hard Carry", "Stalking the Stalker", "DRC", "Unstoppable", "Astronaut", "Rule of Three", "Temp Job", "High Quality Loot", "You Won't See Me", "Upper Class", "what each DMZ Order asks for", "every DMZ Order", "DMZ Orders list", "Orders tablet pages"]
 mission_kind: order
 steps: "14 pages, 42 Orders"
@@ -68,7 +68,7 @@ These are the [[dmz-orders]] pages that belong to no chapter: pages 1, 4, 7, 10,
 | 23 | No Time | Finish four Dynamic Ops in one deployment. |
 | 24 | High Quality Loot | Extract two Weapon Manuals, four Recipes and an Ultra weapon. |
 | 24 | You Won't See Me | Build a sniper rifle with five or more attachments and kill 100 enemies with it. |
-| 24 | Upper Class | Make 250,000 DMZ Cash in total through Dynamic Ops or Story Missions. |
+| 24 | Upper Class | Make 250,000 DMZ Cash in total through Dynamic Ops or Story Missions. Story Missions done in Hajin count only since the fix of 6 Nov 2026 [[src-mw4-season-1-patch-notes-2026-11-05]]. |
 
 Tasks for pages 1 to 19 and 22: [[src-codcentral-dmz-orders-2026-10-21]] [[src-dmzmap-dmz-orders-2026-10-31]] [[src-dmzhub-orders-2026-10-31]], with pages 1 and 4 also on [[src-game8-dmz-orders-2026-10-31]] [[src-allthingshow-dmz-orders-2026-10-31]]. Pages 20, 21, 23 and 24: [[src-codcentral-dmz-orders-2026-10-21]] [[src-dmzhub-orders-2026-10-31]]. Infinity Ward's patch notes confirm the names Information Power, Philanthropist (on page 19) and Ears Everywhere [[src-mw4-launch-patch-notes-2026-10-29]]. Two sites list page 10's third Order under the name Healer, like page 7's, which may be a mistake [[src-codcentral-dmz-orders-2026-10-21]] [[src-dmzhub-orders-2026-10-31]].
 

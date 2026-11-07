@@ -1,11 +1,11 @@
 ---
 type: faq
 title: "What is X01 in DMZ, and when does it come out?"
-description: "X01 is Season 1's new DMZ location, a Black Site in a former Russian weapons facility at Hajin's northern edge, reached through Hajin. It arrives with Season 1 at midnight ET on 6 Nov 2026."
+description: "Season 1's new DMZ location, a Black Site in a former Russian weapons plant at Hajin's northern edge, open since 6 Nov 2026. Reach it through Hajin or, since that evening, from the FOB."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_3de1c9d57632, clm_968a1eb8291e, src-activision-season-1-announcement-2026-10-28, src-westie-dmz-ama-recap-2026-10-11, src-gamespot-from-the-ward-ep7-2026-10-05]
+sources: [clm_3de1c9d57632, clm_968a1eb8291e, src-activision-season-1-announcement-2026-10-28, src-westie-dmz-ama-recap-2026-10-11, src-gamespot-from-the-ward-ep7-2026-10-05, src-cod-x-season-1-live-2026-11-06, clm_335123e1ad31]
 aliases: ["X01", "X01 Black Site", "X01 Blacksite", "XO1", "when does X01 come out", "DMZ new map Season 1", "X01 DMZ map", "GRANIT black site"]
 ---
 <!-- generated:start -->
@@ -22,10 +22,10 @@ _Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-X01 is Season 1's new DMZ location, which Activision calls a Black Site: a weapons facility nobody knew about, believed to be a GRANIT Arms black site, now held by North Korean forces [[src-activision-season-1-announcement-2026-10-28]] [clm_64b8588379af]. It arrives with Season 1 at midnight ET on 6 Nov 2026, which is 9 PM PT on 5 Nov [[src-activision-season-1-announcement-2026-10-28]].
+X01 is Season 1's new DMZ location, which Activision calls a Black Site: a weapons facility nobody knew about, believed to be a GRANIT Arms black site, now held by North Korean forces [[src-activision-season-1-announcement-2026-10-28]] [clm_64b8588379af]. It opened with Season 1 at midnight ET on 6 Nov 2026, which is 9 PM PT on 5 Nov [[src-activision-season-1-announcement-2026-10-28]] [[src-cod-x-season-1-live-2026-11-06]].
 
 ## Where is it, and how do you get there?
-It is a facility that used to be Russian, at the edge of Hajin near North Korea's northern border, and you deploy to it through the Hajin Exclusion Zone [[src-activision-season-1-announcement-2026-10-28]] [clm_88179a380fbb]. One outlet reports an elevator entrance with a countdown that leaves late squadmates behind in Hajin (reported) [clm_a66709e01ef4] [clm_3d4c81c4b97c].
+It is a facility that used to be Russian, at the edge of Hajin near North Korea's northern border, and at first you reached it only through the Hajin Exclusion Zone [[src-activision-season-1-announcement-2026-10-28]] [clm_88179a380fbb]. Since 5 PM PST on 6 Nov 2026 you can also deploy straight to X01 from the FOB [[src-cod-x-season-1-live-2026-11-06]] [clm_335123e1ad31]. The move from Hajin into X01 can fail and cost some players their Operator, loadout and Backpack, a problem Infinity Ward is investigating with no fix date yet [[src-cod-x-season-1-live-2026-11-06]]. One outlet reports an elevator entrance with a countdown that leaves late squadmates behind in Hajin (reported) [clm_a66709e01ef4] [clm_3d4c81c4b97c].
 
 ## What is inside?
 Cargo bays, vehicle depots, underground labs, production lines and a sealed Deep Vault, linked by tunnels and routes that climb several floors, with hazards that change [[src-activision-season-1-announcement-2026-10-28]]. It holds equipment you cannot find anywhere else [[src-activision-season-1-announcement-2026-10-28]].

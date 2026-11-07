@@ -1301,3 +1301,7 @@
 ## [2026-11-05 21:18 EST] edit | community sweep 2026-11-06: DMZHub revisions: SANG 9mm now a Manual, Mill Explosives Lab key location, Tempered vest value, Gorani teleporting and camps (reported); CODMunity no new members
 - changed: .kac 1, index 5, index.md 1, raw 2, wiki 10
 - run: r-20261105-211837-2c1b
+
+## [2026-11-06 19:49 EST] edit | daily update 2026-11-06: Season 1 live; 6 Nov patch (Thermal Padding and Inhaler beat upgraded UAV Towers, Upper Class and BlackCell fixes); X01 direct FOB deploy and Hajin transition bug; free DMZ trial to 11 Nov
+- changed: .kac 1, evals 1, index 8, index.md 1, raw 2, wiki 16
+- run: r-20261106-194910-a49e

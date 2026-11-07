@@ -1,11 +1,11 @@
 ---
 type: faq
 title: "What changed in DMZ with the Season 1 patch?"
-description: "From 6 Nov 2026: X01, stricter Possum, Supplied Drops 50%, stronger Crossfire, less Weapon XP from vehicle kills on AI, new Boss Board intel, and fixes for dupes, Care Packages and exfils."
+description: "From 6 Nov 2026: X01, stricter Possum, Supplied Drops 50%, stronger Crossfire, less vehicle Weapon XP on AI, dupe and exfil fixes; a 6 Nov update fixed Thermal Padding against upgraded towers."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-season-1-announcement-2026-10-28]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-season-1-announcement-2026-10-28, src-cod-x-season-1-live-2026-11-06]
 aliases: ["Season 1 patch notes DMZ", "Season 1 DMZ changes", "DMZ Season 1 update", "what did Season 1 change in DMZ", "Possum nerf Season 1", "Supplied Drops buff"]
 ---
 <!-- generated:start -->
@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-The Season 1 patch notes of 5 Nov 2026 go live with the season at midnight ET on 6 Nov. They hold about 110 DMZ lines: one new place, a few balance changes and many fixes [[src-mw4-season-1-patch-notes-2026-11-05]].
+The Season 1 patch notes of 5 Nov 2026 went live with the season at midnight ET on 6 Nov. They hold about 110 DMZ lines: one new place, a few balance changes and many fixes [[src-mw4-season-1-patch-notes-2026-11-05]]. A small update followed on 6 Nov 2026 with about a dozen more DMZ lines, and Infinity Ward says more updates come over the following days [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What is new?
 - [[x01]], an underground location under Hajin with its own Orders and a 3D Printer inside [[src-mw4-season-1-patch-notes-2026-11-05]].
@@ -40,6 +40,15 @@ All from [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Exfil: the final exfil aircraft appears, helicopters stay visible, the countdown is right ([[final-exfil]], [[exfil]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Vehicles: getting in no longer locks your controls ([[vehicles]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Bosses: Iskra's mines work, Commanders finish downed players, Colossus waits for the Armory ([[iskra]], [[commander-threats]], [[colossus]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
+
+## What did the 6 Nov update change?
+- UAVs: [[thermal-padding]], Thermal Padding Pro and the Sedative Inhaler ([[medical-items]]) now also hide you from UAV Towers that a rival has upgraded with [[uav-upgrade]]; the AUAV fire support still sees you ([[fire-support]], [[uav-towers]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
+- FOB Trait descriptions made clearer for Auto Fill, Impact Smokes Pro, Thermal Padding Pro, UAV Upgrade and UAV Upgrade Pro, with no change to what they do [[src-mw4-season-1-patch-notes-2026-11-05]].
+- Progression: Story Missions in Hajin now count for the Upper Class Order ([[dmz-orders-pages]]); looted Lieutenant and player Backpacks count toward the Packing Calling Card Challenge; BlackCell Daily Rewards and exfils toward the BlackCell Operator Challenges now pay out ([[is-there-a-battle-pass-in-dmz]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
+- More exploits closed, and DMZ Gunsmith fixes for Rocket Launcher Blueprints and one Apex cost display ([[apex-attachments]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
+
+## What went wrong on day one?
+On 6 Nov 2026 the official DMZ account began investigating a failed move from Hajin into [[x01]] that can cost some players their Operator, loadout and Backpack, and a crash at launch on Steam after the update (verify the game files, then reinstall as a last resort) [[src-cod-x-season-1-live-2026-11-06]]. Neither has a fix date yet.
 
 ## What do the notes leave out?
 A wipe, a DMZ level reset and any X01 details beyond the above, which they mark classified [[src-mw4-season-1-patch-notes-2026-11-05]]. See [[does-dmz-wipe]], [[does-your-level-reset-in-season-1]] and [[season-1]]. Older days: [[where-to-find-dmz-patch-notes]].

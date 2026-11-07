@@ -5,7 +5,7 @@ description: "Guarded towers: hack the laptop for a Side Op (2,000 DMZ Cash) and
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_ae67c70adc88, clm_0b7cfd4fc000, clm_1d639bef64e0, clm_03b714b0fbe6, clm_648f812941bc, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-allthingshow-dmz-orders-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-codcentral-dmz-dynamic-ops-2026-10-21, src-codcentral-dmz-orders-2026-10-21, src-dtgre-dmz-ops-guides-2026-10-21, src-codmunity-dmz-missions-2026-10-31, src-codmunity-hajin-map-2026-10-31, clm_afeff77fc10d]
+sources: [clm_ae67c70adc88, clm_0b7cfd4fc000, clm_1d639bef64e0, clm_03b714b0fbe6, clm_648f812941bc, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-allthingshow-dmz-orders-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-codcentral-dmz-dynamic-ops-2026-10-21, src-codcentral-dmz-orders-2026-10-21, src-dtgre-dmz-ops-guides-2026-10-21, src-codmunity-dmz-missions-2026-10-31, src-codmunity-hajin-map-2026-10-31, clm_afeff77fc10d, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["UAV tower reduction", "UAV tower spawns", "fewer UAV towers", "UAV Tower", "Activate UAV Tower", "activate a UAV tower", "UAV tower side op", "hack a UAV tower"]
 ---
 <!-- generated:start -->
@@ -38,7 +38,7 @@ It marks enemies, AI and players alike, around the tower for a while [[src-allth
 
 ## How do you hide from one?
 
-Since 2 Nov 2026 the Sedative Inhaler lasts 120 seconds, up from 60, partly to help you stay off tower pulses ([[medical-items]]) [[src-mw4-launch-patch-notes-2026-10-29]]. It does not yet hide you from a tower switched on by a rival with [[uav-upgrade]]; Infinity Ward plans to fix that in a Season 1 update [[src-mw4-launch-patch-notes-2026-10-29]].
+Since 2 Nov 2026 the Sedative Inhaler lasts 120 seconds, up from 60, partly to help you stay off tower pulses ([[medical-items]]) [[src-mw4-launch-patch-notes-2026-10-29]]. Since 6 Nov 2026 the Inhaler, [[thermal-padding]] and Thermal Padding Pro also hide you from a tower that a rival has upgraded with [[uav-upgrade]] to show direction; before that fix such towers still showed you [[src-mw4-season-1-patch-notes-2026-11-05]] [[src-mw4-launch-patch-notes-2026-10-29]].
 
 ## Where do UAV Towers come up in Orders and Ops?
 

@@ -5,7 +5,7 @@ description: "The always-open station that starts a deployment: pick a Story Mis
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_e797d03c82db, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-xbox-wire-dmz-features-2026-10-09, src-xbox-wire-dmz-operator-guide-2026-10-20, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_e797d03c82db, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-playstation-blog-dmz-2026-10-05, src-xbox-wire-dmz-features-2026-10-09, src-xbox-wire-dmz-operator-guide-2026-10-20, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-cod-x-season-1-live-2026-11-06]
 aliases: ["infil", "deployment", "Ready Up", "Free Loadout", "Squad Fill", "how to deploy"]
 station: deploy
 unlock: start
@@ -28,6 +28,8 @@ Three kinds of deployment: [[story-missions]], [[dynamic-operations]] and [[free
 ## How do you go in?
 
 For Dynamic Operations and Free Roam you also pick an infil: free on foot, or a paid vehicle, helicopter or plane drop ([[paid-infil]]) [[src-activision-dmz-guide-part2-2026-10-09]]. The paid options open through Story Missions (reported) [[src-codmunity-dmz-guide-2026-10-24]] [[src-skycoach-dmz-beginner-guide-2026-10-19]].
+
+Since 5 PM PST on 6 Nov 2026 you can also deploy straight into [[x01]] from the FOB, instead of entering it from inside Hajin [[src-cod-x-season-1-live-2026-11-06]] [clm_335123e1ad31].
 
 ## What happens at Ready Up?
 

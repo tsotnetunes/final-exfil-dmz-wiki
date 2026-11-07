@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Since 5 Nov 2026 the newest notes are Activision's separate Season 1 patch notes page, which was extended the same day; the earlier updates stay on the living launch notes page, newest day first, each with its own DMZ section [[src-mw4-season-1-patch-notes-2026-11-05]] [[src-mw4-launch-patch-notes-2026-10-29]]. Final Exfil reads both every 30 minutes and keeps every line with its day at finalexfil.com/patches [[src-mw4-launch-patch-notes-2026-10-29]].
+Since 5 Nov 2026 the newest notes are Activision's separate Season 1 patch notes page, which was extended the same day and again on 6 Nov 2026, newest day first; the earlier updates stay on the living launch notes page, newest day first, each with its own DMZ section [[src-mw4-season-1-patch-notes-2026-11-05]] [[src-mw4-launch-patch-notes-2026-10-29]]. Final Exfil reads both every 30 minutes and keeps every line with its day at finalexfil.com/patches [[src-mw4-launch-patch-notes-2026-10-29]].
 
 ## Which days changed DMZ?
 | Day | DMZ highlights |
@@ -27,6 +27,7 @@ Since 5 Nov 2026 the newest notes are Activision's separate Season 1 patch notes
 | 30 Oct | the cash increases with numbers, Boss Board intel purchase fixed |
 | 2 Nov | 40% fewer UAV Towers, placed at random; Sedative Inhaler 120 seconds; Truce Flag cooldown 60 seconds; SAM Site, retired Operator and Bounty fixes |
 | 5 Nov (Season 1) | X01, Possum wait 5 minutes and 2.5 times the distance, Supplied Drops 50%, Crossfire stronger against tanks, less Weapon XP from vehicle kills, duplication fixes: see [[what-changed-in-dmz-in-season-1]] |
+| 6 Nov (Season 1 update) | Thermal Padding and the Sedative Inhaler hide you from towers upgraded by UAV Upgrade, clearer Trait texts, Upper Class Order and BlackCell reward fixes: see [[what-changed-in-dmz-in-season-1]] |
 
 All from the official patch notes [[src-mw4-launch-patch-notes-2026-10-29]] [[src-mw4-season-1-patch-notes-2026-11-05]]. Cash numbers: [[how-to-make-money-in-dmz]].
 

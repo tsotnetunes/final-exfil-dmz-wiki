@@ -383,3 +383,6 @@
 - id: g128
   question: Who is The Captain in X01?
   must_retrieve: [the-captain]
+- id: g129
+  question: What did Infinity Ward post on Season 1 day one about the direct FOB deployment to X01 and the Hajin transition bug?
+  must_retrieve: [src-cod-x-season-1-live-2026-11-06]
