@@ -1305,3 +1305,7 @@
 ## [2026-11-06 19:49 EST] edit | daily update 2026-11-06: Season 1 live; 6 Nov patch (Thermal Padding and Inhaler beat upgraded UAV Towers, Upper Class and BlackCell fixes); X01 direct FOB deploy and Hajin transition bug; free DMZ trial to 11 Nov
 - changed: .kac 1, evals 1, index 8, index.md 1, raw 2, wiki 16
 - run: r-20261106-194910-a49e
+
+## [2026-11-06 21:16 EST] edit | community sweep 2026-11-07: DMZHub Season 1 entries: Cronen Osprey and CSG-35 Manuals, X01 Superintendent's Office key, Ceramic Pup of Loyalty valuable (reported); codmunity not reachable
+- changed: .kac 1, index 6, index.md 1, raw 1, wiki 9
+- run: r-20261106-211627-bdc7

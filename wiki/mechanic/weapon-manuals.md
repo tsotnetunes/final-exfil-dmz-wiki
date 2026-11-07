@@ -5,7 +5,7 @@ description: "Extract a weapon's Manual once and you can buy that gun in the Gun
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9ee7db0a613a, clm_829158fd0af8, clm_7c38c749ea9e, clm_361b76712abe, clm_4f7ad24e07bb, clm_ba8f6549bb93, src-codmunity-dmz-guide-2026-11-03, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-gfinity-dmz-weapon-manuals-2026-10-27, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-weapon-manual-farm-2026-10-22, src-dmzhub-weapon-manuals-2026-10-31, src-dmzhub-weapons-2026-10-31, src-dmzhub-items-2026-11-06]
+sources: [clm_9ee7db0a613a, clm_829158fd0af8, clm_7c38c749ea9e, clm_361b76712abe, clm_4f7ad24e07bb, clm_ba8f6549bb93, src-codmunity-dmz-guide-2026-11-03, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-activision-mw4-launch-weapons-2026-10-19, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-gfinity-dmz-weapon-manuals-2026-10-27, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-weapon-manual-farm-2026-10-22, src-dmzhub-weapon-manuals-2026-10-31, src-dmzhub-weapons-2026-10-31, src-dmzhub-items-2026-11-06, src-dmzhub-items-2026-11-07]
 aliases: ["weapon manual", "manual", "manuals", "gun manual", "Manual: M4", "how to unlock weapons", "unlock guns in DMZ", "3 weapon manuals"]
 ---
 <!-- generated:start -->
@@ -66,8 +66,10 @@ The Manuals the database lists, by the name it gives each item; five of them sho
 | Manual: RPG-8 | RPG-8 | 5,000 | yes |
 | Manual: Jokr | JOKR | | |
 | Manual: PM-40 Anvil | PM-40 Anvil | | |
+| Manual: Cronen Osprey (Season 1) | [[cronen-osprey-assault-rifle]] | | |
+| Manual: CSG-35 (Season 1) | [[csg-35-smg]] | | |
 
-DMZHub now files the SANG 9mm entry as a Weapon Manual tied to the pistol, but still shows a value of 900 rather than the 5,000 other Manuals pay, so that figure is unconfirmed (reported) [[src-dmzhub-items-2026-11-06]]. The FSS Carbon Edge 1095 knife has no Manual on the list [[src-dmzhub-weapons-2026-10-31]].
+DMZHub now files the SANG 9mm entry as a Weapon Manual tied to the pistol, but still shows a value of 900 rather than the 5,000 other Manuals pay, so that figure is unconfirmed (reported) [[src-dmzhub-items-2026-11-06]]. The FSS Carbon Edge 1095 knife has no Manual on the list [[src-dmzhub-weapons-2026-10-31]]. On 6 Nov 2026, the day Season 1 began, the same database added Manual items for the two new Season 1 guns, the Cronen Osprey and the CSG-35, with no value or drop location shown yet (reported) [[src-dmzhub-items-2026-11-07]].
 
 ## Where do you find Weapon Manuals?
 

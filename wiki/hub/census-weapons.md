@@ -40,8 +40,8 @@ Launch weapons (33) and their Apex Attachments come from the official launch gui
 | MAR-9, Oris 8.6, Signal 50 | rows in [[weapons]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzcodex-gunsmith-2026-10-29]] | published (rows) |
 | SANG 9mm, Krait P68, .50 GS, Mojave .357 | rows in [[weapons]] | [[src-activision-mw4-launch-weapons-2026-10-19]] | published (rows; DMZ prices not confirmed) |
 | PILA, RPG-8, JOKR, PM-40 Anvil, FSS Carbon Edge 1095 | rows in [[weapons]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-codmunity-dmz-items-2026-10-26]] | published (rows) |
-| Cronen Osprey (Season 1) | [[cronen-osprey-assault-rifle]] | [[src-activision-season-1-announcement-2026-10-28]] | published (out 6 Nov; DMZ route not confirmed) |
-| CSG-35 (Season 1) | [[csg-35-smg]] | [[src-activision-season-1-announcement-2026-10-28]] | published (out 6 Nov; DMZ route not confirmed) |
+| Cronen Osprey (Season 1) | [[cronen-osprey-assault-rifle]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-dmzhub-items-2026-11-07]] | published (out 6 Nov; Manual listed, reported) |
+| CSG-35 (Season 1) | [[csg-35-smg]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-dmzhub-items-2026-11-07]] | published (out 6 Nov; Manual listed, reported) |
 | JAK 12, ZLR Talonhawk (Season 1) | rows in [[weapons]] | [[src-activision-season-1-announcement-2026-10-28]] | published (rows; later in Season 1) |
 
 ## Variants and Blueprints
@@ -86,6 +86,7 @@ All are rows in the Manual table of [[weapon-manuals]], listed by a community da
 | Manual: Mojave .357, Pila, RPG-8 | rows in [[weapon-manuals]] | [[src-dmzhub-weapon-manuals-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Manual: Jokr, PM-40 Anvil | rows in [[weapon-manuals]] | [[src-dmzhub-weapon-manuals-2026-10-31]] | published (reported) |
 | Manual: SANG 9mm | row in [[weapon-manuals]] | [[src-dmzhub-weapon-manuals-2026-10-31]] [[src-dmzhub-items-2026-11-06]] | published (reported; value of 900 unconfirmed) |
+| Manual: Cronen Osprey, CSG-35 (Season 1) | rows in [[weapon-manuals]] | [[src-dmzhub-items-2026-11-07]] | published (reported; no value or drop yet) |
 | FSS Carbon Edge 1095 | none | [[src-dmzhub-weapons-2026-10-31]] | no Manual listed |
 
 ## Stations, upgrades and systems

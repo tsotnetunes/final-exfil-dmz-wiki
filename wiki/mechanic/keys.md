@@ -1,12 +1,12 @@
 ---
 type: mechanic
 title: "Keys and locked loot rooms"
-description: "Every known DMZ key (61): what it opens, its grid square, rarity and source. A key is used up when its door opens; keep it in a Secure Slot so a death does not cost it."
+description: "Every known DMZ key (61 in Hajin, the first in X01): what it opens, its grid square, rarity and source. A key is used up when its door opens; keep it in a Secure Slot so a death does not cost it."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_2faa69935f53, clm_615bc6b7091c, clm_2595c71db2ff, src-dmzhub-keys-2026-11-05, src-dmzhub-keys-2026-11-03, src-dmzhub-keys-2026-11-02, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-gamespot-from-the-ward-ep7-2026-10-05, src-dmzhub-keys-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-keys-2026-10-28, src-gamingpromax-dmz-keys-2026-10-27, src-xboxplay-dmz-keys-2026-10-22, src-criticalhits-dmz-keys-2026-10-26, src-dexerto-jang-ui-power-room-2026-10-24, src-gamerfuzion-solo-vault-run-2026-10-25, src-gfinity-story-mission-rewards-2026-10-23, src-codmunity-dmz-traits-2026-10-30, src-mw4-season-1-patch-notes-2026-11-05]
-aliases: ["key", "keys", "MW4 DMZ keys", "are there keys in DMZ", "DMZ keys list", "locked room", "loot room", "key rooms", "where to find keys", "key locations", "access card", "keycard", "red key", "DRC Locker", "DRC weapon locker key", "Police Station Key", "Police Station Armory", "Gun Store Weapons Locker Key", "Black Market Weapons Locker Key", "Blackmarket Weapons Locker", "Bank Branch Vault Access", "Gas Station Electrical Room", "Fire Station Storage"]
+sources: [clm_2faa69935f53, clm_615bc6b7091c, clm_2595c71db2ff, src-dmzhub-keys-2026-11-05, src-dmzhub-keys-2026-11-03, src-dmzhub-keys-2026-11-02, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-gamespot-from-the-ward-ep7-2026-10-05, src-dmzhub-keys-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-keys-2026-10-28, src-gamingpromax-dmz-keys-2026-10-27, src-xboxplay-dmz-keys-2026-10-22, src-criticalhits-dmz-keys-2026-10-26, src-dexerto-jang-ui-power-room-2026-10-24, src-gamerfuzion-solo-vault-run-2026-10-25, src-gfinity-story-mission-rewards-2026-10-23, src-codmunity-dmz-traits-2026-10-30, src-mw4-season-1-patch-notes-2026-11-05, src-dmzhub-items-2026-11-07]
+aliases: ["key", "keys", "Superintendent's Office", "Superintendent's Office key", "X01 key", "MW4 DMZ keys", "are there keys in DMZ", "DMZ keys list", "locked room", "loot room", "key rooms", "where to find keys", "key locations", "access card", "keycard", "red key", "DRC Locker", "DRC weapon locker key", "Police Station Key", "Police Station Armory", "Gun Store Weapons Locker Key", "Black Market Weapons Locker Key", "Blackmarket Weapons Locker", "Bank Branch Vault Access", "Gas Station Electrical Room", "Fire Station Storage"]
 ---
 <!-- generated:start -->
 Keys and locked loot rooms allow players to access restricted weapon storage and secure loot containers across DMZ. Obtaining the correct key enables access to valuable gear and completes specific mission requirements.
@@ -61,4 +61,8 @@ The full lists, with what each door holds, its grid square and where the key dro
 
 Fixed on 28 Oct 2026: an Airbase Access Card kept in the Secure Slot could not be upgraded while a Story Mission was running [[src-mw4-launch-patch-notes-2026-10-29]]. The official guide's field report, a short story, has a key from [[the-warden]] opening a sealed room under NuriGO Mall [[src-activision-dmz-guide-part1-2026-10-05]].
 The Season 1 patch notes name an Emergency Egress Keycard, fixing its pickup when your Backpack is full, without saying what it opens [[src-mw4-season-1-patch-notes-2026-11-05]].
+
+## Which keys open doors in X01?
+
+The first X01 key a community database lists is the Superintendent's Office key, rated Epic. Its door is at grid F4 of X01, an office reached over a raised platform inside the site's Main Warehouse (reported) [[src-dmzhub-items-2026-11-07]]. What the office holds and where the key drops are not known yet. See [[x01]].
 <!-- human:end -->

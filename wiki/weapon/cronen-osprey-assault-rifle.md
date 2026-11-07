@@ -1,14 +1,14 @@
 ---
 type: weapon
 title: "Cronen Osprey assault rifle"
-description: "Season 1 assault rifle arriving 6 Nov 2026 at Battle Pass tier 16, with the Cronen Helix Mk. II Apex; how it reaches DMZ (a Weapon Manual or not) is not confirmed yet."
+description: "Season 1 assault rifle arriving 6 Nov 2026 at Battle Pass tier 16, with the Cronen Helix Mk. II Apex; a community database lists a Manual for it in DMZ (reported)."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_da1b7f67fba5, clm_3152fc2ad15c, clm_0d810f25199a, clm_efdd5ffe80d3, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-gunsmith-2026-10-29, src-dmzhub-weapons-2026-10-31]
+sources: [clm_da1b7f67fba5, clm_3152fc2ad15c, clm_0d810f25199a, clm_efdd5ffe80d3, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-gunsmith-2026-10-29, src-dmzhub-weapons-2026-10-31, src-dmzhub-items-2026-11-07]
 aliases: ["Cronen Osprey", "Osprey", "Osprey AR", "Cronen Helix Mk. II", "Cronen Helix", "new Season 1 AR"]
 class: "Assault rifle"
-manual_source: "not confirmed"
+manual_source: "Weapon Manual (reported; drop location not known)"
 ---
 <!-- generated:start -->
 The Cronen Osprey assault rifle manual source is not known.
@@ -46,5 +46,5 @@ From the Season 1 announcement [[src-activision-season-1-announcement-2026-10-28
 
 ## Will it be in DMZ?
 
-Not confirmed yet. The Season 1 post names no DMZ weapons and says nothing about Weapon Manuals [[src-activision-season-1-announcement-2026-10-28]]. Every launch gun except the knife has a Manual you must extract before the [[gunsmith]] sells it [[src-activision-dmz-guide-part2-2026-10-09]] [[src-dmzhub-weapons-2026-10-31]], so look for a Cronen Osprey Manual in Hajin after 6 Nov ([[weapon-manuals]]). A blueprint you own can be built once for free in DMZ even without the Manual [[src-dmztracker-gunsmith-2026-10-29]] ([[blueprints]]). The launch list's other Cronen rifle is the Cronen Squall ([[weapons]]).
+Probably, through a Weapon Manual like the launch guns. On 6 Nov 2026 a community database added a "Manual: Cronen Osprey" item, filed as a Season 1 Weapon Manual, but it shows no value and no place to find it yet (reported) [[src-dmzhub-items-2026-11-07]]. The Season 1 post itself names no DMZ weapons and says nothing about Weapon Manuals [[src-activision-season-1-announcement-2026-10-28]]. Every launch gun except the knife has a Manual you must extract before the [[gunsmith]] sells it [[src-activision-dmz-guide-part2-2026-10-09]] [[src-dmzhub-weapons-2026-10-31]], so extract a Cronen Osprey Manual before you can buy the gun ([[weapon-manuals]]). A blueprint you own can be built once for free in DMZ even without the Manual [[src-dmztracker-gunsmith-2026-10-29]] ([[blueprints]]). The launch list's other Cronen rifle is the Cronen Squall ([[weapons]]).
 <!-- human:end -->
