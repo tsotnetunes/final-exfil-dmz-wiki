@@ -5,7 +5,7 @@ description: "Onyx dogtags are an item in DMZ that players report can be lost du
 status: draft
 brain_status: candidate
 sensitivity: public
-sources: [clm_672f11340d39]
+sources: []
 ---
 <!-- generated:start -->
 Onyx dogtags are an item in DMZ that players can carry and lose during a match.

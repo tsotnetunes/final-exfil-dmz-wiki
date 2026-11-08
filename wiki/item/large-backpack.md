@@ -5,7 +5,7 @@ description: "A large pack with 2 Secure Slots and a spare weapon slot; a DMZ le
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_96d3529fa91b, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-dmzcodex-backpacks-2026-10-31, src-dmzradar-backpacks-2026-10-20, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-xboxplay-large-backpack-2026-10-23, src-allthings-how-large-backpack-2026-10-21, src-windowscentral-dmz-backpacks-2026-10-22, src-codmunity-dmz-items-2026-10-26, src-wzstats-dmz-loot-2026-10-30]
+sources: [src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-dmzcodex-backpacks-2026-10-31, src-dmzradar-backpacks-2026-10-20, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-xboxplay-large-backpack-2026-10-23, src-allthings-how-large-backpack-2026-10-21, src-windowscentral-dmz-backpacks-2026-10-22, src-codmunity-dmz-items-2026-10-26, src-wzstats-dmz-loot-2026-10-30]
 aliases: ["large bag", "big backpack", "level 34 backpack"]
 ---
 <!-- generated:start -->

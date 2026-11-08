@@ -10,7 +10,11 @@ aliases: ["unknowns", "what we don't know about DMZ", "unanswered DMZ questions"
 stale_after: 2026-11-13
 ---
 <!-- generated:start -->
-_No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
+Questions players asked on Final Exfil's Ask that the wiki cannot fully answer yet, most asked first. Each one leaves this list when its answer reaches the wiki and the answer card updates itself.
+
+No open questions right now.
+
+_Generated from Ask's open questions: none open._
 <!-- generated:end -->
 
 <!-- human:start -->

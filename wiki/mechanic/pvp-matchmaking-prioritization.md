@@ -5,7 +5,7 @@ description: "Reported, not confirmed: after the 28 Oct 2026 update DMZ matchmak
 status: draft
 brain_status: draft
 sensitivity: public
-sources: [clm_d1e82587707a, clm_bbaff371a6b3, clm_c7368582e2c4, src-detonated-dmz-story-matchmaking-2026-10-29, src-ixbt-dmz-pvp-matchmaking-2026-10-30, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-dmztracker-story-missions-2026-10-20]
+sources: [clm_d1e82587707a, clm_c7368582e2c4, src-detonated-dmz-story-matchmaking-2026-10-29, src-ixbt-dmz-pvp-matchmaking-2026-10-30, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-dmztracker-story-missions-2026-10-20]
 aliases: ["PvP priority DMZ", "DMZ matchmaking change", "more PvP in DMZ", "story mission matchmaking", "DMZ matchmaking rollback", "near-PvE story lobbies"]
 ---
 <!-- generated:start -->
