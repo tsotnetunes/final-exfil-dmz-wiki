@@ -12,9 +12,9 @@ stale_after: 2026-11-13
 <!-- generated:start -->
 Questions players asked on Final Exfil's Ask that the wiki cannot fully answer yet, most asked first. Each one leaves this list when its answer reaches the wiki and the answer card updates itself.
 
-- **What is a tourniquet?** Not known yet: The wiki has no page about this yet. Asked 2 times.
+No open questions right now.
 
-_Generated from Ask's open questions on 8 Nov 2026: 1 open._
+_Generated from Ask's open questions: none open._
 <!-- generated:end -->
 
 <!-- human:start -->
