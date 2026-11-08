@@ -24,7 +24,7 @@ What the Codex cannot answer yet, as of 5 Nov 2026. When one of these is settled
 - **Lifetime DMZ stats.** No source shows a DMZ K/D or extraction rate in the game ([[how-to-check-your-stats-in-dmz]]).
 - **Bank cap at the start.** Community data begins at Bank Upgrade I (250,000) [[src-dmzhub-upgrades-2026-10-31]]; the cap before any upgrade was reported as 100,000 before launch (reported) [clm_06c3db0d22f9]. See [[is-there-a-bank-limit-in-dmz]].
 - **Level 37 vest for early players.** On 29 Oct Activision was still working on granting the 3-Plate Armor Vest to players who passed level 37 before the fix [[src-mw4-launch-patch-notes-2026-10-29]].
-- **Prestige rewards and the bug.** Prestiging several Operators earns calling cards and other rewards the 9 Oct guide keeps secret, and Activision gives no fix date for the fault that takes items without granting a Trait ([[operator-prestige]]).
+- **Prestige rewards and the bug.** Prestiging several Operators earns calling cards and other rewards the 9 Oct guide keeps secret, and since Activision listed the Prestige bug as resolved on 6 Nov 2026 it is still unknown whether players who lost gear or DMZ Cash get it back ([[operator-prestige]]).
 
 ## Items
 - **Vault Edition items.** Activision has not documented Weapon Insurance Contracts and Operator Rescue Beacons; a tooltip reading is on [[what-do-rescue-beacons-and-weapon-insurance-do]]. Whether the Fulton Drop Marker lifts you or only loot is not known [[src-dmztracker-fulton-drop-marker-2026-10-15]]. See [[what-does-the-fulton-drop-marker-do]].

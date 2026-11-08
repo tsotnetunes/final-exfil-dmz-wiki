@@ -386,3 +386,9 @@
 - id: g129
   question: What did Infinity Ward post on Season 1 day one about the direct FOB deployment to X01 and the Hajin transition bug?
   must_retrieve: [src-cod-x-season-1-live-2026-11-06]
+- id: g130
+  question: Is the DMZ Operator Prestige bug fixed?
+  must_retrieve: [operator-prestige]
+- id: g131
+  question: Why is Platinum camo not tracking on the Cronen Osprey?
+  must_retrieve: [cronen-osprey-assault-rifle]

@@ -20,7 +20,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Operator XP Traits (Fast Learner, Faster Learner) | rows in [[double-xp-tokens]] | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmztracker-level-up-fast-2026-10-22]] | published |
 | Operator Prestige: requirements, costs, reset, rewards | [[operator-prestige]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-dmztracker-operator-prestige-2026-10-20]] [[src-xbox-wire-dmz-operator-guide-2026-10-20]] | published |
 | Permanent Prestige Traits (12 Pro Traits) | rows in [[operator-prestige]] | [[src-gamerfuzion-dmz-best-traits-2026-10-23]] [[src-dmztracker-operator-prestige-2026-10-20]] [[src-mw4-launch-patch-notes-2026-10-29]] | published (effects reported) |
-| Prestige issues (failed Prestige, workaround, lost resources) | rows in [[operator-prestige]] | [[src-dmztracker-operator-prestige-2026-10-20]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |
+| Prestige issues (failed Prestige, workaround, lost resources; resolved 6 Nov 2026) | rows in [[operator-prestige]] | [[src-dmztracker-operator-prestige-2026-10-20]] [[src-mw4-launch-patch-notes-2026-10-29]] [[src-activision-known-issues-2026-11-07]] | published |
 | After Action Report | [[after-action-report]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-codcentral-dmz-xp-strategies-2026-10-30]] | published |
 | DMZ Mastery camos: Chiral, Ripple Tide, Helio | rows in [[dmz-camos]] | [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
 | DMZ Mastery calling card sets and beta rewards | rows in [[dmz-camos]] | [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
