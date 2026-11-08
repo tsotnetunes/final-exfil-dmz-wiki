@@ -392,3 +392,6 @@
 - id: g131
   question: Why is Platinum camo not tracking on the Cronen Osprey?
   must_retrieve: [cronen-osprey-assault-rifle]
+- id: g132
+  question: Do Secure Slot items come back if an enemy loots your backpack?
+  must_retrieve: [secure-slots]

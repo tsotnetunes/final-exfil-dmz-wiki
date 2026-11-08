@@ -1317,3 +1317,7 @@
 ## [2026-11-07 21:15 EST] edit | community sweep 2026-11-08: DMZHub Season 1 entries: X01 Vault DRC Locker Key, Hazmat Box field upgrade, Hazmat Suit reactor spawns, Fast/Faster Learner 10% XP (reported); codmunity not reachable
 - changed: .kac 1, index 7, index.md 1, raw 2, wiki 12
 - run: r-20261107-211534-04a3
+
+## [2026-11-08 11:00 EST] edit | Secure Slots: items in a looted backpack's Secure Slot come back in the FOB (tested in game 8 Nov 2026), with its first-hand source and a golden question
+- changed: .kac 1, evals 1, index 5, index.md 1, raw 1, wiki 2
+- run: r-20261108-110006-73b2

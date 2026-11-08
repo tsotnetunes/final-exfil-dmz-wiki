@@ -1,12 +1,12 @@
 ---
 type: mechanic
 title: "Secure Slots"
-description: "Secure Slots in better backpacks keep their items when you fail to exfil; the Medium Backpack has one and the Basic Pack none. Keep keys and your best find there."
+description: "Secure Slots in better backpacks keep their items when you fail to exfil, and a test found they come back even after the backpack is looted. The Medium Backpack has one."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_b83a508a7fac, clm_0a8ddc7fe171, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
-aliases: ["Secure Slot", "safe pocket", "Safe Pocket", "secure pocket", "keep items when you die", "secure backpack"]
+sources: [clm_b83a508a7fac, clm_0a8ddc7fe171, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-finalexfil-secure-slot-test-2026-11-08]
+aliases: ["Secure Slot", "safe pocket", "Safe Pocket", "secure pocket", "keep items when you die", "secure backpack", "looted backpack secure slot"]
 ---
 <!-- generated:start -->
 Secure Slots protect inventory items so they are not lost upon a failed extraction. They matter to players who want to preserve their gear when an exfil fails.
@@ -33,4 +33,8 @@ Better backpacks add slots, weapon slots and Secure Slots [[src-activision-dmz-g
 ## What do you still lose?
 
 Everything outside the Secure Slot: weapons in hand, armor, the rest of the backpack and carried cash. The Operator also goes MIA ([[mia-system]]) [[src-activision-dmz-guide-part2-2026-10-09]]. Full list: [[what-carries-over]].
+
+## What if your backpack is looted?
+
+Losing the backpack does not lose what was in its Secure Slot. In a test on 8 Nov 2026, a player was eliminated, an enemy looted the backpack with the Secure Slot, and the player was revived and exfilled with no backpack that has Secure Slots. Back in the FOB, the Secure Slot items reappeared as soon as a backpack with a Secure Slot was equipped again [[src-finalexfil-secure-slot-test-2026-11-08]]. This is one test (reported until a second source agrees); a failed exfil after a looting was not tested.
 <!-- human:end -->
