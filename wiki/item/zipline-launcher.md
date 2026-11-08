@@ -5,14 +5,17 @@ description: "Retired: the Zipline Launcher is a Warzone tool, not a DMZ item; n
 status: deprecated
 brain_status: retired
 sensitivity: public
-sources: [clm_32419a677fe7]
+sources: [clm_32419a677fe7, clm_ee08ef9e0906]
 ---
 <!-- generated:start -->
-The Zipline Launcher is a new tool available in Warzone.
+The Zipline Launcher is a new tool in Warzone.
 
-* The Zipline Launcher is a new tool in Warzone.
+## What is the Zipline Launcher?
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-10-27._
+* The Zipline Launcher was confirmed as a new tool in Warzone on 14 Oct 2026.
+* Players also reported the Zipline Launcher as a new item in Warzone on 4 Nov 2026.
+
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -5,7 +5,7 @@ description: "The basic three-plate vest: a DMZ level 37 reward (granted properl
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_8f5238d9722b, clm_ad2697e494a8, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-conquestcapped-dmz-keys-2026-10-28]
+sources: [clm_8f5238d9722b, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-conquestcapped-dmz-keys-2026-10-28]
 aliases: ["3 plate vest", "three plate vest", "3-plate vest", "3 plate armor", "3-Plate Armour Vest", "level 37 vest"]
 ---
 <!-- generated:start -->

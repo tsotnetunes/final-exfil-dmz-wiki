@@ -5,16 +5,17 @@ description: "Retired: the Grabber Drone is a Warzone tool, not a DMZ item; no D
 status: deprecated
 brain_status: retired
 sensitivity: public
-sources: [clm_58e88312e9c3]
+sources: [clm_58e88312e9c3, clm_eabeff2d4db4]
 ---
 <!-- generated:start -->
-The Grabber Drone is a new tool available to players in Warzone. It was confirmed as an addition to Warzone on 14 Oct 2026.
+The Grabber Drone is a new tool in Warzone. It offers players a new tool option to utilize during matches.
 
-## What is known about the Grabber Drone?
+## What is the Grabber Drone in Warzone?
 
-* The Grabber Drone is classified as a tool in Warzone.
+* The Grabber Drone was confirmed as a new tool in Warzone on 14 Oct 2026.
+* Players reported that the Grabber Drone is a new item in Warzone on 4 Nov 2026.
 
-_Generated from 1 confirmed and 0 reported claims across 1 posts and 0 patch notes; last rendered 2026-11-01._
+_Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

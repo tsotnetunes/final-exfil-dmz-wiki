@@ -5,7 +5,7 @@ description: "Max health is 150. The tourniquet gets you up from Last Stand at 1
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_3fc45e2c36d0, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-launch-weapons-2026-10-19, src-dmzhub-items-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, src-dmzmap-skill-tree-2026-10-29, src-gamerfuzion-dmz-best-traits-2026-10-23, src-playhub-best-traits-2026-10-28, src-mw4-season-1-patch-notes-2026-11-05]
+sources: [clm_3fc45e2c36d0, clm_a68b959f93c9, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-launch-weapons-2026-10-19, src-dmzhub-items-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, src-dmzmap-skill-tree-2026-10-29, src-gamerfuzion-dmz-best-traits-2026-10-23, src-playhub-best-traits-2026-10-28, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Healing", "Wounds", "Health", "Medkit", "Bandage", "Self-revive kit", "wound", "how to heal", "max health", "Last Stand"]
 ---
 <!-- generated:start -->

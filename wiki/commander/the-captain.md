@@ -5,7 +5,7 @@ description: "New Commander in X01 from Season 1 (6 Nov 2026): a Juggernaut with
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-season-1-announcement-2026-10-28, clm_93fc23c7a474]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-season-1-announcement-2026-10-28]
 aliases: ["Captain", "X01 boss", "X01 Commander", "Captain helmet", "Threat Briefing The Captain"]
 ---
 <!-- generated:start -->

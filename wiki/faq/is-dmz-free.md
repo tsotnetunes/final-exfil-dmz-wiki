@@ -5,8 +5,7 @@ description: "Not for good: DMZ is a mode of Modern Warfare 4, so you need the g
 status: stable
 brain_status: published
 sensitivity: public
-stale_after: 2026-11-12
-sources: [src-windows-central-dmz-reveal-2026-06-06, src-gamerfuzion-dmz-things-to-know-2026-10-03, src-activision-dmz-guide-part2-2026-10-09, src-gfinity-mw4-game-pass-2026-06-17, src-timesaver-mw4-subscriptions-2026-09-18, src-activision-season-1-announcement-2026-10-28, clm_c03d62d1bd39, clm_00eb4f492414, clm_0e0655be5769]
+sources: [src-windows-central-dmz-reveal-2026-06-06, src-gamerfuzion-dmz-things-to-know-2026-10-03, src-activision-dmz-guide-part2-2026-10-09, src-gfinity-mw4-game-pass-2026-06-17, src-timesaver-mw4-subscriptions-2026-09-18, src-activision-season-1-announcement-2026-10-28]
 aliases: ["is DMZ free", "is DMZ free to play", "do you need MW4 to play DMZ", "do I have to buy MW4 for DMZ", "DMZ price", "how much is DMZ", "DMZ F2P"]
 ---
 <!-- generated:start -->

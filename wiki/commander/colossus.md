@@ -5,7 +5,7 @@ description: "Roaming Commander: a seven-foot armoured soldier with a depleted-u
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_72b3d4d85f63, clm_35a8cbf4582f, src-dmzhub-items-2026-11-04, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-colossus-2026-10-21, src-xboxplay-colossus-2026-10-22, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05]
+sources: [clm_72b3d4d85f63, src-dmzhub-items-2026-11-04, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-colossus-2026-10-21, src-xboxplay-colossus-2026-10-22, src-allthingshow-dmz-bosses-2026-10-21, src-allthingshow-boss-board-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Colossus Commander", "Armored Commander", "minigun boss", "Collosus", "Colosus", "Goliath"]
 ---
 <!-- generated:start -->

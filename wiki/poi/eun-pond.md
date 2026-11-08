@@ -5,7 +5,7 @@ description: "A small pond northeast of Chang-san Air Base where one player foun
 status: draft
 brain_status: draft
 sensitivity: public
-sources: [clm_8719e23e99b8, clm_668532822df7]
+sources: []
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

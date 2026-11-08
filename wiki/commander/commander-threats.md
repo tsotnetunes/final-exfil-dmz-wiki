@@ -5,31 +5,26 @@ description: "All DMZ Commanders: Colossus, the Deathstalker and the Main NK Bat
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db, clm_a0e50790b208, clm_2709a2129c64, clm_855a0d332b7b, clm_a4061b133053, clm_45a3d3d59bfc, clm_718706a12b71, clm_d12acdac5305, clm_6cb6f07bc3cc, clm_4970f5d4d3d4, clm_89c9ddba2341, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-boss-board-2026-10-21, src-allthingshow-colossus-2026-10-21, src-allthingshow-deathstalker-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05]
+sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db, clm_a0e50790b208, clm_2709a2129c64, clm_855a0d332b7b, clm_a4061b133053, clm_45a3d3d59bfc, clm_718706a12b71, clm_6cb6f07bc3cc, clm_4970f5d4d3d4, clm_89c9ddba2341, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-boss-board-2026-10-21, src-allthingshow-colossus-2026-10-21, src-allthingshow-deathstalker-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Commanders", "Commander", "Wheelson", "Juggernaut", "Elite Strike Team", "drone swarm", "King Slayer", "King Slayer calling card", "commander bosses", "roaming commanders"]
 ---
 <!-- generated:start -->
-Commander threats are major hostile encounters in DMZ that provide high-value combat targets. Encountering and defeating them yields combat advantages and lootable rewards.
+Commander threats are high-value boss encounters encountered across deployments. Defeating these commanders yields specialized loot and eliminates powerful hostile patrols from the area.
 
-* The Captain was confirmed on 28 Oct 2026 to be a Juggernaut and his elite guard.
-* Wheelson was confirmed on 28 Oct 2026 as an autonomous patrolling commander.
-
-## What commanders appear in DMZ?
-
-* The Captain is confirmed as a Juggernaut accompanied by his elite guard.
-* Wheelson operates as an autonomous patrolling commander.
-* Players report that a Death Stalker can appear above buildings.
-* Players report that a drone swarm can hover around buildings.
+- On 28 Oct 2026, The Captain was confirmed to be a Juggernaut accompanied by his elite guard.
+- On 28 Oct 2026, Wheelson was confirmed as an autonomous patrolling commander.
+- A drone swarm can hover around buildings, as reported by players.
 
 ## How do players defeat commander threats?
 
-* Players report that the Deathstalker commander boss in DMZ drops 3 lootable parts.
-* Players report that an RPG can take down the Deathstalker commander boss in DMZ with 2 rockets.
-* Players report that the Astaroth 57 sniper can take down the Deathstalker commander boss in DMZ with 4 well placed shots.
-* Players report that Colossus can be taken down solo in DMZ.
-* Players report that defeating Colossus solo requires 2 shock sticks and 7-8 thermite.
+- Players report that a Death Stalker can appear above buildings.
+- The Deathstalker commander drops 3 lootable parts according to player reports.
+- Players report that an RPG can take down the Deathstalker Commander Boss in DMZ with just 2 rockets.
+- Players report that the Astaroth 57 sniper can take down the Deathstalker Commander Boss in DMZ with 4 well placed shots.
+- Players report that Colossus can be taken down solo in DMZ.
+- Taking down Colossus solo requires 2 shock sticks and 7 to 8 thermite, as reported by players.
 
-_Generated from 2 confirmed and 8 reported claims across 10 posts and 0 patch notes; last rendered 2026-11-04._
+_Generated from 2 confirmed and 7 reported claims across 9 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

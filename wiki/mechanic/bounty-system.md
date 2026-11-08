@@ -5,23 +5,25 @@ description: "Killing players puts a Bounty on your Dog Tag; four kills make you
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_bb4b2157af60, clm_162bac1414e5, clm_8ed714d7c354, clm_fc75f811681c, clm_25cf22beb910, clm_c80b93d2008f, clm_d240548672df, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-cod-dmz-bounty-systems-video-2026-10-08, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-traits-2026-10-30, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, clm_ee65f5d8c119, clm_609749ca75a5]
+sources: [clm_bb4b2157af60, clm_162bac1414e5, clm_8ed714d7c354, clm_fc75f811681c, clm_25cf22beb910, clm_c80b93d2008f, clm_d240548672df, clm_609749ca75a5, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-cod-dmz-bounty-systems-video-2026-10-08, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-traits-2026-10-30, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
 aliases: ["notoriety", "bounty", "Bounty Station", "pay off bounty", "Reduce Bounty", "Most Wanted", "bounty hunter", "Killer", "vultures", "bounty payout", "how to claim a bounty", "DMZ Bounty System"]
 ---
 <!-- generated:start -->
-The bounty system is a gameplay mechanic in Modern Warfare 4 DMZ that targets operators who eliminate other players. It introduces active targets and competitive tracking during matches.
+The bounty system in Modern Warfare 4 DMZ is a gameplay mechanic that targets operators who eliminate other players during a match. This system raises the stakes by placing rewards on aggressive operators and tracking competitive standing across the community.
 
-* Modern Warfare 4 DMZ features a bounty system, as reported by players.
-* Bounties function as an active mechanic in DMZ, according to player reports.
-* Confirmed on 8 Oct 2026, killing too many players in DMZ results in a bounty being placed on your head.
+## How do bounties work in DMZ?
+
+* In DMZ, killing too many players results in a bounty being placed on your head.
+* Players report that Modern Warfare 4 DMZ features this bounty mechanic.
 * Players report that killing another player in DMZ can place a $50 bounty on an operator's head.
 
-## How do DMZ bounty leaderboards work?
+## How do bounty leaderboards operate?
 
-* DMZ bounty leaderboards record a snapshot of the top 100 players and bounty hunters on Thursday mornings, according to player reports.
-* Players report that the DMZ bounty leaderboards require a manual review of the list and accounts before publication.
+* Players report that DMZ bounty leaderboards take a snapshot of the top 100 players and bounty hunters on Thursday mornings.
+* Players report that DMZ bounty leaderboards require a manual review of the list and accounts before they are published.
+* Players report that the DMZ Bounty Board seems to be bugged.
 
-_Generated from 1 confirmed and 5 reported claims across 7 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 1 confirmed and 6 reported claims across 8 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->
