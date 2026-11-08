@@ -5,28 +5,46 @@ description: "DMZ's launch map and its 13 named points of interest on the old NK
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_8accaa3d7831, clm_30653443233a, clm_60ec641390e2, clm_d81ecfda94de, clm_ebf7085229f9, clm_3816e02ae781, clm_d7748e7ec8bb, clm_a15a34d449f0, clm_75bb19ee9527, clm_055bb42b8019, clm_f68f29a313a0, clm_c78333ede552, clm_51e1596ff034, clm_4d070e33ff33, src-dmzhub-maps-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-dexerto-hajin-map-2026-10-05, src-activision-season-1-announcement-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-conquestcapped-dmz-guide-2026-10-26, src-gamespot-from-the-ward-ep7-2026-10-05, src-dmzhub-locations-2026-10-31, src-activision-warzone-season-1-blog-2026-11-02]
+sources: [clm_8accaa3d7831, clm_30653443233a, clm_60ec641390e2, clm_d81ecfda94de, clm_ebf7085229f9, clm_3816e02ae781, clm_d7748e7ec8bb, clm_a15a34d449f0, clm_75bb19ee9527, clm_055bb42b8019, clm_f68f29a313a0, clm_c78333ede552, clm_51e1596ff034, clm_4d070e33ff33, clm_1ab3dd3cc54c, clm_0e7f606f85b3, clm_06fcbe0e9508, src-dmzhub-maps-2026-10-31, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-dexerto-hajin-map-2026-10-05, src-activision-season-1-announcement-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-conquestcapped-dmz-guide-2026-10-26, src-gamespot-from-the-ward-ep7-2026-10-05, src-dmzhub-locations-2026-10-31, src-activision-warzone-season-1-blog-2026-11-02]
 aliases: ["Hajin", "the Exclusion Zone", "Hajin map", "DMZ map", "Hajin POIs", "Hajin points of interest", "named points of interest", "major POIs", "Vondel"]
 region: Hajin
 danger: varies
 loot_profile: all
 ---
 <!-- generated:start -->
-The Hajin Exclusion Zone is an active Exclusion Zone location in the game where players deploy for DMZ. It was confirmed as an active Exclusion Zone on 20 Oct 2026.
+The Hajin Exclusion Zone is an active Exclusion Zone location in the game where players deploy for mission objectives.
 
 ## Where is it?
 
-The Hajin Exclusion Zone is a confirmed in-game location that was verified on 26 Oct 2026. A whole new Exclusion Zone to explore in DMZ was confirmed for Season 1 on 28 Oct 2026. Players report that DMZ takes place in Hajin. Players also report that Hajin is a massive Battle Royale map set on the Korean Peninsula. Ground War maps are reported by players to be pockets derived from the Hajin map in DMZ. Players report that Modern Warfare 4 Warzone Season 1 adds the new Hajin map on 6 Nov.
+The Hajin Exclusion Zone was confirmed as an active Exclusion Zone on 20 Oct 2026.
+
+Modern Warfare 4 DMZ features a whole new Exclusion Zone to explore in Season 1, confirmed on 28 Oct 2026.
+
+Players report that DMZ takes place in Hajin.
+
+Players report that Hajin is a massive Battle Royale map set on the Korean Peninsula for Warzone.
+
+Players report that MW4 Warzone Season 1 adds the new Hajin map on 6 Nov.
+
+Players report that Ground War maps are pockets derived from the Hajin map in DMZ.
 
 ## What loot is there?
 
-No loot profiles or specific loot items are documented for the Hajin Exclusion Zone.
+No specific loot profiles or item spawns are documented for the Hajin Exclusion Zone.
 
 ## How dangerous is it?
 
-Operators can be present inside the Hajin Exclusion Zone. Players report that not every Operator in Hajin is focused on the mission. Hajin will host 60 players across 20 squads, according to player reports. The Ground War mode derived from Hajin supports 64 players, as reported by players. Players report that the Hajin map features dynamic weather conditions. Localized weather systems are reported by players to affect the Hajin Gulag.
+The Hajin Exclusion Zone contains enemy Operators who may not be focused on the mission, according to player reports.
 
-_Generated from 3 confirmed and 8 reported claims across 11 posts and 0 patch notes; last rendered 2026-11-04._
+Players report that Hajin will host 60 players across 20 squads.
+
+Players report that Ground War mode supports 64 players across maps derived from Hajin.
+
+Players report that Warzone's Hajin map features dynamic weather conditions.
+
+Players report that localized weather systems affect the Hajin Gulag.
+
+_Generated from 3 confirmed and 9 reported claims across 12 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

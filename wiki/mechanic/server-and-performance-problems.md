@@ -5,7 +5,7 @@ description: "Retired duplicate. Crashes, disconnects and lost gear are on the S
 status: deprecated
 brain_status: retired
 sensitivity: public
-sources: [clm_9d9df8f6869e, clm_16b585872ac3]
+sources: [clm_9d9df8f6869e]
 ---
 <!-- generated:start -->
 Server and performance problems in DMZ disrupt matches and directly threaten extraction. Issues such as crashes and latency can interrupt a run and cause players to lose their exfil attempts.

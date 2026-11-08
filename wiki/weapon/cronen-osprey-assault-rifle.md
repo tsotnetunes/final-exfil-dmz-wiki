@@ -5,7 +5,7 @@ description: "Season 1 assault rifle, in the game since 6 Nov 2026 at Battle Pas
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_da1b7f67fba5, clm_3152fc2ad15c, clm_0d810f25199a, clm_efdd5ffe80d3, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-gunsmith-2026-10-29, src-dmzhub-weapons-2026-10-31, src-dmzhub-items-2026-11-07, src-cod-x-season-1-live-2026-11-06, src-cod-x-camo-tracking-2026-11-07, clm_e1f3c5801f26]
+sources: [clm_da1b7f67fba5, clm_3152fc2ad15c, clm_0d810f25199a, clm_efdd5ffe80d3, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-gunsmith-2026-10-29, src-dmzhub-weapons-2026-10-31, src-dmzhub-items-2026-11-07, src-cod-x-season-1-live-2026-11-06, src-cod-x-camo-tracking-2026-11-07]
 aliases: ["Cronen Osprey", "Osprey", "Osprey AR", "Cronen Helix Mk. II", "Cronen Helix", "new Season 1 AR"]
 class: "Assault rifle"
 manual_source: "Weapon Manual (reported; drop location not known)"

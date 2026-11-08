@@ -5,33 +5,26 @@ description: "Season 1 has been live since midnight ET on 6 Nov 2026: X01 (direc
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, clm_bef876bdc624, clm_c1024f2fb281, clm_4ae545748dba, clm_3044325b8a18, clm_64b8588379af, clm_033219bea076, clm_7add6878604a, clm_58be93f33be7, clm_309415af8c86, clm_60448f273823, clm_86ec75d9e1ba, clm_7f843bb01556, clm_a9efdf32ec0d, clm_d26f8abc5b08, clm_86d010463614, clm_92f2d591bc7a, clm_9953d19427fc, clm_755026b25f7e, clm_eca0b2db17c5, clm_911445d616b6, clm_89ae69b2f632, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16, src-westie-dmz-ama-recap-2026-10-11, src-cod-x-hajin-conflict-2026-11-01, src-mw4gg-warzone-roadmap-tomorrow-2026-11-01, src-activision-warzone-season-1-blog-2026-11-02, src-cod-x-x01-season-1-2026-11-04, src-mw4-season-1-patch-notes-2026-11-05, src-cod-x-season-1-live-2026-11-06, clm_30eb242ede3f, clm_c03d62d1bd39, clm_00eb4f492414]
+sources: [clm_9094745401e5, clm_059cebd4a22d, clm_c314ae1947e6, clm_7aed00e01266, clm_00ffc493c351, clm_bef876bdc624, clm_c1024f2fb281, clm_4ae545748dba, clm_3044325b8a18, clm_64b8588379af, clm_033219bea076, clm_7add6878604a, clm_58be93f33be7, clm_309415af8c86, clm_60448f273823, clm_86ec75d9e1ba, clm_7f843bb01556, clm_a9efdf32ec0d, clm_d26f8abc5b08, clm_86d010463614, clm_92f2d591bc7a, clm_9953d19427fc, clm_755026b25f7e, clm_eca0b2db17c5, clm_911445d616b6, clm_89ae69b2f632, clm_46cafb486a68, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-insider-gaming-season-1-date-2026-10-14, src-gamespot-from-the-ward-ep7-2026-10-05, src-dotesports-hajin-warzone-season-1-2026-10-16, src-westie-dmz-ama-recap-2026-10-11, src-cod-x-hajin-conflict-2026-11-01, src-mw4gg-warzone-roadmap-tomorrow-2026-11-01, src-activision-warzone-season-1-blog-2026-11-02, src-cod-x-x01-season-1-2026-11-04, src-mw4-season-1-patch-notes-2026-11-05, src-cod-x-season-1-live-2026-11-06]
 aliases: ["DMZ Season 1", "MW4 Season 1", "when does Season 1 start", "Season 1 release time", "what does Season 1 add to DMZ", "X01 release date", "Season 1 DMZ content", "Hajin Conflict", "Warzone Season 1", "Season 1 roadmap", "Player Level reset Season 1"]
 date: "2026-11-06"
 ---
 <!-- generated:start -->
-Season 1 is an upcoming content season that kicks off on 6 Nov. The update introduces new multiplayer locations, new facilities, and new battlegrounds across game modes.
+Season 1 is an upcoming content season for Modern Warfare 4 launching on 6 Nov. It brings new gameplay additions, including the introduction of a new Blacksite facility.
 
-* Season 1 officially kicks off on 6 Nov, confirmed on 28 Oct 2026.
-* Season 1 officially launches on 6 Nov, confirmed on 29 Oct 2026.
-* Call of Duty: Modern Warfare 4 Season 1 is reported by players to start on 6 Nov 2026.
-* Season 1 for Modern Warfare 4 includes the DMZ X01 facility, confirmed on 1 Nov 2026.
-* Modern Warfare 4 DMZ introduces X01, a new DMZ Blacksite, confirmed on 28 Oct 2026.
-* Modern Warfare 4 Season 1 is reported by players to include new maps, facilities, and a battle pass catch-up system.
-* Call of Duty: Warzone Season 1 is titled Hajin Conflict and is reported by players to launch on 6 Nov.
-* Call of Duty: Warzone Season 1 Hajin Conflict is reported by players to include two new battlegrounds.
+## When does Season 1 start?
 
-## Which maps are included in Season 1?
+* Season 1 launches on 6 Nov.
+* Modern Warfare 4 Season 1 was confirmed on 28 Oct 2026 to start on 6 Nov.
+* Players report that Call of Duty: Modern Warfare 4 Season 1 starts on 6 Nov 2026.
 
-Players report three new maps arriving with the season.
+## What content is coming in Season 1?
 
-| Map | Status |
-| --- | --- |
-| Backstab | Reported by players |
-| Canyon | Reported by players |
-| Shoot House | Reported by players |
+* Season 1 includes the DMZ X01 facility.
+* X01 is a new DMZ Blacksite arriving in Season 1.
+* Players report that Shoot House is a new map.
 
-_Generated from 5 confirmed and 6 reported claims across 10 posts and 0 patch notes; last rendered 2026-11-03._
+_Generated from 5 confirmed and 2 reported claims across 8 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->

@@ -5,7 +5,7 @@ description: "A Warzone Resurgence map from 6 Nov 2026, at a drone headquarters 
 status: draft
 brain_status: draft
 sensitivity: public
-sources: [clm_86c4e4cfc94a, clm_221bbec35377, clm_2ecdd4f3f97c, src-activision-warzone-season-1-blog-2026-11-02]
+sources: [clm_86c4e4cfc94a, src-activision-warzone-season-1-blog-2026-11-02]
 ---
 <!-- generated:start -->
 Zodiac is reported by players to be a new Resurgence map that features industrial facilities, underground tunnels, moving trains, and environmental hazards.

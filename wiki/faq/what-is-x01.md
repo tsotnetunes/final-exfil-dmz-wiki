@@ -5,20 +5,21 @@ description: "Season 1's new DMZ location, a Black Site in a former Russian weap
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_3de1c9d57632, clm_968a1eb8291e, src-activision-season-1-announcement-2026-10-28, src-westie-dmz-ama-recap-2026-10-11, src-gamespot-from-the-ward-ep7-2026-10-05, src-cod-x-season-1-live-2026-11-06, clm_335123e1ad31]
+sources: [clm_3de1c9d57632, clm_968a1eb8291e, clm_2594434fe26b, clm_63c179295ab4, src-activision-season-1-announcement-2026-10-28, src-westie-dmz-ama-recap-2026-10-11, src-gamespot-from-the-ward-ep7-2026-10-05, src-cod-x-season-1-live-2026-11-06]
 aliases: ["X01", "X01 Black Site", "X01 Blacksite", "XO1", "when does X01 come out", "DMZ new map Season 1", "X01 DMZ map", "GRANIT black site"]
 ---
 <!-- generated:start -->
-X01 Black Site is a new DMZ map location arriving with Season 1. It provides a new environment for players to explore during the season.
+X01 Black Site is reported by players to be a new DMZ map and location arriving with Season 1. It provides a new infiltration zone for players entering Season 1 of Modern Warfare 4 DMZ.
 
-* Players report that X01 Black Site is a new DMZ map location arriving with Season 1.
-* Players report that Modern Warfare 4 Season 1, featuring X01 Black Site, starts on 5 Nov at 11 PM CT.
+* Players report that X01 Black Site is a new DMZ map and location arriving with Season 1.
+* Players report that Modern Warfare 4 Season 1, which features X01 Black Site, starts on 5 Nov at 11 PM CT.
+* Players report that players can infiltrate X01 starting 6 Nov.
 
-## When does X01 Black Site release in Modern Warfare 4 DMZ?
+## When does X01 Black Site come out?
 
-Players report that Modern Warfare 4 Season 1 launches on 5 Nov at 11 PM CT. X01 Black Site is featured as part of this Season 1 release.
+Modern Warfare 4 Season 1, featuring X01 Black Site, is reported by players to start on 5 Nov at 11 PM CT. Players report that infiltrations into X01 begin on 6 Nov.
 
-_Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch notes; last rendered 2026-10-31._
+_Generated from 0 confirmed and 3 reported claims across 3 posts and 0 patch notes; last rendered 2026-11-04._
 <!-- generated:end -->
 
 <!-- human:start -->
