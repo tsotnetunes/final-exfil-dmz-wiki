@@ -1,19 +1,19 @@
 ---
 type: item
 title: "Field Upgrades"
-description: "The 16 DMZ Field Upgrades, from Armor Box and Ammo Box to the Fulton Drop Marker, Revive Pistol and Rebreather: what each does and how to get it."
+description: "The 17 DMZ Field Upgrades, with Season 1's Hazmat Box, from Armor Box and Ammo Box to the Fulton Drop Marker, Revive Pistol and Rebreather: what each does and how to get it."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-allthings-how-large-backpack-2026-10-21, src-conquestcapped-dmz-keys-2026-10-28, src-mw4-season-1-patch-notes-2026-11-05]
-aliases: ["Field Upgrade", "field upgrade", "Armor Box", "Ammo Box", "Munitions Box", "Portable Radar", "DDOS", "Fulton Drop Marker", "Fulton", "Inflatable Decoy", "Razor Wire Trap", "Rebreather", "Recon Drone", "Riot Shield", "SAM Airburst Turret", "Seeker Drone", "Smoke Wall", "Trophy System"]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-allthings-how-large-backpack-2026-10-21, src-conquestcapped-dmz-keys-2026-10-28, src-mw4-season-1-patch-notes-2026-11-05, src-dmzhub-items-2026-11-08]
+aliases: ["Field Upgrade", "field upgrade", "Armor Box", "Ammo Box", "Munitions Box", "Portable Radar", "DDOS", "Fulton Drop Marker", "Fulton", "Inflatable Decoy", "Razor Wire Trap", "Rebreather", "Recon Drone", "Riot Shield", "SAM Airburst Turret", "Seeker Drone", "Smoke Wall", "Trophy System", "Hazmat Box"]
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
 <!-- generated:end -->
 
 <!-- human:start -->
-A Field Upgrade is the deployable gadget in your loadout's Field Upgrade slot [[src-activision-dmz-guide-part2-2026-10-09]]. DMZ has 16, all printable at the [[3d-printer]] [[src-dmzhub-items-2026-10-31]]. In Multiplayer every Field Upgrade recharges [[src-activision-mw4-launch-weapons-2026-10-19]]; in DMZ one guide says they do not recharge during a deployment, so each is one use per match (reported) [[src-dmzcodex-armor-backpacks-guide-2026-10-24]].
+A Field Upgrade is the deployable gadget in your loadout's Field Upgrade slot [[src-activision-dmz-guide-part2-2026-10-09]]. DMZ launched with 16, all printable at the [[3d-printer]] [[src-dmzhub-items-2026-10-31]]; Season 1 added a seventeenth, the Hazmat Box (reported) [[src-dmzhub-items-2026-11-08]]. In Multiplayer every Field Upgrade recharges [[src-activision-mw4-launch-weapons-2026-10-19]]; in DMZ one guide says they do not recharge during a deployment, so each is one use per match (reported) [[src-dmzcodex-armor-backpacks-guide-2026-10-24]].
 
 ## What does each Field Upgrade do?
 
@@ -34,6 +34,7 @@ A Field Upgrade is the deployable gadget in your loadout's Field Upgrade slot [[
 | Trophy System | Rare | destroys up to three incoming projectiles | printable |
 | Defibrillator | Uncommon (official) | revives a downed Operator at once | DMZ level 67; see [[medical-items]] |
 | Revive Pistol | Legendary | revives or heals teammates from a distance | DMZ level 64 |
+| Hazmat Box | Legendary | sets down a box of radiation protection gear for you and your squad (reported) [[src-dmzhub-items-2026-11-08]] | found in [[x01]] since Season 1; whether it can be printed is not known |
 | Fulton Drop Marker | Ultra | marks a spot and calls in a Fulton extraction | Vault Edition kit; printable; see [[fulton-drop-marker]] |
 
 Effects: [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]]. Levels and kits: [[src-activision-ready-for-launch-progression-2026-10-19]]. Rarities: [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]]. The official table calls the Defibrillator a consumable, while one database files it here [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]]. The Restock Kit in the official table holds a Munitions Box, the Multiplayer name for an ammo and equipment box; players who opened one found an Ammo Box [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-allthings-how-large-backpack-2026-10-21]] [[src-dmzhub-items-2026-10-31]].

@@ -1313,3 +1313,7 @@
 ## [2026-11-07 19:46 EST] edit | daily update 2026-11-07: Activision lists the DMZ Operator Prestige bug and Boss Board intel fault as resolved (6 Nov); Platinum camo tracking for Cronen Osprey and CSG-35 under investigation; Season 1 guns now live
 - changed: .kac 1, evals 1, index 6, index.md 1, raw 2, wiki 10
 - run: r-20261107-194657-42f1
+
+## [2026-11-07 21:15 EST] edit | community sweep 2026-11-08: DMZHub Season 1 entries: X01 Vault DRC Locker Key, Hazmat Box field upgrade, Hazmat Suit reactor spawns, Fast/Faster Learner 10% XP (reported); codmunity not reachable
+- changed: .kac 1, index 7, index.md 1, raw 2, wiki 12
+- run: r-20261107-211534-04a3

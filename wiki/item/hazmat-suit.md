@@ -5,7 +5,7 @@ description: "A Legendary suit that protects you from radiation, useful in the H
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_f28fa8554173, clm_b5db07dcfcba, clm_324a4cc7c490, clm_c7d324fb5557, clm_731aa7db3d8e, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09]
+sources: [clm_f28fa8554173, clm_b5db07dcfcba, clm_324a4cc7c490, clm_c7d324fb5557, clm_731aa7db3d8e, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-11-08]
 aliases: ["Hazmat", "hazmat suit", "radiation suit", "Legendary Hazmat Suit", "chemical suit"]
 ---
 <!-- generated:start -->
@@ -23,7 +23,7 @@ The Hazmat Suit is a Legendary piece of gear that protects you from radiation, a
 
 ## Where do you find a Hazmat Suit?
 
-It cannot be printed [[src-dmzhub-items-2026-10-31]]. A community database says it comes from crashed helicopters that carry soldiers in chemical suits: kill the soldiers, the helicopter goes down, and the suit is often in the wreck (reported) [[src-dmzhub-items-2026-10-31]]. Other spawn spots are not confirmed yet.
+It cannot be printed [[src-dmzhub-items-2026-10-31]]. A community database says it comes from crashed helicopters that carry soldiers in chemical suits: kill the soldiers, the helicopter goes down, and the suit is often in the wreck (reported) [[src-dmzhub-items-2026-10-31]]. The same database now adds fixed spots inside the irradiated zone of the [[haneul-nuclear-reactor]], all reported by players and none confirmed: hanging by a window upstairs in the building furthest south west, close to the UAV Tower in that corner; on the floor of the power station's underground tunnel; on a bed in the middle tent of the field hospital between the two reactor buildings; beside a white locker in the wrecked reactor, under a guard, and on a crate by the stairs one floor down, past three yellow chemical drums; and on the right as you enter the control room of Reactor 01. The Reactor 02 control room, which needs a key, is said to hold three (reported) [[src-dmzhub-items-2026-11-08]]. Bring a gas mask for the search, because you are not wearing the suit yet (see [[gas-masks]]).
 
 ## Do you keep it after exfil?
 

@@ -5,7 +5,7 @@ description: "Does 2XP speed up DMZ Operators? Not confirmed: tokens double play
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-bonus-content-2026-10-23, src-activision-campaign-early-access-live-2026-10-16, src-cod-2xp-game-time-2026-09-28, src-cod-x-mw4-2xp-giveaway-2026-10-23, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-skycoach-dmz-beginner-guide-2026-10-19, src-dmztracker-level-up-fast-2026-10-22, src-codmunity-dmz-traits-2026-10-30, src-lfcarry-mw4-double-xp-2026-10-11]
+sources: [src-activision-mw4-bonus-content-2026-10-23, src-activision-campaign-early-access-live-2026-10-16, src-cod-2xp-game-time-2026-09-28, src-cod-x-mw4-2xp-giveaway-2026-10-23, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-skycoach-dmz-beginner-guide-2026-10-19, src-dmztracker-level-up-fast-2026-10-22, src-codmunity-dmz-traits-2026-10-30, src-lfcarry-mw4-double-xp-2026-10-11, src-dmzhub-traits-2026-11-08]
 aliases: ["2XP", "2XP tokens", "Double XP", "Weapon 2XP", "MW4 2XP", "Double XP weekend", "Double XP event", "does 2XP work in DMZ", "double XP operators", "Operator XP boost", "Dog Tag XP boost"]
 ---
 <!-- generated:start -->
@@ -34,7 +34,7 @@ Not yet. No Double XP event had been announced for Modern Warfare 4 by 30 Oct 20
 
 ## What does raise Operator XP?
 
-- **Traits.** Fast Learner (Scout) and Faster Learner (Survivalist) are Minor Traits that add Operator XP, and the two stack [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmztracker-level-up-fast-2026-10-22]]. Minor Traits are random, so you cannot pick them on purpose [[src-activision-dmz-guide-part2-2026-10-09]].
+- **Traits.** Fast Learner (Scout) and Faster Learner (Survivalist) are Minor Traits that add Operator XP, 10% each by one database's figures (reported), and the two stack [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmztracker-level-up-fast-2026-10-22]] [[src-dmzhub-traits-2026-11-08]]. Minor Traits are random, so you cannot pick them on purpose [[src-activision-dmz-guide-part2-2026-10-09]].
 - **Classic Prestige** of the player level gives a 20% XP boost; Activision does not say it reaches DMZ or Operators [[src-activision-ready-for-launch-progression-2026-10-19]].
 - **Big XP activities.** Story Missions and Dynamic Ops pay the most; see [[dmz-progression]].
 

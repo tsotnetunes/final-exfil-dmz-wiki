@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: items"
-description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 6 Nov 2026."
+description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 8 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -23,6 +23,8 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Tempered Armor Vest | [[tempered-armor-vest]] | [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] [[src-dmzhub-items-2026-11-06]] | published |
 | Emergency Egress Keycard | note in [[keys]] | [[src-mw4-season-1-patch-notes-2026-11-05]] | published note (use not stated) |
 | Key: Superintendent's Office (X01) | section in [[keys]] | [[src-dmzhub-items-2026-11-07]] | published (reported) |
+| Key: Vault DRC Locker (X01) | section in [[keys]] | [[src-dmzhub-items-2026-11-08]] | published (reported) |
+| Hazmat Box (X01) | row in [[field-upgrades]] | [[src-dmzhub-items-2026-11-08]] | published (reported) |
 | Ceramic Pup of Loyalty (X01) | row in [[valuables]] | [[src-dmzhub-items-2026-11-07]] | published (reported) |
 | Armor Plate | section in [[armor-vests]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Red Tier 3 Plate Vest (not an item name) | [[red-tier-3-plate-vest]], alias on [[armor-vests]] | [clm_6cdd88af06b9] | retired |
@@ -41,7 +43,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Durable Gas Mask | row in [[gas-masks]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |
 | Radiation Gear | section in [[gas-masks]] (one database lists it as an item) | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Purple Gas Mask (not an item name) | [[purple-gas-mask]], alias on [[gas-masks]] | [clm_af3e918e79b4] | retired |
-| Hazmat Suit | [[hazmat-suit]] | [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] | published |
+| Hazmat Suit | [[hazmat-suit]] | [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] [[src-dmzhub-items-2026-11-08]] | published |
 | Night Vision Goggles | row in [[night-vision-goggles]] | [[src-westie-dmz-ama-recap-2026-10-11]] [[src-dmzhub-items-2026-10-31]] | published |
 | Weak Night Vision Goggles | row in [[night-vision-goggles]] | [[src-westie-dmz-ama-recap-2026-10-11]] [[src-dmzhub-items-2026-10-31]] | published |
 | Elite Night Vision Goggles | row in [[night-vision-goggles]] | [[src-westie-dmz-ama-recap-2026-10-11]] [[src-dmzhub-items-2026-10-31]] | published |

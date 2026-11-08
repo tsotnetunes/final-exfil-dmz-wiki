@@ -76,7 +76,7 @@ The official guide counts 66 Traits, 18 Major and 48 Minor, plus permanent Prest
 | Cash Ops (Minor) | row in [[scout-tree]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
 | Resource Pockets (Minor) | row in [[scout-tree]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
 | Stealthy (Minor) | row in [[scout-tree]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
-| Fast Learner (Minor) | row in [[scout-tree]] | [[src-codmunity-dmz-traits-2026-10-30]] | published |
+| Fast Learner (Minor) | row in [[scout-tree]] | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzhub-traits-2026-11-08]] | published |
 | Mini Tracker (Minor) | row in [[scout-tree]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
 | Key Cash (Minor) | row in [[scout-tree]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
 | Auto Fill (Minor) | [[auto-fill]], row in [[scout-tree]] | [[src-codmunity-dmz-traits-2026-10-30]] | published |
@@ -86,7 +86,7 @@ The official guide counts 66 Traits, 18 Major and 48 Minor, plus permanent Prest
 | Pack Rat (Minor) | row in [[scout-tree]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
 | Resource Management (Minor) | row in [[scout-tree]] | [[src-mw4-launch-patch-notes-2026-10-29]] [[src-codmunity-dmz-traits-2026-10-30]] | published |
 | Ammo Scavenger (Minor) | row in [[scout-tree]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
-| Faster Learner (Minor) | rows in [[scout-tree]] and [[survivalist-tree]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
+| Faster Learner (Minor) | rows in [[scout-tree]] and [[survivalist-tree]] | [[src-dmzmap-skill-tree-2026-10-29]] [[src-dmzhub-traits-2026-11-08]] | published |
 | Air Superiority (Minor) | [[air-superiority]], row in [[survivalist-tree]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | Rescuer (Minor) | row in [[survivalist-tree]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
 | Consumable Stacker (Minor) | row in [[survivalist-tree]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
