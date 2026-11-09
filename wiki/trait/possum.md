@@ -38,4 +38,7 @@ Dexerto calls it the best Trait in DMZ, and most build guides include it, solo b
 
 ## How can you tell a body has Possum?
 One guide lists three signs: no vultures circle above the body, its plates cannot be looted, and it does not turn into a loot bag. Looting everything and dropping it leaves the returning player without gear, because they keep the Operator but not what you took (reported) [[src-codmunity-dmz-guide-2026-11-03]].
+
+## Which Possum bugs were fixed?
+Two arrived with the Season 1 notes of 5 Nov 2026: Possum sometimes failed to bring an Operator back to full health after the revive, and a player who died inside an exfil helicopter with Possum could be left hanging in the air [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

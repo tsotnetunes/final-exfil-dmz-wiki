@@ -48,5 +48,5 @@ Paying buys you a start point and a ride. Vehicles in DMZ have limited armor and
 
 ## Known problems
 
-Fixed 20 and 21 Oct 2026: enemy AI could run players over during the infil, including in the NK Wilderness [[src-mw4-launch-patch-notes-2026-10-29]].
+Fixed 20 and 21 Oct 2026: enemy AI could run players over during the infil, including in the NK Wilderness [[src-mw4-launch-patch-notes-2026-10-29]]. Fixed 7 Nov 2026: a paid Light Helo Infil could be shot down by the SAM Sites at the Chang-san Military Base ([[chang-san-air-base]]) moments after spawning [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

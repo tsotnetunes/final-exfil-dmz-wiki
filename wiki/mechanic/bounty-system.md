@@ -58,6 +58,7 @@ Not known. The June intel said that chasing bounty targets could make you less o
 ## Known problems
 
 - Reports from 4 Nov 2026, each from one player: a high Bounty drops to 750,000 when a match starts [clm_ee65f5d8c119], and the Bounty Board seems bugged [clm_609749ca75a5]. Activision has not confirmed either.
+- Fixed 7 Nov 2026: player kills inside [[x01]] raised your Bounty Level more than kills elsewhere were meant to [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Fixed 2 Nov 2026: Bounty progress could go back to zero between deployments for some Operators [[src-mw4-launch-patch-notes-2026-10-29]].
 - Fixed 23 Oct 2026: several Bounty tracking issues [[src-mw4-launch-patch-notes-2026-10-29]].
 - Fixed 24 Oct 2026: taken Dog Tags and Bounties sometimes showed the wrong details. Known issue the same day: on PC, extracting with a tag you took can end in a network error [[src-mw4-launch-patch-notes-2026-10-29]].

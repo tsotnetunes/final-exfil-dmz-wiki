@@ -102,4 +102,5 @@ Rewards: [[src-codcentral-dmz-orders-2026-10-21]] [[src-dmzhub-orders-2026-10-31
 - For page 10's metals Order, Reactive Metals turn up in garages and construction areas; for Locksmith, jackets and household containers are good places to find keys [[src-dmzhub-orders-2026-10-31]] (reported).
 - Philanthropist did not count weekly challenges finished before it unlocked until a fix on 24 Oct 2026 [[src-mw4-launch-patch-notes-2026-10-29]].
 - Ears Everywhere's voice logs did not always spawn until a fix on 29 Oct 2026, and Information Power could stall because Boss Board intel would not sell, fixed on 30 Oct 2026 [[src-mw4-launch-patch-notes-2026-10-29]].
+- Once every Order was done, the Orders menu could hang on a waiting message until a fix on 7 Nov 2026 [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

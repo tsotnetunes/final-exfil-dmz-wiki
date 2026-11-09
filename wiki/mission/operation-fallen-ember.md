@@ -34,6 +34,8 @@ The card's objectives are to breach the reactor, get the rods and extract them o
 5. Kill Colossus for the boathouse key, raise the boathouse door and take the armored patrol boat.
 6. Meet the helicopter and escort it out over the water.
 
+Do not sink a boat early. Until 7 Nov 2026, destroying a boat before the second-to-last objective could leave the mission unable to continue; that update fixed it [[src-mw4-season-1-patch-notes-2026-11-05]].
+
 The Lieutenant called Chemist holds the Reactor 01 corridors, with a Kill Chemist side op; a Clear the Military Compound side op runs at Compound Delta near the road in ([[clear-the-military-compound]]) [[src-allthingshow-dmz-story-missions-2026-10-31]] (reported).
 
 ## How does it end?

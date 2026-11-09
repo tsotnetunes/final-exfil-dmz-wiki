@@ -28,7 +28,7 @@ _Generated from 2 confirmed and 7 reported claims across 9 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Commanders are DMZ's roaming bosses: always present in Hajin, heavily armoured and able to shrug off many standard weapons, so each needs its own plan [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]]. Three have roamed Hajin since launch [[src-allthingshow-boss-board-2026-10-21]]; two more, [[the-captain]] and Wheelson, join with Season 1 on 6 Nov 2026, when the Boss Board gets new Commander intel [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]] [clm_93fc23c7a474] [clm_6f77b93c726e]. Since then Commanders and Lieutenants also finish off downed players instead of sometimes walking away [[src-mw4-season-1-patch-notes-2026-11-05]].
+Commanders are DMZ's roaming bosses: always present in Hajin, heavily armoured and able to shrug off many standard weapons, so each needs its own plan [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]]. Three have roamed Hajin since launch [[src-allthingshow-boss-board-2026-10-21]]; two more, [[the-captain]] and Wheelson, join with Season 1 on 6 Nov 2026, when the Boss Board gets new Commander intel [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]] [clm_93fc23c7a474] [clm_6f77b93c726e]. Since then Commanders and Lieutenants also finish off downed players instead of sometimes walking away [[src-mw4-season-1-patch-notes-2026-11-05]]. Since 7 Nov 2026 [[the-captain]] and [[colossus]] no longer kill a player in Last Stand who can still be revived [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## Which Commanders are there?
 
@@ -38,7 +38,7 @@ Commanders are DMZ's roaming bosses: always present in Hajin, heavily armoured a
 | [[deathstalker]] | helicopter-sized autonomous drone with two machine-gun turrets | the sky over Hajin City | a captured SAM site | Prototype RF Module | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-allthingshow-deathstalker-2026-10-21]] |
 | [[main-nk-battle-tank]] | North Korean battle tank | roads on the South Korean side | a DDOS, then rockets | Nano-Structured Alloy | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-conquestcapped-dmz-bosses-2026-10-28]] |
 | [[the-captain]] (Season 1) | a Juggernaut who fights with his elite guard | X01 | not announced | sections of his helmet in the Threat Briefing event | [[src-activision-season-1-announcement-2026-10-28]] [clm_93fc23c7a474] |
-| Wheelson (Season 1) | an autonomous unit on patrol | not announced | not announced | not announced | [[src-activision-season-1-announcement-2026-10-28]] [clm_6f77b93c726e] |
+| Wheelson (Season 1) | an autonomous unit on patrol with turrets | X01 (named there in the 7 Nov fixes) | turrets stop while hit by DDoS or a Shock Stick | not announced | [[src-activision-season-1-announcement-2026-10-28]] [clm_6f77b93c726e] [[src-mw4-season-1-patch-notes-2026-11-05]] |
 
 ## How do you find a Commander?
 
@@ -57,7 +57,7 @@ Goliath (hit Colossus with Thermite or a Drill Charge, then a Shock Stick), Stal
 
 ## What is new in Season 1?
 
-The Captain and Wheelson join the Boss Board's Commanders [[src-activision-season-1-announcement-2026-10-28]]. In the Threat Briefing events of the season's first part you hunt The Captain in [[x01]] for pieces of his helmet, with bigger rewards after a successful exfil, and take parts from the battle tank in Hajin [[src-activision-season-1-announcement-2026-10-28]] ([[season-1]]). No place or reward has been announced for Wheelson.
+The Captain and Wheelson join the Boss Board's Commanders [[src-activision-season-1-announcement-2026-10-28]]. In the Threat Briefing events of the season's first part you hunt The Captain in [[x01]] for pieces of his helmet, with bigger rewards after a successful exfil, and take parts from the battle tank in Hajin [[src-activision-season-1-announcement-2026-10-28]] ([[season-1]]). No reward has been announced for Wheelson; the 7 Nov 2026 fixes to its turrets and turret sounds in X01 place it there [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What did Activision list before launch?
 
