@@ -5,7 +5,7 @@ description: "Not for good: DMZ is a mode of Modern Warfare 4, so you need the g
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-windows-central-dmz-reveal-2026-06-06, src-gamerfuzion-dmz-things-to-know-2026-10-03, src-activision-dmz-guide-part2-2026-10-09, src-gfinity-mw4-game-pass-2026-06-17, src-timesaver-mw4-subscriptions-2026-09-18, src-activision-season-1-announcement-2026-10-28]
+sources: [src-cod-x-dmz-free-trial-2026-11-09, src-windows-central-dmz-reveal-2026-06-06, src-gamerfuzion-dmz-things-to-know-2026-10-03, src-activision-dmz-guide-part2-2026-10-09, src-gfinity-mw4-game-pass-2026-06-17, src-timesaver-mw4-subscriptions-2026-09-18, src-activision-season-1-announcement-2026-10-28]
 aliases: ["is DMZ free", "is DMZ free to play", "do you need MW4 to play DMZ", "do I have to buy MW4 for DMZ", "DMZ price", "how much is DMZ", "DMZ F2P"]
 ---
 <!-- generated:start -->
@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Not for good. DMZ is one of the three modes of Call of Duty: Modern Warfare 4, so playing it means buying the game [[src-windows-central-dmz-reveal-2026-06-06]] [[src-gamerfuzion-dmz-things-to-know-2026-10-03]]. The exception is a free trial: since 6 Nov 2026 anyone can play DMZ for free on all platforms until 11 Nov at 10 AM PT [clm_c03d62d1bd39] [clm_00eb4f492414] [clm_0e0655be5769]. The 2022 DMZ beta was different: it came free with Modern Warfare II and Warzone 2.0, which is why the question keeps coming up [[src-windows-central-dmz-reveal-2026-06-06]].
+Not for good. DMZ is one of the three modes of Call of Duty: Modern Warfare 4, so playing it means buying the game [[src-windows-central-dmz-reveal-2026-06-06]] [[src-gamerfuzion-dmz-things-to-know-2026-10-03]]. The exception is a free trial: since 6 Nov 2026 anyone can play DMZ for free on all platforms until 11 Nov at 10 AM PT, with both Hajin and X01 and the new Orders open to trial players [clm_c03d62d1bd39] [clm_00eb4f492414] [clm_0e0655be5769] [[src-cod-x-dmz-free-trial-2026-11-09]]. See [[dmz-free-trial]]. The 2022 DMZ beta was different: it came free with Modern Warfare II and Warzone 2.0, which is why the question keeps coming up [[src-windows-central-dmz-reveal-2026-06-06]].
 
 ## What do you have to buy?
 Any edition of Modern Warfare 4 includes DMZ [[src-windows-central-dmz-reveal-2026-06-06]]. Before launch the Vault Edition was listed at 99.99 USD [[src-windows-central-dmz-reveal-2026-06-06]] [[src-gamerfuzion-dmz-things-to-know-2026-10-03]] and the Standard edition at 69.99 USD (reported) [[src-gamerfuzion-dmz-things-to-know-2026-10-03]]. Early access to DMZ from 20 Oct 2026 went to players who had pre-ordered or pre-purchased a digital copy of either edition [[src-activision-dmz-guide-part2-2026-10-09]]. What the Vault Edition adds for DMZ is on [[is-the-vault-edition-worth-it-for-dmz]].

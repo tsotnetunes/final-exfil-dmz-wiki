@@ -395,3 +395,12 @@
 - id: g132
   question: Do Secure Slot items come back if an enemy loots your backpack?
   must_retrieve: [secure-slots]
+- id: g133
+  question: When does the DMZ free trial end and can trial players go to X01?
+  must_retrieve: [dmz-free-trial]
+- id: g134
+  question: What does the Activision support article say about Battle Pass Tier Skip Tokens?
+  must_retrieve: [src-activision-support-battle-pass-2026-11-10]
+- id: g135
+  question: Can you turn off Battle Pass auto-claim?
+  must_retrieve: [is-there-a-battle-pass-in-dmz]

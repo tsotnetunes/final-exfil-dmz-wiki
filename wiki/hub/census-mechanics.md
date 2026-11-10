@@ -62,4 +62,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Extraction rules | [[extraction-rules]]; methods on [[exfil]] (hajin area) | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-guide-2026-10-24]] | published |
 | Stuck in security cameras; Security System Exit Glitch | section of [[server-and-performance-issues]]; old page [[security-system-exit-glitch]] retired | [clm_a74cf8c0bd17] | reported |
 | Dynamic Operation cash without exfil | section of [[extraction-rules]] | [clm_f17f3ff635f7] [[src-fpsjp-dynamic-ops-trailer-2026-10-07]] | missing (disputed reports; needs an in-game check) |
+| DMZ Free Trial (6 to 11 Nov 2026) | [[dmz-free-trial]] | [[src-cod-x-dmz-free-trial-2026-11-09]] [clm_c03d62d1bd39] | published |
 <!-- human:end -->
