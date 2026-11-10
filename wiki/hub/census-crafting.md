@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: crafting"
-description: "Every crafting subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 31 Oct 2026."
+description: "Every crafting subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 10 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -17,6 +17,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | 3D Printer (unlock, how printing works, tracking, fixes of 21 and 28 Oct) | [[3d-printer]] | [[src-activision-dmz-guide-part2-2026-10-09]], [[src-activision-ready-for-launch-progression-2026-10-19]], [[src-mw4-launch-patch-notes-2026-10-29]], [[src-vgtimes-dmz-3d-printer-2026-10-27]] | published |
 | Printer upgrades, 31 levels: Bank I to X, Stash Item I to IV, Stash Weapon I to III, MIA Recovery Discount I to IV, Gunsmith I and II, Vendor Item I and II, Dog Tag Case I to IV, Uncommon and Epic Ingredient Printing | [[printer-upgrades]] | [[src-dmzhub-upgrades-2026-10-31]], [[src-destructoid-3d-printer-recipes-2026-10-21]], [[src-codcentral-3d-printer-recipes-2026-10-20]], [[src-gamerfuzion-3d-printer-upgrades-2026-10-23]] | published; levels only in one database marked reported |
 | All 95 recipes | [[recipes]] | [[src-destructoid-3d-printer-recipes-2026-10-21]], [[src-codcentral-3d-printer-recipes-2026-10-20]], [[src-dmzhub-recipes-2026-10-31]], [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
+| Hazmat Box recipe (Season 1, unlocked by page 3 of the X01 Orders; materials not listed yet) | row in [[field-upgrades]] | [[src-dmzhub-items-2026-11-10]] | published (reported) |
 | Medkit | [[medkit-recipe]] | [[src-activision-dmz-guide-part2-2026-10-09]], [[src-westie-dmz-ama-recap-2026-10-11]], [[src-dtgre-dmz-crafting-guides-2026-10-24]] | published |
 | 2-Plate Armor Vest | [[2-plate-armor-vest-recipe]] | [[src-activision-dmz-guide-part2-2026-10-09]], [[src-codcentral-3d-printer-recipes-2026-10-20]] | published |
 | Medium Backpack | [[medium-backpack-recipe]] | [[src-activision-dmz-guide-part2-2026-10-09]], [[src-vgtimes-dmz-3d-printer-2026-10-27]] | published |

@@ -5,7 +5,7 @@ description: "The 20 DMZ Field Upgrades, with Season 1's Hazmat, Consumable, Med
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-allthings-how-large-backpack-2026-10-21, src-conquestcapped-dmz-keys-2026-10-28, src-mw4-season-1-patch-notes-2026-11-05, src-dmzhub-items-2026-11-08, src-dmzhub-items-2026-11-09]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-allthings-how-large-backpack-2026-10-21, src-conquestcapped-dmz-keys-2026-10-28, src-mw4-season-1-patch-notes-2026-11-05, src-dmzhub-items-2026-11-08, src-dmzhub-items-2026-11-09, src-dmzhub-items-2026-11-10]
 aliases: ["Field Upgrade", "field upgrade", "Armor Box", "Ammo Box", "Munitions Box", "Portable Radar", "DDOS", "Fulton Drop Marker", "Fulton", "Inflatable Decoy", "Razor Wire Trap", "Rebreather", "Recon Drone", "Riot Shield", "SAM Airburst Turret", "Seeker Drone", "Smoke Wall", "Trophy System", "Hazmat Box", "Consumable Box", "Medical Box", "Utility Box"]
 ---
 <!-- generated:start -->
@@ -34,7 +34,7 @@ A Field Upgrade is the deployable gadget in your loadout's Field Upgrade slot [[
 | Trophy System | Rare | destroys up to three incoming projectiles | printable |
 | Defibrillator | Uncommon (official) | revives a downed Operator at once | DMZ level 67; see [[medical-items]] |
 | Revive Pistol | Legendary | revives or heals teammates from a distance | DMZ level 64 |
-| Hazmat Box | Legendary | sets down a box of radiation protection gear for you and your squad (reported) [[src-dmzhub-items-2026-11-08]] | found in [[x01]] since Season 1; whether it can be printed is not known |
+| Hazmat Box | Legendary | sets down a box of radiation protection gear for you and your squad (reported) [[src-dmzhub-items-2026-11-08]] | found in [[x01]] since Season 1; card value 2,500, and its 3D Printer recipe unlocks when you finish page 3 of the X01 DMZ Orders (reported) [[src-dmzhub-items-2026-11-10]] |
 | Consumable Box | Epic | no description yet; card value 1,000 (reported) [[src-dmzhub-items-2026-11-09]] | Season 1; source not known |
 | Medical Box | Legendary | no description yet; card value 2,500 (reported) [[src-dmzhub-items-2026-11-09]] | Season 1; source not known |
 | Utility Box | Ultra | no description yet; card value 3,000, the highest of any Field Upgrade (reported) [[src-dmzhub-items-2026-11-09]] | Season 1; source not known |
