@@ -5,9 +5,8 @@ description: "A free trial of DMZ on all platforms from 6 Nov 2026 until 11 Nov 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-cod-x-dmz-free-trial-2026-11-09, src-cod-x-camo-tracking-2026-11-07, clm_c03d62d1bd39, clm_00eb4f492414, clm_0e0655be5769]
+sources: [src-cod-x-dmz-free-trial-2026-11-09, src-cod-x-camo-tracking-2026-11-07]
 aliases: ["DMZ free trial", "free trial DMZ", "DMZ free play days", "free DMZ weekend", "DMZ free access", "play DMZ for free"]
-stale_after: 2026-11-12
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
