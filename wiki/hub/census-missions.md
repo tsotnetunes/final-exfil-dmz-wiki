@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: missions"
-description: "Every missions subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 31 Oct 2026."
+description: "Every missions subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 11 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -11,7 +11,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Story Missions, DMZ Orders, Dynamic Operations and Side Ops as of 31 Oct 2026. Order pages are listed one row per page, with the names of their three Orders.
+Story Missions, DMZ Orders, Dynamic Operations and Side Ops as of 11 Nov 2026. Order pages are listed one row per page, with the names of their three Orders.
 
 | Member | Codex page | Sources | State |
 | --- | --- | --- | --- |
@@ -46,6 +46,7 @@ Story Missions, DMZ Orders, Dynamic Operations and Side Ops as of 31 Oct 2026. O
 | Orders page 22: DRC, Unstoppable, Astronaut | rows in [[dmz-orders-pages]] | [[src-codcentral-dmz-orders-2026-10-21]] [[src-dmzmap-dmz-orders-2026-10-31]] [[src-dmzhub-orders-2026-10-31]] | published |
 | Orders page 23: Rule of Three, Temp Job, No Time | rows in [[dmz-orders-pages]] | [[src-codcentral-dmz-orders-2026-10-21]] [[src-dmzhub-orders-2026-10-31]] | published (rewards from one list only) |
 | Orders page 24: High Quality Loot, You Won't See Me, Upper Class | rows in [[dmz-orders-pages]] | [[src-codcentral-dmz-orders-2026-10-21]] [[src-dmzhub-orders-2026-10-31]] | published (rewards from one list only) |
+| X01 chapter (Season 1), pages 1 and 2: Fresh Start, Sight Seeing, First Win, Explorer, Crafting Material | [[x01-orders]] | [[src-dmzhub-orders-2026-11-11]] [[src-mw4-season-1-patch-notes-2026-11-05]] | published (Order details from one database only; page 3 and later not listed yet) |
 | Dynamic Operations (overview) | [[dynamic-operations]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-mw4-launch-patch-notes-2026-10-29]] [[src-dmzmap-dynamic-ops-2026-10-31]] | published |
 | Broken Resupply | [[broken-resupply]] | [[src-codcentral-dmz-dynamic-ops-2026-10-21]] [[src-dtgre-dmz-ops-guides-2026-10-21]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |
 | Chemical Denial | [[chemical-denial]] | [[src-fpsjp-dynamic-ops-trailer-2026-10-07]] [[src-codcentral-dmz-dynamic-ops-2026-10-21]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |

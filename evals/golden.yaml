@@ -407,3 +407,6 @@
 - id: g136
   question: How do you open the Deep Vault in X01?
   must_retrieve: [x01-deep-vault]
+- id: g137
+  question: What are the X01 DMZ Orders and what do they pay?
+  must_retrieve: [x01-orders]

@@ -58,7 +58,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Medkit | row in [[medical-items]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
 | Stim | row in [[medical-items]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
 | Pain Killers | row in [[medical-items]] | [[src-dmzhub-items-2026-10-31]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
-| Smelling Salts | row in [[medical-items]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | published |
+| Smelling Salts | row in [[medical-items]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-11-11]] | published (card value differs between databases) |
 | Energy Drink | row in [[medical-items]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-guide-2026-10-24]] | published |
 | Sedative Inhaler | row in [[medical-items]] | [[src-dmzhub-items-2026-10-31]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
 | Radiation Blockers | row in [[medical-items]] | [[src-dmzhub-items-2026-10-31]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |

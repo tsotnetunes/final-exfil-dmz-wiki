@@ -1377,3 +1377,7 @@
 ## [2026-11-10 19:46 EST] edit | daily update 2026-11-11: 10 Nov patch (failed-exfil cash, UAVs cut and off in X01, Mini Tracker, X01 vault fixes) across 16 pages; new X01 Deep Vault page
 - changed: .kac 1, evals 1, index 10, index.md 1, raw 2, wiki 20
 - run: r-20261110-194645-20b7
+
+## [2026-11-10 21:20 EST] edit | community sweep 2026-11-11: DMZHub 10 Nov entries: new X01 Orders page (Fresh Start to Crafting Material, reported), Smelling Salts value and loot spots, stack sizes; codmunity unreachable
+- changed: .kac 1, evals 1, index 6, index.md 1, raw 2, wiki 8
+- run: r-20261110-212019-01f3
