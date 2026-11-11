@@ -10,7 +10,6 @@ aliases: ["Deep Vault", "X01 vault", "X01 Deep Vault key", "Deep Vault 301", "ho
 region: "X01"
 danger: "high"
 loot_profile: high-value
-stale_after: 2026-12-15
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

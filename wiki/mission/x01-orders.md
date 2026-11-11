@@ -9,7 +9,6 @@ sources: [src-dmzhub-orders-2026-11-11, src-dmzhub-items-2026-11-10, src-mw4-sea
 aliases: ["X01 chapter", "Chapter: X01", "X01 Black Site Orders", "X01 DMZ Orders", "Season 1 Orders", "Ghost Orders", "Fresh Start", "Sight Seeing", "First Win", "Explorer", "Crafting Material"]
 mission_kind: order
 steps: "2 pages listed so far, 5 Orders"
-stale_after: 2026-12-15
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
