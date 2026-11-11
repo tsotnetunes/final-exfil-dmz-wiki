@@ -404,3 +404,6 @@
 - id: g135
   question: Can you turn off Battle Pass auto-claim?
   must_retrieve: [is-there-a-battle-pass-in-dmz]
+- id: g136
+  question: How do you open the Deep Vault in X01?
+  must_retrieve: [x01-deep-vault]

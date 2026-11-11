@@ -32,9 +32,9 @@ When you are killed in DMZ your Operator goes MIA and the gear you took in stays
 | Backpack contents outside Secure Slots | Items in [[secure-slots]] |
 | Any Blueprint you carried in (you can buy it back at a discount) | The [[stash]], the Bank and your crafting resources |
 | Your Bounty and Wanted status | The Operator's Traits, if you pay to recover them |
-| The Operator, until you recover or dismiss them | |
+| The Operator, until you recover or dismiss them | Since 10 Nov 2026, a cash payout based on what you looted and how long you lasted (not in Story Missions) |
 
-Sources: the official FOB guide [[src-activision-dmz-guide-part2-2026-10-09]] and two guides that agree with it [[src-allthingshow-dmz-death-rules-2026-10-21]] [[src-conquestcapped-dmz-guide-2026-10-26]]. One guide says a lost Blueprint is gone for good; the official guide's buy-back rule is what the table shows.
+Sources: the official FOB guide [[src-activision-dmz-guide-part2-2026-10-09]] and two guides that agree with it [[src-allthingshow-dmz-death-rules-2026-10-21]] [[src-conquestcapped-dmz-guide-2026-10-26]]. One guide says a lost Blueprint is gone for good; the official guide's buy-back rule is what the table shows. The failed-exfil payout comes from the 10 Nov 2026 patch notes, which give no formula and leave Story Missions out [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What happens to your body?
 

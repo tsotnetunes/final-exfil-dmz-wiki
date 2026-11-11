@@ -5,7 +5,7 @@ description: "Run Dynamic Operations (10,000 to 20,000 each since 30 Oct 2026), 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-missions-2026-10-31, src-gamerfuzion-dmz-money-2026-10-26, src-dmztracker-story-missions-2026-10-20, src-dmzhub-orders-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-solo-2026-10-26, src-dmzhub-bosses-2026-10-31]
+sources: [src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-missions-2026-10-31, src-gamerfuzion-dmz-money-2026-10-26, src-dmztracker-story-missions-2026-10-20, src-dmzhub-orders-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-solo-2026-10-26, src-dmzhub-bosses-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["DMZ cash", "make money DMZ", "DMZ money farm", "how to get cash in DMZ", "best money method DMZ", "DMZ cash farm", "earn DMZ Cash"]
 ---
 <!-- generated:start -->
@@ -31,7 +31,7 @@ From the official patch notes [[src-mw4-launch-patch-notes-2026-10-29]]. Story M
 - Valuables you carry out and sell: a Weapon Manual card showed 5,000 and Infantry Invasion Plans 3,000 (reported) [[src-gamerfuzion-dmz-money-2026-10-26]].
 
 ## When does cash count?
-Cash and valuables you carry count only when you exfil, and the After Action Report moves the cash to your Bank [[src-activision-dmz-guide-part1-2026-10-05]] [[src-codmunity-dmz-guide-2026-10-24]]. Dynamic Op payouts go straight to the Bank, so you keep them even if you die later [[src-codmunity-dmz-guide-2026-10-24]] [[src-conquestcapped-dmz-solo-2026-10-26]] [clm_f17f3ff635f7].
+Cash and valuables you carry count only when you exfil, and the After Action Report moves the cash to your Bank [[src-activision-dmz-guide-part1-2026-10-05]] [[src-codmunity-dmz-guide-2026-10-24]]. Dynamic Op payouts go straight to the Bank, so you keep them even if you die later [[src-codmunity-dmz-guide-2026-10-24]] [[src-conquestcapped-dmz-solo-2026-10-26]] [clm_f17f3ff635f7]. Since 10 Nov 2026 a run that ends without an exfil is not a total loss either: you get cash based on the value of what you looted and how long you were deployed, except in Story Missions [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## Is there a limit?
 Yes, the Bank has a cap that upgrades raise [[src-activision-dmz-guide-part2-2026-10-09]]; see [[is-there-a-bank-limit-in-dmz]]. Cash on a death: [[do-you-lose-dmz-cash-when-you-die]].

@@ -60,7 +60,7 @@ In Season 1, exfil points inside X01 close off as the facility progresses ([[x01
 
 Squads camp exfil sites and fight near them more than anywhere [clm_4821865b60e5] [clm_dea77ea2af4d] [clm_20b125dbeea0]. The radiation closes the sites in its path, nearest first ([[radiation-storm]]) [[src-conquestcapped-dmz-guide-2026-10-26]]. Picking up a Lieutenant's Dog Tag Case shows you on every Operator's map, so leave soon after [[src-activision-dmz-guide-part1-2026-10-05]].
 
-Fixed bugs: on 24 Oct 2026 the exfil helicopter could vanish with players inside; on 29 Oct enemy helicopters could crash into it and kill the squad [[src-mw4-launch-patch-notes-2026-10-29]]. A network error that hit some PC players extracting with a looted Dog Tag, a known issue on 24 Oct, was resolved for all PC players by 27 Oct [[src-mw4-launch-patch-notes-2026-10-29]] [clm_6155f83bd127].
+Fixed bugs: on 24 Oct 2026 the exfil helicopter could vanish with players inside; on 29 Oct enemy helicopters could crash into it and kill the squad [[src-mw4-launch-patch-notes-2026-10-29]]; on 10 Nov 2026 explosions under a helicopter that was already leaving could still hurt the players aboard [[src-mw4-season-1-patch-notes-2026-11-05]]. Failing to exfil is no longer a total loss: since 10 Nov 2026 you get cash based on what you looted and how long you were deployed, except in Story Missions ([[death-and-loss]]) [[src-mw4-season-1-patch-notes-2026-11-05]]. A network error that hit some PC players extracting with a looted Dog Tag, a known issue on 24 Oct, was resolved for all PC players by 27 Oct [[src-mw4-launch-patch-notes-2026-10-29]] [clm_6155f83bd127].
 
 ## Tips
 

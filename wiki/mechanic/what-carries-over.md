@@ -1,11 +1,11 @@
 ---
 type: mechanic
 title: "What carries over between matches"
-description: "You keep the FOB, Stash, Bank, recipes, Operators and DMZ XP even on a failed exfil; you lose carried gear outside Secure Slots and your Bounty. No wipe has been announced."
+description: "You keep the FOB, Stash, Bank, recipes, Operators and DMZ XP even on a failed exfil, plus a cash payout since 10 Nov 2026; you lose carried gear outside Secure Slots and your Bounty. No wipe."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-progression-video-2026-10-07, src-activision-mw4-launch-weapons-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-insider-gaming-season-1-date-2026-10-14]
+sources: [src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part2-2026-10-09, src-cod-dmz-progression-video-2026-10-07, src-activision-mw4-launch-weapons-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-skycoach-dmz-beginner-guide-2026-10-19, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-insider-gaming-season-1-date-2026-10-14, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["persistence", "wipes", "does DMZ wipe", "what do you keep when you die", "what do I lose when I die", "season reset", "progress carry over", "failed exfil"]
 ---
 <!-- generated:start -->
@@ -25,7 +25,7 @@ DMZ keeps your long-term progress between deployments: the FOB, your Stash and B
 
 ## What do you lose when you die?
 
-- Everything you carry outside [[secure-slots]], including weapons, armor and backpack contents [[src-activision-dmz-guide-part2-2026-10-09]]. Cash you picked up reaches the Bank only if you extract (reported) [[src-gamerfuzion-dmz-level-up-fast-2026-10-21]]; Dynamic Op rewards are paid into the Bank straight away (reported) [[src-codmunity-dmz-guide-2026-10-24]] [clm_f17f3ff635f7].
+- Everything you carry outside [[secure-slots]], including weapons, armor and backpack contents [[src-activision-dmz-guide-part2-2026-10-09]]. Since 10 Nov 2026 a failed exfil pays some cash back, worked out from the value of what you looted and how long you were deployed; Story Missions are excluded [[src-mw4-season-1-patch-notes-2026-11-05]]. Cash you picked up reaches the Bank only if you extract (reported) [[src-gamerfuzion-dmz-level-up-fast-2026-10-21]]; Dynamic Op rewards are paid into the Bank straight away (reported) [[src-codmunity-dmz-guide-2026-10-24]] [clm_f17f3ff635f7].
 - The Operator goes MIA. Paying to recover them keeps their Traits and the XP they earned before dying, but not their gear ([[mia-system]]) [[src-activision-dmz-guide-part2-2026-10-09]] [clm_ec258e1f0cc1].
 - Your Bounty and Wanted status ([[bounty-system]]) [[src-activision-dmz-guide-part2-2026-10-09]].
 - The Extracted Bonus XP; everything else earned stays (reported) [[src-codcentral-dmz-xp-strategies-2026-10-30]].

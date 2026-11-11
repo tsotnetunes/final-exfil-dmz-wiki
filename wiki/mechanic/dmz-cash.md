@@ -1,11 +1,11 @@
 ---
 type: mechanic
 title: "DMZ Cash"
-description: "DMZ Cash buys infils, Gunsmith builds, Vendor gear, intel, MIA recovery and Prestige. Earn it from Ops (10,000 to 20,000), Side Ops, missions, bounties and selling valuables."
+description: "DMZ Cash buys infils, Gunsmith builds, Vendor gear, intel, MIA recovery and Prestige. Earn it from Ops (10,000 to 20,000), missions, bounties, valuables and, since 10 Nov, failed exfils."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_1227a6a278fb, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-traits-2026-10-30, src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-dmz-level-up-fast-2026-10-21]
+sources: [clm_1227a6a278fb, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-mw4-launch-patch-notes-2026-10-29, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-traits-2026-10-30, src-dmzhub-upgrades-2026-10-31, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["cash", "money", "how to make money in DMZ", "how to earn DMZ Cash", "DMZ economy", "economy", "sell items", "selling valuables", "barter", "cash rewards"]
 ---
 <!-- generated:start -->
@@ -36,6 +36,7 @@ DMZ Cash is the mode's currency. It sits in your Bank ([[wallet]]), which all of
 | A Commander's first kill | a one-time payment | [[src-activision-dmz-guide-part2-2026-10-09]] |
 | A Lieutenant kill | cash and XP | [[src-activision-dmz-guide-part1-2026-10-05]] |
 | A Wanted player's Dog Tag extracted | their Bounty, more at the top Wanted level | [[src-activision-dmz-guide-part2-2026-10-09]] [clm_1dda32204130] |
+| A failed exfil (since 10 Nov 2026) | a payout based on the value of what you looted and your time deployed; not in Story Missions, no formula given | [[src-mw4-season-1-patch-notes-2026-11-05]] |
 | Valuables sold at the FOB | Gold Bar 25,000, W.M.D Manifest 5,000, Ballistic Flight Logs 1,000 (reported) | [[src-codmunity-dmz-items-2026-10-26]] |
 
 Bounty payouts grow with the Dog Tag Case rewards at DMZ levels 30, 50 and 70 (10%, 50% and 100%) [[src-activision-ready-for-launch-progression-2026-10-19]]. Traits help too: Investor gives a little more cash when you extract [[src-activision-dmz-guide-part2-2026-10-09]]; Cash Ops adds 20% to Op cash and Key Cash pays for opening locked spaces with a key (reported) [[src-codmunity-dmz-traits-2026-10-30]].

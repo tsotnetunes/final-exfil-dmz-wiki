@@ -1,7 +1,7 @@
 ---
 type: faq
 title: "What happens when you die in DMZ?"
-description: "You lose what you carried except Secure Slot items, your Operator goes MIA until you pay to recover them, and your Bounty is gone. The XP you earned in the run is kept."
+description: "You lose what you carried except Secure Slot items, your Operator goes MIA until you pay to recover them, and your Bounty is gone. You keep the run's XP and, since 10 Nov 2026, get some cash back."
 status: stable
 brain_status: published
 sensitivity: public
@@ -24,6 +24,8 @@ Often. When downed you go into Last Stand. Every Operator can use the tourniquet
 - Your Bounty and Wanted status [[src-activision-dmz-guide-part2-2026-10-09]].
 - Your Dog Tag, if your killer picks it up; extracting with it is how they claim a Bounty [[src-activision-dmz-guide-part2-2026-10-09]].
 - A Blueprint copy you carried; you can buy it back at a discount [[src-activision-dmz-guide-part2-2026-10-09]].
+
+Since 10 Nov 2026 you do get some cash back: a failed exfil pays out according to the value of what you looted and how long you were deployed, except in Story Missions [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What happens to your Operator?
 They are MIA and cannot deploy until you pay DMZ Cash to recover them, with their Traits but without gear, or dismiss them and recruit a new one [[src-activision-dmz-guide-part2-2026-10-09]]. How: [[how-to-get-operators-back-from-mia]].

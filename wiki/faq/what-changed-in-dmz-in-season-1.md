@@ -1,7 +1,7 @@
 ---
 type: faq
 title: "What changed in DMZ with the Season 1 patch?"
-description: "From 6 Nov 2026: X01, stricter Possum, Supplied Drops 50%, stronger Crossfire, dupe fixes; 6 Nov fixed Thermal Padding vs upgraded towers; 7 Nov fixed X01 Bounty, SAM infil and boss Last Stand bugs."
+description: "From 6 Nov 2026: X01, stricter Possum, Supplied Drops 50%, dupe fixes; 7 Nov X01 Bounty and boss fixes; 10 Nov cash for failed exfils, weaker UAVs, and no UAVs in X01."
 status: stable
 brain_status: published
 sensitivity: public
@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-The Season 1 patch notes of 5 Nov 2026 went live with the season at midnight ET on 6 Nov. They hold about 110 DMZ lines: one new place, a few balance changes and many fixes [[src-mw4-season-1-patch-notes-2026-11-05]]. A small update followed on 6 Nov 2026 with about a dozen more DMZ lines, and a third on 7 Nov 2026 with about fifteen, all fixes [[src-mw4-season-1-patch-notes-2026-11-05]].
+The Season 1 patch notes of 5 Nov 2026 went live with the season at midnight ET on 6 Nov. They hold about 110 DMZ lines: one new place, a few balance changes and many fixes [[src-mw4-season-1-patch-notes-2026-11-05]]. A small update followed on 6 Nov 2026 with about a dozen more DMZ lines, a third on 7 Nov 2026 with about fifteen, all fixes, and a fourth on 10 Nov 2026 with about fifteen more, among them a cash payout for failed exfils and much weaker UAVs [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What is new?
 - [[x01]], an underground location under Hajin with its own Orders and a 3D Printer inside [[src-mw4-season-1-patch-notes-2026-11-05]].
@@ -53,6 +53,13 @@ All from [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Bosses: [[the-captain]] and [[colossus]] no longer kill players in Last Stand who could still be revived; Wheelson turrets stop turning while disabled by DDoS or a Shock Stick ([[commander-threats]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Missions and menus: sinking a boat early no longer blocks [[operation-fallen-ember]]; the Orders menu no longer hangs once every Order is done ([[dmz-orders-pages]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Progression: the BlackCell camo challenge for kills without reloading tracks, and players who finished the Season 1 Boss Board Challenge before the season get its FOB trophy ([[boss-board]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
+
+## What did the 10 Nov update change?
+- Failed exfils now pay something: if you die or fail to get out, you receive cash worked out from the value of what you looted and how long you were deployed. Story Missions are left out, and the notes give no formula ([[death-and-loss]], [[dmz-cash]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
+- UAVs and Advanced UAVs from [[fire-support]] now last a much shorter time and cover a much smaller area, with no figures given. The official post called it X01 tuning; later the same day both were switched off in [[x01]] altogether [[src-mw4-season-1-patch-notes-2026-11-05]].
+- The Mini Tracker Minor Trait has a slightly smaller radius ([[scout-tree]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
+- Fixes: the Crude Diethyl Ether no longer floats in [[chemical-denial]]; AI no longer stays stuck in a passenger seat ([[vehicles]]); explosions under a departing helicopter no longer hurt players already aboard ([[exfil]]); in [[x01]] the crank gate elevator shaft exfil in the Power Generators area works again, the Vault Elevator no longer traps players on an upper floor, and bodies no longer drop through the Deep Vault floor; the Wheelson Commander's turret stops tracking after a DDoS ([[commander-threats]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
+- Camos and menus: Platinum challenges for the Cronen Osprey and CSG-35 track, Sniper BlackCell headshots count, and Map Voting works when only two maps are offered ([[dmz-camos]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What went wrong on day one?
 On 6 Nov 2026 the official DMZ account began investigating a failed move from Hajin into [[x01]] that can cost some players their Operator, loadout and Backpack, and a crash at launch on Steam after the update (verify the game files, then reinstall as a last resort) [[src-cod-x-season-1-live-2026-11-06]]. Neither has a fix date yet.

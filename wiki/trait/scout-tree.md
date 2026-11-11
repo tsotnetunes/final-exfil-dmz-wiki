@@ -5,7 +5,7 @@ description: "The looting and intel Trait tree: six fixed Major Traits from the 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-dexerto-best-operator-traits-2026-10-31, src-destructoid-best-operator-traits-2026-10-20, src-gamerfuzion-dmz-best-traits-2026-10-23, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-conquestcapped-dmz-keys-2026-10-28, src-dmzhub-traits-2026-11-08]
+sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-dexerto-best-operator-traits-2026-10-31, src-destructoid-best-operator-traits-2026-10-20, src-gamerfuzion-dmz-best-traits-2026-10-23, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-conquestcapped-dmz-keys-2026-10-28, src-dmzhub-traits-2026-11-08, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Scout", "Scout traits", "Scout trait tree", "Scout skill tree", "looting tree"]
 tree: Scout
 tier: all
@@ -42,7 +42,7 @@ Minor Traits fill the random rows. Guides report one pool of 48 shared by the th
 | Resource Pockets | items you scrap yield 20% more printer resources | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-codcentral-dmz-traits-2026-10-23]] |
 | Stealthy | more AI kills are needed before a Hunt Squad is sent after you | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-codcentral-dmz-traits-2026-10-23]] |
 | Fast Learner | Operator XP comes in 10% faster (reported) | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-codcentral-dmz-traits-2026-10-23]] [[src-dmzhub-traits-2026-10-31]] [[src-dmzhub-traits-2026-11-08]] |
-| Mini Tracker | half the time, opening a fresh container pings the radar | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-playhub-best-traits-2026-10-28]] |
+| Mini Tracker | half the time, opening a fresh container pings the radar; its radius was cut slightly on 10 Nov 2026 [[src-mw4-season-1-patch-notes-2026-11-05]] | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-playhub-best-traits-2026-10-28]] |
 | Key Cash | each locked room you open with a key pays DMZ Cash, more for rarer keys; a key itself sells for only about 100 | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-codcentral-dmz-traits-2026-10-23]] [[src-conquestcapped-dmz-keys-2026-10-28]] |
 | [[auto-fill]] | Lethal and Tactical slots refill from spares in your backpack | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-codcentral-dmz-traits-2026-10-23]] [clm_6aac9d9c7dc0] |
 | Ammo Reserves | carry more spare ammo | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-codcentral-dmz-traits-2026-10-23]] |

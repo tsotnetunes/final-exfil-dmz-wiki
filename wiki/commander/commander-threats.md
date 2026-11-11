@@ -38,7 +38,7 @@ Commanders are DMZ's roaming bosses: always present in Hajin, heavily armoured a
 | [[deathstalker]] | helicopter-sized autonomous drone with two machine-gun turrets | the sky over Hajin City | a captured SAM site | Prototype RF Module | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-allthingshow-deathstalker-2026-10-21]] |
 | [[main-nk-battle-tank]] | North Korean battle tank | roads on the South Korean side | a DDOS, then rockets | Nano-Structured Alloy | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-conquestcapped-dmz-bosses-2026-10-28]] |
 | [[the-captain]] (Season 1) | a Juggernaut who fights with his elite guard | X01 | not announced | sections of his helmet in the Threat Briefing event | [[src-activision-season-1-announcement-2026-10-28]] [clm_93fc23c7a474] |
-| Wheelson (Season 1) | an autonomous unit on patrol with turrets | X01 (named there in the 7 Nov fixes) | turrets stop while hit by DDoS or a Shock Stick | not announced | [[src-activision-season-1-announcement-2026-10-28]] [clm_6f77b93c726e] [[src-mw4-season-1-patch-notes-2026-11-05]] |
+| Wheelson (Season 1) | an autonomous unit on patrol with turrets | X01 (named there in the 7 Nov fixes) | DDoS or a Shock Stick disables the turrets; since 10 Nov 2026 they also stop tracking their target afterwards | not announced | [[src-activision-season-1-announcement-2026-10-28]] [clm_6f77b93c726e] [[src-mw4-season-1-patch-notes-2026-11-05]] |
 
 ## How do you find a Commander?
 

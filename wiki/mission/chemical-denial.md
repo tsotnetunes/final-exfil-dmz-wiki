@@ -5,7 +5,7 @@ description: "Dynamic Op from the official trailer: gather chemicals and blow up
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-codmunity-dmz-missions-2026-10-31, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzmap-dynamic-ops-2026-10-31, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-fpsjp-dynamic-ops-trailer-2026-10-07, src-gamerfuzion-dmz-ops-explained-2026-10-13, src-codmunity-dmz-missions-2026-10-31, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzmap-dynamic-ops-2026-10-31, src-dmzcodex-com-operations-2026-10-31, src-dmztracker-dynamic-side-ops-2026-10-20, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Operation Chemical Denial", "power outage op", "chemical components op"]
 mission_kind: dynamic_op
 steps: "3 to 5 steps, two versions"
@@ -38,5 +38,5 @@ A Lieutenant called Iskra was met at the array during one run [[src-codcentral-d
 
 ## Known bugs and fixes
 
-On 20 Oct 2026 Infinity Ward fixed a missing prompt that could stop players progressing this Op at NuriGO Mall on Nintendo Switch 2 [[src-mw4-launch-patch-notes-2026-10-29]] [[src-dmztracker-dynamic-side-ops-2026-10-20]].
+On 20 Oct 2026 Infinity Ward fixed a missing prompt that could stop players progressing this Op at NuriGO Mall on Nintendo Switch 2 [[src-mw4-launch-patch-notes-2026-10-29]] [[src-dmztracker-dynamic-side-ops-2026-10-20]]. On 10 Nov 2026 it fixed the Crude Diethyl Ether, one of the chemicals you gather, which could float in the air instead of resting where it spawned [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->
