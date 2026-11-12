@@ -1,11 +1,11 @@
 ---
 type: mechanic
 title: "Movement, stamina and weapon tuning"
-description: "Tac sprint is on by default in DMZ; weapons have their own DMZ tuning built around armor; 28 Oct weapon changes were Multiplayer only; dive speed came back on 2 Nov 2026. TTK and bullet speed."
+description: "Tac sprint is on by default in DMZ; weapons have their own DMZ tuning built around armor; 28 Oct weapon changes were Multiplayer only; dive speed back 2 Nov; 11 Nov: hitscan range 3.91x in all modes. TTK and bullet speed."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_c6c24118f956, clm_79b096fd2360, src-westie-dmz-ama-recap-2026-10-11, src-activision-pc-specs-2026-09-29, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09, src-wzstats-dmz-meta-2026-10-31]
+sources: [src-codupdates-x-semi-auto-delay-2026-11-11, src-mw4-season-1-patch-notes-2026-11-05, clm_c6c24118f956, clm_79b096fd2360, src-westie-dmz-ama-recap-2026-10-11, src-activision-pc-specs-2026-09-29, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["Tac sprint", "Tactical sprint", "Damage tuning", "AP rounds", "Time to Kill", "TTK", "Bullet Velocity", "bullet speed", "weapon tuning", "DMZ tuning", "28 Oct nerfs", "weapon nerfs"]
 ---
 <!-- generated:start -->
@@ -41,7 +41,13 @@ No official DMZ time-to-kill (TTK) figures exist. What sets it is known in outli
 
 ## Where do shots go, and how fast?
 
-In Modern Warfare 4 a shot leaves from the weapon's barrel instead of landing at random inside a spread, both aimed and from the hip; a laser attachment shows where shots travel (official, 29 Sep, for the whole game) [[src-activision-pc-specs-2026-09-29]]. No bullet velocity figures for DMZ are published; the only velocity change so far is a cut to the Oden's Sentinel Apex on 28 Oct, listed under Multiplayer ([[oden]]) [[src-mw4-launch-patch-notes-2026-10-29]].
+In Modern Warfare 4 a shot leaves from the weapon's barrel instead of landing at random inside a spread, both aimed and from the hip; a laser attachment shows where shots travel (official, 29 Sep, for the whole game) [[src-activision-pc-specs-2026-09-29]]. No bullet velocity figures for DMZ are published; the only velocity change for one weapon so far is a cut to the Oden's Sentinel Apex on 28 Oct, listed under Multiplayer ([[oden]]) [[src-mw4-launch-patch-notes-2026-10-29]].
+
+## What changed with hitscan on 11 Nov 2026?
+Since 11 Nov 2026 every bullet weapon hits instantly, with no travel time, out to 3.91 times the old distance. Infinity Ward puts the new true hitscan range at about 35 meters on average, 288% further than at launch, so close fights register more directly. Past that range bullets still travel, but a new long-range simulation makes them connect 34 ms sooner, which should make rifle fights at mid and long range feel steadier. The change is listed under Global, so it applies in DMZ as well as Multiplayer and Warzone [[src-mw4-season-1-patch-notes-2026-11-05]].
+
+## Is there a problem with semi-auto weapons?
+Yes, for now. On the evening of 11 Nov 2026 Activision said it is investigating intermittent delays when firing semi-automatic weapons in Modern Warfare 4 and Warzone; no fix date or workaround was given [[src-codupdates-x-semi-auto-delay-2026-11-11]].
 ## Did diving change on 2 Nov 2026?
 
 Yes, in every mode: Infinity Ward removed a temporary exploit fix, which gives back the 23% of dive speed it had cost, and closed a way to stand up from prone with no animation. Small visual bugs remain until a later update [[src-mw4-launch-patch-notes-2026-10-29]].

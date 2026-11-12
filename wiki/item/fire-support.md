@@ -1,7 +1,7 @@
 ---
 type: item
 title: "Fire Support"
-description: "The ten DMZ Fire Support items (carried Killstreaks): UAV, Advanced UAV, Care Package, Bombing Run, Crossfire and more. Since 10 Nov 2026 UAVs are weaker and cannot be used in X01."
+description: "The ten DMZ Fire Support items (carried Killstreaks): UAV, Advanced UAV, Care Package, Bombing Run, Crossfire and more. UAVs are weaker since 10 Nov 2026; UAVs and, since 11 Nov, the Bombing Run cannot be used in X01."
 status: stable
 brain_status: published
 sensitivity: public
@@ -23,7 +23,7 @@ Fire Support is DMZ's name for Killstreak-style items: instead of earning them w
 | Care Package | Rare | a supply drop | recipe at level 28; level 58 reward |
 | Combat Drone | Epic | remote-controlled drone that attacks people | DMZ level 59 reward |
 | Bomb Glider | Epic | hand-launched glider carrying explosives; since 6 Nov 2026 its target markers reach less far, so rivals are not highlighted from so far away [[src-mw4-season-1-patch-notes-2026-11-05]] | printable |
-| Bombing Run | Epic | bombs a spot you choose | printable |
+| Bombing Run | Epic | bombs a spot you choose; switched off in [[x01]] since 11 Nov 2026 [[src-mw4-season-1-patch-notes-2026-11-05]] | printable |
 | Advanced UAV | Legendary | orbital UAV that cannot be shot down and shows which way enemies face, live; since 10 Nov 2026 shorter and smaller in reach, and not at all in [[x01]] [[src-mw4-season-1-patch-notes-2026-11-05]] | printable |
 | Artillery Beacon | Legendary | heat-seeking missiles home in on a beacon you throw | printable |
 | Impact Warhead | Legendary | payload that drills down through several floors | printable |
@@ -36,6 +36,7 @@ Effects: [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-202
 
 - **Killed Operators drop theirs.** Until a fix on 23 Oct 2026, eliminated Operators sometimes dropped extra Killstreaks; the same day a bug carrying Multiplayer Killstreak indicators into DMZ was fixed [[src-mw4-launch-patch-notes-2026-10-29]].
 - **No UAVs in X01.** On 10 Nov 2026 Infinity Ward first cut the duration and range of UAVs and Advanced UAVs a lot, then the same day disabled both in [[x01]], so they cannot be called in there; elsewhere in Hajin they still work at the reduced strength. No figures were given [[src-mw4-season-1-patch-notes-2026-11-05]].
+- **No Bombing Run in X01.** Since 11 Nov 2026 the Bombing Run is disabled in [[x01]] as well; it still works in the rest of Hajin. The notes give no reason [[src-mw4-season-1-patch-notes-2026-11-05]].
 - **UAV Traits.** The Scout Trait UAV Upgrade gives your UAVs more range and duration and turns them into Advanced UAVs; Thermal Padding hides you from enemy UAVs [[src-activision-dmz-guide-part2-2026-10-09]]. The UAV Towers on the map are a different thing: see [[uav-towers]].
 - **Value.** UAV cards show 1,000 to 2,500, so spare Fire Support sells well compared with grenades [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] [[src-wzstats-dmz-loot-2026-10-30]]. Sources differ on the Bombing Run: one list gave 4,500 in October, while DMZHub's card has shown about 1,100 since 4 Nov 2026 (reported) [[src-wzstats-dmz-loot-2026-10-30]] [[src-dmzhub-items-2026-11-05]].
 - **Looting a Bombing Run.** Besides printing, it is reported in weapon lockers and crates, weapon backpacks, supply drops, safes, ordinary lockers and some boss drops (reported) [[src-dmzhub-items-2026-11-05]].

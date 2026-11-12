@@ -1385,3 +1385,7 @@
 ## [2026-11-10 22:47 EST] render | 7 pages rendered, 1000 claims, 1000 evidence
 - changed: wiki 7, claims 1, evidence 1, index.md 1
 - run: r-20261111-034714-74b8
+
+## [2026-11-11 19:45 EST] edit | daily update 2026-11-12: 11 Nov patch (3.91x hitscan in all modes, faster solo and duo Bounties, Bombing Run off in X01, Battle Pass claim fix), semi-auto delay and MP split screen notices, free trial ended; 9 pages, 2 new sources
+- changed: .kac 1, index 8, index.md 1, raw 3, wiki 12
+- run: r-20261111-194553-60a3

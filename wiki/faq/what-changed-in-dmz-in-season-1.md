@@ -1,7 +1,7 @@
 ---
 type: faq
 title: "What changed in DMZ with the Season 1 patch?"
-description: "From 6 Nov 2026: X01, stricter Possum, Supplied Drops 50%, dupe fixes; 7 Nov X01 Bounty and boss fixes; 10 Nov cash for failed exfils, weaker UAVs, and no UAVs in X01."
+description: "From 6 Nov 2026: X01, stricter Possum, Supplied Drops 50%, dupe fixes; 7 Nov X01 Bounty and boss fixes; 10 Nov failed-exfil cash, no UAVs in X01; 11 Nov longer hitscan, faster solo Bounties, no Bombing Run in X01."
 status: stable
 brain_status: published
 sensitivity: public
@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-The Season 1 patch notes of 5 Nov 2026 went live with the season at midnight ET on 6 Nov. They hold about 110 DMZ lines: one new place, a few balance changes and many fixes [[src-mw4-season-1-patch-notes-2026-11-05]]. A small update followed on 6 Nov 2026 with about a dozen more DMZ lines, a third on 7 Nov 2026 with about fifteen, all fixes, and a fourth on 10 Nov 2026 with about fifteen more, among them a cash payout for failed exfils and much weaker UAVs [[src-mw4-season-1-patch-notes-2026-11-05]].
+The Season 1 patch notes of 5 Nov 2026 went live with the season at midnight ET on 6 Nov. They hold about 110 DMZ lines: one new place, a few balance changes and many fixes [[src-mw4-season-1-patch-notes-2026-11-05]]. A small update followed on 6 Nov 2026 with about a dozen more DMZ lines, a third on 7 Nov 2026 with about fifteen, all fixes, and a fourth on 10 Nov 2026 with about fifteen more, among them a cash payout for failed exfils and much weaker UAVs, and a fifth on 11 Nov 2026 with a game-wide hitscan change and five DMZ lines [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What is new?
 - [[x01]], an underground location under Hajin with its own Orders and a 3D Printer inside [[src-mw4-season-1-patch-notes-2026-11-05]].
@@ -60,6 +60,13 @@ All from [[src-mw4-season-1-patch-notes-2026-11-05]].
 - The Mini Tracker Minor Trait has a slightly smaller radius ([[scout-tree]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Fixes: the Crude Diethyl Ether no longer floats in [[chemical-denial]]; AI no longer stays stuck in a passenger seat ([[vehicles]]); explosions under a departing helicopter no longer hurt players already aboard ([[exfil]]); in [[x01]] the crank gate elevator shaft exfil in the Power Generators area works again, the Vault Elevator no longer traps players on an upper floor, and bodies no longer drop through the Deep Vault floor; the Wheelson Commander's turret stops tracking after a DDoS ([[commander-threats]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Camos and menus: Platinum challenges for the Cronen Osprey and CSG-35 track, Sniper BlackCell headshots count, and Map Voting works when only two maps are offered ([[dmz-camos]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
+
+## What did the 11 Nov update change?
+- Gunfights, in every mode including DMZ: the true hitscan range of all bullet weapons is 3.91 times longer, about 35 meters on average, and a new simulation makes long-range bullets land 34 ms sooner ([[movement-and-tuning]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
+- Solo players and duos build a Bounty slightly faster ([[bounty-system]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
+- The Bombing Run from [[fire-support]] can no longer be used in [[x01]] [[src-mw4-season-1-patch-notes-2026-11-05]].
+- Fixes: claiming a Battle Pass reward from DMZ no longer fails ([[is-there-a-battle-pass-in-dmz]]), spectator and downed HUD elements such as Calling Cards no longer overlap, and a new Operator Skin picked in the FOB shows correctly straight away [[src-mw4-season-1-patch-notes-2026-11-05]].
+- Later that day Activision began looking into intermittent delays when firing semi-automatic weapons [[src-codupdates-x-semi-auto-delay-2026-11-11]].
 
 ## What went wrong on day one?
 On 6 Nov 2026 the official DMZ account began investigating a failed move from Hajin into [[x01]] that can cost some players their Operator, loadout and Backpack, and a crash at launch on Steam after the update (verify the game files, then reinstall as a last resort) [[src-cod-x-season-1-live-2026-11-06]]. Neither has a fix date yet.

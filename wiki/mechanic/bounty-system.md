@@ -31,7 +31,7 @@ Killing other players earns you a Bounty, and enough kills make you Wanted, so o
 
 ## How do you get a Bounty?
 
-The first player kill puts a Bounty on you straight away. It shows on your Dog Tag ([[dog-tags]]) with your Operator kill count and grows with every player kill, across deployments; who fired first and being outnumbered are among the factors [[src-activision-dmz-guide-part2-2026-10-09]]. At four player kills you become **Wanted** ([[wanted-status]]) and nearby Operators are alerted when you come close; higher thresholds raise your Wanted level, up to **Most Wanted** [[src-activision-dmz-guide-part2-2026-10-09]] [clm_8c1bbf558597]. The bounty trailer shows 100,000 after a sixth kill and 250,000 after an eighth (reported) [[src-codmunity-dmz-guide-2026-10-24]].
+The first player kill puts a Bounty on you straight away. It shows on your Dog Tag ([[dog-tags]]) with your Operator kill count and grows with every player kill, across deployments; who fired first and being outnumbered are among the factors [[src-activision-dmz-guide-part2-2026-10-09]]. At four player kills you become **Wanted** ([[wanted-status]]) and nearby Operators are alerted when you come close; higher thresholds raise your Wanted level, up to **Most Wanted** [[src-activision-dmz-guide-part2-2026-10-09]] [clm_8c1bbf558597]. Since 11 Nov 2026 solo players and duos build a Bounty a little faster than before; the notes give no figures [[src-mw4-season-1-patch-notes-2026-11-05]]. The bounty trailer shows 100,000 after a sixth kill and 250,000 after an eighth (reported) [[src-codmunity-dmz-guide-2026-10-24]].
 
 ## How do you get rid of your Bounty?
 

@@ -1,7 +1,7 @@
 ---
 type: faq
 title: "Is DMZ free to play?"
-description: "Not for good: DMZ is a mode of Modern Warfare 4, so you need the game. A free DMZ trial runs from 6 Nov 2026 until 11 Nov at 10 AM PT on every platform."
+description: "Not for good: DMZ is a mode of Modern Warfare 4, so you need the game. A free DMZ trial ran on every platform from 6 Nov 2026 until 11 Nov at 10 AM PT and has ended."
 status: stable
 brain_status: published
 sensitivity: public
@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Not for good. DMZ is one of the three modes of Call of Duty: Modern Warfare 4, so playing it means buying the game [[src-windows-central-dmz-reveal-2026-06-06]] [[src-gamerfuzion-dmz-things-to-know-2026-10-03]]. The exception is a free trial: since 6 Nov 2026 anyone can play DMZ for free on all platforms until 11 Nov at 10 AM PT, with both Hajin and X01 and the new Orders open to trial players [clm_c03d62d1bd39] [clm_00eb4f492414] [clm_0e0655be5769] [[src-cod-x-dmz-free-trial-2026-11-09]]. See [[dmz-free-trial]]. The 2022 DMZ beta was different: it came free with Modern Warfare II and Warzone 2.0, which is why the question keeps coming up [[src-windows-central-dmz-reveal-2026-06-06]].
+Not for good. DMZ is one of the three modes of Call of Duty: Modern Warfare 4, so playing it means buying the game [[src-windows-central-dmz-reveal-2026-06-06]] [[src-gamerfuzion-dmz-things-to-know-2026-10-03]]. The one exception so far was a free trial: from 6 Nov 2026 until 11 Nov at 10 AM PT anyone could play DMZ for free on all platforms, with both Hajin and X01 and the new Orders open to trial players. It has ended, and no new one is announced [clm_c03d62d1bd39] [clm_00eb4f492414] [clm_0e0655be5769] [[src-cod-x-dmz-free-trial-2026-11-09]]. See [[dmz-free-trial]]. The 2022 DMZ beta was different: it came free with Modern Warfare II and Warzone 2.0, which is why the question keeps coming up [[src-windows-central-dmz-reveal-2026-06-06]].
 
 ## What do you have to buy?
 Any edition of Modern Warfare 4 includes DMZ [[src-windows-central-dmz-reveal-2026-06-06]]. Before launch the Vault Edition was listed at 99.99 USD [[src-windows-central-dmz-reveal-2026-06-06]] [[src-gamerfuzion-dmz-things-to-know-2026-10-03]] and the Standard edition at 69.99 USD (reported) [[src-gamerfuzion-dmz-things-to-know-2026-10-03]]. Early access to DMZ from 20 Oct 2026 went to players who had pre-ordered or pre-purchased a digital copy of either edition [[src-activision-dmz-guide-part2-2026-10-09]]. What the Vault Edition adds for DMZ is on [[is-the-vault-edition-worth-it-for-dmz]].
@@ -22,5 +22,5 @@ Any edition of Modern Warfare 4 includes DMZ [[src-windows-central-dmz-reveal-20
 No. Modern Warfare 4 did not join Xbox Game Pass at launch, and press expect it about a year after release [[src-gfinity-mw4-game-pass-2026-06-17]] [[src-windows-central-dmz-reveal-2026-06-06]] [clm_517e1fd9f5b2]. On consoles you also need the platform's paid online service for the game's online modes (reported) [[src-timesaver-mw4-subscriptions-2026-09-18]]; see [[does-dmz-need-ps-plus-or-game-pass]].
 
 ## Does Season 1 make DMZ free?
-Only for a few days. The free trial that opened on 6 Nov 2026 ends on 11 Nov at 10 AM PT [clm_c03d62d1bd39] [clm_0e0655be5769]; what carries over from a trial to a bought copy has not been stated. Beyond that, from Season 1 on 6 Nov 2026, free-to-play Warzone fully joins up with Modern Warfare 4 and Hajin becomes one of its maps, but the official Season 1 post does not say DMZ itself becomes free [[src-activision-season-1-announcement-2026-10-28]]. See [[is-dmz-part-of-warzone]].
+Only for a few days, and those are over. The free trial that opened on 6 Nov 2026 ended on 11 Nov at 10 AM PT [clm_c03d62d1bd39] [clm_0e0655be5769]; what carries over from a trial to a bought copy has not been stated. Beyond that, from Season 1 on 6 Nov 2026, free-to-play Warzone fully joins up with Modern Warfare 4 and Hajin becomes one of its maps, but the official Season 1 post does not say DMZ itself becomes free [[src-activision-season-1-announcement-2026-10-28]]. See [[is-dmz-part-of-warzone]].
 <!-- human:end -->
