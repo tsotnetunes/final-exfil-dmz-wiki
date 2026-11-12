@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: items"
-description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 10 Nov 2026."
+description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 12 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -31,6 +31,32 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Utility Box (Season 1) | row in [[field-upgrades]] | [[src-dmzhub-items-2026-11-09]] | published (reported; effect not known) |
 | Ceramic Pup of Loyalty (X01) | row in [[valuables]] | [[src-dmzhub-items-2026-11-07]] | published (reported) |
 | Rex's Goggles (Season 1, Hajin) | row in [[valuables]] | [[src-dmzhub-items-2026-11-10]] | published (reported) |
+| 3.5-Plate Armor Vest (Season 1) | row in [[armor-vests]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Argonaut Armor (Season 1, X01) | note in [[fire-support]] and [[x01-deep-vault]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Specter Fabric Sample (Season 1) | row in [[materials]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Staff Emergency Exfil Keycard (X01) | note in [[keys]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Key: Executive Room (X01) | row in [[keys]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Key: Small Test Chamber (X01) | row in [[keys]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Key: Audit Room (X01) | row in [[keys]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Key: Lt. Chol-Min's Stash Room (X01) | row in [[keys]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Key: Deep Vault 301 (X01) | row in [[keys]], [[x01-deep-vault]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Key: Deep Vault 106 (X01) | row in [[keys]], [[x01-deep-vault]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Key: Deep Vault 406 (X01) | row in [[keys]], [[x01-deep-vault]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Encodable Blank Keycard (X01) | row in [[keys]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Key: Downtown Branch Lobby Main | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Ballistic Gel Armor Kit | row in [[survival-kits]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Advanced Triage Kit | row in [[survival-kits]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Blackcell Kit (Season 1) | row in [[survival-kits]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| R-18 Grade 3 Bio-Toxin (Season 1) | row in [[valuables]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Gilded Guardian of Allegiance (Season 1) | row in [[valuables]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Gilded Medal of Absolute Loyalty (Season 1) | row in [[valuables]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Weapons Grade Isotope (Season 1) | row in [[valuables]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Human Trial Records: R-18 (Season 1) | row in [[valuables]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Gilded Maritime Relic (Season 1) | row in [[valuables]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| R-4 Bio-Compound (Season 1) | row in [[valuables]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Animal Trial Records: R-4 (Season 1) | row in [[valuables]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Medal of Unquestioning Service (Season 1) | row in [[valuables]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Prototype K9-Core V2 (Season 1) | none yet | [[src-dmzhub-items-2026-11-12]] | missing (Epic, card value 10,000; use not known) |
 | Armor Plate | section in [[armor-vests]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Red Tier 3 Plate Vest (not an item name) | [[red-tier-3-plate-vest]], alias on [[armor-vests]] | [clm_6cdd88af06b9] | retired |
 | Basic Pack | row in [[backpacks]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-dmzradar-backpacks-2026-10-20]] | published |

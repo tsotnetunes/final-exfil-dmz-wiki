@@ -5,7 +5,7 @@ description: "DMZ has eight plate carriers holding 1 to 3 armour plates; the 3-P
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-conquestcapped-dmz-keys-2026-10-28, src-mw4-season-1-patch-notes-2026-11-05]
+sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-wzstats-dmz-loot-2026-10-30, src-conquestcapped-dmz-keys-2026-10-28, src-mw4-season-1-patch-notes-2026-11-05, src-dmzhub-items-2026-11-12]
 aliases: ["Plate Carriers", "plate carrier", "armor vest", "armour vest", "vests", "1-Plate Armor Vest", "2-Plate Armor Vest", "2-Plate Ballistic Gel Vest", "2-Plate Helmet Armor Vest", "3-Plate Ballistic Gel Vest", "3-Plate Helmet Armor Vest", "Ballistic Gel Vest", "Helmet Armor Vest", "Red Tier 3 Plate Vest", "red vest", "Armor Plate", "armor plates", "armour plates", "plates", "2-Plate Carrier"]
 ---
 <!-- generated:start -->
@@ -26,6 +26,7 @@ An armor vest (the game files them under Plate Carriers) sets how many armour pl
 | 3-Plate Armor Vest | 3 | Epic (official); Legendary on community sites | nothing | DMZ level 37 reward; printable; see [[3-plate-armor-vest]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] |
 | 3-Plate Ballistic Gel Vest | 3 | Ultra | plates refill over time | printable once you hold its recipe | [[src-dmzhub-items-2026-10-31]] [[src-dmzcodex-armor-backpacks-guide-2026-10-24]] |
 | 3-Plate Helmet Armor Vest | 3 | Ultra | less damage from headshots | printable once you hold its recipe | [[src-dmzhub-items-2026-10-31]] [[src-dmzcodex-armor-backpacks-guide-2026-10-24]] |
+| 3.5-Plate Armor Vest (Season 1) | 4 slots; the third plate counts as one and a half | Ultra | the toughest carrier listed | printed at the X01 printer with a Specter Fabric Sample, by a community database (reported) | [[src-dmzhub-items-2026-11-12]] |
 | Tempered Armor Vest | not confirmed | Ultra | heavy carrier with enhanced plates | printable; see [[tempered-armor-vest]] | [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] |
 
 Values on loot cards, as the community databases show them: 500 for the 1-Plate, 1,000 for the 2-Plate, and 5,000 or 6,000 for the 3-Plate [[src-codmunity-dmz-items-2026-10-26]] [[src-wzstats-dmz-loot-2026-10-30]] [[src-dmzhub-items-2026-10-31]]. Ultra is the top rarity and shows in red, which is why players talk about "red tier" vests [clm_6cdd88af06b9] [clm_2140d9f4cd1c].

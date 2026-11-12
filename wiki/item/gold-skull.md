@@ -5,7 +5,7 @@ description: "An Ultra valuable worth 25,000 DMZ Cash, found in high-tier key ro
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_b90e9b9a3636, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-gamingpromax-dmz-keys-2026-10-27, src-conquestcapped-dmz-keys-2026-10-28, src-keengamer-best-loot-2026-10-22]
+sources: [clm_b90e9b9a3636, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-gamingpromax-dmz-keys-2026-10-27, src-conquestcapped-dmz-keys-2026-10-28, src-keengamer-best-loot-2026-10-22, src-dmzhub-upgrades-2026-11-12]
 aliases: ["Gold Skulls", "golden skull", "skull"]
 ---
 <!-- generated:start -->
@@ -23,7 +23,7 @@ The Gold Skull is an Ultra valuable, the top rarity, with a card value of 25,000
 
 ## What is the Gold Skull used for?
 
-Players report that end-game FOB upgrades need five Gold Skulls [clm_b90e9b9a3636]. A community database names the upgrade: Stash Item Upgrade IV, which adds 18 item slots to your Stash and also takes 30 Alloyed Plating, 10 Experimental Compounds and 30 Turned Components (reported) [[src-dmzhub-upgrades-2026-10-31]]. No other upgrade on that list uses Gold Skulls, so five is the number to keep. See [[stash]].
+Players report that end-game FOB upgrades need five Gold Skulls [clm_b90e9b9a3636]. A community database names the upgrade: Stash Item Upgrade IV, which adds 18 item slots to your Stash and also takes 30 Alloyed Plating, 10 Experimental Compounds and 30 Turned Components (reported) [[src-dmzhub-upgrades-2026-10-31]]. Since 12 Nov 2026 the same database also lists Bank Upgrade XI (ten skulls) and Bank Upgrade XII (twenty skulls) (reported) [[src-dmzhub-upgrades-2026-11-12]], so a player going for the top Bank levels needs 35 in all. See [[stash]] and [[wallet]].
 
 ## Where do you find Gold Skulls?
 

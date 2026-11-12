@@ -5,7 +5,7 @@ description: "An Uncommon 3D Printer ingredient for Medkits, Self-Revive Kits an
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-items-2026-10-26, src-codcentral-3d-printer-recipes-2026-10-20, src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-dtgre-dmz-crafting-guides-2026-10-24, src-allthingshow-dmz-crafting-guides-2026-10-21, src-vgtimes-dmz-3d-printer-2026-10-27, src-dmzhub-items-2026-10-31]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-items-2026-10-26, src-codcentral-3d-printer-recipes-2026-10-20, src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-dtgre-dmz-crafting-guides-2026-10-24, src-allthingshow-dmz-crafting-guides-2026-10-21, src-vgtimes-dmz-3d-printer-2026-10-27, src-dmzhub-items-2026-10-31, src-dmzhub-items-2026-11-12]
 aliases: ["Biomaterial", "bio materials", "where to find Biomaterials"]
 ---
 <!-- generated:start -->
@@ -33,6 +33,7 @@ Databases disagree on their value: 800 DMZ Cash [[src-codmunity-dmz-items-2026-1
 | Radiation Blockers | 3 |
 | Durable Gas Mask | 5 |
 | 3-Plate Ballistic Gel Vest | 10 |
+| Consumable Box (Season 1) | not given (reported) [[src-dmzhub-items-2026-11-12]] |
 | Dog Tag Case Upgrade I | 10 |
 | Uncommon Ingredient Printing | 20 |
 

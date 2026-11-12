@@ -1,11 +1,11 @@
 ---
 type: item
 title: "Gold Bar"
-description: "An Ultra valuable worth 25,000 DMZ Cash, paid by Operation Silent Ledger. Keep 15: Bank Upgrade X takes ten and Stash Weapon Upgrade III five."
+description: "An Ultra valuable worth 25,000 DMZ Cash, paid by Operation Silent Ledger. Keep 35: Bank Upgrades X and XII take 30 and Stash Weapon Upgrade III five."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_2140d9f4cd1c, clm_4903d57a964d, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-gfinity-story-mission-rewards-2026-10-23, src-gamerfuzion-solo-vault-run-2026-10-25]
+sources: [clm_2140d9f4cd1c, clm_4903d57a964d, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-gfinity-story-mission-rewards-2026-10-23, src-gamerfuzion-solo-vault-run-2026-10-25, src-dmzhub-upgrades-2026-11-12]
 aliases: ["Gold Bars", "gold", "gold bar value", "red tier gold"]
 ---
 <!-- generated:start -->
@@ -28,7 +28,7 @@ The sure source is Operation Silent Ledger: finishing that Story Mission pays a 
 
 ## Should you sell Gold Bars?
 
-Not before your upgrades are done. Players report that end-game FOB upgrades take five Gold Bars [clm_4903d57a964d], and a community database lists two of them: Stash Weapon Upgrade III (five bars, for six more weapon slots) and Bank Upgrade X (ten bars, for a Bank that holds 250 million) [[src-dmzhub-upgrades-2026-10-31]]. That makes 15 in all. Sold, each bar is 25,000; kept, they unlock upgrades that cash alone cannot buy.
+Not before your upgrades are done. Players report that end-game FOB upgrades take five Gold Bars [clm_4903d57a964d], and a community database lists three of them: Stash Weapon Upgrade III (five bars, for six more weapon slots) and Bank Upgrade X (ten bars, for a Bank that holds 250 million) [[src-dmzhub-upgrades-2026-10-31]], and since 12 Nov 2026 Bank Upgrade XII (twenty bars, for a 1 billion Bank; reported) [[src-dmzhub-upgrades-2026-11-12]]. That makes 35 in all, or 15 if you stop the Bank at X. Sold, each bar is 25,000; kept, they unlock upgrades that cash alone cannot buy.
 
 ## How do you keep one safe?
 

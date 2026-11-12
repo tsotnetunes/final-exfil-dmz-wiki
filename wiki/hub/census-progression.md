@@ -35,7 +35,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Deploy, Ready Up, Squad Fill | [[deploy]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | Free Loadout | row in [[deploy]] | [[src-codmunity-dmz-guide-2026-10-24]] [[src-xbox-wire-dmz-operator-guide-2026-10-20]] | published (contents reported) |
 | Bank (Wallet) and its cap | [[wallet]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-dmzhub-upgrades-2026-10-31]] [[src-codmunity-dmz-guide-2026-10-24]] | published (caps reported) |
-| Bank Upgrade I to X | rows in [[fob-upgrades]] and [[wallet]] | [[src-dmzhub-upgrades-2026-10-31]] [[src-codmunity-dmz-guide-2026-10-24]] | published (reported) |
+| Bank Upgrade I to XIII | rows in [[fob-upgrades]] and [[wallet]] | [[src-dmzhub-upgrades-2026-10-31]] [[src-dmzhub-upgrades-2026-11-12]] [[src-codmunity-dmz-guide-2026-10-24]] | published (reported) |
 | Stash Item Upgrade I to IV | rows in [[fob-upgrades]] and [[stash]] | [[src-dmzhub-upgrades-2026-10-31]] | published (reported) |
 | Stash Weapon Upgrade I to III | rows in [[fob-upgrades]] and [[stash]] | [[src-dmzhub-upgrades-2026-10-31]] | published (reported) |
 | MIA Recovery Discount I to IV | rows in [[fob-upgrades]] and [[mia-system]] | [[src-dmzhub-upgrades-2026-10-31]] [[src-activision-dmz-guide-part2-2026-10-09]] | published (reported) |

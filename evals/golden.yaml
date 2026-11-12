@@ -410,3 +410,9 @@
 - id: g137
   question: What are the X01 DMZ Orders and what do they pay?
   must_retrieve: [x01-orders]
+- id: g138
+  question: What does Bank Upgrade XII cost and how much does it hold?
+  must_retrieve: [fob-upgrades]
+- id: g139
+  question: Which keys open the Deep Vault in X01?
+  must_retrieve: [x01-deep-vault]

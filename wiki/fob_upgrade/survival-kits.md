@@ -5,7 +5,7 @@ description: "Bundles of supplies (Triage, Armor, Equipment, Restock, SERE kits)
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_d79723694987, clm_49f22644ec29, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-items-2026-10-31]
+sources: [clm_d79723694987, clm_49f22644ec29, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-items-2026-10-31, src-dmzhub-items-2026-11-12]
 aliases: ["Survival Kit", "Triage Kit", "SERE Kit", "Restock Kit", "Armor Kit", "Recon Equipment Kit", "Explosives Equipment Kit", "Deployment Kit", "Vault Edition bonus"]
 station: survival-kits
 unlock: start
@@ -59,6 +59,18 @@ The official launch post lists each kit's contents [[src-activision-ready-for-la
 | Advanced SERE Kit (Legendary) | 70 | Operator Rescue Beacons, Weapon Insurance Contracts, Self-Revives and Medkits |
 
 The post names the items without counts; a community database lists counts for some kits (reported) [[src-dmzhub-items-2026-10-31]]. What a Weapon Insurance Contract or an Operator Rescue Beacon does: [[what-do-rescue-beacons-and-weapon-insurance-do]] (reported).
+
+## Which kits are new in Season 1?
+
+A community database added more kit entries from 8 Nov 2026 (reported) [[src-dmzhub-items-2026-11-12]]:
+
+| Kit | Rarity | What is known |
+| --- | --- | --- |
+| Ballistic Gel Armor Kit | Epic | two 2-Plate Ballistic Gel Vests and two Armor Boxes ([[armor-vests]]) |
+| Advanced Triage Kit | Legendary | contents not listed yet |
+| Blackcell Kit | not given | a Season 1 kit of mixed items and rarities; it shares its name with the BlackCell pass ([[is-there-a-battle-pass-in-dmz]]), but how it is granted is not stated |
+
+The same database rates the Triage Kit Epic, matching the official post, and the Deployment Kit Ultra. Where the Advanced Triage and Ballistic Gel Armor Kits come from is not known yet.
 
 ## What is the Vault Edition Deployment Kit?
 

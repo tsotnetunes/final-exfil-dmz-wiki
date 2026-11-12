@@ -1,11 +1,11 @@
 ---
 type: fob_upgrade
 title: "Wallet"
-description: "The Bank holds the DMZ Cash shared by all your Operators: about 100,000 at first, 250 million at Bank Upgrade X. A 1 Nov report adds levels up to XIII and 2 billion. Excess is lost."
+description: "The Bank holds the DMZ Cash shared by all your Operators: about 100,000 at first, 250 million at Bank Upgrade X and, by a community database, 2 billion at XIII. Excess is lost."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_06c3db0d22f9, clm_a914cc559257, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-mw4-launch-patch-notes-2026-10-29, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-activision-ready-for-launch-progression-2026-10-19]
+sources: [clm_06c3db0d22f9, clm_a914cc559257, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-guide-2026-10-24, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-mw4-launch-patch-notes-2026-10-29, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-upgrades-2026-11-12]
 aliases: ["Bank", "DMZ Bank", "bank cap", "bank capacity", "how much bank space", "Bank Upgrade", "bank limit", "starting bank cap", "max bank"]
 station: bank
 unlock: start
@@ -34,7 +34,7 @@ The Bank is where your DMZ Cash lives between deployments, and all of your Activ
 
 ## How much can the Bank hold?
 
-About 100,000 before any upgrade: a crafting guide gives that starting cap and players report the same [[src-xboxplay-dmz-crafting-guides-2026-10-23]] [clm_06c3db0d22f9]. Bank upgrades printed at the [[3d-printer]] raise the cap [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-guide-2026-10-24]]. A community database lists ten levels, up to 250 million [[src-dmzhub-upgrades-2026-10-31]]; a later report adds more above them:
+About 100,000 before any upgrade: a crafting guide gives that starting cap and players report the same [[src-xboxplay-dmz-crafting-guides-2026-10-23]] [clm_06c3db0d22f9]. Bank upgrades printed at the [[3d-printer]] raise the cap [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-guide-2026-10-24]]. A community database listed ten levels, up to 250 million, on 31 Oct 2026 [[src-dmzhub-upgrades-2026-10-31]]; by 12 Nov 2026 it listed thirteen, up to 2 billion (reported) [[src-dmzhub-upgrades-2026-11-12]]:
 
 | Bank Upgrade | Cap | Costs | Also confirmed by |
 | --- | --- | --- | --- |
@@ -44,7 +44,9 @@ About 100,000 before any upgrade: a crafting guide gives that starting cap and p
 | III | 1,000,000 | 100,000 and valuables | a guide, and a creator's footage [[src-gamerfuzion-3d-printer-upgrades-2026-10-23]] [[src-codmunity-dmz-guide-2026-10-24]] |
 | IV | 2,000,000 | 200,000 and valuables | the same footage, as the next step [[src-codmunity-dmz-guide-2026-10-24]] |
 | V to X | 5, 10, 25, 50, 100 and 250 million | 500,000 each and valuables | no second source yet |
-| XIII | 2 billion | one of every Red DRC Locker Key, 5 Door Breacher Charges | one player's submission, 1 Nov 2026 (reported) [clm_e5fe1043473f] [clm_aa158a74c396] |
+| XI | 500 million | 500,000 and 10 Gold Skulls | no second source yet (reported) [[src-dmzhub-upgrades-2026-11-12]] |
+| XII | 1 billion | no cash; 20 Gold Bars, 20 Gold Skulls, 3 Irradiated Containers, 3 Fulton Drop Markers | no second source yet (reported) [[src-dmzhub-upgrades-2026-11-12]] |
+| XIII | 2 billion | the three red DRC Locker Keys (Shopping, Air Base Weapons, Reactor), 5 Door Breacher Charges | one player's submission of 1 Nov 2026 and the database on 12 Nov 2026 (reported) [clm_e5fe1043473f] [clm_aa158a74c396] [[src-dmzhub-upgrades-2026-11-12]] |
 
 The valuables for each level: [[fob-upgrades]].
 
@@ -52,7 +54,7 @@ The valuables for each level: [[fob-upgrades]].
 
 - **The starting cap.** No official source gives a number; 100,000 rests on one guide and player reports [[src-xboxplay-dmz-crafting-guides-2026-10-23]] [clm_06c3db0d22f9].
 - **Levels V to X.** Only the community database lists them, so the top caps and costs could change or be wrong [[src-dmzhub-upgrades-2026-10-31]].
-- **Levels above X.** The database stops at X; a single report of 1 Nov 2026 puts the end at XIII and 2 billion [clm_e5fe1043473f] [clm_aa158a74c396]. XI and XII are unknown.
+- **Levels above X.** Only the community database gives XI and XII, from 12 Nov 2026; XIII matches a player report of 1 Nov 2026 [[src-dmzhub-upgrades-2026-11-12]] [clm_e5fe1043473f] [clm_aa158a74c396]. Check the printer before you farm for them.
 - **DMZ level rewards.** The official 9 Oct guide lists Bank capacity among the kinds of DMZ level reward, but the official launch table of 19 Oct names no Bank step at any level; its level 40 reward is an unnamed station upgrade [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]].
 
 ## What happens to cash over the cap?

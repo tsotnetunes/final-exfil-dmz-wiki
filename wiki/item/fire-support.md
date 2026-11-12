@@ -5,7 +5,7 @@ description: "The ten DMZ Fire Support items (carried Killstreaks): UAV, Advance
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-items-2026-11-05, src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-wzstats-dmz-loot-2026-10-30, src-mw4-season-1-patch-notes-2026-11-05]
+sources: [src-dmzhub-items-2026-11-05, src-activision-mw4-launch-weapons-2026-10-19, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-wzstats-dmz-loot-2026-10-30, src-mw4-season-1-patch-notes-2026-11-05, src-dmzhub-items-2026-11-12]
 aliases: ["Killstreaks", "killstreak", "UAV", "Advanced UAV", "Care Package", "Combat Drone", "Bombing Run", "Crossfire", "Artillery Beacon", "Impact Warhead", "Bomb Glider", "Railgun Sentry", "airstrike"]
 ---
 <!-- generated:start -->
@@ -40,5 +40,6 @@ Effects: [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-202
 - **UAV Traits.** The Scout Trait UAV Upgrade gives your UAVs more range and duration and turns them into Advanced UAVs; Thermal Padding hides you from enemy UAVs [[src-activision-dmz-guide-part2-2026-10-09]]. The UAV Towers on the map are a different thing: see [[uav-towers]].
 - **Value.** UAV cards show 1,000 to 2,500, so spare Fire Support sells well compared with grenades [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] [[src-wzstats-dmz-loot-2026-10-30]]. Sources differ on the Bombing Run: one list gave 4,500 in October, while DMZHub's card has shown about 1,100 since 4 Nov 2026 (reported) [[src-wzstats-dmz-loot-2026-10-30]] [[src-dmzhub-items-2026-11-05]].
 - **Looting a Bombing Run.** Besides printing, it is reported in weapon lockers and crates, weapon backpacks, supply drops, safes, ordinary lockers and some boss drops (reported) [[src-dmzhub-items-2026-11-05]].
-- Multiplayer-only streaks such as the Counter UAV, Wheelson, Gunship and Argonaut do not appear in the DMZ item databases [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]].
+- Multiplayer-only streaks such as the Counter UAV, Wheelson and Gunship do not appear in the DMZ item databases [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]].
+- **Argonaut Armor (Season 1).** Since Season 1 a community database lists Argonaut Armor as DMZ Fire Support: an Ultra item worth 7,500 that puts you in heavy armour, found in the Core Room of the [[x01-deep-vault]] once a computer there unlocks it (reported) [[src-dmzhub-items-2026-11-12]]. The entry for the Specter Fabric Sample names it as one of the things that ingredient crafts at the X01 printer; no recipe is listed yet.
 <!-- human:end -->

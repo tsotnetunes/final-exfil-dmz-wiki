@@ -5,7 +5,7 @@ description: "DMZ valuables (intel documents, Gold Bars, Gold Skulls) sell for 1
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-whats-new-2026-10-05, src-allthings-how-solo-money-2026-10-21, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamingpromax-dmz-keys-2026-10-27, src-conquestcapped-dmz-keys-2026-10-28, src-keengamer-best-loot-2026-10-22, src-gfinity-story-mission-rewards-2026-10-23, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-11-07, src-dmzhub-items-2026-11-10]
+sources: [src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-whats-new-2026-10-05, src-allthings-how-solo-money-2026-10-21, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamingpromax-dmz-keys-2026-10-27, src-conquestcapped-dmz-keys-2026-10-28, src-keengamer-best-loot-2026-10-22, src-gfinity-story-mission-rewards-2026-10-23, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-11-07, src-dmzhub-items-2026-11-10, src-dmzhub-items-2026-11-12, src-dmzhub-upgrades-2026-11-12]
 aliases: ["valuable", "Ceramic Pup of Loyalty", "Ceramic Pup", "Rex's Goggles", "Rex Goggles", "loot to sell", "what to sell", "intel items", "documents", "files", "Regional Combat Notes", "Ballistic Flight Logs", "Infantry Invasion Plans", "Degraded Execution Footage", "Nuclear Program Files", "Encrypted Archive", "Encrypted Archives", "Cipher Code Ledger", "W.M.D Manifest", "WMD Manifest", "Foreign Intelligence Targets", "Sanctioned Assassination List", "most valuable loot", "barter items"]
 ---
 <!-- generated:start -->
@@ -29,14 +29,23 @@ Valuables are loot whose only job is money or upgrades: you extract them and sel
 | Foreign Intelligence Targets | Epic | 5,000 | Bank VIII (10), MIA Recovery Discount III (5) | 15 |
 | Cipher Code Ledger | Epic | 5,000 | Bank VIII (10) | 10 |
 | Sanctioned Assassination List | Legendary | 10,000 | Bank IX (10), MIA Recovery Discount IV (5) | 15 |
-| [[gold-bar]] | Ultra | 25,000 | Bank X (10), Stash Weapon III (5) | 15 |
-| [[gold-skull]] | Ultra | 25,000 | Stash Item IV (5) | 5 |
+| [[gold-bar]] | Ultra | 25,000 | Bank X (10), Bank XII (20), Stash Weapon III (5) | 35 |
+| [[gold-skull]] | Ultra | 25,000 | Bank XI (10), Bank XII (20), Stash Item IV (5) | 35 |
 | Ceramic Pup of Loyalty (Season 1, X01) | Epic | 6,000 | none listed yet | none |
 | Rex's Goggles (Season 1, Hajin) | Uncommon | not listed yet | none listed yet | none |
+| R-18 Grade 3 Bio-Toxin (Season 1, X01) | Ultra | 50,000 | none listed yet | none |
+| Gilded Guardian of Allegiance (Season 1) | Ultra | 30,000 | none listed yet | none |
+| Gilded Medal of Absolute Loyalty (Season 1) | Legendary | 15,000 | none listed yet | none |
+| Weapons Grade Isotope (Season 1) | Legendary | 12,000 | none listed yet | none |
+| Human Trial Records: R-18 (Season 1) | Epic | 8,000 | none listed yet | none |
+| Gilded Maritime Relic (Season 1) | Epic | 7,000 | none listed yet | none |
+| R-4 Bio-Compound (Season 1) | Rare | 3,000 | none listed yet | none |
+| Animal Trial Records: R-4 (Season 1) | Rare | 3,000 | none listed yet | none |
+| Medal of Unquestioning Service (Season 1) | Rare | 2,500 | none listed yet | none |
 
 Rarities and values: [[src-dmzhub-items-2026-10-31]], confirmed for most rows by [[src-codmunity-dmz-items-2026-10-26]] and, for Regional Combat Notes, by two run reports [[src-gamerfuzion-solo-vault-run-2026-10-25]] [[src-allthings-how-solo-money-2026-10-21]]. Upgrade amounts come from one community database (reported) [[src-dmzhub-upgrades-2026-10-31]]; the five Gold Bars and five Gold Skulls for end-game upgrades match what players report [clm_4903d57a964d] [clm_b90e9b9a3636]. Values move with patches.
 
-The Ceramic Pup of Loyalty is the first Season 1 valuable: a community database rates it Epic, shows a value of 6,000 and says it is found in [[x01]] (reported) [[src-dmzhub-items-2026-11-07]]. Rex's Goggles followed on 9 Nov 2026: an Uncommon Season 1 valuable whose card calls it headgear that belonged to Rex, missing somewhere in North Korea, with one known spawn point in Hajin around map square B6 (reported) [[src-dmzhub-items-2026-11-10]]. Rex is also the name of the dog in [[breaking-new-ground]].
+The Ceramic Pup of Loyalty was the first Season 1 valuable: a community database rates it Epic, shows a value of 6,000 and says it is found in [[x01]] (reported) [[src-dmzhub-items-2026-11-07]]. Rex's Goggles followed on 9 Nov 2026: an Uncommon Season 1 valuable whose card calls it headgear that belonged to Rex, missing somewhere in North Korea, with one known spawn point in Hajin around map square B6 (reported) [[src-dmzhub-items-2026-11-10]]. Rex is also the name of the dog in [[breaking-new-ground]]. Nine more Season 1 valuables were in the same database by 12 Nov 2026, from 2,500 to 50,000 DMZ Cash (reported) [[src-dmzhub-items-2026-11-12]]. The top one, the R-18 Grade 3 Bio-Toxin, is listed in the end room of the [[x01-deep-vault]]; where the others spawn is not given yet, and no upgrade uses any of them so far.
 
 ## What should you sell and what should you keep?
 

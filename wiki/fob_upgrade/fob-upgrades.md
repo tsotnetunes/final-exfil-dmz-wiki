@@ -5,7 +5,7 @@ description: "Every permanent FOB upgrade printed at the 3D Printer, with what e
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_e5fe1043473f, clm_c168498fe928, clm_2c3c3d4d6b3b, clm_d002b3aea621, clm_bf03d0691aa3, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23]
+sources: [clm_e5fe1043473f, clm_c168498fe928, clm_2c3c3d4d6b3b, clm_d002b3aea621, clm_bf03d0691aa3, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-mw4-launch-patch-notes-2026-10-29, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-dmzhub-upgrades-2026-11-12]
 aliases: ["FOB Upgrades", "station upgrades", "Bank Upgrade", "Stash Item Upgrade", "Stash Weapon Upgrade", "MIA Recovery Discount", "Gunsmith Upgrade", "Vendor Item Upgrade", "Dog Tag Case Upgrade", "Uncommon Ingredient Printing", "Epic Ingredient Printing", "upgrade the FOB", "bank cap upgrade"]
 station: 3d-printer
 unlock: "3D Printer"
@@ -37,7 +37,7 @@ Some DMZ levels give the same kinds of bonus for free: Stash slots at levels 22,
 
 ## Bank Upgrade
 
-Raises how much DMZ Cash your Bank ([[wallet]]) can hold [[src-dmzhub-upgrades-2026-10-31]]. The Bank starts at about 100,000, by one guide and player reports [[src-xboxplay-dmz-crafting-guides-2026-10-23]] [clm_06c3db0d22f9]. Levels I and II are confirmed by two more guides [[src-allthingshow-dmz-crafting-guides-2026-10-21]] [[src-xboxplay-dmz-crafting-guides-2026-10-23]], level III by another [[src-gamerfuzion-3d-printer-upgrades-2026-10-23]], and a creator's footage after launch showed the 1,000,000 cap with 2,000,000 as the next step, which matches levels III and IV [[src-codmunity-dmz-guide-2026-10-24]]. Levels V to X rest on the community database alone (reported) [[src-dmzhub-upgrades-2026-10-31]]; what else is unsettled is on [[wallet]].
+Raises how much DMZ Cash your Bank ([[wallet]]) can hold [[src-dmzhub-upgrades-2026-10-31]]. The Bank starts at about 100,000, by one guide and player reports [[src-xboxplay-dmz-crafting-guides-2026-10-23]] [clm_06c3db0d22f9]. Levels I and II are confirmed by two more guides [[src-allthingshow-dmz-crafting-guides-2026-10-21]] [[src-xboxplay-dmz-crafting-guides-2026-10-23]], level III by another [[src-gamerfuzion-3d-printer-upgrades-2026-10-23]], and a creator's footage after launch showed the 1,000,000 cap with 2,000,000 as the next step, which matches levels III and IV [[src-codmunity-dmz-guide-2026-10-24]]. Levels V to X rest on the community database alone (reported) [[src-dmzhub-upgrades-2026-10-31]], and so do XI to XIII, which it added by 12 Nov 2026 (reported) [[src-dmzhub-upgrades-2026-11-12]]; what else is unsettled is on [[wallet]].
 
 | Level | Bank cap | DMZ Cash | Items |
 | --- | --- | --- | --- |
@@ -51,8 +51,11 @@ Raises how much DMZ Cash your Bank ([[wallet]]) can hold [[src-dmzhub-upgrades-2
 | VIII | 50,000,000 | 500,000 | 10 Foreign Intelligence Targets, 10 Cipher Code Ledger |
 | IX | 100,000,000 | 500,000 | 10 Sanctioned Assassination List |
 | X | 250,000,000 | 500,000 | 10 Gold bars ([[gold-bar]]) |
+| XI | 500,000,000 | 500,000 | 10 Gold Skulls ([[gold-skull]]) |
+| XII | 1,000,000,000 | none | 20 Gold Bars, 20 Gold Skulls, 3 Irradiated Containers ([[irradiated-container]]), 3 Fulton Drop Markers ([[fulton-drop-marker]]) |
+| XIII | 2,000,000,000 | none | the Shopping, Air Base Weapons and Reactor DRC Locker Keys, 5 Door Breacher Charges ([[door-breacher-charge]]) |
 
-All ten levels cost 3,370,000 DMZ Cash in all. Levels I and II need cash only.
+All thirteen levels cost 3,870,000 DMZ Cash in all, by the database's own total. Levels I and II need cash only; XII and XIII need items only.
 
 ## Stash Item Upgrade and Stash Weapon Upgrade
 
