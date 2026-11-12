@@ -1,7 +1,7 @@
 ---
 type: faq
 title: "What changed in DMZ with the Season 1 patch?"
-description: "From 6 Nov 2026: X01, stricter Possum, Supplied Drops 50%, dupe fixes; 7 Nov X01 Bounty and boss fixes; 10 Nov failed-exfil cash, no UAVs in X01; 11 Nov longer hitscan, faster solo Bounties, no Bombing Run in X01."
+description: "From 6 Nov 2026: X01, stricter Possum, Supplied Drops 50%, dupe fixes; 7 Nov X01 Bounty and boss fixes; 10 Nov failed-exfil cash, no UAVs in X01; 11 Nov longer hitscan, faster solo Bounties, no Bombin"
 status: stable
 brain_status: published
 sensitivity: public

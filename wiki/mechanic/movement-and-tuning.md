@@ -1,11 +1,11 @@
 ---
 type: mechanic
 title: "Movement, stamina and weapon tuning"
-description: "Tac sprint is on by default in DMZ; weapons have their own DMZ tuning built around armor; 28 Oct weapon changes were Multiplayer only; dive speed back 2 Nov; 11 Nov: hitscan range 3.91x in all modes. TTK and bullet speed."
+description: "Tac sprint is on by default in DMZ; weapons have their own DMZ tuning built around armor; 28 Oct weapon changes were Multiplayer only; dive speed back 2 Nov; 11 Nov: hitscan range 3.91x in all modes."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-codupdates-x-semi-auto-delay-2026-11-11, src-mw4-season-1-patch-notes-2026-11-05, clm_c6c24118f956, clm_79b096fd2360, src-westie-dmz-ama-recap-2026-10-11, src-activision-pc-specs-2026-09-29, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09, src-wzstats-dmz-meta-2026-10-31]
+sources: [clm_c6c24118f956, clm_79b096fd2360, src-codupdates-x-semi-auto-delay-2026-11-11, src-mw4-season-1-patch-notes-2026-11-05, src-westie-dmz-ama-recap-2026-10-11, src-activision-pc-specs-2026-09-29, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["Tac sprint", "Tactical sprint", "Damage tuning", "AP rounds", "Time to Kill", "TTK", "Bullet Velocity", "bullet speed", "weapon tuning", "DMZ tuning", "28 Oct nerfs", "weapon nerfs"]
 ---
 <!-- generated:start -->

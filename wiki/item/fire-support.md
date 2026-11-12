@@ -1,7 +1,7 @@
 ---
 type: item
 title: "Fire Support"
-description: "The ten DMZ Fire Support items (carried Killstreaks): UAV, Advanced UAV, Care Package, Bombing Run, Crossfire and more. UAVs are weaker since 10 Nov 2026; UAVs and, since 11 Nov, the Bombing Run cannot be used in X01."
+description: "The ten DMZ Fire Support items (carried Killstreaks): UAV, Advanced UAV, Care Package, Bombing Run, Crossfire and more. UAVs are weaker since 10 Nov 2026; UAVs and, since 11 Nov, the Bombing Run canno"
 status: stable
 brain_status: published
 sensitivity: public
