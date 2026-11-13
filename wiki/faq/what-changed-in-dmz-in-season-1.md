@@ -1,11 +1,11 @@
 ---
 type: faq
 title: "What changed in DMZ with the Season 1 patch?"
-description: "From 6 Nov 2026: X01, stricter Possum, Supplied Drops 50%, dupe fixes; 7 Nov X01 Bounty and boss fixes; 10 Nov failed-exfil cash, no UAVs in X01; 11 Nov longer hitscan, faster solo Bounties, no Bombin"
+description: "From 6 Nov 2026: X01, Possum nerf, dupe fixes; 10 Nov failed-exfil cash, no UAVs in X01; 11 Nov longer hitscan, no Bombing Run in X01; 12 Nov DMZ Trophy, insurance and Trait fixes."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-season-1-announcement-2026-10-28, src-cod-x-season-1-live-2026-11-06]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-season-1-announcement-2026-10-28, src-cod-x-season-1-live-2026-11-06, src-infinityward-x-dmz-trophy-bug-2026-11-12, src-codupdates-x-level-37-armor-grant-2026-11-12]
 aliases: ["Season 1 patch notes DMZ", "Season 1 DMZ changes", "DMZ Season 1 update", "what did Season 1 change in DMZ", "Possum nerf Season 1", "Supplied Drops buff"]
 ---
 <!-- generated:start -->
@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-The Season 1 patch notes of 5 Nov 2026 went live with the season at midnight ET on 6 Nov. They hold about 110 DMZ lines: one new place, a few balance changes and many fixes [[src-mw4-season-1-patch-notes-2026-11-05]]. A small update followed on 6 Nov 2026 with about a dozen more DMZ lines, a third on 7 Nov 2026 with about fifteen, all fixes, and a fourth on 10 Nov 2026 with about fifteen more, among them a cash payout for failed exfils and much weaker UAVs, and a fifth on 11 Nov 2026 with a game-wide hitscan change and five DMZ lines [[src-mw4-season-1-patch-notes-2026-11-05]].
+The Season 1 patch notes of 5 Nov 2026 went live with the season at midnight ET on 6 Nov. They hold about 110 DMZ lines: one new place, a few balance changes and many fixes [[src-mw4-season-1-patch-notes-2026-11-05]]. A small update followed on 6 Nov 2026 with about a dozen more DMZ lines, a third on 7 Nov 2026 with about fifteen, all fixes, and a fourth on 10 Nov 2026 with about fifteen more, among them a cash payout for failed exfils and much weaker UAVs, and a fifth on 11 Nov 2026 with a game-wide hitscan change and five DMZ lines, and a sixth on 12 Nov 2026 with six DMZ fixes [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What is new?
 - [[x01]], an underground location under Hajin with its own Orders and a 3D Printer inside [[src-mw4-season-1-patch-notes-2026-11-05]].
@@ -67,6 +67,17 @@ All from [[src-mw4-season-1-patch-notes-2026-11-05]].
 - The Bombing Run from [[fire-support]] can no longer be used in [[x01]] [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Fixes: claiming a Battle Pass reward from DMZ no longer fails ([[is-there-a-battle-pass-in-dmz]]), spectator and downed HUD elements such as Calling Cards no longer overlap, and a new Operator Skin picked in the FOB shows correctly straight away [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Later that day Activision began looking into intermittent delays when firing semi-automatic weapons [[src-codupdates-x-semi-auto-delay-2026-11-11]].
+
+## What did the 12 Nov update change?
+All fixes, no balance changes [[src-mw4-season-1-patch-notes-2026-11-05]]:
+- Wager Match Trophies now drop in DMZ as often as intended; Infinity Ward had called the DMZ drops bugged that morning ([[wager-match]]) [[src-infinityward-x-dmz-trophy-bug-2026-11-12]].
+- Operator and weapon insurance keeps working when you die in [[x01]] after moving there from Hajin ([[what-do-rescue-beacons-and-weapon-insurance-do]]).
+- A Grizzly stops once its driver is killed instead of rolling on ([[vehicles]]).
+- The capture prompt at SAM Sites and UAV Towers shows the longer time from [[air-superiority]].
+- [[thermal-padding]] and an active Sedative Inhaler hide you again from enemy UAVs boosted by [[uav-upgrade]].
+- Some BlackCell camo challenges track properly in DMZ ([[dmz-camos]]).
+
+The same evening Activision said it had granted the level 37 3-Plate Armor Vest to every player who passed that level before the 28 Oct fix ([[3-plate-armor-vest]]) [[src-codupdates-x-level-37-armor-grant-2026-11-12]].
 
 ## What went wrong on day one?
 On 6 Nov 2026 the official DMZ account began investigating a failed move from Hajin into [[x01]] that can cost some players their Operator, loadout and Backpack, and a crash at launch on Steam after the update (verify the game files, then reinstall as a last resort) [[src-cod-x-season-1-live-2026-11-06]]. Neither has a fix date yet.

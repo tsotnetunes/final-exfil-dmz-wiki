@@ -5,7 +5,7 @@ description: "A Rescue Beacon returns your Operator free after a failed exfil; a
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-gamerfuzion-rescue-beacon-insurance-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-allthingshow-dmz-death-rules-2026-10-21]
+sources: [src-gamerfuzion-rescue-beacon-insurance-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-allthingshow-dmz-death-rules-2026-10-21, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Operator Rescue Beacon", "Rescue Beacon", "Weapon Insurance Contract", "Weapon Insurance", "insured weapons", "how to insure weapons", "what does a Rescue Beacon do", "what does Weapon Insurance do"]
 ---
 <!-- generated:start -->
@@ -32,5 +32,8 @@ Yes, each use spends one. The creator also found that a contract is gone even wh
 - The Vault Edition Deployment Kit: two of each [[src-activision-dmz-guide-part2-2026-10-09]].
 
 ## What do they not cover?
-Nothing here says they protect your backpack or armor, so plan on losing what sits outside Secure Slots as usual ([[death-and-loss]]). Paid recovery without a beacon: [[how-to-get-operators-back-from-mia]].
+Nothing here says they protect your backpack or armor, so plan on losing what sits outside Secure Slots as usual ([[death-and-loss]]).
+
+## Do they work in X01?
+Yes. Until 12 Nov 2026 Operator and weapon insurance could stop working if you died in [[x01]] after deploying there from Hajin; the update of 12 Nov fixed it [[src-mw4-season-1-patch-notes-2026-11-05]]. Paid recovery without a beacon: [[how-to-get-operators-back-from-mia]].
 <!-- human:end -->

@@ -1,11 +1,11 @@
 ---
 type: item
 title: "3-Plate Armor Vest"
-description: "The basic three-plate vest: a DMZ level 37 reward (granted properly since the 28 Oct fix), also printable once you hold the recipe and sometimes found in high-tier lockers."
+description: "The basic three-plate vest: a DMZ level 37 reward (fixed on 28 Oct; earlier players got it by a grant on 12 Nov 2026), also printable once you hold the recipe and found in high-tier lockers."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_8f5238d9722b, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-conquestcapped-dmz-keys-2026-10-28]
+sources: [clm_8f5238d9722b, src-activision-ready-for-launch-progression-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-conquestcapped-dmz-keys-2026-10-28, src-codupdates-x-level-37-armor-grant-2026-11-12]
 aliases: ["3 plate vest", "three plate vest", "3-plate vest", "3 plate armor", "3-Plate Armour Vest", "level 37 vest"]
 ---
 <!-- generated:start -->
@@ -30,7 +30,7 @@ The 3-Plate Armor Vest is the standard plate carrier for three armour plates, an
 
 ## What happened to the level 37 reward?
 
-At launch the level 37 reward did not arrive. The developers fixed it on 28 Oct 2026, but the fix only helped players still below level 37; on 29 Oct they said they were working on granting the vest to everyone who had passed the level earlier [[src-mw4-launch-patch-notes-2026-10-29]]. Whether those players have received it is not confirmed yet.
+At launch the level 37 reward did not arrive. The developers fixed it on 28 Oct 2026, but the fix only helped players still below level 37; on 29 Oct they said they were working on granting the vest to everyone who had passed the level earlier [[src-mw4-launch-patch-notes-2026-10-29]]. On 12 Nov 2026 Activision said that one-off grant had gone out to every affected player [[src-codupdates-x-level-37-armor-grant-2026-11-12]], so anyone past level 37 should now hold the vest.
 
 ## How rare and how valuable is it?
 

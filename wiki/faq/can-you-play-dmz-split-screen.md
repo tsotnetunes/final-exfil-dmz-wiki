@@ -5,7 +5,7 @@ description: "Probably on PS5 and Xbox Series only, two players per console: one
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-vandal-split-screen-2026-10-21, src-gameoverdrive-split-screen-2026-11-02, src-activision-dmz-guide-part2-2026-10-09]
+sources: [src-vandal-split-screen-2026-10-21, src-gameoverdrive-split-screen-2026-11-02, src-activision-dmz-guide-part2-2026-10-09, src-codupdates-x-split-screen-2026-11-11, src-codupdates-x-split-screen-back-2026-11-12]
 aliases: ["DMZ split screen", "split-screen DMZ", "local co-op DMZ", "couch co-op DMZ", "two players one console DMZ", "MW4 split screen"]
 ---
 <!-- generated:start -->
@@ -22,5 +22,5 @@ PS5 and Xbox Series X|S only. Vandal rules out PC and Switch 2 [[src-vandal-spli
 Per Vandal: each player needs an own Activision account and the console must be online. Open the mode's lobby, sign in on a second controller, and have the second player press the join button [[src-vandal-split-screen-2026-10-21]]. It also says both accounts need the platform's online subscription [[src-vandal-split-screen-2026-10-21]]; see [[does-dmz-need-ps-plus-or-game-pass]], which covers that in full.
 
 ## Does it work well?
-On 11 Nov 2026 Activision switched split screen off for now in Multiplayer while it investigates a problem; the post did not mention DMZ or a return date [[src-codupdates-x-split-screen-2026-11-11]]. Final Exfil's known-issues tracker has one player report, from 30 Oct 2026, of stability trouble and inactivity kicks in split screen on PS5 (reported, unverified). Squads and party rules: [[squads-and-solo-play]].
+On 11 Nov 2026 Activision switched split screen off in Multiplayer for a few hours while it looked into a problem, and turned it back on late that night, New York time; neither post mentioned DMZ [[src-codupdates-x-split-screen-2026-11-11]] [[src-codupdates-x-split-screen-back-2026-11-12]]. Final Exfil's known-issues tracker has one player report, from 30 Oct 2026, of stability trouble and inactivity kicks in split screen on PS5 (reported, unverified). Squads and party rules: [[squads-and-solo-play]].
 <!-- human:end -->

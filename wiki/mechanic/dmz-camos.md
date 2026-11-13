@@ -70,6 +70,7 @@ A successor to the 2022 beta's Serpentine camo hunt is planned for post-launch s
 - Reported 31 Oct 2026: the two-Lieutenant-tag challenge not tracking correctly [clm_e48247d4fe41].
 - Fixed 10 Nov 2026: Platinum camo challenges did not track for the two Season 1 guns, the [[cronen-osprey-assault-rifle]] and the [[csg-35-smg]], a known issue since 7 Nov [[src-cod-x-camo-tracking-2026-11-07]] [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Fixed 10 Nov 2026: headshots did not count for the Sniper BlackCell camo challenge [[src-mw4-season-1-patch-notes-2026-11-05]].
+- Fixed 12 Nov 2026: some other BlackCell camo challenges did not always track in DMZ [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Reported 4 Nov 2026: on the Pila, JOKR and RPG, the challenge to destroy vehicles or killstreaks counts in DMZ rather than Multiplayer and needs 50, not 30 (reported) [clm_9e05ae7aa090].
 ## What was fixed in Season 1?
 

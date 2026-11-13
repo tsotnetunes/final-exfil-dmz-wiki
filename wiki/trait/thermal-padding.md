@@ -1,7 +1,7 @@
 ---
 type: trait
 title: "Thermal Padding"
-description: "Scout Major Trait, row 9: UAVs and, since 6 Nov 2026, upgraded UAV Towers do not show you; the AUAV still does. Pairs with Overwatch; the Pro version also hides your vehicle."
+description: "Scout Major Trait, row 9: UAVs, upgraded UAV Towers and, since a 12 Nov 2026 fix, UAVs boosted by UAV Upgrade do not show you; the AUAV still does. The Pro version hides your vehicle."
 status: stable
 brain_status: published
 sensitivity: public
@@ -34,5 +34,5 @@ A vehicle you ride in is also kept off UAVs [[src-dmzmap-skill-tree-2026-10-29]]
 For solo play several guides make it the key Scout pick, since a lone Operator has nobody to cover them once a UAV shows where they are [[src-playhub-best-traits-2026-10-28]] [[src-codcentral-dmz-traits-2026-10-23]] [[src-gamerfuzion-dmz-best-traits-2026-10-23]]. Squads that hold [[uav-towers]] often take Overwatch instead. Since 6 Nov 2026 the patch notes say it hides you from UAV Towers too, including towers a rival has upgraded with [[uav-upgrade]] to show direction; the AUAV fire support still finds you [[src-mw4-season-1-patch-notes-2026-11-05]] ([[fire-support]]).
 
 ## Has it changed?
-Yes, on 6 Nov 2026. A small Season 1 update made Thermal Padding, Thermal Padding Pro and the Sedative Inhaler hide you from UAVs and from towers upgraded by [[uav-upgrade]]; before that, such towers could still show you, a gap the notes of 2 Nov had promised to close [[src-mw4-season-1-patch-notes-2026-11-05]] [[src-mw4-launch-patch-notes-2026-10-29]]. The same update reworded the FOB description of Thermal Padding Pro; the effect itself did not change [[src-mw4-season-1-patch-notes-2026-11-05]]. A player report of 2 Nov, of being seen on a rival's UAV with Thermal Padding Pro under an Inhaler, came before this fix (reported) [clm_531b123e8546]. The AUAV fire support is the one sensor it does not beat [[src-mw4-season-1-patch-notes-2026-11-05]].
+It was fixed twice. Since 12 Nov 2026 you no longer appear on enemy UAVs boosted by [[uav-upgrade]], with this Trait or with a Sedative Inhaler running; until then those UAVs could still show you [[src-mw4-season-1-patch-notes-2026-11-05]]. Before that, on 6 Nov 2026, a small Season 1 update made Thermal Padding, Thermal Padding Pro and the Sedative Inhaler hide you from UAVs and from towers upgraded by [[uav-upgrade]]; before that, such towers could still show you, a gap the notes of 2 Nov had promised to close [[src-mw4-season-1-patch-notes-2026-11-05]] [[src-mw4-launch-patch-notes-2026-10-29]]. The same update reworded the FOB description of Thermal Padding Pro; the effect itself did not change [[src-mw4-season-1-patch-notes-2026-11-05]]. A player report of 2 Nov, of being seen on a rival's UAV with Thermal Padding Pro under an Inhaler, came before both fixes (reported) [clm_531b123e8546]. The AUAV fire support is the one sensor it does not beat [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

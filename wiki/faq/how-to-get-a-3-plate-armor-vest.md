@@ -1,11 +1,11 @@
 ---
 type: faq
 title: "How do you get a 3-Plate Armor Vest in DMZ?"
-description: "Reach DMZ level 37, finish certain DMZ Orders pages, print one once you hold the recipe, or from Season 1 trade for one in the Resupply Run. The level 37 reward was fixed on 28 Oct 2026."
+description: "Reach DMZ level 37, finish certain DMZ Orders pages, print one once you hold the recipe, or trade for one in the Resupply Run. Players missed by the level 37 bug got theirs on 12 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-progression-2026-10-19, src-dmzhub-orders-2026-10-31, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-missions-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzhub-items-2026-10-31]
+sources: [src-mw4-launch-patch-notes-2026-10-29, src-codmunity-dmz-progression-2026-10-19, src-dmzhub-orders-2026-10-31, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-missions-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzhub-items-2026-10-31, src-codupdates-x-level-37-armor-grant-2026-11-12]
 aliases: ["3-Plate Armor Vest", "3 plate vest DMZ", "three plate vest", "level 37 reward DMZ", "3-Plate Carrier", "best armor DMZ"]
 ---
 <!-- generated:start -->
@@ -16,7 +16,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 The surest way is DMZ level 37, which rewards a 3-Plate Armor Vest [[src-mw4-launch-patch-notes-2026-10-29]] [[src-codmunity-dmz-progression-2026-10-19]]. Some pages of DMZ Orders also give one, and from Season 1 the Resupply Run event lets you trade for 3-Plate Carriers [[src-dmzhub-orders-2026-10-31]] [[src-activision-season-1-announcement-2026-10-28]].
 
 ## What went wrong with the level 37 reward?
-The vest was not being granted at level 37 until a fix on 28 Oct 2026. The fix helped players who had not yet reached the level; on 29 Oct Activision said it was working on granting the vest to players who had already passed it [[src-mw4-launch-patch-notes-2026-10-29]]. If you passed level 37 before 28 Oct and have no vest, that is the known problem.
+The vest was not being granted at level 37 until a fix on 28 Oct 2026. The fix helped only players who had not yet reached the level [[src-mw4-launch-patch-notes-2026-10-29]]. On 12 Nov 2026 Activision said everyone who passed level 37 before the fix had now been given the vest by a one-off grant [[src-codupdates-x-level-37-armor-grant-2026-11-12]]. If you are past level 37 and still have none, that is no longer a known case; report it to Activision support.
 
 ## Which Orders give one?
 Orders pages 12 (The Grid, part 1) and 20 list a 3-Plate Armor Vest among their rewards (reported) [[src-dmzhub-orders-2026-10-31]]. All Orders: [[dmz-orders]].

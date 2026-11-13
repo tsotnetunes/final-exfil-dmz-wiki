@@ -5,7 +5,7 @@ description: "Minor Trait, seen in Survivalist: SAM sites and UAV Towers you swi
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_5cb5d20deed5, clm_c3633bb72757, src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_5cb5d20deed5, clm_c3633bb72757, src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Air Superiority trait", "UAV tower duration trait", "SAM site trait"]
 tree: Survivalist
 tier: "Minor, random slot"
@@ -23,7 +23,7 @@ _Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Air Superiority is a Minor Trait: UAV Towers and SAM sites that you activate stay active for longer [[src-activision-dmz-guide-part2-2026-10-09]] [[src-destructoid-trait-effects-2026-10-20]] [clm_5cb5d20deed5] [clm_c3633bb72757]. How much longer is not published.
+Air Superiority is a Minor Trait: UAV Towers and SAM sites that you activate stay active for longer [[src-activision-dmz-guide-part2-2026-10-09]] [[src-destructoid-trait-effects-2026-10-20]] [clm_5cb5d20deed5] [clm_c3633bb72757]. How much longer is not published, but since 12 Nov 2026 the capture prompt at a SAM Site or UAV Tower shows your longer time; before that fix it showed the normal duration even with the Trait [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What do UAV Towers and SAM sites do?
 Both are Side Ops on the map. Activating a UAV Tower pays DMZ Cash and pulses nearby Operators and enemies onto your map; at a SAM site you hack the control computer and hold the site, and while you stay near, its battery shoots at enemy aircraft such as Deathstalkers [[src-activision-dmz-guide-part1-2026-10-05]] ([[locations-of-interest]], [[uav-towers]], [[commander-threats]]). Since 23 Oct 2026 UAV Towers can be stolen back from enemy control [[src-mw4-launch-patch-notes-2026-10-29]].

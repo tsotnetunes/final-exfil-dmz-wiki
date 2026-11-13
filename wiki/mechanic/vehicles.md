@@ -91,5 +91,5 @@ The North Korean side drives road convoys and flies attack helicopter patrols [[
 - Players report that a player hit by a car can end up stuck on its bonnet (reported) [clm_9ccc2ae5bb3c].
 ## What was fixed in Season 1?
 
-From 6 Nov 2026: trying to get into a vehicle no longer leaves you unable to drive, shoot or sprint; you can take a vehicle after killing its driver; delayed controls and missing sounds are gone; RHIBs stop spawning on top of each other along the shore; and tanks stop bouncing over Razor Wire [[src-mw4-season-1-patch-notes-2026-11-05]].
+From 6 Nov 2026: trying to get into a vehicle no longer leaves you unable to drive, shoot or sprint; you can take a vehicle after killing its driver; delayed controls and missing sounds are gone; RHIBs stop spawning on top of each other along the shore; and tanks stop bouncing over Razor Wire [[src-mw4-season-1-patch-notes-2026-11-05]]. Since 12 Nov 2026 a Grizzly comes to a stop once its driver is killed; before, it could keep driving on its own [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->
