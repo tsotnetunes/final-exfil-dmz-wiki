@@ -8,7 +8,6 @@ sensitivity: public
 sources: [src-infinityward-x-joint-fire-live-2026-11-13, src-activision-season-1-announcement-2026-10-28]
 aliases: ["Joint Fire", "Joint fire", "Joint Fire Event", "Friday XP event", "party XP boost"]
 date: "2026-11-13"
-stale_after: 2026-12-15
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

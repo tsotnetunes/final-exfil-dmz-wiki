@@ -8,7 +8,6 @@ sensitivity: public
 sources: [src-activision-season-1-announcement-2026-10-28, src-mw4-season-1-patch-notes-2026-11-05, src-x-community-resupply-run-2026-11-13]
 aliases: ["Resupply Run", "Resupply Run event", "DMZ Resupply Run", "Resupply event"]
 date: "2026-11-12"
-stale_after: 2026-12-15
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
