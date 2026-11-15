@@ -1421,3 +1421,7 @@
 ## [2026-11-14 20:41 EST] render | 6 pages rendered, 1000 claims, 1000 evidence
 - changed: wiki 6, claims 1, evidence 1, index.md 1
 - run: r-20261115-014117-c829
+
+## [2026-11-14 21:18 EST] edit | community sweep 2026-11-15: DMZHub kit updates (Basic Armor, Restock, Triage, Explosives counts, rarity, sources) and Triangulation tower hint; codmunity not fetched
+- changed: .kac 1, index 7, index.md 1, raw 2, wiki 6
+- run: r-20261114-211759-7973

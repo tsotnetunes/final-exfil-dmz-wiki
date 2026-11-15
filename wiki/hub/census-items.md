@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: items"
-description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 12 Nov 2026."
+description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 15 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -93,10 +93,10 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Self-Revive Kit | [[self-revive-kit]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-westie-dmz-ama-recap-2026-10-11]] | published |
 | Tourniquet | [[tourniquet]] | [[src-westie-dmz-ama-recap-2026-10-11]] [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | Door Breacher Charge | [[door-breacher-charge]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-gamerfuzion-solo-vault-run-2026-10-25]] | published |
-| Basic Armor Kit | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Restock Kit (Basic Restock Kit) | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Basic Triage Kit | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
-| Explosives Equipment Kit | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
+| Basic Armor Kit | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] [[src-dmzhub-items-2026-11-15]] | published |
+| Restock Kit (Basic Restock Kit) | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] [[src-dmzhub-items-2026-11-15]] | published |
+| Basic Triage Kit | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] [[src-dmzhub-items-2026-11-15]] | published |
+| Explosives Equipment Kit | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] [[src-dmzhub-items-2026-11-15]] | published |
 | Recon Equipment Kit | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
 | Triage Kit | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
 | Trap Equipment Kit | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
