@@ -1,11 +1,11 @@
 ---
 type: mechanic
 title: "Double XP tokens (2XP)"
-description: "Does 2XP speed up DMZ Operators? Not confirmed: tokens double player and weapon XP, one test saw no boost to the DMZ level, and no Double XP event is announced yet."
+description: "Does 2XP speed up DMZ Operators? Not confirmed: tokens double player and weapon XP, one test saw no DMZ level boost. A Double XP weekend ran 13 to 16 Nov 2026 without naming DMZ."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-bonus-content-2026-10-23, src-activision-campaign-early-access-live-2026-10-16, src-cod-2xp-game-time-2026-09-28, src-cod-x-mw4-2xp-giveaway-2026-10-23, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-skycoach-dmz-beginner-guide-2026-10-19, src-dmztracker-level-up-fast-2026-10-22, src-codmunity-dmz-traits-2026-10-30, src-lfcarry-mw4-double-xp-2026-10-11, src-dmzhub-traits-2026-11-08]
+sources: [src-activision-mw4-bonus-content-2026-10-23, src-activision-campaign-early-access-live-2026-10-16, src-cod-2xp-game-time-2026-09-28, src-cod-x-mw4-2xp-giveaway-2026-10-23, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-skycoach-dmz-beginner-guide-2026-10-19, src-dmztracker-level-up-fast-2026-10-22, src-codmunity-dmz-traits-2026-10-30, src-lfcarry-mw4-double-xp-2026-10-11, src-dmzhub-traits-2026-11-08, src-callofduty-x-double-xp-weekend-2026-11-13, src-infinityward-x-joint-fire-live-2026-11-13]
 aliases: ["2XP", "2XP tokens", "Double XP", "Weapon 2XP", "MW4 2XP", "Double XP weekend", "Double XP event", "does 2XP work in DMZ", "double XP operators", "Operator XP boost", "Dog Tag XP boost"]
 ---
 <!-- generated:start -->
@@ -30,7 +30,7 @@ What players found: DMZ XP earned with an Operator also levels that Operator's D
 
 ## Is there a Double XP weekend for DMZ?
 
-Not yet. No Double XP event had been announced for Modern Warfare 4 by 30 Oct 2026 [[src-lfcarry-mw4-double-xp-2026-10-11]]. The launch giveaway on X closed on 26 Oct at 10 AM PT [clm_1c82b2dd5121] [[src-cod-x-mw4-2xp-giveaway-2026-10-23]]. When an event is announced, check whether its post names DMZ, the DMZ level or Operators.
+The first one ran from 13 to 16 Nov 2026: Double player level XP and Double Weapon XP across Modern Warfare 4 [[src-callofduty-x-double-xp-weekend-2026-11-13]]. The posts did not name DMZ, the DMZ level or Operators, so the same doubt applies as for tokens; weapon XP is shared with DMZ, so Double Weapon XP should count there [[src-activision-dmz-guide-part2-2026-10-09]]. Before it, no event had been announced and the launch giveaway on X closed on 26 Oct at 10 AM PT [clm_1c82b2dd5121] [[src-cod-x-mw4-2xp-giveaway-2026-10-23]]. Separately, the Friday [[joint-fire]] event gives an XP boost for playing in a party and hands out 2XP Tokens as rewards [[src-infinityward-x-joint-fire-live-2026-11-13]].
 
 ## What does raise Operator XP?
 

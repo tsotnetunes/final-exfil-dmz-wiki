@@ -87,5 +87,7 @@ Yes, from 6 Nov 2026. The patch notes say recipes and assembly requirements were
 
 - Fixed 21 Oct 2026: choosing Untrack Recipe with nothing tracked could throw you out of the FOB [[src-mw4-launch-patch-notes-2026-10-29]].
 - Fixed 28 Oct 2026: adding items to your Backpack through the printer during deployment could send you in without your Free Loadout weapons and equipment [[src-mw4-launch-patch-notes-2026-10-29]].
+- Fixed 13 Nov 2026: recipes already completed at the FOB could not be untracked [[src-mw4-season-1-patch-notes-2026-11-05]].
+- Fixed 13 Nov 2026: Legendary ingredients from [[x01]] were turned into materials when sold; they now sell for money [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Healer Order: if tracking the Medkit recipe does nothing, untrack an older recipe and try again; a workaround, not a fix [[src-dtgre-dmz-crafting-guides-2026-10-24]] (reported). See [[medkit-recipe]].
 <!-- human:end -->

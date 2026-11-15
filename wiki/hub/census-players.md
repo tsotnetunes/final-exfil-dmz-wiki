@@ -101,9 +101,11 @@ Every subject in the players' area (FAQ, glossary, events, guides and the mechan
 | Possession, a new Halloween mode (29 Oct) | row in [[events]] | [[src-gamerfuzion-launch-roadmap-2026-10-14]] | published |
 | Halloween Party Mode in the playlists (29 and 30 Oct) | row in [[events]] | [[src-mw4-launch-patch-notes-2026-10-29]] | published |
 | Warzone Season 1, Hajin Conflict: trailer and roadmap (2 Nov) | row in [[events]] | [[src-cod-x-hajin-conflict-2026-11-01]] | published |
-| Wager Match Event (6 Nov) | row in [[events]] | [[src-activision-season-1-announcement-2026-10-28]] | published |
-| Threat Briefing: Battle Tank; Threat Briefing: The Captain; Resupply Run (Season 1, start not given) | row in [[events]] | [[src-activision-season-1-announcement-2026-10-28]] | published |
-| Joint Fire Event, more Threat Briefings, Season 1 Reloaded (later in Season 1) | row in [[events]] | [[src-activision-season-1-announcement-2026-10-28]] | published |
+| Wager Match Event (live since 11 Nov 2026) | [[wager-match]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-infinityward-x-wager-match-live-2026-11-12]] | published |
+| Threat Briefing: Battle Tank; Threat Briefing: The Captain (start not given) | row in [[events]] | [[src-activision-season-1-announcement-2026-10-28]] | published |
+| Resupply Run (live since 12 Nov 2026) | [[resupply-run-event]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-x-community-resupply-run-2026-11-13]] | published |
+| Joint Fire (every Friday from 13 Nov 2026) | [[joint-fire]] | [[src-infinityward-x-joint-fire-live-2026-11-13]] | published |
+| More Threat Briefings, Season 1 Reloaded (later in Season 1) | row in [[events]] | [[src-activision-season-1-announcement-2026-10-28]] | published |
 
 ## Glossary
 | Member | Codex page | Sources | State |

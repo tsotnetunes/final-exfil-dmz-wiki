@@ -1,11 +1,11 @@
 ---
 type: faq
 title: "What changed in DMZ with the Season 1 patch?"
-description: "From 6 Nov 2026: X01, Possum nerf, dupe fixes; 10 Nov failed-exfil cash, no UAVs in X01; 11 Nov longer hitscan, no Bombing Run in X01; 12 Nov DMZ Trophy, insurance and Trait fixes."
+description: "From 6 Nov 2026: X01, Possum nerf, dupe fixes; 10 Nov failed-exfil cash, no X01 UAVs; 11 Nov longer hitscan; 12 Nov Trophy and insurance fixes; 13 Nov Resupply Run, X01 sale and conversion fixes."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-season-1-announcement-2026-10-28, src-cod-x-season-1-live-2026-11-06, src-infinityward-x-dmz-trophy-bug-2026-11-12, src-codupdates-x-level-37-armor-grant-2026-11-12]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-season-1-announcement-2026-10-28, src-cod-x-season-1-live-2026-11-06, src-infinityward-x-dmz-trophy-bug-2026-11-12, src-codupdates-x-level-37-armor-grant-2026-11-12, src-codupdates-x-dmz-trophy-rates-2026-11-14, src-infinityward-x-joint-fire-live-2026-11-13, src-callofduty-x-double-xp-weekend-2026-11-13]
 aliases: ["Season 1 patch notes DMZ", "Season 1 DMZ changes", "DMZ Season 1 update", "what did Season 1 change in DMZ", "Possum nerf Season 1", "Supplied Drops buff"]
 ---
 <!-- generated:start -->
@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-The Season 1 patch notes of 5 Nov 2026 went live with the season at midnight ET on 6 Nov. They hold about 110 DMZ lines: one new place, a few balance changes and many fixes [[src-mw4-season-1-patch-notes-2026-11-05]]. A small update followed on 6 Nov 2026 with about a dozen more DMZ lines, a third on 7 Nov 2026 with about fifteen, all fixes, and a fourth on 10 Nov 2026 with about fifteen more, among them a cash payout for failed exfils and much weaker UAVs, and a fifth on 11 Nov 2026 with a game-wide hitscan change and five DMZ lines, and a sixth on 12 Nov 2026 with six DMZ fixes [[src-mw4-season-1-patch-notes-2026-11-05]].
+The Season 1 patch notes of 5 Nov 2026 went live with the season at midnight ET on 6 Nov. They hold about 110 DMZ lines: one new place, a few balance changes and many fixes [[src-mw4-season-1-patch-notes-2026-11-05]]. A small update followed on 6 Nov 2026 with about a dozen more DMZ lines, a third on 7 Nov 2026 with about fifteen, all fixes, a fourth on 10 Nov 2026 with about fifteen more, among them a cash payout for failed exfils and much weaker UAVs, and a fifth on 11 Nov 2026 with a game-wide hitscan change and five DMZ lines, a sixth on 12 Nov 2026 with six DMZ fixes, and a seventh on 13 Nov 2026 with four DMZ fixes and the Resupply Run event [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What is new?
 - [[x01]], an underground location under Hajin with its own Orders and a 3D Printer inside [[src-mw4-season-1-patch-notes-2026-11-05]].
@@ -78,6 +78,17 @@ All fixes, no balance changes [[src-mw4-season-1-patch-notes-2026-11-05]]:
 - Some BlackCell camo challenges track properly in DMZ ([[dmz-camos]]).
 
 The same evening Activision said it had granted the level 37 3-Plate Armor Vest to every player who passed that level before the 28 Oct fix ([[3-plate-armor-vest]]) [[src-codupdates-x-level-37-armor-grant-2026-11-12]].
+
+## What did the 13 Nov update change?
+Fixes and an event, no DMZ balance changes [[src-mw4-season-1-patch-notes-2026-11-05]]:
+- Wager Match Trophies drop more often in DMZ and every Multiplayer mode ([[wager-match]]); early on 14 Nov 2026 DMZ playlists got a further increase [[src-codupdates-x-dmz-trophy-rates-2026-11-14]].
+- The [[resupply-run-event]] is listed as a live DMZ event, with several of its screens fixed.
+- Legendary ingredients from [[x01]] sell for money again instead of turning into materials.
+- Weapon Manuals, Recipes and Dog Tags convert correctly when you deploy to [[x01]] from Hajin.
+- 3D Printer recipes you already finished can be untracked at the FOB ([[3d-printer]]).
+- The flinch changes and the aim assist cut through smoke are listed under Multiplayer only.
+
+The same day the Friday [[joint-fire]] event began and a Double XP weekend started, running to 16 Nov 2026 [[src-infinityward-x-joint-fire-live-2026-11-13]] [[src-callofduty-x-double-xp-weekend-2026-11-13]].
 
 ## What went wrong on day one?
 On 6 Nov 2026 the official DMZ account began investigating a failed move from Hajin into [[x01]] that can cost some players their Operator, loadout and Backpack, and a crash at launch on Steam after the update (verify the game files, then reinstall as a last resort) [[src-cod-x-season-1-live-2026-11-06]]. Neither has a fix date yet.

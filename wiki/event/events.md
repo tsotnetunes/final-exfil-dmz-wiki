@@ -1,11 +1,11 @@
 ---
 type: event
 title: "MW4 DMZ events and dates"
-description: "Every dated DMZ and Modern Warfare 4 event from DMZ Week to Season 1: early access, launch, Twitch drops, Halloween modes, the High Stakes creator event, Season 1 on 6 Nov 2026 and its DMZ events."
+description: "Every dated DMZ and Modern Warfare 4 event from DMZ Week on: launch, Halloween, Season 1 on 6 Nov 2026, Wager Match, the Resupply Run, Friday Joint Fire and the 13 to 16 Nov Double XP weekend."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-iw-dmz-early-access-time-2026-10-19, src-activision-pc-specs-2026-09-29, src-cod-x-mw4-2xp-giveaway-2026-10-23, src-gamerfuzion-launch-roadmap-2026-10-14, src-mw4-launch-patch-notes-2026-10-29, src-cod-x-hajin-conflict-2026-11-01, src-activision-warzone-season-1-blog-2026-11-02, src-cod-x-dmz-high-stakes-2026-11-02, src-mw4-season-1-patch-notes-2026-11-05, src-infinityward-x-wager-match-live-2026-11-12]
+sources: [src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-iw-dmz-early-access-time-2026-10-19, src-activision-pc-specs-2026-09-29, src-cod-x-mw4-2xp-giveaway-2026-10-23, src-gamerfuzion-launch-roadmap-2026-10-14, src-mw4-launch-patch-notes-2026-10-29, src-cod-x-hajin-conflict-2026-11-01, src-activision-warzone-season-1-blog-2026-11-02, src-cod-x-dmz-high-stakes-2026-11-02, src-mw4-season-1-patch-notes-2026-11-05, src-infinityward-x-wager-match-live-2026-11-12, src-x-community-resupply-run-2026-11-13, src-infinityward-x-joint-fire-live-2026-11-13, src-callofduty-x-double-xp-weekend-2026-11-13]
 aliases: ["DMZ events", "DMZ calendar", "MW4 roadmap", "MW4 events", "DMZ schedule", "launch roadmap", "events list", "DMZ dates"]
 date: "2026-11-06"
 ---
@@ -14,7 +14,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Season 1 starts at midnight ET on 6 Nov 2026 and brings DMZ's first events: [[threat-briefing-battle-tank]] first, with Threat Briefing: The Captain and the Resupply Run announced [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]]. In the game, running events appear at the FOB's Events station [[src-activision-dmz-guide-part2-2026-10-09]]. Below is every dated event since DMZ Week.
+Season 1 started at midnight ET on 6 Nov 2026 and brought DMZ's first events: [[threat-briefing-battle-tank]] first, then [[wager-match]] on 11 Nov, the [[resupply-run-event]] on 12 Nov and the Friday [[joint-fire]] event on 13 Nov, with Threat Briefing: The Captain still to come [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]]. In the game, running events appear at the FOB's Events station [[src-activision-dmz-guide-part2-2026-10-09]]. Below is every dated event since DMZ Week.
 
 ## What has happened so far?
 | Date | Event | For DMZ | Page |
@@ -33,17 +33,20 @@ Season 1 starts at midnight ET on 6 Nov 2026 and brings DMZ's first events: [[th
 | 30 Oct | Infected for Halloween weekend [clm_beb7bce73ff1] | Multiplayer only | [[infected]] |
 | 2 Nov | Warzone Season 1 (Hajin Conflict) trailer and roadmap [[src-cod-x-hajin-conflict-2026-11-01]] [[src-activision-warzone-season-1-blog-2026-11-02]] | a Player Level reset across modes; Hajin as a Warzone map | [[is-dmz-part-of-warzone]] |
 | 2 Nov, 12 PM PT | DMZ High Stakes, a creator event for $75,000 [[src-cod-x-dmz-high-stakes-2026-11-02]] | watch only, 14 creator trios | [[dmz-high-stakes-tournament]] |
+| 6 Nov, 00:00 ET | Season 1 starts [[src-activision-season-1-announcement-2026-10-28]] | X01, new bosses, Battle Pass station, Player Level reset | [[season-1]] |
+| from 6 Nov | Threat Briefing: Battle Tank [[src-mw4-season-1-patch-notes-2026-11-05]] | armor fragments for rewards | [[threat-briefing-battle-tank]] |
+| from 11 Nov, evening ET | Wager Match Event [[src-infinityward-x-wager-match-live-2026-11-12]] | Trophies drop in every mode including DMZ, rates raised 12 to 14 Nov | [[wager-match]] |
+| from 12 Nov, evening ET | Resupply Run (reported start) [[src-x-community-resupply-run-2026-11-13]] [[src-mw4-season-1-patch-notes-2026-11-05]] | trade extracted items at the FOB for rare gear | [[resupply-run-event]] |
+| every Friday from 13 Nov, 24 hours | Joint Fire Event [[src-infinityward-x-joint-fire-live-2026-11-13]] | party XP boost; a DMZ Survival Kit among the rewards | [[joint-fire]] |
+| 13 to 16 Nov | Double XP and Double Weapon XP weekend [[src-callofduty-x-double-xp-weekend-2026-11-13]] | DMZ not named in the posts | [[double-xp-tokens]] |
 
 ## What is coming?
 | Date | Event | For DMZ | Page |
 | --- | --- | --- | --- |
-| 6 Nov, 00:00 ET | Season 1 starts | X01, new bosses, Battle Pass station, Player Level reset | [[season-1]] |
-| Live from 11 Nov 2026 | Wager Match Event | Trophies drop in every mode including DMZ; rewards include Hyeon Auto and Kastov 545 Apex Attachments [[src-infinityward-x-wager-match-live-2026-11-12]] | [[wager-match]] |
-| from 6 Nov | Threat Briefing: Battle Tank | armor fragments for rewards | [[threat-briefing-battle-tank]] |
-| Season 1, start not given | Threat Briefing: The Captain; Resupply Run | DMZ events | [[are-there-events-in-dmz]] |
-| later in Season 1 | Joint Fire Event, more Threat Briefings, Season 1 Reloaded | a DMZ Survival Kit and more | [[season-1]] |
+| Season 1, start not given | Threat Briefing: The Captain | extract pieces of The Captain's helmet from X01 | [[are-there-events-in-dmz]] |
+| later in Season 1 | more Threat Briefings, Season 1 Reloaded | not detailed yet | [[season-1]] |
 
-All rows in this table from the official Season 1 post [[src-activision-season-1-announcement-2026-10-28]] and the patch notes [[src-mw4-season-1-patch-notes-2026-11-05]], with the Player Level reset from the Warzone post [[src-activision-warzone-season-1-blog-2026-11-02]].
+Rows without their own citation come from the official Season 1 post [[src-activision-season-1-announcement-2026-10-28]] and the patch notes [[src-mw4-season-1-patch-notes-2026-11-05]], with the Player Level reset from the Warzone post [[src-activision-warzone-season-1-blog-2026-11-02]].
 
 ## Where do you see events in the game?
 The FOB's Events station shows limited-time challenges and unlocks while an event runs, and events are one of the ways to earn Survival Kits [[src-activision-dmz-guide-part2-2026-10-09]]. Questions about them: [[are-there-events-in-dmz]].

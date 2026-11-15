@@ -416,3 +416,9 @@
 - id: g139
   question: Which keys open the Deep Vault in X01?
   must_retrieve: [x01-deep-vault]
+- id: g140
+  question: What is the Resupply Run event in DMZ and what can you trade for?
+  must_retrieve: [resupply-run-event]
+- id: g141
+  question: When is the Joint Fire event on and what are its rewards?
+  must_retrieve: [joint-fire]
