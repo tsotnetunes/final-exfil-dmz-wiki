@@ -7,7 +7,6 @@ brain_status: draft
 sensitivity: public
 sources: [src-codmunity-dmz-traits-2026-10-30, src-codcentral-dmz-traits-2026-10-23, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05]
 aliases: ["periodic UAV pulse", "UAV pulse from my Operator", "why am I on the map", "why do I keep getting pinged", "pulse around my character"]
-stale_after: 2026-12-31
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

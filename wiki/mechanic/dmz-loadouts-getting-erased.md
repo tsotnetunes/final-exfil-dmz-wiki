@@ -7,7 +7,6 @@ brain_status: draft
 sensitivity: public
 sources: [src-codupdates-x-loadout-loss-2026-11-15, src-gfinity-dmz-tech-issues-2026-10-22]
 aliases: ["Loadouts lost", "loadout wiped", "lost my loadout", "custom loadouts deleted", "loadout reset bug"]
-stale_after: 2026-11-30
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
