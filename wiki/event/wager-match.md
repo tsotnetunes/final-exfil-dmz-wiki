@@ -5,7 +5,7 @@ description: "Season 1 event live since 11 Nov 2026: earn Trophies in any mode i
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-season-1-announcement-2026-10-28, src-infinityward-x-wager-match-live-2026-11-12, src-infinityward-x-trophy-drop-rates-2026-11-12, src-infinityward-x-dmz-trophy-bug-2026-11-12, src-codupdates-x-dmz-trophy-rates-2026-11-14, src-infinityward-x-joint-fire-live-2026-11-13]
+sources: [src-codupdates-x-loadout-loss-2026-11-15, src-mw4-season-1-patch-notes-2026-11-05, src-activision-season-1-announcement-2026-10-28, src-infinityward-x-wager-match-live-2026-11-12, src-infinityward-x-trophy-drop-rates-2026-11-12, src-infinityward-x-dmz-trophy-bug-2026-11-12, src-codupdates-x-dmz-trophy-rates-2026-11-14, src-infinityward-x-joint-fire-live-2026-11-13]
 aliases: ["Wager Match", "Wager Match Event", "Gauntlet 1v1", "Trophies event", "Trophies"]
 date: "2026-11-11"
 ---
@@ -27,6 +27,9 @@ Only in designated Multiplayer wager modes, chiefly Gauntlet, a 1v1 Gunfight pla
 
 ## What are the rewards for DMZ?
 The event rewards include Apex Attachments, Blueprints and camos [[src-infinityward-x-wager-match-live-2026-11-12]]; the Season 1 post names the Hyeon Auto and Kastov 545 Apex Attachments for DMZ [[src-activision-season-1-announcement-2026-10-28]] ([[apex-attachments]]). Trophy prices for each reward are not published.
+
+## Is there a known problem?
+Since 15 Nov 2026 the developers are investigating reports that players rarely lose their custom Loadouts when they get a Wager Match ticket or at the end of a match; no fix has been announced ([[dmz-loadouts-getting-erased]]) [[src-codupdates-x-loadout-loss-2026-11-15]].
 
 ## How does it fit with other events?
 It runs beside the DMZ events on [[are-there-events-in-dmz]], two of them new this week: the [[resupply-run-event]] since 12 Nov 2026 and the Friday [[joint-fire]] event since 13 Nov, which has a DMZ Survival Kit as a reward [[src-infinityward-x-joint-fire-live-2026-11-13]]. Dates: [[events]].

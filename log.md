@@ -1425,3 +1425,7 @@
 ## [2026-11-14 21:18 EST] edit | community sweep 2026-11-15: DMZHub kit updates (Basic Armor, Restock, Triage, Explosives counts, rarity, sources) and Triangulation tower hint; codmunity not fetched
 - changed: .kac 1, index 7, index.md 1, raw 2, wiki 6
 - run: r-20261114-211759-7973
+
+## [2026-11-15 19:43 EST] edit | daily update 2026-11-16: official 15 Nov investigation of rare custom Loadout loss (match end, Wager Match ticket) on 3 pages, new FAQ on UAV pulses for Ask; 1 new source
+- changed: .kac 1, index 6, index.md 1, raw 1, wiki 5
+- run: r-20261115-194346-f50b

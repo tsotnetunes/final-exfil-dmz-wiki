@@ -5,7 +5,7 @@ description: "DMZ's launch week brought server crashes and disconnects that cost
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_fd065cd2a969, clm_ca6990fa1a25, clm_6458fc835c19, clm_3cb352a2f22e, clm_1d86cd054a17, src-gfinity-dmz-tech-issues-2026-10-22, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-activision-pc-specs-2026-09-29]
+sources: [src-codupdates-x-loadout-loss-2026-11-15, clm_fd065cd2a969, clm_ca6990fa1a25, clm_6458fc835c19, clm_3cb352a2f22e, clm_1d86cd054a17, src-gfinity-dmz-tech-issues-2026-10-22, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-gamerfuzion-dmz-60-players-2026-10-12, src-activision-pc-specs-2026-09-29]
 aliases: ["server crash", "server crashes", "crash", "crashes", "disconnect", "disconnects", "disconnected", "lost loot", "loot loss", "lost gear after crash", "rejoin", "reconnect", "lag", "performance", "120 FPS", "VRR", "Performance Mode", "network error", "Visibility and Graphics", "graphics", "Server and performance problems", "Security System Exit Glitch", "stuck in security cameras", "stuck holding X camera"]
 ---
 <!-- generated:start -->
@@ -25,7 +25,7 @@ _Generated from 0 confirmed and 4 reported claims across 4 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-DMZ's first week was hit by server crashes and disconnects, and players who dropped out of a match often lost the loadout and gear they had with them [[src-gfinity-dmz-tech-issues-2026-10-22]] [clm_004ae083916b] [clm_9863414622be]. Infinity Ward released server-side changes against the disconnects on 21 Oct 2026, and almost every patch-note update since has listed more stability and crash fixes [clm_2e81dbaa4c19] [[src-mw4-launch-patch-notes-2026-10-29]].
+DMZ's first week was hit by server crashes and disconnects, and players who dropped out of a match often lost the loadout and gear they had with them [[src-gfinity-dmz-tech-issues-2026-10-22]] [clm_004ae083916b] [clm_9863414622be]. Infinity Ward released server-side changes against the disconnects on 21 Oct 2026, and almost every patch-note update since has listed more stability and crash fixes [clm_2e81dbaa4c19] [[src-mw4-launch-patch-notes-2026-10-29]]. A separate problem, custom Loadouts sometimes vanishing at the end of a match or on getting a Wager Match ticket, has been under investigation since 15 Nov 2026 ([[dmz-loadouts-getting-erased]]) [[src-codupdates-x-loadout-loss-2026-11-15]].
 
 ## What happens to your gear if you crash?
 
