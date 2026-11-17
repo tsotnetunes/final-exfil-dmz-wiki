@@ -8,7 +8,6 @@ sensitivity: public
 sources: [src-infinityward-x-natural-concealment-2026-11-16]
 aliases: ["Natural Concealment", "Natural Concealment camo event", "Woodfall camo", "Woodfall Mastery Camo", "how to get Woodfall camo", "event camo DMZ November"]
 date: "2026-11-16"
-stale_after: 2026-12-16
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
