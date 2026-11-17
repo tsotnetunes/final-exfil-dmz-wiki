@@ -49,7 +49,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Control Unit | [[control-unit]] | [[src-codcentral-3d-printer-recipes-2026-10-20]], [[src-xboxplay-dmz-crafting-guides-2026-10-23]] | published |
 | Detonators | [[detonators]] | [[src-codcentral-3d-printer-recipes-2026-10-20]], [[src-xboxplay-dmz-crafting-guides-2026-10-23]] | published |
 | Electronic Sensors | [[electronic-sensors]] | [[src-allthingshow-dmz-crafting-guides-2026-10-21]], [[src-codcentral-3d-printer-recipes-2026-10-20]] | published |
-| Binding Catalyst | [[binding-catalyst]] | [[src-dtgre-dmz-crafting-guides-2026-10-24]], [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
+| Binding Catalyst | [[binding-catalyst]] | [[src-dtgre-dmz-crafting-guides-2026-10-24]], [[src-dmzhub-items-2026-11-17]], [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
 | CPU | [[cpu]] | [[src-dtgre-dmz-crafting-guides-2026-10-24]], [[src-allthingshow-dmz-crafting-guides-2026-10-21]] | published |
 | Printed Circuit Board | [[printed-circuit-board]] | [[src-dtgre-dmz-crafting-guides-2026-10-24]], [[src-xboxplay-dmz-crafting-guides-2026-10-23]] | published |
 | High-Tenacity Fibers | [[high-tenacity-fibers]] | [[src-dmzhub-items-2026-10-31]], [[src-patchcrazy-dmz-crafting-guides-2026-10-28]] | published |

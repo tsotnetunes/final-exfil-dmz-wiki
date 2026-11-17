@@ -5,7 +5,7 @@ description: "Scout Major Trait, row 6: your UAVs get more range and time and co
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-dexerto-best-operator-traits-2026-10-31, src-allthingshow-dmz-traits-2026-10-21, src-codcentral-dmz-traits-2026-10-23, src-gamerfuzion-dmz-best-traits-2026-10-23, src-destructoid-best-operator-traits-2026-10-20, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05]
+sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-dexerto-best-operator-traits-2026-10-31, src-allthingshow-dmz-traits-2026-10-21, src-codcentral-dmz-traits-2026-10-23, src-gamerfuzion-dmz-best-traits-2026-10-23, src-destructoid-best-operator-traits-2026-10-20, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05, src-dmzhub-traits-2026-11-17]
 aliases: ["UAV Upgrade trait", "UAV Upgrade Pro", "Advanced UAV trait"]
 tree: Scout
 tier: "Major, row 6"
@@ -24,7 +24,7 @@ Row 6 of Scout, paired with [[field-crafting]] [[src-codmunity-dmz-traits-2026-1
 Six Trait Points in Scout, one per row up to row 6, including one of the two row 3 looting Majors ([[hostile-looter]] or [[container-looter]]) [[src-dmzmap-skill-tree-2026-10-29]] [[src-allthingshow-dmz-traits-2026-10-21]]. The pick lasts until the Operator Prestiges ([[operator-prestige]]) [[src-activision-dmz-guide-part2-2026-10-09]].
 
 ## What does UAV Upgrade Pro add?
-A zoomed-out minimap, on top of the stronger UAVs. Since 16 Nov 2026 the minimap zooms out 1.5 times; before that it was 3 times [[src-mw4-season-1-patch-notes-2026-11-05]]. Guides describe it as a larger minimap [[src-dmzmap-skill-tree-2026-10-29]] [[src-dmzhub-traits-2026-10-31]] [[src-codcentral-dmz-traits-2026-10-23]] [[src-gamerfuzion-dmz-best-traits-2026-10-23]]. See [[pro-traits]].
+A zoomed-out minimap, on top of the stronger UAVs. Since 16 Nov 2026 the minimap zooms out 1.5 times; before that it was 3 times [[src-mw4-season-1-patch-notes-2026-11-05]], and a community database changed its entry to 1.5 times the same day [[src-dmzhub-traits-2026-11-17]]. Guides describe it as a larger minimap [[src-dmzmap-skill-tree-2026-10-29]] [[src-dmzhub-traits-2026-10-31]] [[src-codcentral-dmz-traits-2026-10-23]] [[src-gamerfuzion-dmz-best-traits-2026-10-23]]. See [[pro-traits]].
 
 ## Is it worth taking?
 Destructoid and COD Central pair it with Overwatch for constant intel, and COD Central's squad build takes both [[src-destructoid-best-operator-traits-2026-10-20]] [[src-codcentral-dmz-traits-2026-10-23]]; it is also in the solo build reported by GamerFuzion [[src-gamerfuzion-dmz-best-traits-2026-10-23]]. Counterplay to know: rivals with [[thermal-padding]] are hidden from normal UAVs, but an Advanced UAV still shows them the way a normal UAV would [[src-activision-dmz-guide-part2-2026-10-09]].

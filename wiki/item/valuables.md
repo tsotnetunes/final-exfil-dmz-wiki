@@ -5,7 +5,7 @@ description: "DMZ valuables (intel documents, Gold Bars, Gold Skulls) sell for 1
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-whats-new-2026-10-05, src-allthings-how-solo-money-2026-10-21, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamingpromax-dmz-keys-2026-10-27, src-conquestcapped-dmz-keys-2026-10-28, src-keengamer-best-loot-2026-10-22, src-gfinity-story-mission-rewards-2026-10-23, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-11-07, src-dmzhub-items-2026-11-10, src-dmzhub-items-2026-11-12, src-dmzhub-upgrades-2026-11-12]
+sources: [src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-whats-new-2026-10-05, src-allthings-how-solo-money-2026-10-21, src-gamerfuzion-solo-vault-run-2026-10-25, src-gamingpromax-dmz-keys-2026-10-27, src-conquestcapped-dmz-keys-2026-10-28, src-keengamer-best-loot-2026-10-22, src-gfinity-story-mission-rewards-2026-10-23, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-11-07, src-dmzhub-items-2026-11-10, src-dmzhub-items-2026-11-12, src-dmzhub-upgrades-2026-11-12, src-dmzhub-items-2026-11-17]
 aliases: ["valuable", "Ceramic Pup of Loyalty", "Ceramic Pup", "Rex's Goggles", "Rex Goggles", "loot to sell", "what to sell", "intel items", "documents", "files", "Regional Combat Notes", "Ballistic Flight Logs", "Infantry Invasion Plans", "Degraded Execution Footage", "Nuclear Program Files", "Encrypted Archive", "Encrypted Archives", "Cipher Code Ledger", "W.M.D Manifest", "WMD Manifest", "Foreign Intelligence Targets", "Sanctioned Assassination List", "most valuable loot", "barter items"]
 ---
 <!-- generated:start -->
@@ -56,7 +56,7 @@ The Ceramic Pup of Loyalty was the first Season 1 valuable: a community database
 
 ## Where do valuables come from?
 
-Safes in compounds and key rooms hold them [[src-keengamer-best-loot-2026-10-22]], and bunkers hold sellable files that upgrades need [clm_c712a62e76ae]. Guides found Nuclear Program Files, Encrypted Archives and Gold Skulls in the Counting Room Vault, and WMD valuables in the Supreme Leader's bunker [[src-gamingpromax-dmz-keys-2026-10-27]] [[src-conquestcapped-dmz-keys-2026-10-28]]; Regional Combat Notes turn up in civilian and military areas alike [[src-dmzhub-items-2026-10-31]]. Operation Silent Ledger pays a Gold Bar [[src-gfinity-story-mission-rewards-2026-10-23]]. Rooms and keys are on [[keys]].
+Safes in compounds and key rooms hold them [[src-keengamer-best-loot-2026-10-22]], and bunkers hold sellable files that upgrades need [clm_c712a62e76ae]. Guides found Nuclear Program Files, Encrypted Archives and Gold Skulls in the Counting Room Vault, and WMD valuables in the Supreme Leader's bunker [[src-gamingpromax-dmz-keys-2026-10-27]] [[src-conquestcapped-dmz-keys-2026-10-28]]; Regional Combat Notes turn up in civilian and military areas alike [[src-dmzhub-items-2026-10-31]], and one database says Degraded Execution Footage also sits in computers (reported) [[src-dmzhub-items-2026-11-17]]. Operation Silent Ledger pays a Gold Bar [[src-gfinity-story-mission-rewards-2026-10-23]]. Rooms and keys are on [[keys]].
 
 ## Do Dog Tags count?
 

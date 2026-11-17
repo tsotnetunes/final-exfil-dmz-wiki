@@ -5,7 +5,7 @@ description: "A Rare 3D Printer ingredient for Medkits, Self-Revive Kits and Epi
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-items-2026-10-26, src-codcentral-3d-printer-recipes-2026-10-20, src-dtgre-dmz-crafting-guides-2026-10-24, src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-vgtimes-dmz-3d-printer-2026-10-27, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-items-2026-10-26, src-codcentral-3d-printer-recipes-2026-10-20, src-dtgre-dmz-crafting-guides-2026-10-24, src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-vgtimes-dmz-3d-printer-2026-10-27, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-dmzhub-items-2026-11-17]
 aliases: ["Binding Catalysts", "catalyst", "where to find Binding Catalyst", "Medkit ingredient"]
 ---
 <!-- generated:start -->
@@ -18,6 +18,7 @@ Binding Catalyst is a Rare 3D Printer ingredient [[src-codmunity-dmz-items-2026-
 ## Where do you find Binding Catalyst?
 
 - Medical bags at [[mirae-general-hospital]] and in the blue and white medical tents around it; not every container has one [[src-dtgre-dmz-crafting-guides-2026-10-24]] (reported).
+- One database also names the Cargo Bay in [[x01]] as a main spot (reported) [[src-dmzhub-items-2026-11-17]].
 - DMZ level 49 gives two [[src-activision-ready-for-launch-progression-2026-10-19]].
 - Ingredients in general show up mostly in certain kinds of building; the printer's Ingredient Locations button points you to them [[src-vgtimes-dmz-3d-printer-2026-10-27]].
 
@@ -33,8 +34,9 @@ Databases disagree on its value, 1,200 DMZ Cash [[src-codmunity-dmz-items-2026-1
 | Epic Ingredient Printing | 10 |
 | MIA Recovery Discount II | 10 |
 | Stash Item Upgrade III | 20 (reported) |
+| Medical Box | amount not listed (reported) |
 
-Amounts from [[src-destructoid-3d-printer-recipes-2026-10-21]] and [[src-codcentral-3d-printer-recipes-2026-10-20]]; MIA Recovery Discount II from [[src-gamerfuzion-3d-printer-upgrades-2026-10-23]] and [[src-dmzhub-upgrades-2026-10-31]]; Stash Item Upgrade III from the latter alone.
+Amounts from [[src-destructoid-3d-printer-recipes-2026-10-21]] and [[src-codcentral-3d-printer-recipes-2026-10-20]]; MIA Recovery Discount II from [[src-gamerfuzion-3d-printer-upgrades-2026-10-23]] and [[src-dmzhub-upgrades-2026-10-31]]; Stash Item Upgrade III from the latter alone; the Medical Box recipe from [[src-dmzhub-items-2026-11-17]] alone.
 
 Every Medkit you print uses one and you cannot print it, so keep a stock. All materials: [[materials]].
 <!-- human:end -->

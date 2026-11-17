@@ -1441,3 +1441,7 @@
 ## [2026-11-16 19:46 EST] edit | daily update 2026-11-17: 16 Nov patch (shared Lieutenant tag cash, UAV Upgrade Pro 1.5x, Viper Sense vs Wheelson, fixes) on 14 pages; new Natural Concealment camo event page; 1 new source
 - changed: .kac 1, evals 1, index 10, index.md 1, raw 2, wiki 19
 - run: r-20261116-194639-1ecb
+
+## [2026-11-16 21:19 EST] edit | community sweep 2026-11-17: DMZHub 16 Nov revisions (Recon and Explosives kit sources, rarity and keys, Binding Catalyst X01 spot and Medical Box, footage spot, UAV Upgrade Pro 1.5x); codmunity not fetched
+- changed: .kac 1, index 5, index.md 1, raw 2, wiki 10
+- run: r-20261116-211913-3ddc

@@ -45,7 +45,7 @@ The official guide counts 66 Traits, 18 Major and 48 Minor, plus permanent Prest
 | Quick Fix Pro (Pro Trait) | row in [[pro-traits]], section on [[quick-fix]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
 | Possum Pro (Pro Trait) | row in [[pro-traits]], section on [[possum]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
 | Adaptive Restock Pro (Pro Trait) | row in [[pro-traits]], section on [[adaptive-restock]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
-| UAV Upgrade Pro (Pro Trait) | row in [[pro-traits]], section on [[uav-upgrade]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
+| UAV Upgrade Pro (Pro Trait) | row in [[pro-traits]], section on [[uav-upgrade]] | [[src-dmzmap-skill-tree-2026-10-29]] [[src-dmzhub-traits-2026-11-17]] | published |
 | Field Crafting Pro (Pro Trait) | row in [[pro-traits]], section on [[field-crafting]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
 | Thermal Padding Pro (Pro Trait) | row in [[pro-traits]], section on [[thermal-padding]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
 | Overwatch Pro (Pro Trait) | row in [[pro-traits]], section on [[overwatch]] | [[src-dmzmap-skill-tree-2026-10-29]] | published |
