@@ -1,11 +1,11 @@
 ---
 type: event
 title: "MW4 DMZ events and dates"
-description: "Every dated DMZ and Modern Warfare 4 event from DMZ Week on: launch, Halloween, Season 1 on 6 Nov 2026, Wager Match, the Resupply Run, Friday Joint Fire and the 13 to 16 Nov Double XP weekend."
+description: "Every dated DMZ and Modern Warfare 4 event from DMZ Week on: launch, Halloween, Season 1 on 6 Nov 2026, Wager Match, the Resupply Run, Friday Joint Fire and the Natural Concealment camo event."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-iw-dmz-early-access-time-2026-10-19, src-activision-pc-specs-2026-09-29, src-cod-x-mw4-2xp-giveaway-2026-10-23, src-gamerfuzion-launch-roadmap-2026-10-14, src-mw4-launch-patch-notes-2026-10-29, src-cod-x-hajin-conflict-2026-11-01, src-activision-warzone-season-1-blog-2026-11-02, src-cod-x-dmz-high-stakes-2026-11-02, src-mw4-season-1-patch-notes-2026-11-05, src-infinityward-x-wager-match-live-2026-11-12, src-x-community-resupply-run-2026-11-13, src-infinityward-x-joint-fire-live-2026-11-13, src-callofduty-x-double-xp-weekend-2026-11-13]
+sources: [src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-iw-dmz-early-access-time-2026-10-19, src-activision-pc-specs-2026-09-29, src-cod-x-mw4-2xp-giveaway-2026-10-23, src-gamerfuzion-launch-roadmap-2026-10-14, src-mw4-launch-patch-notes-2026-10-29, src-cod-x-hajin-conflict-2026-11-01, src-activision-warzone-season-1-blog-2026-11-02, src-cod-x-dmz-high-stakes-2026-11-02, src-mw4-season-1-patch-notes-2026-11-05, src-infinityward-x-wager-match-live-2026-11-12, src-x-community-resupply-run-2026-11-13, src-infinityward-x-joint-fire-live-2026-11-13, src-callofduty-x-double-xp-weekend-2026-11-13, src-infinityward-x-natural-concealment-2026-11-16]
 aliases: ["DMZ events", "DMZ calendar", "MW4 roadmap", "MW4 events", "DMZ schedule", "launch roadmap", "events list", "DMZ dates"]
 date: "2026-11-06"
 ---
@@ -14,7 +14,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Season 1 started at midnight ET on 6 Nov 2026 and brought DMZ's first events: [[threat-briefing-battle-tank]] first, then [[wager-match]] on 11 Nov, the [[resupply-run-event]] on 12 Nov and the Friday [[joint-fire]] event on 13 Nov, with Threat Briefing: The Captain still to come [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]]. In the game, running events appear at the FOB's Events station [[src-activision-dmz-guide-part2-2026-10-09]]. Below is every dated event since DMZ Week.
+Season 1 started at midnight ET on 6 Nov 2026 and brought DMZ's first events: [[threat-briefing-battle-tank]] first, then [[wager-match]] on 11 Nov, the [[resupply-run-event]] on 12 Nov the Friday [[joint-fire]] event on 13 Nov and the [[natural-concealment]] camo event on 16 Nov [[src-infinityward-x-natural-concealment-2026-11-16]], with Threat Briefing: The Captain still to come [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]]. In the game, running events appear at the FOB's Events station [[src-activision-dmz-guide-part2-2026-10-09]]. Below is every dated event since DMZ Week.
 
 ## What has happened so far?
 | Date | Event | For DMZ | Page |
@@ -39,6 +39,7 @@ Season 1 started at midnight ET on 6 Nov 2026 and brought DMZ's first events: [[
 | from 12 Nov, evening ET | Resupply Run (reported start) [[src-x-community-resupply-run-2026-11-13]] [[src-mw4-season-1-patch-notes-2026-11-05]] | trade extracted items at the FOB for rare gear | [[resupply-run-event]] |
 | every Friday from 13 Nov, 24 hours | Joint Fire Event [[src-infinityward-x-joint-fire-live-2026-11-13]] | party XP boost; a DMZ Survival Kit among the rewards | [[joint-fire]] |
 | 13 to 16 Nov | Double XP and Double Weapon XP weekend [[src-callofduty-x-double-xp-weekend-2026-11-13]] | DMZ not named in the posts | [[double-xp-tokens]] |
+| from 16 Nov | Natural Concealment camo event [[src-infinityward-x-natural-concealment-2026-11-16]] | class camo challenges count in DMZ; all of them unlock the Woodfall Mastery Camo | [[natural-concealment]] |
 
 ## What is coming?
 | Date | Event | For DMZ | Page |

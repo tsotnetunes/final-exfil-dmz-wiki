@@ -81,7 +81,7 @@ Guides agree on every gun but the Chemist's [[src-gfinity-dmz-lieutenants-2026-1
 
 - Every Lieutenant drops a Legendary dog tag, the Lieutenant Dog Tag Case. Picking it up shows you on every Operator's Tac-Map until you extract, so leave fast [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]] [clm_8954c5cec1aa].
 - Some drop a key to their own loot room; rooms hold lockers, a Lieutenant crate and Legendary weapon cases (reported) [[src-activision-dmz-guide-part2-2026-10-09]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. Jin-Tae, Jang-Ui, the Chemist and the Doctor are known to drop theirs [[src-dmzhub-keys-2026-10-31]] [[src-dexerto-jang-ui-power-room-2026-10-24]] [[src-conquestcapped-dmz-keys-2026-10-28]] [[src-xboxplay-dmz-keys-2026-10-22]]; for the others no drop is confirmed yet. See [[keys]].
-- Each Lieutenant tag you extract adds $25,000 to the After Action Report, and the first kill of each Lieutenant pays its $10,000 Boss Board reward [[src-allthingshow-the-doctor-2026-10-21]] [[src-allthingshow-boss-board-2026-10-21]] ([[dog-tags]]).
+- Each Lieutenant tag you extract adds $25,000 to the After Action Report, and since 16 Nov 2026 that tag cash goes to every member of the squad, not only the player carrying the tag [[src-mw4-season-1-patch-notes-2026-11-05]]; the first kill of each Lieutenant pays its $10,000 Boss Board reward [[src-allthingshow-the-doctor-2026-10-21]] [[src-allthingshow-boss-board-2026-10-21]] ([[dog-tags]]).
 - The kill counts only once you extract with the tag, even a tag you took from another player [[src-activision-dmz-guide-part2-2026-10-09]] [[src-codmunity-dmz-guide-2026-10-24]].
 
 ## Which Orders and missions involve Lieutenants?

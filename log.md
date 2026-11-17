@@ -1437,3 +1437,7 @@
 ## [2026-11-15 20:41 EST] render | 1 pages rendered, 1000 claims, 1000 evidence
 - changed: wiki 1, claims 1, evidence 1, index.md 1
 - run: r-20261116-014116-4d98
+
+## [2026-11-16 19:46 EST] edit | daily update 2026-11-17: 16 Nov patch (shared Lieutenant tag cash, UAV Upgrade Pro 1.5x, Viper Sense vs Wheelson, fixes) on 14 pages; new Natural Concealment camo event page; 1 new source
+- changed: .kac 1, evals 1, index 10, index.md 1, raw 2, wiki 19
+- run: r-20261116-194639-1ecb

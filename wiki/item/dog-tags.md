@@ -5,7 +5,7 @@ description: "Every Operator wears a Dog Tag that levels from Steel I to Onyx II
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_1dda32204130, clm_ac70379c09b8, clm_f8c43f6e8da8, clm_60f9fe17bb96, clm_ca3b3330e405, clm_d969dea9faf7, clm_38e02dbbc57d, clm_6155f83bd127, clm_df07eb50d24d, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-activision-ready-for-launch-progression-2026-10-19, src-cod-dmz-bounty-systems-video-2026-10-08, src-mw4-launch-patch-notes-2026-10-29, src-allthings-how-solo-money-2026-10-21, src-allthingshow-the-doctor-2026-10-21, src-allthingshow-dmz-story-missions-2026-10-31, src-allthingshow-boss-board-2026-10-21, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28]
+sources: [clm_1dda32204130, clm_ac70379c09b8, clm_f8c43f6e8da8, clm_60f9fe17bb96, clm_ca3b3330e405, clm_d969dea9faf7, clm_38e02dbbc57d, clm_6155f83bd127, clm_df07eb50d24d, src-activision-dmz-deep-dive-2026-06, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-gamerfuzion-dmz-level-up-fast-2026-10-21, src-codcentral-dmz-xp-strategies-2026-10-30, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-activision-ready-for-launch-progression-2026-10-19, src-cod-dmz-bounty-systems-video-2026-10-08, src-mw4-launch-patch-notes-2026-10-29, src-allthings-how-solo-money-2026-10-21, src-allthingshow-the-doctor-2026-10-21, src-allthingshow-dmz-story-missions-2026-10-31, src-allthingshow-boss-board-2026-10-21, src-allthingshow-dmz-dynamic-ops-2026-10-31, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["dog tag", "Operator Dog Tag", "Lieutenant Dog Tag Case", "boss dog tags", "Steel Dog Tag", "tag rarity", "Lieutenant dog tag value", "how much is a Lieutenant dog tag worth", "First Lieutenant Takedowns"]
 ---
 <!-- generated:start -->
@@ -53,7 +53,7 @@ Every Lieutenant drops a Lieutenant Dog Tag Case [[src-activision-dmz-guide-part
 
 | What | DMZ Cash | Sources |
 | --- | --- | --- |
-| Extracting with a Lieutenant's Dog Tag | 25,000, paid into your Bank | [[src-allthings-how-solo-money-2026-10-21]] [[src-allthingshow-the-doctor-2026-10-21]] |
+| Extracting with a Lieutenant's Dog Tag | 25,000, paid into your Bank; since 16 Nov 2026 every squad member gets it, not only the carrier [[src-mw4-season-1-patch-notes-2026-11-05]] | [[src-allthings-how-solo-money-2026-10-21]] [[src-allthingshow-the-doctor-2026-10-21]] |
 | The first takedown of each Lieutenant | 10,000 more, on a First Lieutenant Takedowns line of the extraction summary and as that Lieutenant's [[boss-board]] reward | [[src-allthingshow-dmz-story-missions-2026-10-31]] [[src-allthingshow-boss-board-2026-10-21]] |
 | The first kill of each Commander | 50,000, the reward on the Boss Board's Commanders tab | [[src-allthingshow-dmz-dynamic-ops-2026-10-31]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] |
 

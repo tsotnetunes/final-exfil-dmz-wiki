@@ -5,7 +5,7 @@ description: "The staying-alive Trait tree: six fixed Major Traits for revives, 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-dexerto-best-operator-traits-2026-10-31, src-gamerfuzion-dmz-best-traits-2026-10-23, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzhub-vehicles-2026-10-31, src-dmzhub-traits-2026-11-08]
+sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-dexerto-best-operator-traits-2026-10-31, src-gamerfuzion-dmz-best-traits-2026-10-23, src-playhub-best-traits-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-codcentral-dmz-dynamic-ops-2026-10-21, src-dmzhub-vehicles-2026-10-31, src-dmzhub-traits-2026-11-08, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Survivalist", "Survivalist traits", "Survivalist trait tree", "Survivalist skill tree", "survival tree", "quick exfil trait"]
 tree: Survivalist
 tier: all
@@ -50,7 +50,7 @@ Minor Traits fill the random rows. Guides report one pool of 48 shared by the th
 | Mechanic | refuel and repair vehicles twice as fast; not to be confused with the Mechanic DMZ Order ([[dmz-orders-pages]]) | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-codcentral-dmz-traits-2026-10-23]] [[src-dmzhub-vehicles-2026-10-31]] |
 | Metabolism | health lost to the tourniquet slowly comes back | Warfighter | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-playhub-best-traits-2026-10-28]] |
 | Deep Breath | hold your breath longer underwater | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-allthingshow-dmz-traits-2026-10-21]] [[src-codcentral-dmz-traits-2026-10-23]] |
-| Plate Organization | room for 2 extra reserve plates; adds to Plate Pouch | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-codcentral-dmz-traits-2026-10-23]] |
+| Plate Organization | room for 2 extra reserve plates; adds to Plate Pouch for ten in all (shown as nine until a fix of 16 Nov 2026 [[src-mw4-season-1-patch-notes-2026-11-05]]) | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-codcentral-dmz-traits-2026-10-23]] |
 | Strong Arm | your equipment throws carry further and show their arc | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-codcentral-dmz-traits-2026-10-23]] |
 | Rampage | killing a rival Operator gives you a brief Painkiller boost | | [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-codcentral-dmz-traits-2026-10-23]] |
 | Final Intel | your Tac-Map shows where the final exfil will be from the start of the match | Warfighter | [[src-dmzmap-skill-tree-2026-10-29]] [[src-codcentral-dmz-traits-2026-10-23]] |

@@ -90,5 +90,5 @@ Summaries: [[src-codcentral-dmz-dynamic-ops-2026-10-21]] [[src-dmzmap-dynamic-op
 All rows: [[src-mw4-launch-patch-notes-2026-10-29]]. Before launch, Infinity Ward said Dynamic Ops grew out of the 2022 mode's Contracts [[src-gamespark-tokyo-media-event-2026-10-01]], and the official trailer of 6 Oct showed Dead Man's Cache and Chemical Denial [[src-fpsjp-dynamic-ops-trailer-2026-10-07]]. The Russian area that opens in Season 2 is due to bring Dynamic Ops of its own, the developers said before launch [[src-westie-dmz-ama-recap-2026-10-11]] [clm_12a1524f7169].
 ## What was fixed in Season 1?
 
-From 6 Nov 2026: Care Packages and second reward crates can be claimed, bomb parts no longer land out of reach, and you can pick up a hostage after changing squads [[src-mw4-season-1-patch-notes-2026-11-05]]. Supplied Drops now applies to Op crates ([[warfighter-tree]]) [[src-mw4-season-1-patch-notes-2026-11-05]].
+From 6 Nov 2026: Care Packages and second reward crates can be claimed, bomb parts no longer land out of reach, and you can pick up a hostage after changing squads [[src-mw4-season-1-patch-notes-2026-11-05]]. Supplied Drops now applies to Op crates ([[warfighter-tree]]) [[src-mw4-season-1-patch-notes-2026-11-05]]. Since 16 Nov 2026 bomb sites no longer stay usable after they should have closed [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

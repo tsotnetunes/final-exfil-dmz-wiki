@@ -5,7 +5,7 @@ description: "Warfighter Major Trait, row 6: thermal scopes and AI targeting can
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_e2ec787039a1, src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-gamerfuzion-dmz-best-traits-2026-10-23, src-dexerto-best-operator-traits-2026-10-31, src-destructoid-best-operator-traits-2026-10-20, src-mw4-launch-patch-notes-2026-10-29]
+sources: [clm_e2ec787039a1, src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-allthingshow-dmz-traits-2026-10-21, src-gamerfuzion-dmz-best-traits-2026-10-23, src-dexerto-best-operator-traits-2026-10-31, src-destructoid-best-operator-traits-2026-10-20, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Viper Sense trait", "Viper Sense Pro", "anti thermal trait", "hide from thermal"]
 tree: Warfighter
 tier: "Major, row 6"
@@ -21,7 +21,7 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Viper Sense is a Major Trait in the [[warfighter-tree]] that hides you from thermal optics and from AI targeting systems [[src-activision-dmz-guide-part2-2026-10-09]] [[src-destructoid-trait-effects-2026-10-20]]. The official text does not say which AI systems count, for example turrets, drones or enemy soldiers.
+Viper Sense is a Major Trait in the [[warfighter-tree]] that hides you from thermal optics and from AI targeting systems [[src-activision-dmz-guide-part2-2026-10-09]] [[src-destructoid-trait-effects-2026-10-20]]. The official text does not list which AI systems count; the patch notes of 16 Nov 2026 show that the Wheelson Commander is one [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## Where is it in the tree?
 Row 6 of Warfighter, paired with [[quick-fix]]; you get one of the two [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-dmzhub-traits-2026-10-31]] [[src-codcentral-dmz-traits-2026-10-23]].
@@ -36,5 +36,5 @@ The Pro version, one of the twelve permanent Prestige Traits, keeps the concealm
 Guides split on row 6. Dexerto and COD Central take Viper Sense [[src-dexerto-best-operator-traits-2026-10-31]] [[src-codcentral-dmz-traits-2026-10-23]], while Destructoid and the creator build reported by GamerFuzion take Quick Fix [[src-destructoid-best-operator-traits-2026-10-20]] [[src-gamerfuzion-dmz-best-traits-2026-10-23]]. Viper Sense is the answer to rival players using thermal scopes; Quick Fix is the answer to long fights. A player report that Viper Sense warns you about nearby enemies [clm_e2ec787039a1] does not match the official text; the warning (when someone aims at you) belongs to the Pro version.
 
 ## Has it changed?
-No patch note mentions it up to 31 Oct 2026 [[src-mw4-launch-patch-notes-2026-10-29]].
+The Trait itself has not changed. A fix of 16 Nov 2026 stopped the Wheelson Commander in [[x01]] from targeting players protected by Viper Sense; before it, Wheelson ignored the Trait [[src-mw4-season-1-patch-notes-2026-11-05]]. That confirms Wheelson is one of the AI systems the Trait is meant to hide you from. Earlier patch notes, up to 31 Oct 2026, did not mention it [[src-mw4-launch-patch-notes-2026-10-29]].
 <!-- human:end -->

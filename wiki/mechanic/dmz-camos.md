@@ -5,7 +5,7 @@ description: "DMZ's Mastery camos: Chiral (2,500 Tier 3+ kills), Ripple Tide (tw
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_3a8e17bcc079, clm_23d4f9bb7b2b, clm_f1b717014ef6, clm_e85655747a23, clm_d7f7ed624ff4, clm_e31370beac8b, clm_7be12d197052, clm_d0991c0c7966, clm_ea0c5a1cdac4, clm_2b05fa148d3c, clm_e153c3eb028f, clm_e48247d4fe41, src-cod-x-camo-tracking-2026-11-07, src-activision-ready-for-launch-progression-2026-10-19, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05]
+sources: [clm_3a8e17bcc079, clm_23d4f9bb7b2b, clm_f1b717014ef6, clm_e85655747a23, clm_d7f7ed624ff4, clm_e31370beac8b, clm_7be12d197052, clm_d0991c0c7966, clm_ea0c5a1cdac4, clm_2b05fa148d3c, clm_e153c3eb028f, clm_e48247d4fe41, src-cod-x-camo-tracking-2026-11-07, src-activision-ready-for-launch-progression-2026-10-19, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05, src-infinityward-x-natural-concealment-2026-11-16]
 aliases: ["Camo grind", "Serpentine camo", "Mastery camos", "Chiral", "Ripple Tide", "Helio", "DMZ Mastery", "DMZ calling cards", "Divergence"]
 ---
 <!-- generated:start -->
@@ -58,6 +58,10 @@ A camo players report for extracting the same weapon's Weapon Manual three more 
 ## Which DMZ calling cards can you earn?
 
 Six regular DMZ Mastery sets (Combat, Mission, Exfil, Loot, Exploration and FOB) and four elite ones (Final Showdown, High-Value Escort, King Slayer and Exterminator); finishing every challenge in a set gives an animated Mastery calling card [[src-activision-ready-for-launch-progression-2026-10-19]]. Players of the 2022 DMZ beta get their own rewards, such as the [[beta-squad-calling-card]] and [[beta-on-record-emblem]] [[src-activision-ready-for-launch-progression-2026-10-19]].
+
+## Are there event camos?
+
+Yes. The [[natural-concealment]] event, live since 16 Nov 2026, gives each weapon class an event camo for finishing its challenges, and those challenges count in DMZ as well as Multiplayer and Warzone; one mode per challenge is enough. Finishing every class unlocks Woodfall, an animated Mastery Camo for all weapons [[src-infinityward-x-natural-concealment-2026-11-16]]. Since 16 Nov 2026 the "Chained" camo challenge no longer shows a requirement of zero kills [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What is coming later?
 

@@ -105,6 +105,7 @@ Every subject in the players' area (FAQ, glossary, events, guides and the mechan
 | Threat Briefing: Battle Tank; Threat Briefing: The Captain (start not given) | row in [[events]] | [[src-activision-season-1-announcement-2026-10-28]] | published |
 | Resupply Run (live since 12 Nov 2026) | [[resupply-run-event]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-x-community-resupply-run-2026-11-13]] | published |
 | Joint Fire (every Friday from 13 Nov 2026) | [[joint-fire]] | [[src-infinityward-x-joint-fire-live-2026-11-13]] | published |
+| Natural Concealment camo event (live since 16 Nov 2026) | [[natural-concealment]] | [[src-infinityward-x-natural-concealment-2026-11-16]] | published |
 | More Threat Briefings, Season 1 Reloaded (later in Season 1) | row in [[events]] | [[src-activision-season-1-announcement-2026-10-28]] | published |
 
 ## Glossary

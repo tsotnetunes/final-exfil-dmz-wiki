@@ -422,3 +422,6 @@
 - id: g141
   question: When is the Joint Fire event on and what are its rewards?
   must_retrieve: [joint-fire]
+- id: g142
+  question: How do I get the Woodfall camo, and do DMZ matches count for Natural Concealment?
+  must_retrieve: [natural-concealment]
