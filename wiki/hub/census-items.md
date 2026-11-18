@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: items"
-description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 17 Nov 2026."
+description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 18 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -99,7 +99,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Explosives Equipment Kit | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] [[src-dmzhub-items-2026-11-15]] [[src-dmzhub-items-2026-11-17]] | published |
 | Recon Equipment Kit | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] [[src-dmzhub-items-2026-11-17]] | published |
 | Triage Kit | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
-| Trap Equipment Kit | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
+| Trap Equipment Kit | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-11-18]] | published |
 | SERE Kit | row in [[kits]] | [[src-dmzhub-items-2026-10-31]] | published |
 | Advanced SERE Kit | row in [[kits]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-11-10]] | published |
 | Vault Edition Deployment Kit | row in [[kits]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |

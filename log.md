@@ -1457,3 +1457,7 @@
 ## [2026-11-17 19:45 EST] edit | daily update 2026-11-18: X01 area layout and exfil lift (reported), X01 Orders rewards corroborated, Season 1 Reloaded expected 3 Dec (reported); 6 new sources
 - changed: .kac 1, evals 1, index 9, index.md 1, raw 6, wiki 13
 - run: r-20261117-194534-aa75
+
+## [2026-11-17 21:17 EST] edit | community sweep 2026-11-18: DMZHub 17 Nov revision (Trap Equipment Kit only from level 42, not loot); 4 trait image-only updates; codmunity not fetched
+- changed: .kac 1, index 5, index.md 1, raw 1, wiki 3
+- run: r-20261117-211704-7392
