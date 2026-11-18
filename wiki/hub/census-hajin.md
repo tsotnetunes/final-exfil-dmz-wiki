@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: hajin"
-description: "Every hajin subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 11 Nov 2026."
+description: "Every hajin subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 18 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -11,7 +11,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-The map of Hajin, its places, location types, exfil methods and map systems, as of 5 Nov 2026. Rows marked "row" live in a list page.
+The map of Hajin, its places, location types, exfil methods and map systems, as of 18 Nov 2026. Rows marked "row" live in a list page.
 
 | Member | Codex page | Sources | State |
 | --- | --- | --- | --- |
@@ -60,7 +60,7 @@ The map of Hajin, its places, location types, exfil methods and map systems, as 
 | Location types overview | [[locations-of-interest]] | [[src-activision-dmz-guide-part1-2026-10-05]] | published |
 | X01 (Season 1, 6 Nov 2026) | [[x01]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]] | published (open since 6 Nov 2026) |
 | X01 Deep Vault | [[x01-deep-vault]] | [[src-mw4-season-1-patch-notes-2026-11-05]] [[src-gamingdeputy-x01-deep-vault-2026-11-07]] | published (opening steps reported by one guide) |
-| X01 Power Generators, Data Center, Main Warehouse | rows in [[x01]] and [[keys]] | [[src-mw4-season-1-patch-notes-2026-11-05]] [[src-dmzhub-items-2026-11-09]] | thin (named in fixes and key entries only) |
+| X01 areas: Main Warehouse, Admin Offices, Logistics Tunnel, Control Room, Power Generators, Data Center, Supply Depot and flooded barracks, Production Assembly, Tech Lab, Medical Wing, Bio Lab, Pump Station, Motor Pool, Cargo Bay | table in [[x01]] | [[src-gamerfuzion-x01-orders-page-5-2026-11-18]] [[src-dmzcodex-x01-orders-guide-2026-11-13]] [[src-mw4-season-1-patch-notes-2026-11-05]] | published (row; positions from one player's runs, reported) |
 | Russian area of Hajin (Season 2) | row in [[hajin-exclusion-zone]] | [[src-westie-dmz-ama-recap-2026-10-11]] | missing (closed until Season 2; no page until it opens) |
 | Hajin (duplicate page) | [[hajin]] retired, alias on [[hajin-exclusion-zone]] | [[src-activision-dmz-guide-part1-2026-10-05]] | retired |
 | Fallout reactor (June name) | [[fallout-reactor]] retired, alias on [[haneul-nuclear-reactor]] | [[src-activision-dmz-deep-dive-2026-06]] | retired |

@@ -1453,3 +1453,7 @@
 ## [2026-11-16 22:47 EST] render | 1 pages rendered, 1000 claims, 1000 evidence
 - changed: wiki 1, claims 1, evidence 1, index.md 1
 - run: r-20261117-034727-20c0
+
+## [2026-11-17 19:45 EST] edit | daily update 2026-11-18: X01 area layout and exfil lift (reported), X01 Orders rewards corroborated, Season 1 Reloaded expected 3 Dec (reported); 6 new sources
+- changed: .kac 1, evals 1, index 9, index.md 1, raw 6, wiki 13
+- run: r-20261117-194534-aa75

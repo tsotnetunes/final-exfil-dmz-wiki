@@ -1,11 +1,11 @@
 ---
 type: mission
 title: "X01 Orders"
-description: "The X01 chapter of DMZ Orders, added with Season 1: five pages, 15 Orders inside X01, from Fresh Start to the Deep Vault and Source Code. Each page pays 20,000 DMZ Cash plus gear (reported)."
+description: "The X01 chapter of DMZ Orders, added with Season 1: five pages, 15 Orders inside X01, from Fresh Start to the Deep Vault and Source Code. Each page pays 20,000 DMZ Cash plus gear or recipes."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-orders-2026-11-13, src-dmzcodex-x01-orders-guide-2026-11-13, src-dmzguides-orders-2026-11-13, src-dmzhub-orders-2026-11-11, src-dmzhub-items-2026-11-10, src-mw4-season-1-patch-notes-2026-11-05, src-activision-season-1-announcement-2026-10-28]
+sources: [src-dmzhub-orders-2026-11-13, src-dmzcodex-x01-orders-guide-2026-11-13, src-dmzguides-orders-2026-11-13, src-dmzhub-orders-2026-11-11, src-dmzhub-items-2026-11-10, src-mw4-season-1-patch-notes-2026-11-05, src-activision-season-1-announcement-2026-10-28, src-gamerfuzion-x01-orders-page-1-2026-11-18, src-gamerfuzion-x01-orders-page-2-2026-11-18, src-gamerfuzion-x01-orders-page-3-2026-11-18, src-gamerfuzion-x01-orders-page-5-2026-11-18]
 aliases: ["X01 chapter", "Chapter: X01", "X01 Black Site Orders", "X01 DMZ Orders", "Season 1 Orders", "Ghost Orders", "Fresh Start", "Sight Seeing", "First Win", "Explorer", "Crafting Material", "Video Footage", "Streaming Service", "Streaming Service Ep. 1", "Streaming Service Ep. 2", "Streaming Service Ep. 3", "Racing the Hour", "The Vault (X01)", "Complete Defusal", "Door Opener", "Water Wading", "Source Code"]
 mission_kind: order
 steps: "5 pages, 15 Orders"
@@ -46,16 +46,18 @@ A page pays once every Order on it is done, as on the other Order pages [[src-dm
 | Page | Rewards |
 | --- | --- |
 | 1 | 20,000 DMZ Cash, a Medium Scavenger Backpack and two Encodable Blank Keycards |
-| 2 | 20,000 DMZ Cash, a Medical Box and a Consumable Box (one list says their recipes) |
+| 2 | 20,000 DMZ Cash and the Medical Box and Consumable Box recipes (one list says the boxes themselves) |
 | 3 | 20,000 DMZ Cash, a Specter Fabric Sample and a Hazmat Box (one list says its recipe) |
 | 4 | 20,000 DMZ Cash, a 3-Plate Ballistic Gel Vest and a Staff Emergency Exfil Keycard (one list says its recipe and adds an SR-16 Bio Agent Sample) |
 | 5 | 20,000 DMZ Cash, Argonaut Armor, a Large Scavenger Backpack and a Parachute |
 
-Pages 1 to 4: [[src-dmzhub-orders-2026-11-11]] [[src-dmzhub-orders-2026-11-13]] [[src-dmzguides-orders-2026-11-13]]. Page 5 rests on one list only [[src-dmzguides-orders-2026-11-13]] (reported); that list itself calls its X01 rewards single reports. For the backpacks see [[backpacks]], for the vest [[armor-vests]], for the keycards [[keys]], and for the boxes [[field-upgrades]].
+Pages 1 to 4: [[src-dmzhub-orders-2026-11-11]] [[src-dmzhub-orders-2026-11-13]] [[src-dmzguides-orders-2026-11-13]]. Page 5: [[src-dmzguides-orders-2026-11-13]] [[src-gamerfuzion-x01-orders-page-5-2026-11-18]]. A solo player's guides show the same payouts for pages 1, 2 and 5, with page 2 paying the Consumable Box and Medical Box recipes rather than the boxes [[src-gamerfuzion-x01-orders-page-1-2026-11-18]] [[src-gamerfuzion-x01-orders-page-2-2026-11-18]] [[src-gamerfuzion-x01-orders-page-5-2026-11-18]]; rewards that do not fit in a full stash go to its overflow row [[src-gamerfuzion-x01-orders-page-1-2026-11-18]] (reported). For the backpacks see [[backpacks]], for the vest [[armor-vests]], for the keycards [[keys]], and for the boxes [[field-upgrades]].
 
 ## Tips
 
 - Page 2 sends you to the X01 printer and an encoder station, so it pairs well with the Encodable Blank Keycards that page 1 pays out; see [[x01]] for the layout.
 - Page 4 runs through the X01 bosses: the keycard from The Captain is the way into the Deep Vault, where Blix waits [[src-dmzhub-orders-2026-11-13]] [[src-dmzcodex-x01-orders-guide-2026-11-13]] (reported); see [[x01-deep-vault]].
-- Page 5 chains: Door Opener's power shutdown is what lets you reach the flooded barracks for Water Wading [[src-dmzcodex-x01-orders-guide-2026-11-13]] [[src-dmzguides-orders-2026-11-13]] (reported).
+- Pages 1 and 2 split over two or three runs for a solo player; each X01 run gives about 20 minutes before the gas closes in [[src-gamerfuzion-x01-orders-page-1-2026-11-18]] [[src-gamerfuzion-x01-orders-page-2-2026-11-18]] (reported).
+- Page 3: clear the Control Room before you start the console hold, because enemies break it; the wave that arrives counts toward the ten kills, and the robot dogs come about 10 seconds after you pull the Data Center log [[src-gamerfuzion-x01-orders-page-3-2026-11-18]] (reported).
+- Page 5 chains: Door Opener's power shutdown is what lets you reach the flooded barracks for Water Wading [[src-dmzcodex-x01-orders-guide-2026-11-13]] [[src-dmzguides-orders-2026-11-13]] (reported). The Wheelson fight in the Logistics Tunnel took about six minutes for one solo player, and the Super User keycard lies beside a footlocker in the barracks [[src-gamerfuzion-x01-orders-page-5-2026-11-18]] (reported).
 <!-- human:end -->

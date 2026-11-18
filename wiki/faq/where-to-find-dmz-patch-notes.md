@@ -5,7 +5,7 @@ description: "Since 5 Nov 2026 on Activision's Season 1 patch notes page; older 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-mw4-launch-patch-notes-2026-10-29, src-iw-mw4-trello-2026-10-19, src-activision-pc-specs-2026-09-29, src-activision-season-1-announcement-2026-10-28, src-activision-known-issues-2026-11-04, src-activision-known-issues-2026-11-07, src-mw4-season-1-patch-notes-2026-11-05]
+sources: [src-mw4-launch-patch-notes-2026-10-29, src-iw-mw4-trello-2026-10-19, src-activision-pc-specs-2026-09-29, src-activision-season-1-announcement-2026-10-28, src-activision-known-issues-2026-11-04, src-activision-known-issues-2026-11-07, src-mw4-season-1-patch-notes-2026-11-05, src-detonated-season-1-reloaded-date-2026-11-18, src-gamelevate-season-1-reloaded-date-2026-11-18]
 aliases: ["DMZ patch notes", "DMZ updates", "MW4 patch notes", "DMZ update today", "content updates", "Call of Duty app updates", "DMZ known issues", "MW4 Trello", "latest DMZ update"]
 ---
 <!-- generated:start -->
@@ -38,5 +38,5 @@ Infinity Ward's public Modern Warfare 4 Trello board, linked from the patch note
 Updates no longer need a restart when you start the game; one that goes live while you play asks you to restart between matches [[src-activision-pc-specs-2026-09-29]].
 
 ## What comes next?
-Season 1 Reloaded at mid-season, with no date yet [[src-activision-season-1-announcement-2026-10-28]]; see [[season-1]]. More places to follow DMZ news: [[where-to-get-dmz-intel]].
+Season 1 Reloaded at mid-season [[src-activision-season-1-announcement-2026-10-28]], expected on 3 Dec 2026 by two sites but not announced yet [[src-detonated-season-1-reloaded-date-2026-11-18]] [[src-gamelevate-season-1-reloaded-date-2026-11-18]] (reported); see [[season-1]]. More places to follow DMZ news: [[where-to-get-dmz-intel]].
 <!-- human:end -->

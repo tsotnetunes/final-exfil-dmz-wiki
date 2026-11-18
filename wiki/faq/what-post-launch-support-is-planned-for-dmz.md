@@ -5,7 +5,7 @@ description: "Season 1 on 6 Nov 2026 adds the X01 Black Site, new bosses, Threat
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-season-1-announcement-2026-10-28, src-westie-dmz-ama-recap-2026-10-11, src-gamespot-from-the-ward-ep7-2026-10-05, src-destructoid-dmz-interview-2026-06-06]
+sources: [src-activision-season-1-announcement-2026-10-28, src-westie-dmz-ama-recap-2026-10-11, src-gamespot-from-the-ward-ep7-2026-10-05, src-destructoid-dmz-interview-2026-06-06, src-detonated-season-1-reloaded-date-2026-11-18, src-gamelevate-season-1-reloaded-date-2026-11-18]
 aliases: ["DMZ roadmap", "DMZ future", "will DMZ be supported", "DMZ Season 2", "post-launch support MW4", "MW4 DMZ roadmap", "DMZ new maps"]
 ---
 <!-- generated:start -->
@@ -19,7 +19,7 @@ Seasons. Season 1 starts at midnight ET on 6 Nov 2026 and brings DMZ a new locat
 - The X01 Black Site, with the bosses The Captain, Wheelson, Tae-Hyun and Chol-Min [[src-activision-season-1-announcement-2026-10-28]].
 - Threat Briefings (Battle Tank, The Captain) and the Resupply Run, with more Threat Briefings later in the season [[src-activision-season-1-announcement-2026-10-28]].
 - A Battle Pass and Store Station at the FOB, and BlackCell items at the Vendor [[src-activision-season-1-announcement-2026-10-28]].
-- Season 1 Reloaded at mid-season, date to come [[src-activision-season-1-announcement-2026-10-28]].
+- Season 1 Reloaded at mid-season [[src-activision-season-1-announcement-2026-10-28]]; two sites expect it on 3 Dec 2026 (2 Dec at 10 PM PT) and expect more DMZ Orders, Threat Briefings and FOB upgrades, none of it announced yet [[src-detonated-season-1-reloaded-date-2026-11-18]] [[src-gamelevate-season-1-reloaded-date-2026-11-18]] (reported).
 
 Full detail: [[season-1]].
 

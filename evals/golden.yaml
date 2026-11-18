@@ -425,3 +425,6 @@
 - id: g142
   question: How do I get the Woodfall camo, and do DMZ matches count for Natural Concealment?
   must_retrieve: [natural-concealment]
+- id: g143
+  question: Where is the Data Center in X01 and how do you get out of X01?
+  must_retrieve: [x01]
