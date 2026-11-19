@@ -5,9 +5,8 @@ description: "X01 Commander since Season 1 (6 Nov 2026): an autonomous turret ro
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_6f77b93c726e, src-activision-season-1-announcement-2026-10-28, src-mw4-season-1-patch-notes-2026-11-05, src-gamerfuzion-x01-orders-page-5-2026-11-18]
+sources: [src-activision-season-1-announcement-2026-10-28, src-mw4-season-1-patch-notes-2026-11-05, src-gamerfuzion-x01-orders-page-5-2026-11-18]
 aliases: ["Wheelson Commander", "Autonomous Wheelson", "X01 Wheelson", "Destroy the Wheelson", "Wheelson DMZ", "how to kill the Wheelson"]
-stale_after: 2026-12-31
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
