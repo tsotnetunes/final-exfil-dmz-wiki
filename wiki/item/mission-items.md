@@ -5,7 +5,7 @@ description: "Items that exist for a mission or a door: the Irradiated Container
 status: draft
 brain_status: draft
 sensitivity: public
-sources: [src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-conquestcapped-dmz-keys-2026-10-28, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-dtgre-dmz-ops-guides-2026-10-21, src-dtgre-dmz-radar-truck-2026-10-25, src-mw4-season-1-patch-notes-2026-11-05]
+sources: [src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-fpsjp-dynamic-ops-trailer-2026-10-07, src-dmzhub-items-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-conquestcapped-dmz-keys-2026-10-28, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-dtgre-dmz-ops-guides-2026-10-21, src-dtgre-dmz-radar-truck-2026-10-25, src-mw4-season-1-patch-notes-2026-11-05, src-dmzhub-items-2026-11-19, src-gamerfuzion-irradiated-container-2026-10-27]
 aliases: ["mission item", "quest items", "Mission Item slot", "Irradiated Container", "Encrypted Drive", "Encrypted Voice Logs", "K9 Battery Core", "K9 Battery Cores", "recipe item"]
 ---
 <!-- generated:start -->
@@ -17,7 +17,7 @@ Some DMZ items exist for a mission, an Order or a door rather than for fighting 
 
 | Item | Rarity | What it is for | Sources |
 | --- | --- | --- | --- |
-| Irradiated Container | Ultra | a container of unstable chemical residue that has to be decontaminated at the [[haneul-nuclear-reactor]]; one guide says it works like a key | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] [[src-conquestcapped-dmz-keys-2026-10-28]] |
+| Irradiated Container | Ultra | a container of unstable chemical residue that has to be decontaminated at the [[haneul-nuclear-reactor]], at the station on the ground floor of the wrecked reactor; it spawns rarely in the chemical lockers of [[clinics]], holds one per slot, and once cleaned can give a Legendary or Ultra weapon, weapon manuals, high-tier keys, door breaching charges or rare valuables (reported); three are needed for Bank XII ([[fob-upgrades]]); one guide says it works like a key | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] [[src-conquestcapped-dmz-keys-2026-10-28]] [[src-gamerfuzion-irradiated-container-2026-10-27]] [[src-dmzhub-items-2026-11-19]] |
 | Encrypted Drive | not stated | the drive you recover in the Dead Man's Cache Dynamic Operation, as the official trailer showed before launch | [[src-fpsjp-dynamic-ops-trailer-2026-10-07]] [[src-codmunity-dmz-items-2026-10-26]] |
 | Encrypted Voice Logs | not stated | items for the Order Ears Everywhere; they spawn reliably since the fixes of 29 Oct and 6 Nov 2026 [[src-mw4-season-1-patch-notes-2026-11-05]] | [[src-mw4-launch-patch-notes-2026-10-29]] |
 | K9 Battery Cores | not stated | open the room behind the K9 Core Terminal in The Citadel's East Wing (reported) | [[src-conquestcapped-dmz-keys-2026-10-28]] |

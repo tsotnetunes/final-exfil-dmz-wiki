@@ -1,12 +1,12 @@
 ---
 type: item
 title: "Kits (Survival Kit bundles)"
-description: "What is inside each DMZ kit, from the Basic Armor Kit (level 6) to the Advanced SERE Kit (level 70) and the Vault Edition Deployment Kit, and which levels and Orders give them."
+description: "What is inside each DMZ kit, from the Basic Armor Kit (level 6) to the Ballistic Gel Armor Kit (54), the Advanced SERE Kit (70) and the Vault Edition kit, and which levels and Orders give them."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-allthings-how-large-backpack-2026-10-21, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-11-09, src-dmzhub-items-2026-11-10, src-dmzhub-items-2026-11-15, human-intel-orders, src-game8-dmz-orders-2026-10-31, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-items-2026-11-17, src-dmzhub-items-2026-11-18]
-aliases: ["kit", "Survival Kit contents", "Basic Armor Kit", "Restock Kit", "Basic Restock Kit", "Basic Triage Kit", "Triage Kit", "Explosives Equipment Kit", "Recon Equipment Kit", "Trap Equipment Kit", "SERE Kit", "Sere Kit", "Advanced SERE Kit", "Vault Edition Deployment Kit", "Deployment Kit", "Weapon Insurance Contract", "Operator Rescue Beacon"]
+sources: [src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-allthings-how-large-backpack-2026-10-21, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-11-09, src-dmzhub-items-2026-11-10, src-dmzhub-items-2026-11-15, human-intel-orders, src-game8-dmz-orders-2026-10-31, src-codcentral-dmz-orders-2026-10-21, src-dmzhub-items-2026-11-17, src-dmzhub-items-2026-11-18, src-dmzhub-items-2026-11-19]
+aliases: ["kit", "Ballistic Gel Armor Kit", "Survival Kit contents", "Basic Armor Kit", "Restock Kit", "Basic Restock Kit", "Basic Triage Kit", "Triage Kit", "Explosives Equipment Kit", "Recon Equipment Kit", "Trap Equipment Kit", "SERE Kit", "Sere Kit", "Advanced SERE Kit", "Vault Edition Deployment Kit", "Deployment Kit", "Weapon Insurance Contract", "Operator Rescue Beacon"]
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
@@ -27,7 +27,8 @@ Kits are bundles of gear you earn from DMZ levels, DMZ Orders, missions and Even
 | Triage Kit | Epic | Bandages, Medkits, Self-Revive Kits, Pain Killers | level 27 | [[src-activision-ready-for-launch-progression-2026-10-19]] |
 | Trap Equipment Kit | Uncommon | Razor Wire Traps, Trip Wires, Proximity Mines, Claymores, a Gun Store Weapons Locker key | level 42; a community database names no other way to get it and says it is not found as loot (reported) | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-11-18]] |
 | SERE Kit | Epic | a Medkit and a Self-Revive Kit | Order reward (reported) | [[src-dmzhub-items-2026-10-31]] |
-| Advanced SERE Kit | Legendary | Operator Rescue Beacons, Weapon Insurance Contracts, Self-Revive Kits, Medkits; one database counts three Medkits, three Self-Revive Kits, two Weapon Insurance Contracts and two Operator Rescue Beacons (reported) | level 70; also a reward of [[threat-briefing-battle-tank]] (reported) | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-11-10]] |
+| Advanced SERE Kit | Legendary | Operator Rescue Beacons, Weapon Insurance Contracts, Self-Revive Kits, Medkits; one database counts three Medkits, three Self-Revive Kits, two Weapon Insurance Contracts and two Operator Rescue Beacons (reported) | level 70; it was also a reward of the [[threat-briefing-battle-tank]] event, which a community database said on 18 Nov 2026 has ended, leaving level 70 as the only way to earn it (reported) | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-11-10]] [[src-dmzhub-items-2026-11-19]] |
+| Ballistic Gel Armor Kit | Epic | 2-Plate Ballistic Gel Vests and Armor Boxes ([[armor-vests]]) | level 54, where the official table lists an unnamed Epic consumable; a community database names no other way to get it (reported) | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-11-12]] [[src-dmzhub-items-2026-11-19]] |
 | Vault Edition Deployment Kit | not stated | two each of Weapon Insurance Contracts, Operator Rescue Beacons, Fulton Drop Markers, Medium Backpacks and 2-Plate Carriers | Vault Edition owners | [[src-activision-dmz-guide-part2-2026-10-09]] [clm_1672db379296] |
 
 One database counts two of each explosive in the Explosives Equipment Kit (reported) [[src-dmzhub-items-2026-10-31]]. The keys inside are covered on [[keys]]; the gear on [[armor-vests]], [[backpacks]], [[medical-items]], [[lethal-equipment]], [[tactical-equipment]] and [[field-upgrades]].

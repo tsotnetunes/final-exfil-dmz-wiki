@@ -1469,3 +1469,7 @@
 ## [2026-11-18 19:46 EST] edit | daily update 2026-11-19: new Wheelson Commander page (Logistics Tunnel, DDoS and Viper Sense fixes), The Captain in the Bio Lab with the Deep Vault 301 keycard, Warzone-only Hajin weather and Gulag on is-dmz-part-of-warzone; 3 new sources
 - changed: .kac 1, evals 1, index 9, index.md 1, raw 3, wiki 8
 - run: r-20261118-194616-b880
+
+## [2026-11-18 21:18 EST] edit | community sweep 2026-11-19: DMZHub 18 Nov revisions (Ballistic Gel Armor Kit at level 54, Advanced SERE Kit event route ended, Irradiated Container details); codmunity not fetched
+- changed: .kac 1, index 7, index.md 1, raw 1, wiki 6
+- run: r-20261118-211804-45fe

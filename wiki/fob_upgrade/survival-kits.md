@@ -5,7 +5,7 @@ description: "Bundles of supplies (Triage, Armor, Equipment, Restock, SERE kits)
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_d79723694987, clm_49f22644ec29, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-items-2026-10-31, src-dmzhub-items-2026-11-12]
+sources: [clm_d79723694987, clm_49f22644ec29, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-items-2026-10-31, src-dmzhub-items-2026-11-12, src-dmzhub-items-2026-11-19]
 aliases: ["Survival Kit", "Triage Kit", "SERE Kit", "Restock Kit", "Armor Kit", "Recon Equipment Kit", "Explosives Equipment Kit", "Deployment Kit", "Vault Edition bonus"]
 station: survival-kits
 unlock: start
@@ -66,11 +66,11 @@ A community database added more kit entries from 8 Nov 2026 (reported) [[src-dmz
 
 | Kit | Rarity | What is known |
 | --- | --- | --- |
-| Ballistic Gel Armor Kit | Epic | two 2-Plate Ballistic Gel Vests and two Armor Boxes ([[armor-vests]]) |
+| Ballistic Gel Armor Kit | Epic | two 2-Plate Ballistic Gel Vests and two Armor Boxes ([[armor-vests]]); earned at DMZ level 54 by the same database's account of 18 Nov 2026 (reported) [[src-dmzhub-items-2026-11-19]] |
 | Advanced Triage Kit | Legendary | contents not listed yet |
 | Blackcell Kit | not given | a Season 1 kit of mixed items and rarities; it shares its name with the BlackCell pass ([[is-there-a-battle-pass-in-dmz]]), but how it is granted is not stated |
 
-The same database rates the Triage Kit Epic, matching the official post, and the Deployment Kit Ultra. Where the Advanced Triage and Ballistic Gel Armor Kits come from is not known yet.
+The same database rates the Triage Kit Epic, matching the official post, and the Deployment Kit Ultra. Where the Advanced Triage Kit comes from is not known yet. The Ballistic Gel Armor Kit's level 54 fits the official level table, which lists an unnamed Epic consumable at that level [[src-activision-ready-for-launch-progression-2026-10-19]].
 
 ## What is the Vault Edition Deployment Kit?
 
