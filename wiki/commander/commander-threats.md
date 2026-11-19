@@ -5,8 +5,8 @@ description: "All DMZ Commanders: Colossus, the Deathstalker and the Main NK Bat
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db, clm_a0e50790b208, clm_2709a2129c64, clm_855a0d332b7b, clm_a4061b133053, clm_45a3d3d59bfc, clm_718706a12b71, clm_6cb6f07bc3cc, clm_4970f5d4d3d4, clm_89c9ddba2341, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-boss-board-2026-10-21, src-allthingshow-colossus-2026-10-21, src-allthingshow-deathstalker-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05]
-aliases: ["Commanders", "Commander", "Wheelson", "Juggernaut", "Elite Strike Team", "drone swarm", "King Slayer", "King Slayer calling card", "commander bosses", "roaming commanders"]
+sources: [src-gamerfuzion-x01-orders-page-5-2026-11-18, clm_d162a2f6766a, clm_93fc23c7a474, clm_6f77b93c726e, clm_ebc3a3c698db, clm_a0e50790b208, clm_2709a2129c64, clm_855a0d332b7b, clm_a4061b133053, clm_45a3d3d59bfc, clm_718706a12b71, clm_6cb6f07bc3cc, clm_4970f5d4d3d4, clm_89c9ddba2341, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-season-1-announcement-2026-10-28, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-boss-board-2026-10-21, src-allthingshow-colossus-2026-10-21, src-allthingshow-deathstalker-2026-10-21, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-dexerto-dmz-enemy-types-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-orders-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05]
+aliases: ["Commanders", "Commander", "Juggernaut", "Elite Strike Team", "drone swarm", "King Slayer", "King Slayer calling card", "commander bosses", "roaming commanders"]
 ---
 <!-- generated:start -->
 Commander threats are high-value boss encounters encountered across deployments. Defeating these commanders yields specialized loot and eliminates powerful hostile patrols from the area.
@@ -38,7 +38,7 @@ Commanders are DMZ's roaming bosses: always present in Hajin, heavily armoured a
 | [[deathstalker]] | helicopter-sized autonomous drone with two machine-gun turrets | the sky over Hajin City | a captured SAM site | Prototype RF Module | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-allthingshow-deathstalker-2026-10-21]] |
 | [[main-nk-battle-tank]] | North Korean battle tank | roads on the South Korean side | a DDOS, then rockets | Nano-Structured Alloy | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-conquestcapped-dmz-bosses-2026-10-28]] |
 | [[the-captain]] (Season 1) | a Juggernaut who fights with his elite guard | X01 | not announced | sections of his helmet in the Threat Briefing event | [[src-activision-season-1-announcement-2026-10-28]] [clm_93fc23c7a474] |
-| Wheelson (Season 1) | an autonomous unit on patrol with turrets | X01 (named there in the 7 Nov fixes) | DDoS or a Shock Stick disables the turrets; since 10 Nov 2026 they also stop tracking their target afterwards | not announced | [[src-activision-season-1-announcement-2026-10-28]] [clm_6f77b93c726e] [[src-mw4-season-1-patch-notes-2026-11-05]] |
+| [[wheelson]] (Season 1) | an autonomous unit on patrol with turrets | X01, in the Logistics Tunnel (reported) [[src-gamerfuzion-x01-orders-page-5-2026-11-18]] | DDoS or a Shock Stick disables the turrets; since 10 Nov 2026 they also stop tracking their target afterwards | not announced | [[src-activision-season-1-announcement-2026-10-28]] [clm_6f77b93c726e] [[src-mw4-season-1-patch-notes-2026-11-05]] |
 
 ## How do you find a Commander?
 
@@ -57,7 +57,7 @@ Goliath (hit Colossus with Thermite or a Drill Charge, then a Shock Stick), Stal
 
 ## What is new in Season 1?
 
-The Captain and Wheelson join the Boss Board's Commanders [[src-activision-season-1-announcement-2026-10-28]]. In the Threat Briefing events of the season's first part you hunt The Captain in [[x01]] for pieces of his helmet, with bigger rewards after a successful exfil, and take parts from the battle tank in Hajin [[src-activision-season-1-announcement-2026-10-28]] ([[season-1]]). No reward has been announced for Wheelson; the 7 Nov 2026 fixes to its turrets and turret sounds in X01 place it there [[src-mw4-season-1-patch-notes-2026-11-05]].
+The Captain and Wheelson join the Boss Board's Commanders [[src-activision-season-1-announcement-2026-10-28]]. In the Threat Briefing events of the season's first part you hunt The Captain in [[x01]] for pieces of his helmet, with bigger rewards after a successful exfil, and take parts from the battle tank in Hajin [[src-activision-season-1-announcement-2026-10-28]] ([[season-1]]). No reward has been announced for [[wheelson]]; the 7 Nov 2026 fixes to its turrets and turret sounds in X01 place it there [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What did Activision list before launch?
 

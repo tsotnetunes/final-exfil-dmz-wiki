@@ -428,3 +428,6 @@
 - id: g143
   question: Where is the Data Center in X01 and how do you get out of X01?
   must_retrieve: [x01]
+- id: g144
+  question: Where is the Wheelson in X01 and how do you destroy it?
+  must_retrieve: [wheelson]
