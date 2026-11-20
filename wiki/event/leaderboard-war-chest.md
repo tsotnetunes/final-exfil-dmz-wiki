@@ -8,7 +8,6 @@ sensitivity: public
 sources: [src-mw4-season-1-patch-notes-2026-11-05, src-infinityward-x-war-chest-live-2026-11-19]
 aliases: ["War Chest", "War Chest event", "War Chest DMZ", "Leaderboard War Chest", "DMZ leaderboard event", "container leaderboard"]
 date: 2026-11-19
-stale_after: 2026-12-03
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

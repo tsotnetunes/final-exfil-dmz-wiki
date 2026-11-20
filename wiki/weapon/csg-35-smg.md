@@ -5,7 +5,7 @@ description: "Season 1 SMG, in the game since 6 Nov 2026 at Battle Pass tier 36:
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-mw4-season-1-patch-notes-2026-11-05, clm_821962c22a68, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-gunsmith-2026-10-29, src-dmzhub-weapons-2026-10-31, src-dmzhub-items-2026-11-07, src-cod-x-season-1-live-2026-11-06, src-cod-x-camo-tracking-2026-11-07]
+sources: [clm_821962c22a68, src-mw4-season-1-patch-notes-2026-11-05, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-gunsmith-2026-10-29, src-dmzhub-weapons-2026-10-31, src-dmzhub-items-2026-11-07, src-cod-x-season-1-live-2026-11-06, src-cod-x-camo-tracking-2026-11-07]
 aliases: ["CSG-35", "CSG 35", "CSG35", "CSG Crossfire", "new Season 1 SMG"]
 class: "SMG"
 manual_source: "Weapon Manual (reported; drop location not known)"

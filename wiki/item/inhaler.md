@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05, src-dmzhub-items-2026-10-31, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-recipes-2026-10-31, src-codcentral-3d-printer-recipes-2026-10-20]
 aliases: ["Inhaler", "Sedative Inhaler", "sedative", "stealth inhaler"]
-stale_after: 2026-12-20
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

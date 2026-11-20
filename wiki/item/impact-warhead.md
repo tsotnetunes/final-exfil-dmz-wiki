@@ -7,7 +7,6 @@ brain_status: published
 sensitivity: public
 sources: [src-activision-mw4-launch-weapons-2026-10-19, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-codcentral-3d-printer-recipes-2026-10-20, src-activision-dmz-guide-part2-2026-10-09]
 aliases: ["Impact Warhead", "warhead", "bunker buster"]
-stale_after: 2026-12-20
 ---
 <!-- generated:start -->
 The Impact Warhead is an item found in DMZ. Players may encounter this item while looting during a match.
