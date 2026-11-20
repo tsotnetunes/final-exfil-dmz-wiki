@@ -1,7 +1,7 @@
 ---
 type: event
 title: "MW4 DMZ events and dates"
-description: "Every dated DMZ and Modern Warfare 4 event from DMZ Week on: launch, Halloween, Season 1 on 6 Nov 2026, Wager Match, the Resupply Run, Friday Joint Fire and the Natural Concealment camo event."
+description: "Every dated DMZ and Modern Warfare 4 event from DMZ Week on: launch, Season 1 on 6 Nov 2026, Wager Match, the Resupply Run, Friday Joint Fire, Natural Concealment and the War Chest since 19 Nov."
 status: stable
 brain_status: published
 sensitivity: public
@@ -14,7 +14,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Season 1 started at midnight ET on 6 Nov 2026 and brought DMZ's first events: [[threat-briefing-battle-tank]] first, then [[wager-match]] on 11 Nov, the [[resupply-run-event]] on 12 Nov the Friday [[joint-fire]] event on 13 Nov and the [[natural-concealment]] camo event on 16 Nov [[src-infinityward-x-natural-concealment-2026-11-16]], with Threat Briefing: The Captain still to come [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]]. In the game, running events appear at the FOB's Events station [[src-activision-dmz-guide-part2-2026-10-09]]. Below is every dated event since DMZ Week.
+Season 1 started at midnight ET on 6 Nov 2026 and brought DMZ's first events: [[threat-briefing-battle-tank]] first, then [[wager-match]] on 11 Nov, the [[resupply-run-event]] on 12 Nov the Friday [[joint-fire]] event on 13 Nov the [[natural-concealment]] camo event on 16 Nov [[src-infinityward-x-natural-concealment-2026-11-16]] and the [[leaderboard-war-chest]] on 19 Nov [[src-infinityward-x-war-chest-live-2026-11-19]], with Threat Briefing: The Captain still to come [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]]. In the game, running events appear at the FOB's Events station [[src-activision-dmz-guide-part2-2026-10-09]]. Below is every dated event since DMZ Week.
 
 ## What has happened so far?
 | Date | Event | For DMZ | Page |
@@ -40,6 +40,7 @@ Season 1 started at midnight ET on 6 Nov 2026 and brought DMZ's first events: [[
 | every Friday from 13 Nov, 24 hours | Joint Fire Event [[src-infinityward-x-joint-fire-live-2026-11-13]] | party XP boost; a DMZ Survival Kit among the rewards | [[joint-fire]] |
 | 13 to 16 Nov | Double XP and Double Weapon XP weekend [[src-callofduty-x-double-xp-weekend-2026-11-13]] | DMZ not named in the posts | [[double-xp-tokens]] |
 | from 16 Nov | Natural Concealment camo event [[src-infinityward-x-natural-concealment-2026-11-16]] | class camo challenges count in DMZ; all of them unlock the Woodfall Mastery Camo | [[natural-concealment]] |
+| from 19 Nov, afternoon ET | War Chest [[src-mw4-season-1-patch-notes-2026-11-05]] [[src-infinityward-x-war-chest-live-2026-11-19]] | containers and safes score leaderboard points; Fulton Exfils, Tempered Armor Vests, UAVs and more, each won once | [[leaderboard-war-chest]] |
 
 ## What is coming?
 | Date | Event | For DMZ | Page |

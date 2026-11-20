@@ -6,7 +6,7 @@ status: stable
 brain_status: published
 sensitivity: public
 sources: [clm_d79723694987, clm_49f22644ec29, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-dmzhub-items-2026-10-31, src-dmzhub-items-2026-11-12, src-dmzhub-items-2026-11-19]
-aliases: ["Survival Kit", "Triage Kit", "SERE Kit", "Restock Kit", "Armor Kit", "Recon Equipment Kit", "Explosives Equipment Kit", "Deployment Kit", "Vault Edition bonus"]
+aliases: ["DMZ Survival Kits", "DMZ Survival Kit", "Survival Kit", "Triage Kit", "SERE Kit", "Restock Kit", "Armor Kit", "Recon Equipment Kit", "Explosives Equipment Kit", "Deployment Kit", "Vault Edition bonus"]
 station: survival-kits
 unlock: start
 ---

@@ -1,11 +1,11 @@
 ---
 type: weapon
 title: "Type 73"
-description: "Korean 7.62x54r LMG for mid and long range; Bale carries one, and his named Legendary version is the Dreadnought LMG. 28 Oct: its Assault Apex gained minimum damage in Multiplayer."
+description: "Korean 7.62x54r LMG for mid and long range; Bale carries one, and his named Legendary version is the Dreadnought LMG. 19 Nov: more damage, and a longer-ranged Assault Apex, in Multiplayer."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["Type73", "Type 73 LMG", "Type 73 Assault", "Dreadnought", "Dreadnought LMG", "Legendary Dreadnought"]
 class: "LMG"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -30,4 +30,8 @@ The Lieutenant Bale carries one [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src
 ## What changed on 28 Oct 2026?
 
 With the Assault Apex fitted, its minimum damage went from 19 to 20 (+5%). The change is listed under Multiplayer; whether it applies in DMZ is not stated, and DMZ has its own weapon tuning [[src-mw4-launch-patch-notes-2026-10-29]].
+
+## What changed on 19 Nov 2026?
+
+Base weapon: maximum damage from 22 to 23, minimum damage from 19 to 20 and the lower torso multiplier from 1 to 1.1. With the Assault Apex: maximum damage from 24 to 25, first middle damage from 23 to 24, its range from 43.13 m to 58.42 m (+35%) and the lower torso multiplier from 1 to 1.1. The changes are listed under Multiplayer; whether they apply in DMZ is not stated, and DMZ has its own weapon tuning [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

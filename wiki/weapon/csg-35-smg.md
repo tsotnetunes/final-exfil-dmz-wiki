@@ -5,7 +5,7 @@ description: "Season 1 SMG, in the game since 6 Nov 2026 at Battle Pass tier 36:
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_821962c22a68, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-gunsmith-2026-10-29, src-dmzhub-weapons-2026-10-31, src-dmzhub-items-2026-11-07, src-cod-x-season-1-live-2026-11-06, src-cod-x-camo-tracking-2026-11-07]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, clm_821962c22a68, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-dmztracker-gunsmith-2026-10-29, src-dmzhub-weapons-2026-10-31, src-dmzhub-items-2026-11-07, src-cod-x-season-1-live-2026-11-06, src-cod-x-camo-tracking-2026-11-07]
 aliases: ["CSG-35", "CSG 35", "CSG35", "CSG Crossfire", "new Season 1 SMG"]
 class: "SMG"
 manual_source: "Weapon Manual (reported; drop location not known)"
@@ -45,4 +45,8 @@ Not for everyone yet. Since 7 Nov 2026 Call of Duty has been looking into report
 ## Can you use it in DMZ?
 
 Likely, through a Weapon Manual like the launch guns. On 6 Nov 2026 a community database added a "Manual: CSG-35" item, filed as a Season 1 Weapon Manual, but it shows no value and no place to find it yet (reported) [[src-dmzhub-items-2026-11-07]]. The Season 1 post itself names no DMZ weapons and says nothing about Weapon Manuals [[src-activision-season-1-announcement-2026-10-28]]. Every launch gun except the knife has a Manual you must extract before the [[gunsmith]] sells it [[src-activision-dmz-guide-part2-2026-10-09]] [[src-dmzhub-weapons-2026-10-31]], so extract a CSG-35 Manual before you can buy the gun ([[weapon-manuals]]). A blueprint you own can be built once for free in DMZ even without the Manual [[src-dmztracker-gunsmith-2026-10-29]] ([[blueprints]]). The five launch SMGs are in [[weapons]].
+
+## What changed on 19 Nov 2026?
+
+Its maximum damage range went from 10.41 m to 11.18 m (+7%) and its first middle damage range from 19.81 m to 22.61 m (+14%). The changes are listed under Multiplayer; whether they apply in DMZ is not stated, and DMZ has its own weapon tuning [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

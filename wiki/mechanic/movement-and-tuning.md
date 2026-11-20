@@ -1,7 +1,7 @@
 ---
 type: mechanic
 title: "Movement, stamina and weapon tuning"
-description: "Tac sprint is on by default in DMZ; weapons have their own DMZ tuning built around armor; 28 Oct weapon changes were Multiplayer only; dive speed back 2 Nov; 11 Nov: hitscan range 3.91x in all modes."
+description: "Tac sprint is on by default in DMZ; weapons have their own DMZ tuning built around armor; the 28 Oct and 19 Nov weapon changes were listed for Multiplayer; 11 Nov: hitscan range 3.91x in all modes."
 status: stable
 brain_status: published
 sensitivity: public
@@ -34,6 +34,10 @@ No. In the 9 Oct Q&A the developers said DMZ has its own weapon damage tuning, m
 ## Did the 28 Oct weapon changes reach DMZ?
 
 Not stated. The 28 Oct notes list 65 changed values across 15 weapons under Multiplayer only, as a first broad pass to even out damage by hit location for a more consistent time to kill; the DMZ section that day has no weapon tuning [[src-mw4-launch-patch-notes-2026-10-29]]. Five days earlier the developers had said they were looking at weapon tuning for the following week and reminded players that the two modes are tuned separately [[src-mw4-launch-patch-notes-2026-10-29]]. One stats site now marks the Han 86 as nerfed and the M4, ISO Nightshade, Kastov 762 and PPSh-41 as buffed on its DMZ page, without saying it measured DMZ [[src-wzstats-dmz-meta-2026-10-31]]. Each gun's changes: [[weapons]].
+
+## Did the 19 Nov weapon changes reach DMZ?
+
+Again not stated. The 19 Nov 2026 update tuned fourteen weapons and Apex Attachments, all under the Multiplayer heading, and its DMZ lines that day cover only the War Chest event [[src-mw4-season-1-patch-notes-2026-11-05]]. Almost every change adds range or damage: the [[mosin-nagant]] keeps its top damage out to 43.18 m instead of 14.99 m, the Hyeon Auto and Kastov 545 Apex Attachments reach further ([[hyeon-burst]], [[kastov-762]]), and the [[m4]], [[oden]], [[patriot-xmr]], Cronen Squall, [[csg-35-smg]], [[iso-nightshade]], [[ppsh-41]], [[x-58-nyx]], [[type-73]] and the Rezi 12's explosive slugs ([[rezi-12]]) gain a little. The [[finn-lmg]] trades some range for damage. Each weapon page lists its values.
 
 ## Is the time to kill different in DMZ?
 

@@ -1,11 +1,11 @@
 ---
 type: weapon
 title: "Kastov 762"
-description: "Hard-hitting 7.62x39mm assault rifle, in every DMZ list's top two tiers; Vault Edition owners get the Voltspine blueprint. 28 Oct: more range in Multiplayer. Season 1 brings back the Kastov 545 Apex."
+description: "Hard-hitting 7.62x39mm assault rifle, in every DMZ list's top two tiers; Vault Edition owners get the Voltspine blueprint. Season 1 brings back the Kastov 545 Apex, longer-ranged since 19 Nov."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-gamerfuzion-dmz-free-blueprints-2026-10-21, src-dmztracker-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-gamerfuzion-dmz-free-blueprints-2026-10-21, src-dmztracker-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-conquestcapped-dmz-bosses-2026-10-28, src-gfinity-dmz-lieutenants-2026-10-22, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["Kastov", "Kastov 762 AR", "AK", "Kastov ARC", "Kastov 545", "Voltspine"]
 class: "Assault rifle"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -32,6 +32,10 @@ One guide says the Lieutenant called the Chemist carries a Kastov 762 (reported)
 ## What changed on 28 Oct 2026?
 
 Its maximum damage range went from 950 to 1050 (+11%), listed under Multiplayer; whether this applies in DMZ is not stated, and DMZ has its own weapon tuning [[src-mw4-launch-patch-notes-2026-10-29]].
+
+## What changed on 19 Nov 2026?
+
+With the Kastov 545 Apex fitted, the maximum damage range went from 11.02 m to 13.72 m (+25%) and the first middle damage range from 20.57 m to 27.69 m (+35%). The Kastov 545 is a Wager Match reward for DMZ ([[wager-match]]). The changes are listed under Multiplayer; whether they apply in DMZ is not stated, and DMZ has its own weapon tuning [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What comes in Season 1?
 

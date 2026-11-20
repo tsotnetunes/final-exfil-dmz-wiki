@@ -1,7 +1,7 @@
 ---
 type: faq
 title: "Are there events in DMZ?"
-description: "Yes: Threat Briefing: Battle Tank since 6 Nov 2026, Wager Match since 11 Nov, the Resupply Run since 12 Nov, Joint Fire every Friday and the Natural Concealment camo event since 16 Nov."
+description: "Yes: Threat Briefing: Battle Tank since 6 Nov 2026, Wager Match since 11 Nov, the Resupply Run since 12 Nov, Joint Fire every Friday, Natural Concealment since 16 Nov and the War Chest since 19 Nov."
 status: stable
 brain_status: published
 sensitivity: public
@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Yes. The FOB has an Events station for limited-time challenges and unlocks, and Season 1, which started on 6 Nov 2026, brought the first DMZ events. Threat Briefing: Battle Tank is the one the patch notes list as live from the start; Wager Match, marked coming soon then, went live on 11 Nov 2026 with Trophies dropping in DMZ too [[src-infinityward-x-wager-match-live-2026-11-12]]; the Resupply Run followed on the evening of 12 Nov (reported) [[src-x-community-resupply-run-2026-11-13]] and is listed as live in the 13 Nov notes; and Joint Fire began on 13 Nov, running every Friday [[src-infinityward-x-joint-fire-live-2026-11-13]] [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]]. Events also hand out Survival Kits [[src-activision-dmz-guide-part2-2026-10-09]].
+Yes. The FOB has an Events station for limited-time challenges and unlocks, and Season 1, which started on 6 Nov 2026, brought the first DMZ events. Threat Briefing: Battle Tank is the one the patch notes list as live from the start; Wager Match, marked coming soon then, went live on 11 Nov 2026 with Trophies dropping in DMZ too [[src-infinityward-x-wager-match-live-2026-11-12]]; the Resupply Run followed on the evening of 12 Nov (reported) [[src-x-community-resupply-run-2026-11-13]] and is listed as live in the 13 Nov notes; and Joint Fire began on 13 Nov, running every Friday [[src-infinityward-x-joint-fire-live-2026-11-13]] [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]]. Events also hand out Survival Kits [[src-activision-dmz-guide-part2-2026-10-09]]. The newest, the War Chest leaderboard, started on 19 Nov 2026 [[src-infinityward-x-war-chest-live-2026-11-19]].
 
 ## Which DMZ events are announced?
 | Event | What you do | Reward |
@@ -24,8 +24,9 @@ Yes. The FOB has an Events station for limited-time challenges and unlocks, and 
 | [[wager-match]] (live since 11 Nov 2026) | earn Trophies in any mode, DMZ included; stakes only in Multiplayer | Hyeon Auto and Kastov 545 Apex Attachments |
 | [[joint-fire]] (24 hours every Friday from 13 Nov 2026) | play in a party for an XP boost that grows with party size; progress is kept between Fridays | a Weapon Blueprint, Charms, 2XP Tokens and a DMZ Survival Kit |
 | [[natural-concealment]] (live since 16 Nov 2026) | finish weapon class camo challenges in Multiplayer, DMZ or Warzone; one mode per challenge is enough | each class's event camo, and the animated Woodfall Mastery Camo for all classes |
+| [[leaderboard-war-chest]] (live since 19 Nov 2026) | open containers (5 points) and safes (50 points) in a deployment to climb a leaderboard that lasts 3 hours, with a new one every 4 hours | Fulton Exfils, Tempered Armor Vests, UAVs and Survival Kits, each earned once |
 
-All from the official Season 1 post [[src-activision-season-1-announcement-2026-10-28]], the patch notes [[src-mw4-season-1-patch-notes-2026-11-05]] the Joint Fire posts [[src-infinityward-x-joint-fire-live-2026-11-13]] and the Natural Concealment post [[src-infinityward-x-natural-concealment-2026-11-16]], with the Resupply Run reward count from community posts [[src-x-community-resupply-run-2026-11-13]]. When one squad member extracts a Commander part, the whole squad gets credit [[src-activision-season-1-announcement-2026-10-28]].
+All from the official Season 1 post [[src-activision-season-1-announcement-2026-10-28]], the patch notes [[src-mw4-season-1-patch-notes-2026-11-05]] the Joint Fire posts [[src-infinityward-x-joint-fire-live-2026-11-13]] the Natural Concealment post [[src-infinityward-x-natural-concealment-2026-11-16]] and the War Chest posts [[src-infinityward-x-war-chest-live-2026-11-19]], with the Resupply Run reward count from community posts [[src-x-community-resupply-run-2026-11-13]]. When one squad member extracts a Commander part, the whole squad gets credit [[src-activision-season-1-announcement-2026-10-28]].
 
 ## Was there a Halloween event in DMZ?
 No DMZ Halloween event was announced. Halloween 2026 in Modern Warfare 4 meant two Multiplayer modes, Possession and Infected [[src-gamerfuzion-launch-roadmap-2026-10-14]] [clm_beb7bce73ff1]; see [[halloween-2026]].

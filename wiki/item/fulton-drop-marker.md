@@ -5,7 +5,7 @@ description: "An Ultra Field Upgrade that marks a spot and calls in a Fulton bal
 status: draft
 brain_status: draft
 sensitivity: public
-sources: [src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-dmzcodex-armor-backpacks-guide-2026-10-24]
+sources: [src-infinityward-x-war-chest-live-2026-11-19, src-mw4-season-1-patch-notes-2026-11-05, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-dmzcodex-armor-backpacks-guide-2026-10-24]
 aliases: ["Fulton", "Fulton marker", "Fulton balloon", "Fulton Drop", "fulton drop marker dmz"]
 ---
 <!-- generated:start -->
@@ -18,6 +18,7 @@ The Fulton Drop Marker is an Ultra Field Upgrade: you mark a spot with it and a 
 ## How do you get one?
 
 - **Vault Edition**: its Deployment Kit includes two Fulton Drop Markers [[src-activision-dmz-guide-part2-2026-10-09]]; claim it at [[survival-kits]].
+- **War Chest**: since 19 Nov 2026 Fulton Exfils are among the rewards of the [[leaderboard-war-chest]] event, earned once by placing on its looting leaderboard [[src-mw4-season-1-patch-notes-2026-11-05]] [[src-infinityward-x-war-chest-live-2026-11-19]].
 - **3D Printer**: it is printable; one database lists 1 Prototype RF Module, 3 Comms Modules and 5 Control Units (reported) [[src-dmzhub-recipes-2026-10-31]].
 
 Its card value is 2,500 DMZ Cash [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]]. As a Field Upgrade it takes the Field Upgrade slot, and one guide says Field Upgrades do not recharge during a deployment (reported) [[src-dmzcodex-armor-backpacks-guide-2026-10-24]]. Other Field Upgrades are on [[field-upgrades]].

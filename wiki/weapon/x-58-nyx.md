@@ -1,11 +1,11 @@
 ---
 type: weapon
 title: "X-58 Nyx"
-description: "Built-in-suppressor SMG for quiet play, called the easiest DMZ SMG for beginners; the Warden carries one. 28 Oct: more head and limb damage and a longer-ranged Void Apex in Multiplayer."
+description: "Built-in-suppressor SMG for quiet play, called the easiest DMZ SMG for beginners; the Warden carries one. 28 Oct and 19 Nov: more damage and range in Multiplayer."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31, src-allthingshow-dmz-bosses-2026-10-21, src-gamingpromax-dmz-boss-locations-2026-10-23]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31, src-allthingshow-dmz-bosses-2026-10-21, src-gamingpromax-dmz-boss-locations-2026-10-23]
 aliases: ["Nyx", "X58 Nyx", "X-58", "X-58 Void", "Void"]
 class: "SMG"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -35,4 +35,8 @@ Nine values, listed under Multiplayer; whether they apply in DMZ is not stated, 
 | Hand, lower arm and upper arm multipliers (both sides, six values) | 0.95 | 1 (+5%) |
 | Void: maximum damage range | 437 | 460 (+5%) |
 | Void: first middle damage range | 788 | 815 (+3%) |
+
+## What changed on 19 Nov 2026?
+
+Its maximum damage range went from 11.94 m to 12.45 m (+4%). The change is listed under Multiplayer; whether it applies in DMZ is not stated, and DMZ has its own weapon tuning [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

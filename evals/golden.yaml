@@ -431,3 +431,12 @@
 - id: g144
   question: Where is the Wheelson in X01 and how do you destroy it?
   must_retrieve: [wheelson]
+- id: g145
+  question: How does the War Chest event work in DMZ and how many points is a safe worth?
+  must_retrieve: [leaderboard-war-chest]
+- id: g146
+  question: How long does the Sedative Inhaler hide you from UAVs?
+  must_retrieve: [inhaler]
+- id: g147
+  question: What does the Impact Warhead do and what is its 3D Printer recipe?
+  must_retrieve: [impact-warhead]

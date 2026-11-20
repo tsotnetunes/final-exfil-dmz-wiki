@@ -1,11 +1,11 @@
 ---
 type: weapon
 title: "PPSh-41"
-description: "Very fast-firing close-range SMG with a big magazine, in every DMZ list's top tiers and noted for shredding armor. 28 Oct: faster aiming, slightly faster movement and more limb damage in Multiplayer."
+description: "Very fast-firing close-range SMG with a big magazine, in every DMZ list's top tiers and noted for shredding armor. 19 Nov: more damage and chest damage in Multiplayer."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-gamerfuzion-dmz-weapon-manual-farm-2026-10-22, src-conquestcapped-mw4-weapons-2026-10-26, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-gamerfuzion-dmz-weapon-manual-farm-2026-10-22, src-conquestcapped-mw4-weapons-2026-10-26, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["PPSh", "PPSH-41", "PPSH", "PPSh-41 Ember"]
 class: "SMG"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -38,4 +38,8 @@ Twelve values, the most of any weapon that day, listed under Multiplayer; whethe
 | Aiming strafe speed | 2.75 m/s | 2.78 m/s (+1%) |
 | Crouch speed | 2.17 m/s | 2.19 m/s (+1%) |
 | Hand, lower arm and upper arm multipliers (both sides, six values) | 0.95 | 1 (+5%) |
+
+## What changed on 19 Nov 2026?
+
+Its maximum damage went from 18 to 19 (+6%), and its upper torso, lower torso and neck multipliers from 1 to 1.06 (+6%). The changes are listed under Multiplayer; whether they apply in DMZ is not stated, and DMZ has its own weapon tuning [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

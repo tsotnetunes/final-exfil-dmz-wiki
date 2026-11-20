@@ -1,11 +1,11 @@
 ---
 type: weapon
 title: "ISO Nightshade"
-description: "Fast-firing 9mm SMG; its ISO Trace Apex was fixed for DMZ on 20 Oct, Vault owners get La Sombra Venenosa, and Jin-Tae can drop one. 28 Oct: more arm and hand damage in Multiplayer."
+description: "Fast-firing 9mm SMG; its ISO Trace Apex was fixed for DMZ on 20 Oct, Vault owners get La Sombra Venenosa, and Jin-Tae can drop one. 19 Nov: more range and leg damage in Multiplayer."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-gamerfuzion-dmz-prices-2026-10-08, src-dmzcodex-gunsmith-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-dmzradar-gunsmith-2026-10-20, src-gamerfuzion-dmz-free-blueprints-2026-10-21, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-gamerfuzion-dmz-prices-2026-10-08, src-dmzcodex-gunsmith-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-dmzradar-gunsmith-2026-10-20, src-gamerfuzion-dmz-free-blueprints-2026-10-21, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["Nightshade", "ISO", "ISO SMG", "ISO Trace", "La Sombra Venenosa", "High Roller's Fortune"]
 class: "SMG"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -31,6 +31,10 @@ Extract with its Weapon Manual, then buy it in the [[gunsmith]] ([[weapon-manual
 ## What changed on 28 Oct 2026?
 
 Hand, lower arm and upper arm damage multipliers on both sides went from 0.95 to 1 (+5%), part of a pass the notes say aims at more even damage across hit locations. The change is listed under Multiplayer; whether it applies in DMZ is not stated, and DMZ has its own weapon tuning [[src-mw4-launch-patch-notes-2026-10-29]].
+
+## What changed on 19 Nov 2026?
+
+Its maximum damage range went from 12.45 m to 13.97 m (+12%), and foot, lower leg and upper leg multipliers on both sides from 0.95 to 1 (+5%), finishing the even-damage pass begun on the arms on 28 Oct. The changes are listed under Multiplayer; whether they apply in DMZ is not stated, and DMZ has its own weapon tuning [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What comes in Season 1?
 

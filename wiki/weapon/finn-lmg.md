@@ -1,11 +1,11 @@
 ---
 type: weapon
 title: "FiNN LMG"
-description: "Belt-fed 5.56 LMG with a high fire rate and good control; 8,000 DMZ Cash in the Gunsmith (reported). 28 Oct: less range and arm damage in Multiplayer. Season 1 adds the Fortune's Favor blueprint."
+description: "Belt-fed 5.56 LMG with a high fire rate and good control; 8,000 DMZ Cash in the Gunsmith (reported). 19 Nov: more damage, less range in Multiplayer. Season 1 adds the Fortune's Favor blueprint."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["FiNN", "Finn LMG", "FINN", "FiNN Adverse", "Fortune's Favor"]
 class: "LMG"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -34,6 +34,10 @@ Three values, listed under Multiplayer; whether they apply in DMZ is not stated,
 | First middle damage range | 1720 | 1620 (-6%) |
 | Left upper arm damage multiplier | 1.1 | 1 (-9%) |
 | Right upper arm damage multiplier | 1.1 | 1 (-9%) |
+
+## What changed on 19 Nov 2026?
+
+Its maximum damage went from 30 to 31 (+3%) while its maximum damage range shrank from 21.84 m to 20.32 m (-7%), and its lower torso multiplier went from 1 to 1.1 (+10%). The changes are listed under Multiplayer; whether they apply in DMZ is not stated, and DMZ has its own weapon tuning [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What comes in Season 1?
 

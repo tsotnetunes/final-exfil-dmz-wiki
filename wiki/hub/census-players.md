@@ -106,6 +106,7 @@ Every subject in the players' area (FAQ, glossary, events, guides and the mechan
 | Resupply Run (live since 12 Nov 2026) | [[resupply-run-event]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-x-community-resupply-run-2026-11-13]] | published |
 | Joint Fire (every Friday from 13 Nov 2026) | [[joint-fire]] | [[src-infinityward-x-joint-fire-live-2026-11-13]] | published |
 | Natural Concealment camo event (live since 16 Nov 2026) | [[natural-concealment]] | [[src-infinityward-x-natural-concealment-2026-11-16]] | published |
+| War Chest leaderboard event (live since 19 Nov 2026) | [[leaderboard-war-chest]] | [[src-mw4-season-1-patch-notes-2026-11-05]] [[src-infinityward-x-war-chest-live-2026-11-19]] | published |
 | More Threat Briefings, Season 1 Reloaded (later in Season 1) | row in [[events]] | [[src-activision-season-1-announcement-2026-10-28]] | published |
 
 ## Glossary

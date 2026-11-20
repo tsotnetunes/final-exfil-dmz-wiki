@@ -1,11 +1,11 @@
 ---
 type: weapon
 title: "Mosin-Nagant"
-description: "Hard-hitting bolt-action marksman rifle that can one-shot enemies without armor; 7,500 DMZ Cash in the Gunsmith (reported). Season 1 adds the Ultra Bellum blueprint at Battle Pass tier 100."
+description: "Bolt-action marksman rifle that can one-shot unarmored enemies; 7,500 DMZ Cash (reported); Ultra Bellum blueprint in Season 1. 19 Nov: top damage reaches about three times as far in Multiplayer."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-conquestcapped-mw4-weapons-2026-10-26, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-conquestcapped-dmz-weapon-manuals-2026-10-28, src-conquestcapped-mw4-weapons-2026-10-26, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["Mosin", "Mosin Nagant", "Mosin Harpoon", "Bellum"]
 class: "Marksman rifle"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -36,4 +36,8 @@ No tuning so far. A 28 Oct fix in the Multiplayer notes corrected its firing pin
 ## What comes in Season 1?
 
 From 6 Nov 2026: the **Bellum** Ultra Mosin-Nagant blueprint at Battle Pass tier 100, and a BlackCell Mosin-Nagant blueprint [[src-activision-season-1-announcement-2026-10-28]]. See [[blueprints]].
+
+## What changed on 19 Nov 2026?
+
+Its damage profile was reshaped: maximum damage went from 95 to 91 (-4%), but the range it holds that damage grew from 14.99 m to 43.18 m (+188%); first middle damage went from 93 to 86 with its range from 44.96 m to 58.42 m; the second middle step was removed; and minimum damage rose from 60 to 68 (+13%). In short it hits slightly softer up close but keeps high damage almost three times as far. The changes are listed under Multiplayer; whether they apply in DMZ is not stated, and DMZ has its own weapon tuning [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

@@ -5,7 +5,7 @@ description: "The Ultra heavy plate carrier with enhanced plates. Print it from 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_bc3d420f777c, clm_7182ba17a6b0, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-gamingpromax-dmz-keys-2026-10-27, src-xboxplay-dmz-keys-2026-10-22, src-criticalhits-dmz-keys-2026-10-26, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-11-06]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, clm_bc3d420f777c, clm_7182ba17a6b0, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzcodex-armor-backpacks-guide-2026-10-24, src-gamingpromax-dmz-keys-2026-10-27, src-xboxplay-dmz-keys-2026-10-22, src-criticalhits-dmz-keys-2026-10-26, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-11-06]
 aliases: ["Tempered vest", "Tempered Armour Vest", "Tempered plate carrier"]
 ---
 <!-- generated:start -->
@@ -25,6 +25,8 @@ The Tempered Armor Vest is the top plate carrier in DMZ: an Ultra vest built hea
 ## How do you get the Tempered Armor Vest?
 
 Print it at the [[3d-printer]] once you own the recipe. The recipe takes 2 Military Composites, 4 Ballistic Fabric and 10 Rigid Synthetics [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-recipes-2026-10-31]]. Military Composites are a Legendary ingredient that a community database says the Colossus drops (reported) [[src-dmzhub-items-2026-10-31]]; killing a Commander pays prized printer ingredients [[src-activision-dmz-guide-part1-2026-10-05]].
+
+Since 19 Nov 2026 the vest is also one of the rewards of the [[leaderboard-war-chest]] event, won by placing on a looting leaderboard; each reward can be earned once [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## Where is the recipe?
 

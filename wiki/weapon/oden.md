@@ -1,11 +1,11 @@
 ---
 type: weapon
 title: "Oden"
-description: "Slow-firing 12.7x55mm bullpup assault rifle that DMZ tier lists rank low; its Sentinel Apex turns it into a semi-auto sniper. 28 Oct: less chest and neck damage in Multiplayer."
+description: "Slow-firing 12.7x55mm bullpup assault rifle that DMZ tier lists rank low; its Sentinel Apex turns it into a semi-auto sniper. 19 Nov: more range and minimum damage in Multiplayer."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-conquestcapped-mw4-weapons-2026-10-26, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["ODEN", "Oden Sentinel", "Sentinel"]
 class: "Assault rifle"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -39,4 +39,8 @@ Six values, listed under Multiplayer; whether they apply in DMZ is not stated, a
 | Sentinel: muzzle velocity | none | -0.07 |
 
 In short, body shots without the Apex hit a little softer, and the Sentinel sniper setup lost some range and bullet speed.
+
+## What changed on 19 Nov 2026?
+
+Its maximum damage range went from 33.02 m to 36.83 m (+12%) and its minimum damage from 32 to 34 (+6%). The changes are listed under Multiplayer; whether they apply in DMZ is not stated, and DMZ has its own weapon tuning [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

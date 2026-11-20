@@ -5,7 +5,7 @@ description: "Semi-auto 12-gauge shotgun, the top-rated DMZ shotgun; 4,000 DMZ C
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-gamerfuzion-dmz-free-blueprints-2026-10-21, src-conquestcapped-mw4-weapons-2026-10-26, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-gamerfuzion-dmz-free-blueprints-2026-10-21, src-conquestcapped-mw4-weapons-2026-10-26, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31]
 aliases: ["Rezi", "Rezi12", "Rezi 12 Enforcer", "Enforcer", "Shattered Code"]
 class: "Shotgun"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -44,4 +44,6 @@ The finished gun showed as a Legendary Rezi 12 in the Stash, with a sell value o
 ## Did it change after launch?
 
 No tuning on 28 Oct [[src-mw4-launch-patch-notes-2026-10-29]]. A 21 Oct fix stopped the Firing Range showing a time to kill of 0.00 for the Rezi 12 ([[firing-range]]) [[src-mw4-launch-patch-notes-2026-10-29]].
+
+On 19 Nov 2026 the Enforcer Apex's Explosive Slug Round, and nothing else on the gun, got a longer first middle damage range, from 27.69 m to 29.59 m (+7%), and faster slugs, from 220 to 245 m/s. The changes are listed under Multiplayer; whether they apply in DMZ is not stated, and DMZ has its own weapon tuning [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

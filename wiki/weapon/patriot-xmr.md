@@ -1,11 +1,11 @@
 ---
 type: weapon
 title: "Patriot XMR"
-description: "Full-auto assault rifle with heavy recoil, a B-tier DMZ pick on all three lists; the Doctor carries one. 28 Oct: two of its attachments kick less in Multiplayer."
+description: "Full-auto assault rifle with heavy recoil, a B-tier DMZ pick on all three lists; the Doctor carries one. 19 Nov: a little more minimum damage in Multiplayer."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-codmunity-dmz-items-2026-10-26, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31, src-allthingshow-dmz-bosses-2026-10-21, src-gamingpromax-dmz-boss-locations-2026-10-23]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-codmunity-dmz-items-2026-10-26, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31, src-allthingshow-dmz-bosses-2026-10-21, src-gamingpromax-dmz-boss-locations-2026-10-23]
 aliases: ["Patriot", "XMR", "Patriot XMR Volt"]
 class: "Assault rifle"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -35,4 +35,8 @@ Two attachments now cost less recoil control, listed under Multiplayer; whether 
 | FJX Fury IV Grip (skeleton grip) | 5% | 4% |
 
 The same day the developers listed a known issue: the Patriot XMR Platinum camo challenge does not show its progress correctly, though it still counts [[src-mw4-launch-patch-notes-2026-10-29]].
+
+## What changed on 19 Nov 2026?
+
+Its minimum damage went from 24 to 25 (+4%), so it loses a little less at long range. The change is listed under Multiplayer; whether it applies in DMZ is not stated, and DMZ has its own weapon tuning [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

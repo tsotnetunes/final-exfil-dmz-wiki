@@ -1,11 +1,11 @@
 ---
 type: weapon
 title: "Hyeon Burst"
-description: "North Korean three-round-burst assault rifle; Jang-Ui carries one. On 28 Oct its Hyperburst Apex lost damage but gained range in Multiplayer; Season 1 adds the full-auto Hyeon Auto Apex."
+description: "North Korean three-round-burst assault rifle; Jang-Ui carries one. Season 1 adds the full-auto Hyeon Auto Apex, which gained range and head damage in Multiplayer on 19 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31, src-allthingshow-dmz-bosses-2026-10-21]
+sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-activision-season-1-announcement-2026-10-28, src-dmzcodex-gunsmith-2026-10-29, src-gamerfuzion-dmz-prices-2026-10-08, src-conquestcapped-mw4-weapons-2026-10-26, src-gfinity-dmz-lieutenants-2026-10-22, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-codmunity-dmz-tier-list-2026-10-28, src-wzstats-dmz-meta-2026-10-31, src-allthingshow-dmz-bosses-2026-10-21]
 aliases: ["Hyeon", "Hyeon Burst AR", "Hyeon Burst BP", "Hyeon Burst blueprint", "Hyeon Hyperburst", "Hyperburst", "Hyeon Auto", "Blue Viper"]
 class: "Assault rifle"
 manual_source: "Weapon Manual, looted in Hajin"
@@ -34,6 +34,10 @@ All three changes hit the Hyperburst Apex and are listed under Multiplayer; whet
 | Full-auto maximum damage | 37 | 34 (-8%) |
 | Full-auto maximum damage range | 970 | 1220 (+26%) |
 | First middle damage range | listed | removed |
+
+## What changed on 19 Nov 2026?
+
+Its full-auto Hyeon Auto Apex gained reach and punch: maximum damage range from 26.42 m to 33.53 m (+27%), minimum damage from 29 to 30 and the head multiplier from 1.3 to 1.4 (+8%). The Hyeon Auto is one of the Wager Match rewards for DMZ ([[wager-match]]). The changes are listed under Multiplayer; whether they apply in DMZ is not stated, and DMZ has its own weapon tuning [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What comes in Season 1?
 

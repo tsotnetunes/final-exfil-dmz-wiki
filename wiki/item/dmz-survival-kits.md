@@ -1,9 +1,9 @@
 ---
 type: item
 title: "DMZ Survival Kits"
-description: "DMZ Survival Kits: awaiting confirmed details."
-status: draft
-brain_status: candidate
+description: "Retired duplicate: DMZ Survival Kits are covered on the Survival Kits page."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: []
 ---
@@ -12,4 +12,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 20 Nov 2026 as a duplicate. What Survival Kits are, what they hold and how you earn them: [[survival-kits]].
 <!-- human:end -->
