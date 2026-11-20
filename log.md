@@ -1485,3 +1485,7 @@
 ## [2026-11-19 20:41 EST] render | 9 pages rendered, 1000 claims, 1000 evidence
 - changed: wiki 9, claims 1, evidence 1, index.md 1
 - run: r-20261120-014118-07f1
+
+## [2026-11-19 21:18 EST] edit | community sweep 2026-11-20: DMZHub 19 Nov revisions (Colossus spawn squares and drops, Advanced Triage Kit contents and BlackCell route, confirmed by dmzcodex.com); codmunity not fetched
+- changed: .kac 1, index 11, index.md 1, raw 3, wiki 8
+- run: r-20261119-211856-61d6

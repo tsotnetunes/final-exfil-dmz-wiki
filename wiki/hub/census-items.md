@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: items"
-description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 19 Nov 2026."
+description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 20 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -45,7 +45,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Encodable Blank Keycard (X01) | row in [[keys]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
 | Key: Downtown Branch Lobby Main | row in [[keys-hajin-city-and-east]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
 | Ballistic Gel Armor Kit | row in [[survival-kits]], row in [[kits]] | [[src-dmzhub-items-2026-11-12]] [[src-dmzhub-items-2026-11-19]] | published (reported) |
-| Advanced Triage Kit | row in [[survival-kits]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
+| Advanced Triage Kit | rows in [[survival-kits]] and [[kits]] | [[src-dmzhub-items-2026-11-12]] [[src-dmzhub-items-2026-11-20]] [[src-dmzcodex-advanced-triage-kit-2026-11-20]] | published (reported) |
 | Blackcell Kit (Season 1) | row in [[survival-kits]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
 | R-18 Grade 3 Bio-Toxin (Season 1) | row in [[valuables]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
 | Gilded Guardian of Allegiance (Season 1) | row in [[valuables]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |

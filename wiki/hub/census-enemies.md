@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: enemies"
-description: "Every enemies subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 19 Nov 2026."
+description: "Every enemies subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 20 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -27,7 +27,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Tae-Hyun "Knuckle" (Lieutenant, Season 1) | row in [[lieutenants]] | [[src-activision-season-1-announcement-2026-10-28]] | published row (only the name and rank are announced) |
 | Chol-Min "The Wrench" (Lieutenant, Season 1) | row in [[lieutenants]] | [[src-activision-season-1-announcement-2026-10-28]] | published row (only the name and rank are announced) |
 | Commanders (the set) | [[commander-threats]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-dmz-guide-part2-2026-10-09]] [[src-dmzhub-bosses-2026-10-31]] | published |
-| Colossus (Commander) | [[colossus]] | [[src-allthingshow-colossus-2026-10-21]] [[src-xboxplay-colossus-2026-10-22]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |
+| Colossus (Commander) | [[colossus]] | [[src-allthingshow-colossus-2026-10-21]] [[src-xboxplay-colossus-2026-10-22]] [[src-mw4-launch-patch-notes-2026-10-29]] [[src-dmzhub-bosses-2026-11-20]] | published |
 | Deathstalker (Commander) | [[deathstalker]] | [[src-allthingshow-deathstalker-2026-10-21]] [[src-xboxplay-deathstalker-2026-10-22]] | published |
 | Main NK Battle Tank (Commander) | [[main-nk-battle-tank]] | [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-activision-season-1-announcement-2026-10-28]] | published |
 | The Captain (Commander, Season 1) | [[the-captain]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-gamerfuzion-x01-orders-page-4-2026-11-19]] [[src-lfcarry-x01-guide-2026-11-19]] | published (Bio Lab and Deep Vault 301 keycard reported; helmet rewards unknown) |
