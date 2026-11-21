@@ -9,7 +9,6 @@ sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide
 aliases: ["Squall", "Cronen Squall AR", "Cronen Maelstrom", "Maelstrom", "Manual: Cronen Squall"]
 class: "Assault rifle"
 manual_source: "Weapon Manual, looted in Hajin"
-stale_after: 2026-12-31
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

@@ -9,7 +9,6 @@ sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide
 aliases: ["Oris", "Oris 86", "Oris 8.6 Razor", "Razor", "Manual: Oris 8.6"]
 class: "Marksman rifle"
 manual_source: "Weapon Manual, looted in Hajin; also dropped by the Scavenger"
-stale_after: 2026-12-31
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

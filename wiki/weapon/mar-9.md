@@ -9,7 +9,6 @@ sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide
 aliases: ["MAR9", "MAR 9", "Mar-9", "MAR-9 Auto", "Incisor rifle", "Manual: MAR-9"]
 class: "Marksman rifle"
 manual_source: "Weapon Manual, looted in Hajin; also dropped by Gorani"
-stale_after: 2026-12-31
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
