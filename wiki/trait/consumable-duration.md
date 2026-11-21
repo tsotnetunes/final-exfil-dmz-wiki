@@ -5,7 +5,7 @@ description: "Survivalist Major Trait, row 3: consumables you use stay active lo
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-allthingshow-dmz-traits-2026-10-21, src-playhub-best-traits-2026-10-28, src-destructoid-best-operator-traits-2026-10-20, src-codcentral-dmz-traits-2026-10-23, src-mw4-launch-patch-notes-2026-10-29]
+sources: [src-dmzhub-traits-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-destructoid-trait-effects-2026-10-20, src-westie-dmz-ama-recap-2026-10-11, src-codmunity-dmz-traits-2026-10-30, src-dmzmap-skill-tree-2026-10-29, src-allthingshow-dmz-traits-2026-10-21, src-playhub-best-traits-2026-10-28, src-destructoid-best-operator-traits-2026-10-20, src-codcentral-dmz-traits-2026-10-23, src-mw4-launch-patch-notes-2026-10-29, src-dmzhub-traits-2026-11-21]
 aliases: ["Consumable Duration trait", "longer consumables trait"]
 tree: Survivalist
 tier: "Major, row 3"
@@ -15,7 +15,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-Consumable Duration is a Major Trait in the [[survivalist-tree]]: the effects of consumables last longer [[src-activision-dmz-guide-part2-2026-10-09]] [[src-destructoid-trait-effects-2026-10-20]]. The extra time is not published, and the official text does not list which consumables count. DMZ's consumables include stamina items such as energy drinks, stim shots and smelling salts [[src-westie-dmz-ama-recap-2026-10-11]] ([[movement-and-tuning]]).
+Consumable Duration is a Major Trait in the [[survivalist-tree]]: the effects of consumables last longer [[src-activision-dmz-guide-part2-2026-10-09]] [[src-destructoid-trait-effects-2026-10-20]]. Official text gives no figure; since 20 Nov 2026 one community database says the bonus is +100%, so effects run twice as long (reported) [[src-dmzhub-traits-2026-11-21]]. The official text does not list which consumables count. DMZ's consumables include stamina items such as energy drinks, stim shots and smelling salts [[src-westie-dmz-ama-recap-2026-10-11]] ([[movement-and-tuning]]).
 
 ## Where is it in the tree?
 Row 3 of Survivalist, paired with [[faster-revive]] [[src-codmunity-dmz-traits-2026-10-30]] [[src-dmzmap-skill-tree-2026-10-29]] [[src-dmzhub-traits-2026-10-31]].

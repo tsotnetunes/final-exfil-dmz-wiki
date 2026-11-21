@@ -36,7 +36,7 @@ The official guide counts 66 Traits, 18 Major and 48 Minor, plus permanent Prest
 | Thermal Padding (Major) | [[thermal-padding]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | Overwatch (Major) | [[overwatch]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | Faster Revive (Major) | [[faster-revive]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
-| Consumable Duration (Major) | [[consumable-duration]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
+| Consumable Duration (Major) | [[consumable-duration]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-dmzhub-traits-2026-11-21]] | published |
 | Impact Smokes (Major) | [[impact-smokes]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | Free Revive (Major) | [[free-revive]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | Numb the Pain (Major) | [[numb-the-pain]] | [[src-activision-dmz-guide-part2-2026-10-09]] | published |

@@ -1497,3 +1497,7 @@
 ## [2026-11-20 20:41 EST] render | 6 pages rendered, 1000 claims, 1000 evidence
 - changed: wiki 6, claims 1, evidence 1, index.md 1
 - run: r-20261121-014112-bdb7
+
+## [2026-11-20 21:19 EST] edit | community sweep 2026-11-21: DMZHub 20 Nov revisions (Structural Alloy value 500, X01 spot, Colossus drop, 3.5-Plate use; Deathstalker drops and DDOS note; Consumable Duration +100%, reported); codmunity not fetched
+- changed: .kac 1, index 7, index.md 1, raw 3, wiki 9
+- run: r-20261120-211908-742a

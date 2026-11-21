@@ -55,7 +55,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | High-Tenacity Fibers | [[high-tenacity-fibers]] | [[src-dmzhub-items-2026-10-31]], [[src-patchcrazy-dmz-crafting-guides-2026-10-28]] | published |
 | Nylon Cloth | [[nylon-cloth]] | [[src-destructoid-dmz-ingredient-guides-2026-10-22]], [[src-dmzhub-items-2026-10-31]] | published |
 | Stock Rod | [[stock-rod]] | [[src-dmzhub-items-2026-10-31]], [clm_6fc0235c2541] | published; spots reported |
-| Structural Alloy | [[structural-alloy]] | [[src-dmzhub-items-2026-10-31]], [[src-patchcrazy-dmz-crafting-guides-2026-10-28]] | published; spots reported |
+| Structural Alloy | [[structural-alloy]] | [[src-dmzhub-items-2026-10-31]], [[src-patchcrazy-dmz-crafting-guides-2026-10-28]], [[src-dmzhub-items-2026-11-21]] | published; spots reported |
 | Comms Module | [[comms-module]] | [[src-destructoid-dmz-ingredient-guides-2026-10-22]], [[src-codcentral-3d-printer-recipes-2026-10-20]] | published |
 | Nylon Laminate | [[nylon-laminate]] | [[src-destructoid-dmz-ingredient-guides-2026-10-22]], [[src-codcentral-3d-printer-recipes-2026-10-20]] | published |
 | Turned Components | [[turned-components]] | [[src-codcentral-3d-printer-recipes-2026-10-20]], [clm_6c7b8163cfc9] | published |
