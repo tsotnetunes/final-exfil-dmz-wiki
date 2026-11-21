@@ -440,3 +440,18 @@
 - id: g147
   question: What does the Impact Warhead do and what is its 3D Printer recipe?
   must_retrieve: [impact-warhead]
+- id: g148
+  question: Is the Axion assault rifle good in DMZ and what does Axion Clearcut do?
+  must_retrieve: [axion]
+- id: g149
+  question: What changed on the Cronen Squall on 19 Nov and what is the Cronen Maelstrom?
+  must_retrieve: [cronen-squall]
+- id: g150
+  question: How do you get the MAR-9 marksman rifle in DMZ?
+  must_retrieve: [mar-9]
+- id: g151
+  question: Who drops the Oris 8.6 and what does the Oris 8.6 Razor do?
+  must_retrieve: [oris-8-6]
+- id: g152
+  question: How much is the Signal 50 sniper rifle in DMZ and is it good against the Colossus?
+  must_retrieve: [signal-50]

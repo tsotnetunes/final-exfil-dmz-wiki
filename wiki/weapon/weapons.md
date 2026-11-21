@@ -37,8 +37,8 @@ Names, classes and Apex Attachments are official [[src-activision-mw4-launch-wea
 | [[patriot-xmr]] | Assault rifle | Patriot XMR Volt | 6,500 | two parts kick less |
 | [[kastov-762]] | Assault rifle | Kastov ARC | 5,500 | longer range |
 | [[oden]] | Assault rifle | Oden Sentinel | not listed | less chest and neck damage; Sentinel range cut |
-| Axion | Assault rifle | Axion Clearcut | not listed | none |
-| Cronen Squall | Assault rifle | Cronen Maelstrom | not listed | none |
+| [[axion]] | Assault rifle | Axion Clearcut | not listed | none |
+| [[cronen-squall]] | Assault rifle | Cronen Maelstrom | not listed | none |
 | [[iso-nightshade]] | SMG | ISO Trace | 2,850 before launch | more arm and hand damage |
 | [[vel-46]] | SMG | VEL 46 Snap | 2,850 before launch | more arm and hand damage |
 | [[wz-55-striga]] | SMG | WZ.55 Striga Rampage | 2,850 before launch | more limb damage, longer range |
@@ -49,12 +49,12 @@ Names, classes and Apex Attachments are official [[src-activision-mw4-launch-wea
 | [[finn-lmg]] | LMG | FiNN Adverse | 8,000 | shorter range, less arm damage |
 | [[type-73]] | LMG | Type 73 Assault | 7,500 | Assault Apex: more minimum damage |
 | [[apoc-338]] | LMG | APOC-338 Praetor | 7,750 | less damage, shorter range |
-| MAR-9 | Marksman rifle | MAR-9 Auto | 6,500 | none |
-| Oris 8.6 | Marksman rifle | Oris 8.6 Razor | 7,000 | none |
+| [[mar-9]] | Marksman rifle | MAR-9 Auto | 6,500 | none |
+| [[oris-8-6]] | Marksman rifle | Oris 8.6 Razor | 7,000 | none |
 | [[mosin-nagant]] | Marksman rifle | Mosin Harpoon | 7,500 | none |
 | [[kg-7-vulcan]] | Sniper rifle | KG-7 Drillcharge | 16,000 | none |
 | [[astaroth-57]] | Sniper rifle | Astaroth .57 Infiltrator | 24,000 | none |
-| Signal 50 | Sniper rifle | Signal Inferno | 14,000 | none |
+| [[signal-50]] | Sniper rifle | Signal Inferno | 14,000 | none |
 | SANG 9mm | Pistol | SANG Breach | not listed | none |
 | Krait P68 | Pistol | Krait P68 Commando | not listed | none |
 | .50 GS | Pistol | GS Magna | not listed | none |
@@ -84,14 +84,14 @@ Each Lieutenant carries one gun and can drop it, usually as the plain gun and ra
 | Lieutenant | Gun | Named version (rarity) |
 | --- | --- | --- |
 | [[bale]] | [[type-73]] | Dreadnought (Legendary) |
-| [[gorani]] | MAR-9 | Incisor (Legendary) |
+| [[gorani]] | [[mar-9]] | Incisor (Legendary) |
 | [[iskra]] | [[warlord]] | Widowmaker, also written Widow Maker (Legendary) |
 | [[jang-ui]] | [[hyeon-burst]] | Paektu (Ultra) |
 | [[jin-tae]] | [[iso-nightshade]] | High Roller's Fortune (Legendary) |
 | [[roze]] | Astaroth .57 | The Kraken (rarity not given) |
 | [[the-doctor]] | [[patriot-xmr]] | Doctor's Salve (Legendary) |
 | [[the-warden]] | [[x-58-nyx]] | Incarcerator (Ultra) |
-| [[the-scavenger]] | Oris 8.6 | none reported |
+| [[the-scavenger]] | [[oris-8-6]] | none reported |
 | [[the-chemist-abu-nassar]] | not settled: Oris 8.6 or [[kastov-762]] | Revenant (Legendary marksman rifle) |
 
 The guns are the same in two or more guides [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]], except the Chemist's: two guides give an Oris 8.6 and one a Kastov 762 [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. The named versions come from a guide that read them from its drops [[src-allthingshow-dmz-bosses-2026-10-21]], High Roller's Fortune from two others [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]], and players also report the Kraken dropping from Roze [clm_3359237cd043]. A DMZ Order suggests Lieutenants also keep a gun in their loot rooms (reported) [[src-dmzhub-weapons-2026-10-31]]. Where each one fights: [[lieutenants]]. Weapons you find come in rarities from Common to Ultra ([[weapon-customization]]) [[src-codmunity-dmz-guide-2026-10-24]].

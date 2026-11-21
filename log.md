@@ -1489,3 +1489,7 @@
 ## [2026-11-19 21:18 EST] edit | community sweep 2026-11-20: DMZHub 19 Nov revisions (Colossus spawn squares and drops, Advanced Triage Kit contents and BlackCell route, confirmed by dmzcodex.com); codmunity not fetched
 - changed: .kac 1, index 11, index.md 1, raw 3, wiki 8
 - run: r-20261119-211856-61d6
+
+## [2026-11-20 19:45 EST] edit | daily update 2026-11-21: quiet game day (no patch lines or confirmed claims); Saturday weapons: new Axion, Cronen Squall, MAR-9 and Oris 8.6 pages, Signal 50 filled, census, weapons and manuals rows linked
+- changed: evals 1, index 2, index.md 1, wiki 8
+- run: r-20261120-194548-43c2

@@ -40,8 +40,8 @@ The Manuals the database lists, by the name it gives each item; five of them sho
 | Manual: Patriot XMR | [[patriot-xmr]] | 5,000 | yes |
 | Manual: Kastov 762 | [[kastov-762]] | | |
 | Manual: ODEN | [[oden]] | | |
-| Manual: Axion | Axion | | |
-| Manual: Cronen Squall | Cronen Squall | 5,000 | yes |
+| Manual: Axion | [[axion]] | | |
+| Manual: Cronen Squall | [[cronen-squall]] | 5,000 | yes |
 | Manual: ISO Nightshade | [[iso-nightshade]] | | |
 | Manual: VEL 46 | [[vel-46]] | | |
 | Manual: WZ.55 Striga | [[wz-55-striga]] | | |
@@ -52,12 +52,12 @@ The Manuals the database lists, by the name it gives each item; five of them sho
 | Manual: Finn LMG | [[finn-lmg]] | | |
 | Manual: Type 73 | [[type-73]] | | yes |
 | Manual: APOC-338 | [[apoc-338]] | 5,000 | yes |
-| Manual: MAR-9 | MAR-9 | | |
-| Manual: Oris 8.6 | Oris 8.6 | | |
+| Manual: MAR-9 | [[mar-9]] | | |
+| Manual: Oris 8.6 | [[oris-8-6]] | | |
 | Manual: Mosin-Nagant | [[mosin-nagant]] | | |
 | Manual: KG-7 Vulcan | KG-7 Vulcan | | |
 | Manual: Astaroth .57 | Astaroth .57 | | |
-| Manual: Signal 50 | Signal 50 | | |
+| Manual: Signal 50 | [[signal-50]] | | |
 | Manual: SANG 9mm | SANG 9mm | 900 | |
 | Manual: Krait P68 | Krait P68 | | |
 | Manual: .50 GS | .50 GS | | |
