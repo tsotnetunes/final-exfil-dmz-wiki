@@ -1,9 +1,9 @@
 ---
 type: mechanic
 title: "Teaming in DMZ"
-description: "Teaming in DMZ: awaiting confirmed details."
-status: draft
-brain_status: candidate
+description: "Retired empty stub (22 Nov 2026). The subject is covered on the page How to team up with other squads."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: []
 ---
@@ -12,4 +12,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 22 Nov 2026: this was an empty stub. The subject, truces, the Truce Flag and assimilating other squads, is covered on [[how-to-team-up-with-other-squads]].
 <!-- human:end -->

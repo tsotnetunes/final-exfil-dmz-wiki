@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: players"
-description: "Every players subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 31 Oct 2026."
+description: "Every players subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 22 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -199,7 +199,7 @@ Every subject in the players' area (FAQ, glossary, events, guides and the mechan
 ## Questions players ask that have no page yet
 | Member | Codex page | Sources | State |
 | --- | --- | --- | --- |
-| Does DMZ have skill-based matchmaking? | none; listed on [[open-questions]] | none | missing (no source covers it) |
+| Does DMZ have skill-based matchmaking? | section of [[matchmaking]]; old stub [[skill-based-matchmaking]] retired | [[src-dexerto-dmz-sbmm-report-2026-11-18]] [[src-ixbt-dmz-sbmm-2026-11-18]] | published as reported (one unnamed-source report, no official word) |
 | How big is Hajin? | none; listed on [[open-questions]] | none | missing (no area figure published) |
 | How do you get a fourth Active Duty slot? | none; listed on [[open-questions]] | none | missing (not confirmed that one exists) |
 <!-- human:end -->

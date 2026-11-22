@@ -1,12 +1,12 @@
 ---
 type: mechanic
 title: "Matchmaking, squads and lobbies"
-description: "Queue by deployment type; up to 60 players in 20 squads of three; solos and duos meet their own size when possible, not always; rejoin after a crash (developers' Q&A)."
+description: "Queue by deployment type; up to 60 players in 20 squads of three; solos meet solos when possible; skill reportedly weighs more since mid-Nov 2026 (unconfirmed); rejoin after a crash."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_5b76bd4676ec, clm_fd56c4d77fd9, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-activision-campaign-early-access-live-2026-10-16, src-thexclusiveace-bounty-video-2026-10-12, src-mw4-launch-patch-notes-2026-10-29, src-detonated-dmz-story-matchmaking-2026-10-29, src-ixbt-dmz-pvp-matchmaking-2026-10-30, src-dexerto-mw4-crossplay-2026-10-31]
-aliases: ["Lobbies", "Squad size", "Player count", "Assimilation", "Reconnect", "DMZ matchmaking", "SBMM DMZ"]
+sources: [clm_5b76bd4676ec, clm_fd56c4d77fd9, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-activision-campaign-early-access-live-2026-10-16, src-thexclusiveace-bounty-video-2026-10-12, src-mw4-launch-patch-notes-2026-10-29, src-detonated-dmz-story-matchmaking-2026-10-29, src-ixbt-dmz-pvp-matchmaking-2026-10-30, src-dexerto-mw4-crossplay-2026-10-31, src-dexerto-dmz-sbmm-report-2026-11-18, src-ixbt-dmz-sbmm-2026-11-18]
+aliases: ["Lobbies", "Squad size", "Player count", "Assimilation", "Reconnect", "DMZ matchmaking", "SBMM DMZ", "Skill-based matchmaking", "SBMM", "does DMZ have SBMM"]
 ---
 <!-- generated:start -->
 Modern Warfare 4 DMZ matchmaking, squads and lobbies govern how players form teams and enter matches. These systems determine team structures during an active deployment and manage lobby placement.
@@ -36,6 +36,8 @@ _Generated from 0 confirmed and 2 reported claims across 2 posts and 0 patch not
 - A fix on 24 Oct 2026 stopped party leaders removing teammates from DMZ without their agreement, which had left those teammates' Operators MIA [[src-mw4-launch-patch-notes-2026-10-29]].
 - A fix on 29 Oct lets you pick up a hostage after assimilating [[src-mw4-launch-patch-notes-2026-10-29]].
 - After the 28 Oct update, press reported Story Mission queues landing in fuller Free Roam and Dynamic Ops lobbies, and replays of finished missions going to regular lobbies, with PvP given more weight [[src-detonated-dmz-story-matchmaking-2026-10-29]] [[src-ixbt-dmz-pvp-matchmaking-2026-10-30]]. Players then reported Story Missions back on launch settings (reported) [clm_2738483c8aa0]. None of it is in the patch notes, and Infinity Ward has not commented; see [[pvp-matchmaking-prioritization]].
+
+**Skill-based matchmaking.** Infinity Ward has never said whether, or how much, player skill counts when DMZ builds a lobby; the developers have only described matching by deployment type and squad size [[src-westie-dmz-ama-recap-2026-10-11]]. On 18 Nov 2026 press relayed a Charlie Intel report, from unnamed sources, that skill was recently given more weight in DMZ matchmaking, so squads would meet players nearer their own level more often [[src-dexerto-dmz-sbmm-report-2026-11-18]] [[src-ixbt-dmz-sbmm-2026-11-18]]. Both articles rest on that one report, no figures were given, and nothing official confirms it (reported). Longer queues mentioned alongside it are anecdotes with no shown cause.
 
 Questions players ask: [[how-many-players-in-a-dmz-squad]], [[can-you-play-dmz-solo]], [[what-happens-if-you-disconnect-in-dmz]].
 <!-- human:end -->

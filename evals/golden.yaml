@@ -455,3 +455,6 @@
 - id: g152
   question: How much is the Signal 50 sniper rifle in DMZ and is it good against the Colossus?
   must_retrieve: [signal-50]
+- id: g153
+  question: Does DMZ use skill-based matchmaking?
+  must_retrieve: [matchmaking]

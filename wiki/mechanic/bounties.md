@@ -1,9 +1,9 @@
 ---
 type: mechanic
 title: "Bounties"
-description: "Bounties: awaiting confirmed details."
-status: draft
-brain_status: candidate
+description: "Retired empty stub (22 Nov 2026). The subject is covered on the page Bounty system."
+status: deprecated
+brain_status: retired
 sensitivity: public
 sources: []
 ---
@@ -12,4 +12,5 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
+Retired on 22 Nov 2026: this was an empty stub. The subject, the Bounty system: Dog Tag bounties, Wanted status and the Bounty Station, is covered on [[bounty-system]].
 <!-- human:end -->

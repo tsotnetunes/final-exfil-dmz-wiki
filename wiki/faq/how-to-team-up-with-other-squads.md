@@ -6,7 +6,7 @@ status: stable
 brain_status: published
 sensitivity: public
 sources: [src-activision-dmz-guide-part1-2026-10-05, src-westie-dmz-ama-recap-2026-10-11, src-mw4-launch-patch-notes-2026-10-29, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-dmzhub-orders-2026-10-31]
-aliases: ["Truce Flag", "Truce Flag cooldown", "truce cooldown", "truce DMZ", "assimilation", "assimilate DMZ", "join another squad", "DMZ truce", "team up DMZ", "friendly squads DMZ"]
+aliases: ["Truce Flag", "Truce Flag cooldown", "truce cooldown", "truce DMZ", "assimilation", "assimilate DMZ", "join another squad", "DMZ truce", "team up DMZ", "friendly squads DMZ", "Teaming in DMZ", "teaming"]
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

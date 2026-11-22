@@ -6,7 +6,7 @@ status: stable
 brain_status: published
 sensitivity: public
 sources: [clm_bb4b2157af60, clm_162bac1414e5, clm_8ed714d7c354, clm_fc75f811681c, clm_25cf22beb910, clm_c80b93d2008f, clm_d240548672df, clm_609749ca75a5, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-deep-dive-2026-06, src-playstation-blog-dmz-2026-10-05, src-cod-dmz-bounty-systems-video-2026-10-08, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-guide-2026-10-24, src-codmunity-dmz-traits-2026-10-30, src-skycoach-dmz-beginner-guide-2026-10-19, src-mw4-launch-patch-notes-2026-10-29]
-aliases: ["notoriety", "bounty", "Bounty Station", "pay off bounty", "Reduce Bounty", "Most Wanted", "bounty hunter", "Killer", "vultures", "bounty payout", "how to claim a bounty", "DMZ Bounty System"]
+aliases: ["notoriety", "bounty", "Bounty Station", "pay off bounty", "Reduce Bounty", "Most Wanted", "bounty hunter", "Killer", "vultures", "bounty payout", "how to claim a bounty", "DMZ Bounty System", "Bounties"]
 ---
 <!-- generated:start -->
 The bounty system in Modern Warfare 4 DMZ is a gameplay mechanic that targets operators who eliminate other players during a match. This system raises the stakes by placing rewards on aggressive operators and tracking competitive standing across the community.

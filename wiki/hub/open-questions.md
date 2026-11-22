@@ -38,7 +38,7 @@ What the Codex cannot answer yet, as of 5 Nov 2026. When one of these is settled
 - **Crossplay settings in DMZ.** The listed crossplay settings name Multiplayer and Warzone Ranked only; whether they affect DMZ is not confirmed [[src-dexerto-mw4-crossplay-2026-10-31]].
 - **Switch 2 handheld.** DMZ runs at 40 fps on a 120Hz display; handheld performance was not covered [[src-nintendolife-df-switch-2-2026-10-30]].
 - **Split screen.** Press guides disagree on whether DMZ is included; no official word ([[can-you-play-dmz-split-screen]]).
-- **Skill-based matchmaking.** No source says whether DMZ matches players by skill; the developers only describe matching by deployment type and squad size [[src-westie-dmz-ama-recap-2026-10-11]].
+- **Skill-based matchmaking.** No official source says how much skill counts in DMZ matchmaking; the developers only describe matching by deployment type and squad size [[src-westie-dmz-ama-recap-2026-10-11]]. A press report of 18 Nov 2026 from unnamed sources says skill now weighs more, unconfirmed ([[matchmaking]]) [[src-dexerto-dmz-sbmm-report-2026-11-18]].
 - **Handheld PCs.** One pre-launch report says a stock Steam Deck cannot start the game; no official word and no DMZ test ([[can-you-play-dmz-on-steam-deck]]).
 
 ## Season 1 and beyond

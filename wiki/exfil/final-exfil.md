@@ -6,7 +6,7 @@ status: stable
 brain_status: published
 sensitivity: public
 sources: [clm_0b63df977b11, src-dmzhub-maps-2026-10-31, src-conquestcapped-dmz-guide-2026-10-26, src-gamerfuzion-orders-page-14-2026-10-30, src-codmunity-dmz-guide-2026-10-24, src-allthingshow-hajin-gameplay-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-dmzmap-skill-tree-2026-10-29, src-codcentral-dmz-traits-2026-10-23, src-mw4-season-1-patch-notes-2026-11-05]
-aliases: ["last exfil", "final extraction", "white exfil", "exfil after radiation"]
+aliases: ["last exfil", "final extraction", "white exfil", "exfil after radiation", "Final Exfil point", "final exfil point"]
 method: helicopter
 ---
 <!-- generated:start -->

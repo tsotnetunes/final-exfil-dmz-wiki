@@ -1501,3 +1501,7 @@
 ## [2026-11-20 21:19 EST] edit | community sweep 2026-11-21: DMZHub 20 Nov revisions (Structural Alloy value 500, X01 spot, Colossus drop, 3.5-Plate use; Deathstalker drops and DDOS note; Consumable Duration +100%, reported); codmunity not fetched
 - changed: .kac 1, index 7, index.md 1, raw 3, wiki 9
 - run: r-20261120-211908-742a
+
+## [2026-11-21 19:44 EST] edit | daily update 2026-11-22: quiet game day (no patch lines, claims or official posts); SBMM press report on matchmaking with two sources; Sunday mechanics: 7 empty stubs retired into their pages
+- changed: .kac 1, evals 1, index 8, index.md 1, raw 2, wiki 16
+- run: r-20261121-194450-5136
