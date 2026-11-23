@@ -5,7 +5,7 @@ description: "Every 3D Printer material in MW4 DMZ: the four Resources and 26 In
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-items-2026-11-04, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-items-2026-10-26, src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-dtgre-dmz-crafting-guides-2026-10-24, src-vgtimes-dmz-3d-printer-2026-10-27, src-gfinity-dmz-3d-printer-2026-10-22, src-destructoid-dmz-ingredient-guides-2026-10-22, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-techbloat-dmz-orders-2026-10-28, src-allthingshow-dmz-crafting-guides-2026-10-21, src-patchcrazy-dmz-crafting-guides-2026-10-28, src-dmzhub-items-2026-10-31, src-dmzhub-traits-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05, src-dmzhub-items-2026-11-12]
+sources: [src-dmzhub-items-2026-11-04, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-items-2026-10-26, src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-dtgre-dmz-crafting-guides-2026-10-24, src-vgtimes-dmz-3d-printer-2026-10-27, src-gfinity-dmz-3d-printer-2026-10-22, src-destructoid-dmz-ingredient-guides-2026-10-22, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-techbloat-dmz-orders-2026-10-28, src-allthingshow-dmz-crafting-guides-2026-10-21, src-patchcrazy-dmz-crafting-guides-2026-10-28, src-dmzhub-items-2026-10-31, src-dmzhub-traits-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05, src-dmzhub-items-2026-11-12, src-dmzhub-recipes-2026-11-23]
 aliases: ["Materials", "Ingredients", "Resources", "printer resources", "3D Printer Ingredients", "crafting materials", "Synthetics", "Electronics", "Chemicals", "Metals", "Nitro Compounds", "Alloyed Plating", "Ballistic Fabric", "Power Regulator", "Stabilized Reagents", "Volatile Explosives", "Nano-Structured Alloy", "where to farm materials"]
 ---
 <!-- generated:start -->
@@ -79,6 +79,7 @@ Uncommon Ingredient Printing (50,000 DMZ Cash) opens the six Uncommon ones, each
 | Stabilized Reagents | 100 Chemicals, 3 Binding Catalyst |
 | Turned Components | 100 Metals, 3 Stock Rods |
 | Volatile Explosives | 100 Chemicals, 3 Nitro Compounds |
+| Military Composites (Season 1, Legendary) | 2 Nylon Laminate, 5 Nylon Cloth (reported) [[src-dmzhub-recipes-2026-11-23]] |
 
 ## What do the Ingredients without a page go into?
 

@@ -1,11 +1,11 @@
 ---
 type: material
 title: "Military Composites"
-description: "A Legendary 3D Printer ingredient that drops from Colossus and cannot be printed; needed for Epic Ingredient Printing and two Ultra recipes."
+description: "A Legendary 3D Printer ingredient that drops from Colossus; one database now lists a Season 1 recipe for it. Needed for Epic Ingredient Printing and two Ultra recipes."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_a4687df16ebf, src-codmunity-dmz-items-2026-10-26, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-codcentral-3d-printer-recipes-2026-10-20, src-vgtimes-dmz-3d-printer-2026-10-27, src-destructoid-3d-printer-recipes-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31]
+sources: [clm_a4687df16ebf, src-codmunity-dmz-items-2026-10-26, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-codcentral-3d-printer-recipes-2026-10-20, src-vgtimes-dmz-3d-printer-2026-10-27, src-destructoid-3d-printer-recipes-2026-10-21, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-dmzhub-recipes-2026-11-23]
 aliases: ["Military Composite", "MilComp", "Colossus drop", "Legendary material", "where to find Military Composites"]
 ---
 <!-- generated:start -->
@@ -19,7 +19,7 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Military Composites are a Legendary 3D Printer ingredient [[src-codmunity-dmz-items-2026-10-26]] [clm_a4687df16ebf] that drops from Colossus, the armoured minigun boss [[src-activision-dmz-guide-part2-2026-10-09]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-codcentral-3d-printer-recipes-2026-10-20]] [[src-vgtimes-dmz-3d-printer-2026-10-27]]. No printer recipe makes them [[src-codcentral-3d-printer-recipes-2026-10-20]].
+Military Composites are a Legendary 3D Printer ingredient [[src-codmunity-dmz-items-2026-10-26]] [clm_a4687df16ebf] that drops from Colossus, the armoured minigun boss [[src-activision-dmz-guide-part2-2026-10-09]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-codcentral-3d-printer-recipes-2026-10-20]] [[src-vgtimes-dmz-3d-printer-2026-10-27]]. At launch no printer recipe made them [[src-codcentral-3d-printer-recipes-2026-10-20]]; by 23 Nov 2026 one database lists a recipe that prints them from 2 Nylon Laminate and 5 Nylon Cloth (reported, unlock not known) [[src-dmzhub-recipes-2026-11-23]].
 
 ## How do you get Military Composites?
 
@@ -37,7 +37,7 @@ Amounts from [[src-destructoid-3d-printer-recipes-2026-10-21]] and [[src-codcent
 
 ## Should you sell them?
 
-They are valued at 3,500 DMZ Cash [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-dmzhub-items-2026-10-31]]. Epic Ingredient Printing alone needs five, Gunsmith Upgrade II ten [[src-dmzhub-upgrades-2026-10-31]] (reported), and the only known source is Colossus, so keep them for the [[3d-printer]]. How many drop per kill is not confirmed yet.
+They are valued at 3,500 DMZ Cash [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-dmzhub-items-2026-10-31]]. Epic Ingredient Printing alone needs five, Gunsmith Upgrade II ten [[src-dmzhub-upgrades-2026-10-31]] (reported), and Colossus is the only confirmed source, so keep them for the [[3d-printer]]. How many drop per kill is not confirmed yet.
 
 Related: [[experimental-compounds]], [[prototype-rf-module]], [[materials]].
 <!-- human:end -->

@@ -461,3 +461,6 @@
 - id: g154
   question: Why is a periodic UAV pulse coming from my Operator?
   must_retrieve: [why-is-a-uav-pulse-coming-from-my-operator]
+- id: g155
+  question: What do you need to print the Survivor Box in DMZ Season 1?
+  must_retrieve: [recipes, field-upgrades]

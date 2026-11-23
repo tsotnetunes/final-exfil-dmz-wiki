@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: items"
-description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 20 Nov 2026."
+description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 23 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -29,6 +29,8 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Consumable Box (Season 1) | row in [[field-upgrades]] | [[src-dmzhub-items-2026-11-09]] | published (reported; effect not known) |
 | Medical Box (Season 1) | row in [[field-upgrades]] | [[src-dmzhub-items-2026-11-09]] | published (reported; effect not known) |
 | Utility Box (Season 1) | row in [[field-upgrades]] | [[src-dmzhub-items-2026-11-09]] | published (reported; effect not known) |
+| Survivor Box (Season 1) | row in [[field-upgrades]] | [[src-dmzhub-items-2026-11-23]] [[src-dmzhub-recipes-2026-11-23]] | published (reported; effect not known) |
+| SR-16 Bio Agent Sample (Season 1 ingredient) | notes in [[field-upgrades]] and [[recipes]] | [[src-dmzhub-items-2026-11-23]] | published (reported) |
 | Ceramic Pup of Loyalty (X01) | row in [[valuables]] | [[src-dmzhub-items-2026-11-07]] | published (reported) |
 | Rex's Goggles (Season 1, Hajin) | row in [[valuables]] | [[src-dmzhub-items-2026-11-10]] | published (reported) |
 | 3.5-Plate Armor Vest (Season 1) | row in [[armor-vests]] | [[src-dmzhub-items-2026-11-12]] | published (reported) |
