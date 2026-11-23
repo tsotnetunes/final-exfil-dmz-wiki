@@ -458,3 +458,6 @@
 - id: g153
   question: Does DMZ use skill-based matchmaking?
   must_retrieve: [matchmaking]
+- id: g154
+  question: Why is a periodic UAV pulse coming from my Operator?
+  must_retrieve: [why-is-a-uav-pulse-coming-from-my-operator]
