@@ -8,7 +8,6 @@ sensitivity: public
 sources: [src-mw4-season-1-patch-notes-2026-11-05]
 aliases: ["Thanksgiving Duty Roster Event", "Duty Roster", "Thanksgiving event", "Thanksgiving leaderboard", "Bird Call Astaroth .57", "Bird Call blueprint"]
 date: 2026-11-23
-stale_after: 2026-12-07
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
