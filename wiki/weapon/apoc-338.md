@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "APOC-338"
-description: "Belt-fed .338 LMG with a slow fire rate, very high damage and heavy recoil; DMZ lists split from A to D. 28 Oct: less damage and range in Multiplayer."
+description: "Belt-fed .338 LMG with a slow fire rate, very high damage and heavy recoil; DMZ lists split from A to D. Since 23 Nov 2026 it deals 12 to 14% less damage in DMZ."
 status: stable
 brain_status: published
 sensitivity: public
@@ -24,6 +24,18 @@ Its Weapon Manual is a lootable item [[src-codmunity-dmz-items-2026-10-26]] [[sr
 ## What is its Apex Attachment?
 
 **APOC-338 Praetor:** a ten-round belt that locks it to semi-automatic fire; it takes the place of the Magazine [[src-activision-mw4-launch-weapons-2026-10-19]]. See [[apex-attachments]].
+
+## What changed in DMZ on 23 Nov 2026?
+
+On 23 Nov 2026 Infinity Ward published the first weapon tuning written for DMZ itself, and the APOC-338 was one of three LMGs whose damage went down at every range listed, by 12 to 14% [[src-mw4-season-1-patch-notes-2026-11-05]] ([[movement-and-tuning]]).
+
+| Value (DMZ) | Before | After |
+| --- | --- | --- |
+| Maximum damage | 46 | 40 (-13%) |
+| First middle damage | 41 | 36 (-12%) |
+| Minimum damage | 37 | 32 (-14%) |
+
+These are DMZ's own damage figures, kept separate from Multiplayer's, so changes listed under Multiplayer elsewhere on this page are not DMZ values. The same update made the Signal 50 hit harder ([[signal-50]]).
 
 ## What changed on 28 Oct 2026?
 

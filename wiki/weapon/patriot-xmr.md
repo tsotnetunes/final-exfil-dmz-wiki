@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "Patriot XMR"
-description: "Full-auto assault rifle with heavy recoil, a B-tier DMZ pick on all three lists; the Doctor carries one. 19 Nov: a little more minimum damage in Multiplayer."
+description: "Full-auto assault rifle with heavy recoil, a B-tier DMZ pick on all three lists; the Doctor carries one. Since 23 Nov 2026 it deals 10 to 12% less damage in DMZ."
 status: stable
 brain_status: published
 sensitivity: public
@@ -24,6 +24,18 @@ Extract with its Weapon Manual (the Manual is a lootable item [[src-codmunity-dm
 ## What is its Apex Attachment?
 
 **Patriot XMR Volt:** an underbarrel launcher that fires electric stun darts; it takes the place of the Barrel [[src-activision-mw4-launch-weapons-2026-10-19]]. See [[apex-attachments]].
+
+## What changed in DMZ on 23 Nov 2026?
+
+On 23 Nov 2026 Infinity Ward published the first weapon tuning written for DMZ itself, and the Patriot XMR was one of nine assault rifles whose damage went down at every range listed, by 10 to 12% [[src-mw4-season-1-patch-notes-2026-11-05]] ([[movement-and-tuning]]).
+
+| Value (DMZ) | Before | After |
+| --- | --- | --- |
+| Maximum damage | 43 | 38 (-12%) |
+| First middle damage | 39 | 35 (-10%) |
+| Minimum damage | 34 | 30 (-12%) |
+
+These are DMZ's own damage figures, kept separate from Multiplayer's, so changes listed under Multiplayer elsewhere on this page are not DMZ values. The same update made the Signal 50 hit harder ([[signal-50]]).
 
 ## What changed on 28 Oct 2026?
 

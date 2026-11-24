@@ -62,5 +62,6 @@ Commanders drop no dog tag, so their reward comes from the kill itself and the i
 ## Known problems
 
 - Known issue since 24 Oct 2026: on PC, extracting with a tag you took can end in a network error [[src-mw4-launch-patch-notes-2026-10-29]] [clm_6155f83bd127].
+- Fixed 23 Nov 2026: interacting with a Lieutenant's Dog Tag while your Backpack was full could still put a marker on you on the map, even though the tag was not picked up [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Fixed 24 Oct: taken Dog Tags and Bounties sometimes showed the wrong details; fixed 29 Oct: the tag of a squadmate who had disconnected could be extracted [[src-mw4-launch-patch-notes-2026-10-29]].
 <!-- human:end -->

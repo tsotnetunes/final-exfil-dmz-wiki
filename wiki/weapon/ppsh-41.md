@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "PPSh-41"
-description: "Very fast-firing close-range SMG with a big magazine, in every DMZ list's top tiers and noted for shredding armor. 19 Nov: more damage and chest damage in Multiplayer."
+description: "Very fast-firing close-range SMG with a big magazine, in every DMZ list's top tiers and noted for shredding armor. Since 23 Nov 2026 it deals 5 to 14% less damage in DMZ."
 status: stable
 brain_status: published
 sensitivity: public
@@ -24,6 +24,18 @@ Extract with its Weapon Manual, then buy it in the [[gunsmith]] ([[weapon-manual
 ## What is its Apex Attachment?
 
 **PPSh-41 Ember:** an underbarrel launcher that fires incendiary rounds; it takes the place of the Barrel, Underbarrel and Magazine [[src-activision-mw4-launch-weapons-2026-10-19]]. See [[apex-attachments]].
+
+## What changed in DMZ on 23 Nov 2026?
+
+On 23 Nov 2026 Infinity Ward published the first weapon tuning written for DMZ itself, and the PPSh-41 was one of six SMGs whose damage went down at every range listed, by 5 to 14% [[src-mw4-season-1-patch-notes-2026-11-05]] ([[movement-and-tuning]]).
+
+| Value (DMZ) | Before | After |
+| --- | --- | --- |
+| Maximum damage | 28 | 24 (-14%) |
+| First middle damage | 25 | 22 (-12%) |
+| Minimum damage | 19 | 18 (-5%) |
+
+These are DMZ's own damage figures, kept separate from Multiplayer's, so changes listed under Multiplayer elsewhere on this page are not DMZ values. The same update made the Signal 50 hit harder ([[signal-50]]).
 
 ## What changed on 28 Oct 2026?
 

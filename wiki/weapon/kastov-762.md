@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "Kastov 762"
-description: "Hard-hitting 7.62x39mm assault rifle, in every DMZ list's top two tiers; Vault Edition owners get the Voltspine blueprint. Season 1 brings back the Kastov 545 Apex, longer-ranged since 19 Nov."
+description: "Hard-hitting 7.62x39mm assault rifle, in every DMZ list's top two tiers; since 23 Nov 2026 it deals 12 to 14% less damage in DMZ. Season 1 brings back the Kastov 545 Apex."
 status: stable
 brain_status: published
 sensitivity: public
@@ -28,6 +28,18 @@ One guide says the Lieutenant called the Chemist carries a Kastov 762 (reported)
 ## What is its Apex Attachment?
 
 **Kastov ARC:** a disruption barrel with a built-in optic that sends out an RF pulse; it takes the place of the Barrel [[src-activision-mw4-launch-weapons-2026-10-19]]. See [[apex-attachments]].
+
+## What changed in DMZ on 23 Nov 2026?
+
+On 23 Nov 2026 Infinity Ward published the first weapon tuning written for DMZ itself, and the Kastov 762 was one of nine assault rifles whose damage went down at every range listed, by 12 to 14% [[src-mw4-season-1-patch-notes-2026-11-05]] ([[movement-and-tuning]]).
+
+| Value (DMZ) | Before | After |
+| --- | --- | --- |
+| Maximum damage | 42 | 37 (-12%) |
+| First middle damage | 37 | 32 (-14%) |
+| Minimum damage | 34 | 30 (-12%) |
+
+These are DMZ's own damage figures, kept separate from Multiplayer's, so changes listed under Multiplayer elsewhere on this page are not DMZ values. The same update made the Signal 50 hit harder ([[signal-50]]).
 
 ## What changed on 28 Oct 2026?
 

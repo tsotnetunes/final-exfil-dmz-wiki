@@ -1,7 +1,7 @@
 ---
 type: mission
 title: "Operation Fallen Ember"
-description: "The last Story Mission, at Haneul Nuclear Reactor: pull three fuel rods, clean them, escape by boat. Extreme threat, bring gas masks. Card: 25,000 DMZ Cash, a DRC locker key, the Cargo Plane infil."
+description: "The last Story Mission, at Haneul Nuclear Reactor: pull three fuel rods, clean them, escape by boat. Extreme threat, bring gas masks. Since 23 Nov 2026 Colossus drops the Boathouse Key reliably."
 status: stable
 brain_status: published
 sensitivity: public
@@ -31,7 +31,7 @@ The card's objectives are to breach the reactor, get the rods and extract them o
 2. For each of three rods, start it at the console, then dive into the flooded pool and pull it from the hatch that opens. A wrong hatch shows an error, so one player on the console can call out the right one.
 3. Carry the rods to Reactor 02 and decontaminate them one by one while you hold the room.
 4. Secure the warhead and beat the reinforcements in the reactor yard.
-5. Kill Colossus for the boathouse key, raise the boathouse door and take the armored patrol boat.
+5. Kill Colossus for the boathouse key, raise the boathouse door and take the armored patrol boat. Until 23 Nov 2026 the Colossus meant to carry the Boathouse Key could fail to drop it; that update fixed it [[src-mw4-season-1-patch-notes-2026-11-05]].
 6. Meet the helicopter and escort it out over the water.
 
 Do not sink a boat early. Until 7 Nov 2026, destroying a boat before the second-to-last objective could leave the mission unable to continue; that update fixed it [[src-mw4-season-1-patch-notes-2026-11-05]].

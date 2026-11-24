@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "Type 73"
-description: "Korean 7.62x54r LMG for mid and long range; Bale carries one, and his named Legendary version is the Dreadnought LMG. 19 Nov: more damage, and a longer-ranged Assault Apex, in Multiplayer."
+description: "Korean 7.62x54r LMG for mid and long range; Bale carries one, and his named Legendary version is the Dreadnought LMG. Since 23 Nov 2026 it deals 10 to 11% less damage in DMZ."
 status: stable
 brain_status: published
 sensitivity: public
@@ -26,6 +26,17 @@ The Lieutenant Bale carries one [[src-gfinity-dmz-lieutenants-2026-10-22]] [[src
 ## What is its Apex Attachment?
 
 **Type 73 Assault:** a magazine mounted on top that holds explosive rounds; it takes the place of the Magazine and Ammunition [[src-activision-mw4-launch-weapons-2026-10-19]]. See [[apex-attachments]].
+
+## What changed in DMZ on 23 Nov 2026?
+
+On 23 Nov 2026 Infinity Ward published the first weapon tuning written for DMZ itself, and the Type 73 was one of three LMGs whose damage went down at every range listed, by 10 to 11% [[src-mw4-season-1-patch-notes-2026-11-05]] ([[movement-and-tuning]]).
+
+| Value (DMZ) | Before | After |
+| --- | --- | --- |
+| Maximum damage | 31 | 28 (-10%) |
+| Minimum damage | 27 | 24 (-11%) |
+
+These are DMZ's own damage figures, kept separate from Multiplayer's, so changes listed under Multiplayer elsewhere on this page are not DMZ values. The same update made the Signal 50 hit harder ([[signal-50]]).
 
 ## What changed on 28 Oct 2026?
 

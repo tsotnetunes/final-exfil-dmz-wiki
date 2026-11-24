@@ -35,5 +35,5 @@ Yes, each use spends one. The creator also found that a contract is gone even wh
 Nothing here says they protect your backpack or armor, so plan on losing what sits outside Secure Slots as usual ([[death-and-loss]]).
 
 ## Do they work in X01?
-Yes. Until 12 Nov 2026 Operator and weapon insurance could stop working if you died in [[x01]] after deploying there from Hajin; the update of 12 Nov fixed it [[src-mw4-season-1-patch-notes-2026-11-05]]. Paid recovery without a beacon: [[how-to-get-operators-back-from-mia]].
+Yes. Until 12 Nov 2026 Operator and weapon insurance could stop working if you died in [[x01]] after deploying there from Hajin; the update of 12 Nov fixed it [[src-mw4-season-1-patch-notes-2026-11-05]]. A second insurance bug went on 23 Nov 2026: Weapon Insurance could fail when you used it in matches one after another, and now works in back-to-back runs [[src-mw4-season-1-patch-notes-2026-11-05]]. Paid recovery without a beacon: [[how-to-get-operators-back-from-mia]].
 <!-- human:end -->

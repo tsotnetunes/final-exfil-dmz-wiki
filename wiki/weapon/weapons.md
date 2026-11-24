@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "Weapons"
-description: "All 33 Modern Warfare 4 launch weapons as they work in DMZ: class, Apex Attachment, Gunsmith price, the 28 Oct changes, plus the Season 1 guns arriving from 6 Nov 2026."
+description: "All Modern Warfare 4 weapons as they work in DMZ: class, Apex, Gunsmith price and tuning. 23 Nov 2026: first DMZ-only tuning cut 18 rifles, SMGs and LMGs and buffed the Signal 50."
 status: stable
 brain_status: published
 sensitivity: public
@@ -102,7 +102,7 @@ No official ranking exists. Three published lists all put the Han 86 in their to
 
 ## Did the 28 Oct nerfs hit DMZ?
 
-Not stated. The 28 Oct weapon changes sit under Multiplayer in the patch notes, and on 23 Oct the developers reminded players that Multiplayer and DMZ have separate weapon tuning [[src-mw4-launch-patch-notes-2026-10-29]]. See [[movement-and-tuning]].
+Not as far as the notes show. The 28 Oct and 19 Nov weapon changes sit under Multiplayer, and the developers have said since 23 Oct that the two modes are tuned separately [[src-mw4-launch-patch-notes-2026-10-29]]. DMZ got its own first weapon tuning on 23 Nov 2026 instead: nine assault rifles ([[axion]], [[cronen-osprey-assault-rifle]], [[han-86]], [[hyeon-burst]], [[kastov-762]], [[m4]], [[cronen-squall]], [[oden]], [[patriot-xmr]]), six SMGs ([[csg-35-smg]], [[iso-nightshade]], [[ppsh-41]], [[vel-46]], [[wz-55-striga]], [[x-58-nyx]]) and three LMGs ([[apoc-338]], [[finn-lmg]], [[type-73]]) lost 4 to 15% of their damage, while the [[signal-50]] sniper rifle gained mid and long-range damage and a bigger headshot multiplier [[src-mw4-season-1-patch-notes-2026-11-05]]. The tier lists above predate it. See [[movement-and-tuning]].
 
 ## Which weapon bugs were fixed in DMZ?
 

@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "X-58 Nyx"
-description: "Built-in-suppressor SMG for quiet play, called the easiest DMZ SMG for beginners; the Warden carries one. 28 Oct and 19 Nov: more damage and range in Multiplayer."
+description: "Built-in-suppressor SMG for quiet play, called the easiest DMZ SMG for beginners; the Warden carries one. Since 23 Nov 2026 it deals 4 to 11% less damage in DMZ."
 status: stable
 brain_status: published
 sensitivity: public
@@ -24,6 +24,18 @@ Extract with its Weapon Manual, then buy it in the [[gunsmith]] ([[weapon-manual
 ## What is its Apex Attachment?
 
 **X-58 Void:** a subsonic setup for very quiet shots and hits that are hard to trace; it takes the place of the Barrel and Ammunition [[src-activision-mw4-launch-weapons-2026-10-19]]. See [[apex-attachments]].
+
+## What changed in DMZ on 23 Nov 2026?
+
+On 23 Nov 2026 Infinity Ward published the first weapon tuning written for DMZ itself, and the X-58 Nyx was one of six SMGs whose damage went down at every range listed, by 4 to 11% [[src-mw4-season-1-patch-notes-2026-11-05]] ([[movement-and-tuning]]).
+
+| Value (DMZ) | Before | After |
+| --- | --- | --- |
+| Maximum damage | 35 | 31 (-11%) |
+| First middle damage | 30 | 28 (-7%) |
+| Minimum damage | 25 | 24 (-4%) |
+
+These are DMZ's own damage figures, kept separate from Multiplayer's, so changes listed under Multiplayer elsewhere on this page are not DMZ values. The same update made the Signal 50 hit harder ([[signal-50]]).
 
 ## What changed on 28 Oct 2026?
 

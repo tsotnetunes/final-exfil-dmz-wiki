@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "Hyeon Burst"
-description: "North Korean three-round-burst assault rifle; Jang-Ui carries one. Season 1 adds the full-auto Hyeon Auto Apex, which gained range and head damage in Multiplayer on 19 Nov 2026."
+description: "North Korean three-round-burst assault rifle; Jang-Ui carries one. Since 23 Nov 2026 it deals 12 to 14% less damage in DMZ. Season 1 adds the full-auto Hyeon Auto Apex."
 status: stable
 brain_status: published
 sensitivity: public
@@ -24,6 +24,18 @@ Extract with its Weapon Manual, then buy it in the [[gunsmith]] ([[weapon-manual
 ## What is its Apex Attachment?
 
 **Hyeon Hyperburst:** a three-round burst followed by slower, controlled automatic fire [[src-activision-mw4-launch-weapons-2026-10-19]]. See [[apex-attachments]].
+
+## What changed in DMZ on 23 Nov 2026?
+
+On 23 Nov 2026 Infinity Ward published the first weapon tuning written for DMZ itself, and the Hyeon Burst was one of nine assault rifles whose damage went down at every range listed, by 12 to 14% [[src-mw4-season-1-patch-notes-2026-11-05]] ([[movement-and-tuning]]).
+
+| Value (DMZ) | Before | After |
+| --- | --- | --- |
+| Maximum damage | 50 | 43 (-14%) |
+| First middle damage | 42 | 37 (-12%) |
+| Minimum damage | 38 | 33 (-13%) |
+
+These are DMZ's own damage figures, kept separate from Multiplayer's, so changes listed under Multiplayer elsewhere on this page are not DMZ values. The same update made the Signal 50 hit harder ([[signal-50]]).
 
 ## What changed on 28 Oct 2026?
 

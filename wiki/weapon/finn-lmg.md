@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "FiNN LMG"
-description: "Belt-fed 5.56 LMG with a high fire rate and good control; 8,000 DMZ Cash in the Gunsmith (reported). 19 Nov: more damage, less range in Multiplayer. Season 1 adds the Fortune's Favor blueprint."
+description: "Belt-fed 5.56 LMG with a high fire rate and good control; 8,000 DMZ Cash in the Gunsmith (reported). Since 23 Nov 2026 it deals 11 to 15% less damage in DMZ."
 status: stable
 brain_status: published
 sensitivity: public
@@ -24,6 +24,18 @@ Extract with its Weapon Manual, then buy it in the [[gunsmith]] ([[weapon-manual
 ## What is its Apex Attachment?
 
 **FiNN Adverse:** removes the cap on its rate of fire, so it can overheat and need to cool down [[src-activision-mw4-launch-weapons-2026-10-19]]. See [[apex-attachments]].
+
+## What changed in DMZ on 23 Nov 2026?
+
+On 23 Nov 2026 Infinity Ward published the first weapon tuning written for DMZ itself, and the FiNN LMG was one of three LMGs whose damage went down at every range listed, by 11 to 15% [[src-mw4-season-1-patch-notes-2026-11-05]] ([[movement-and-tuning]]).
+
+| Value (DMZ) | Before | After |
+| --- | --- | --- |
+| Maximum damage | 39 | 34 (-13%) |
+| First middle damage | 35 | 31 (-11%) |
+| Minimum damage | 33 | 28 (-15%) |
+
+These are DMZ's own damage figures, kept separate from Multiplayer's, so changes listed under Multiplayer elsewhere on this page are not DMZ values. The same update made the Signal 50 hit harder ([[signal-50]]).
 
 ## What changed on 28 Oct 2026?
 

@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "VEL 46"
-description: "Nimble 4.6x30mm SMG with predictable recoil; DMZ tier lists disagree on it more than any other gun. 28 Oct: more arm and hand damage in Multiplayer."
+description: "Nimble 4.6x30mm SMG with predictable recoil; DMZ tier lists disagree on it more than any other gun. Since 23 Nov 2026 it deals 11 to 13% less damage in DMZ."
 status: stable
 brain_status: published
 sensitivity: public
@@ -28,6 +28,18 @@ Extract with its Weapon Manual, then buy it in the [[gunsmith]] ([[weapon-manual
 ## What is its Apex Attachment?
 
 **VEL 46 Snap:** a tactical sling that makes weapon swaps faster and allows Quick Draw with Overkill; it takes the place of the Stock [[src-activision-mw4-launch-weapons-2026-10-19]]. Overkill is a Multiplayer perk [[src-mw4-launch-patch-notes-2026-10-29]]; whether the sling's Overkill bonus does anything in DMZ is not confirmed yet. See [[apex-attachments]].
+
+## What changed in DMZ on 23 Nov 2026?
+
+On 23 Nov 2026 Infinity Ward published the first weapon tuning written for DMZ itself, and the VEL 46 was one of six SMGs whose damage went down at every range listed, by 11 to 13% [[src-mw4-season-1-patch-notes-2026-11-05]] ([[movement-and-tuning]]).
+
+| Value (DMZ) | Before | After |
+| --- | --- | --- |
+| Maximum damage | 32 | 28 (-13%) |
+| First middle damage | 28 | 25 (-11%) |
+| Minimum damage | 23 | 20 (-13%) |
+
+These are DMZ's own damage figures, kept separate from Multiplayer's, so changes listed under Multiplayer elsewhere on this page are not DMZ values. The same update made the Signal 50 hit harder ([[signal-50]]).
 
 ## What changed on 28 Oct 2026?
 

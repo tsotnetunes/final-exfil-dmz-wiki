@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "ISO Nightshade"
-description: "Fast-firing 9mm SMG; its ISO Trace Apex was fixed for DMZ on 20 Oct, Vault owners get La Sombra Venenosa, and Jin-Tae can drop one. 19 Nov: more range and leg damage in Multiplayer."
+description: "Fast-firing 9mm SMG; Vault owners get La Sombra Venenosa and Jin-Tae can drop one. Since 23 Nov 2026 it deals 9 to 12% less damage in DMZ. Apex: ISO Trace."
 status: stable
 brain_status: published
 sensitivity: public
@@ -27,6 +27,18 @@ Extract with its Weapon Manual, then buy it in the [[gunsmith]] ([[weapon-manual
 ## What is its Apex Attachment?
 
 **ISO Trace:** tracking rounds that show a hit target's movement in your optic; it takes the place of the Optic and Ammunition [[src-activision-mw4-launch-weapons-2026-10-19]]. On 20 Oct a fix made the ISO Apex work as intended in DMZ [[src-mw4-launch-patch-notes-2026-10-29]]. See [[apex-attachments]].
+
+## What changed in DMZ on 23 Nov 2026?
+
+On 23 Nov 2026 Infinity Ward published the first weapon tuning written for DMZ itself, and the ISO Nightshade was one of six SMGs whose damage went down at every range listed, by 9 to 12% [[src-mw4-season-1-patch-notes-2026-11-05]] ([[movement-and-tuning]]).
+
+| Value (DMZ) | Before | After |
+| --- | --- | --- |
+| Maximum damage | 34 | 30 (-12%) |
+| First middle damage | 30 | 27 (-10%) |
+| Minimum damage | 23 | 21 (-9%) |
+
+These are DMZ's own damage figures, kept separate from Multiplayer's, so changes listed under Multiplayer elsewhere on this page are not DMZ values. The same update made the Signal 50 hit harder ([[signal-50]]).
 
 ## What changed on 28 Oct 2026?
 

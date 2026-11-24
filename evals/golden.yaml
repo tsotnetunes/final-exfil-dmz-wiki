@@ -464,3 +464,9 @@
 - id: g155
   question: What do you need to print the Survivor Box in DMZ Season 1?
   must_retrieve: [recipes, field-upgrades]
+- id: g156
+  question: How many points is a DMZ kill worth in the Thanksgiving Duty Roster event?
+  must_retrieve: [thanksgiving-duty-roster]
+- id: g157
+  question: Which weapons did the 23 Nov DMZ weapon tuning nerf, and was the Signal 50 buffed?
+  must_retrieve: [movement-and-tuning]

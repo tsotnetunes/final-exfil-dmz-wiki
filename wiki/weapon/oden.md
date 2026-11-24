@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "Oden"
-description: "Slow-firing 12.7x55mm bullpup assault rifle that DMZ tier lists rank low; its Sentinel Apex turns it into a semi-auto sniper. 19 Nov: more range and minimum damage in Multiplayer."
+description: "Slow-firing 12.7x55mm bullpup assault rifle that DMZ lists rank low; its Sentinel Apex makes it a semi-auto sniper. Since 23 Nov 2026: 13% less mid and long-range damage in DMZ."
 status: stable
 brain_status: published
 sensitivity: public
@@ -24,6 +24,17 @@ Extract with its Weapon Manual, then buy it in the [[gunsmith]] ([[weapon-manual
 ## What is its Apex Attachment?
 
 **Oden Sentinel:** turns the rifle into a semi-automatic sniper with a bipod, a suppressor and a scope; it takes the place of the Barrel and Muzzle [[src-activision-mw4-launch-weapons-2026-10-19]]. See [[apex-attachments]].
+
+## What changed in DMZ on 23 Nov 2026?
+
+On 23 Nov 2026 Infinity Ward published the first weapon tuning written for DMZ itself, and the Oden was one of nine assault rifles whose damage went down at every range listed, by 13% [[src-mw4-season-1-patch-notes-2026-11-05]] ([[movement-and-tuning]]).
+
+| Value (DMZ) | Before | After |
+| --- | --- | --- |
+| First middle damage | 55 | 48 (-13%) |
+| Minimum damage | 45 | 39 (-13%) |
+
+These are DMZ's own damage figures, kept separate from Multiplayer's, so changes listed under Multiplayer elsewhere on this page are not DMZ values. The same update made the Signal 50 hit harder ([[signal-50]]).
 
 ## What changed on 28 Oct 2026?
 

@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "Cronen Osprey assault rifle"
-description: "Season 1 assault rifle, in the game since 6 Nov 2026 at Battle Pass tier 16, with the Cronen Helix Mk. II Apex. Its Platinum camo tracking is under investigation since 7 Nov."
+description: "Season 1 assault rifle, in the game since 6 Nov 2026 at Battle Pass tier 16, with the Cronen Helix Mk. II Apex. Since 23 Nov 2026 it deals 7 to 10% less damage in DMZ."
 status: stable
 brain_status: published
 sensitivity: public
@@ -51,4 +51,16 @@ Not for everyone yet. Since 7 Nov 2026 Call of Duty has been looking into report
 ## Can you use it in DMZ?
 
 Likely, through a Weapon Manual like the launch guns. On 6 Nov 2026 a community database added a "Manual: Cronen Osprey" item, filed as a Season 1 Weapon Manual, but it shows no value and no place to find it yet (reported) [[src-dmzhub-items-2026-11-07]]. The Season 1 post itself names no DMZ weapons and says nothing about Weapon Manuals [[src-activision-season-1-announcement-2026-10-28]]. Every launch gun except the knife has a Manual you must extract before the [[gunsmith]] sells it [[src-activision-dmz-guide-part2-2026-10-09]] [[src-dmzhub-weapons-2026-10-31]], so extract a Cronen Osprey Manual before you can buy the gun ([[weapon-manuals]]). A blueprint you own can be built once for free in DMZ even without the Manual [[src-dmztracker-gunsmith-2026-10-29]] ([[blueprints]]). The launch list's other Cronen rifle is the Cronen Squall ([[weapons]]).
+## What changed in DMZ on 23 Nov 2026?
+
+On 23 Nov 2026 Infinity Ward published the first weapon tuning written for DMZ itself, and the Cronen Osprey was one of nine assault rifles whose damage went down at every range listed, by 7 to 10% [[src-mw4-season-1-patch-notes-2026-11-05]] ([[movement-and-tuning]]).
+
+| Value (DMZ) | Before | After |
+| --- | --- | --- |
+| Maximum damage | 31 | 28 (-10%) |
+| First middle damage | 28 | 26 (-7%) |
+| Minimum damage | 26 | 24 (-8%) |
+
+These are DMZ's own damage figures, kept separate from Multiplayer's, so changes listed under Multiplayer elsewhere on this page are not DMZ values. The same update made the Signal 50 hit harder ([[signal-50]]).
+
 <!-- human:end -->

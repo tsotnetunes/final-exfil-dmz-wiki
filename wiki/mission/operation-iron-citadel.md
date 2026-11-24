@@ -41,5 +41,5 @@ The card lists 25,000 DMZ Cash, the Supreme Leader's Bunker Access Card and the 
 
 ## Known bugs and fixes
 
-On 28 Oct 2026 Infinity Ward fixed the Airbase Access Card not upgrading during a Story Mission when it was kept in the Secure Slot [[src-mw4-launch-patch-notes-2026-10-29]]. From 6 Nov 2026 the Chang-san Air Base mission stops showing as unfinished on the Story Mission map after you complete it, the mission screen recommends the intended 3-Plate Armor Vest, and the dead Door Breacher prompt on the bunker's double doors is gone [[src-mw4-season-1-patch-notes-2026-11-05]].
+On 28 Oct 2026 Infinity Ward fixed the Airbase Access Card not upgrading during a Story Mission when it was kept in the Secure Slot [[src-mw4-launch-patch-notes-2026-10-29]]. From 6 Nov 2026 the Chang-san Air Base mission stops showing as unfinished on the Story Mission map after you complete it, the mission screen recommends the intended 3-Plate Armor Vest, and the dead Door Breacher prompt on the bunker's double doors is gone [[src-mw4-season-1-patch-notes-2026-11-05]]. Since 23 Nov 2026 the keycard objective no longer gets stuck when a player from another team picks up the card; before that fix a rival grabbing it could leave your mission unable to move on [[src-mw4-season-1-patch-notes-2026-11-05]].
 <!-- human:end -->

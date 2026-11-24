@@ -1529,3 +1529,7 @@
 ## [2026-11-22 21:19 EST] edit | community sweep 2026-11-23: DMZHub recipes 95 to 103 (seven Season 1 item recipes incl. new Survivor Box, Military Composites recipe; SR-16 Bio Agent Sample), reported; codmunity not fetched
 - changed: .kac 1, evals 1, index 13, index.md 1, raw 2, wiki 10
 - run: r-20261122-211956-8fc9
+
+## [2026-11-23 19:46 EST] edit | daily update 2026-11-24: 23 Nov patch, first DMZ-only weapon tuning (18 guns nerfed, Signal 50 buffed) on 19 weapon pages and tuning hubs; Iron Citadel, Fallen Ember, Possum, insurance, vehicle, Dog Tag fixes; Thanksgiving Duty Roster published
+- changed: .kac 1, evals 1, index 6, raw 1, wiki 33
+- run: r-20261123-194612-998b

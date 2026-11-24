@@ -49,6 +49,7 @@ Killing a Commander and extracting gives valuable 3D Printer ingredients [[src-a
 | 25 Oct 2026 | Drill Charge damage against Colossus decreased [[src-mw4-launch-patch-notes-2026-10-29]] |
 | 6 Nov 2026 | He no longer spawns at [[chang-san-air-base]] before its Armory is open [[src-mw4-season-1-patch-notes-2026-11-05]] |
 | 7 Nov 2026 | He can no longer finish off a downed player in Last Stand who could still be revived; before this fix he could end a revivable teammate [[src-mw4-season-1-patch-notes-2026-11-05]] |
+| 23 Nov 2026 | The Colossus near the boathouse in [[operation-fallen-ember]] drops the Boathouse Key as intended again [[src-mw4-season-1-patch-notes-2026-11-05]] |
 
 The other Commanders are on [[commander-threats]].
 <!-- human:end -->

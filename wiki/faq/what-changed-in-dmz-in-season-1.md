@@ -1,7 +1,7 @@
 ---
 type: faq
 title: "What changed in DMZ with the Season 1 patch?"
-description: "From 6 Nov 2026: X01, Possum nerf, dupe fixes; 10 Nov failed-exfil cash, no X01 UAVs; 11 Nov longer hitscan; 16 Nov shared Lieutenant tag cash; 19 Nov War Chest event and Multiplayer weapon tuning."
+description: "From 6 Nov 2026: X01, Possum nerf, dupe fixes; 10 Nov failed-exfil cash; 11 Nov longer hitscan; 16 Nov shared Lieutenant tag cash; 19 Nov War Chest; 23 Nov first DMZ-only weapon tuning."
 status: stable
 brain_status: published
 sensitivity: public
@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-The Season 1 patch notes of 5 Nov 2026 went live with the season at midnight ET on 6 Nov. They hold about 110 DMZ lines: one new place, a few balance changes and many fixes [[src-mw4-season-1-patch-notes-2026-11-05]]. A small update followed on 6 Nov 2026 with about a dozen more DMZ lines, a third on 7 Nov 2026 with about fifteen, all fixes, a fourth on 10 Nov 2026 with about fifteen more, among them a cash payout for failed exfils and much weaker UAVs, and a fifth on 11 Nov 2026 with a game-wide hitscan change and five DMZ lines, a sixth on 12 Nov 2026 with six DMZ fixes, a seventh on 13 Nov 2026 with four DMZ fixes and the Resupply Run event, and an eighth on Monday 16 Nov 2026 with thirteen DMZ lines, among them shared Lieutenant tag cash and a weaker UAV Upgrade Pro, and a ninth on 19 Nov 2026 whose only DMZ lines start the War Chest event [[src-mw4-season-1-patch-notes-2026-11-05]].
+The Season 1 patch notes of 5 Nov 2026 went live with the season at midnight ET on 6 Nov. They hold about 110 DMZ lines: one new place, a few balance changes and many fixes [[src-mw4-season-1-patch-notes-2026-11-05]]. A small update followed on 6 Nov 2026 with about a dozen more DMZ lines, a third on 7 Nov 2026 with about fifteen, all fixes, a fourth on 10 Nov 2026 with about fifteen more, among them a cash payout for failed exfils and much weaker UAVs, and a fifth on 11 Nov 2026 with a game-wide hitscan change and five DMZ lines, a sixth on 12 Nov 2026 with six DMZ fixes, a seventh on 13 Nov 2026 with four DMZ fixes and the Resupply Run event, and an eighth on Monday 16 Nov 2026 with thirteen DMZ lines, among them shared Lieutenant tag cash and a weaker UAV Upgrade Pro, a ninth on 19 Nov 2026 whose only DMZ lines start the War Chest event, and a tenth on Monday 23 Nov 2026 with DMZ's first weapon tuning and six DMZ fixes [[src-mw4-season-1-patch-notes-2026-11-05]].
 
 ## What is new?
 - [[x01]], an underground location under Hajin with its own Orders and a 3D Printer inside [[src-mw4-season-1-patch-notes-2026-11-05]].
@@ -109,6 +109,15 @@ For DMZ, one new event and no fixes [[src-mw4-season-1-patch-notes-2026-11-05]]:
 - [[leaderboard-war-chest]] started: containers score 5 points and safes 50 on a leaderboard that lasts 3 hours, with a new one every 4 hours; rewards such as Fulton Exfils, Tempered Armor Vests and UAVs can each be won once [[src-infinityward-x-war-chest-live-2026-11-19]].
 - For all modes, camo tracking screens and Natural Concealment completion notices were fixed, and the notes repeat that [[joint-fire]] returns every Friday.
 - Fourteen weapons and Apex Attachments were tuned, mostly with more range or damage, among them a [[mosin-nagant]] that keeps its top damage much further out. All of it is listed under Multiplayer; whether DMZ gets the same values is not stated, and DMZ has its own tuning ([[movement-and-tuning]]).
+
+## What did the 23 Nov update change?
+DMZ's first weapon tuning of its own, a round of fixes and a cross-mode event [[src-mw4-season-1-patch-notes-2026-11-05]]:
+- Weapons: eighteen assault rifles, SMGs and LMGs deal 4 to 15% less damage in DMZ, among them the [[han-86]], [[m4]], [[kastov-762]], [[ppsh-41]] and [[x-58-nyx]], while the [[signal-50]] gains mid and long-range damage and a 1.6 headshot multiplier. The full list is on [[movement-and-tuning]].
+- Missions: the keycard objective in [[operation-iron-citadel]] no longer sticks when another team picks up the card, and the [[colossus]] in [[operation-fallen-ember]] drops the Boathouse Key again.
+- Traits: [[possum]] and Possum Pro no longer stack.
+- Gear: Weapon Insurance works in back-to-back matches ([[what-do-rescue-beacons-and-weapon-insurance-do]]), and a Lieutenant tag you cannot pick up because your Backpack is full no longer marks you on the map ([[dog-tags]]).
+- Exploits: several closed, among them mantling from a vehicle through a ceiling ([[vehicles]], [[exploiting-glitches]]).
+- For all modes, the [[thanksgiving-duty-roster]] kill leaderboard started; a DMZ kill is worth 2 points against 10 in Multiplayer and 20 in Warzone.
 
 ## What went wrong on day one?
 On 6 Nov 2026 the official DMZ account began investigating a failed move from Hajin into [[x01]] that can cost some players their Operator, loadout and Backpack, and a crash at launch on Steam after the update (verify the game files, then reinstall as a last resort) [[src-cod-x-season-1-live-2026-11-06]]. Neither has a fix date yet.

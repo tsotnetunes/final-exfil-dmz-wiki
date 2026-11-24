@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "Han 86"
-description: "South Korean assault rifle, top tier on every DMZ list; about 6,000 DMZ Cash in the Gunsmith after you extract its Manual. On 28 Oct its range went up and chest damage down in Multiplayer."
+description: "South Korean assault rifle, top tier on every DMZ list; about 6,000 DMZ Cash in the Gunsmith after you extract its Manual. Since 23 Nov 2026 it deals 8 to 14% less damage in DMZ."
 status: stable
 brain_status: published
 sensitivity: public
@@ -26,6 +26,18 @@ Beta players own the **Beta Forged** blueprint: the first build is free, and lat
 ## What is its Apex Attachment?
 
 **Han X20 Skybreaker:** a targeting optic and a 20mm airburst launcher; it takes the place of the Optic, Stock and Barrel [[src-activision-mw4-launch-weapons-2026-10-19]]. See [[apex-attachments]].
+
+## What changed in DMZ on 23 Nov 2026?
+
+On 23 Nov 2026 Infinity Ward published the first weapon tuning written for DMZ itself, and the Han 86 was one of nine assault rifles whose damage went down at every range listed, by 8 to 14% [[src-mw4-season-1-patch-notes-2026-11-05]] ([[movement-and-tuning]]).
+
+| Value (DMZ) | Before | After |
+| --- | --- | --- |
+| Maximum damage | 36 | 33 (-8%) |
+| First middle damage | 32 | 28 (-13%) |
+| Minimum damage | 29 | 25 (-14%) |
+
+These are DMZ's own damage figures, kept separate from Multiplayer's, so changes listed under Multiplayer elsewhere on this page are not DMZ values. The same update made the Signal 50 hit harder ([[signal-50]]).
 
 ## What changed on 28 Oct 2026?
 

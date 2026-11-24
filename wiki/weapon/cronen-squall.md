@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "Cronen Squall"
-description: "Open-bolt bullpup assault rifle with marksman-style range; B tier in DMZ lists. Apex Cronen Maelstrom fires a steerable missile. 19 Nov: more range and minimum damage in Multiplayer."
+description: "Open-bolt bullpup assault rifle with marksman-style range; B tier in DMZ lists. Apex Cronen Maelstrom fires a steerable missile. Since 23 Nov 2026: 12 to 14% less damage in DMZ."
 status: stable
 brain_status: published
 sensitivity: public
@@ -28,6 +28,18 @@ Extract with its Weapon Manual, then buy it in the [[gunsmith]] ([[weapon-manual
 ## What is its Apex Attachment?
 
 **Cronen Maelstrom:** fires a missile that you steer while aiming down sights; it takes the place of the Laser and Underbarrel [[src-activision-mw4-launch-weapons-2026-10-19]]. See [[apex-attachments]].
+
+## What changed in DMZ on 23 Nov 2026?
+
+On 23 Nov 2026 Infinity Ward published the first weapon tuning written for DMZ itself, and the Cronen Squall was one of nine assault rifles whose damage went down at every range listed, by 12 to 14% [[src-mw4-season-1-patch-notes-2026-11-05]] ([[movement-and-tuning]]).
+
+| Value (DMZ) | Before | After |
+| --- | --- | --- |
+| Maximum damage | 40 | 35 (-13%) |
+| First middle damage | 34 | 30 (-12%) |
+| Minimum damage | 29 | 25 (-14%) |
+
+These are DMZ's own damage figures, kept separate from Multiplayer's, so changes listed under Multiplayer elsewhere on this page are not DMZ values. The same update made the Signal 50 hit harder ([[signal-50]]).
 
 ## What changed on 19 Nov 2026?
 

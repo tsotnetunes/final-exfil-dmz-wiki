@@ -1,7 +1,7 @@
 ---
 type: weapon
 title: "Wz.55 Striga"
-description: "Mobile 9x18mm SMG with a low rate of fire; its Rampage Apex makes it an akimbo pair. 28 Oct: more limb damage and a little more range in Multiplayer. Mid to low on DMZ lists."
+description: "Mobile 9x18mm SMG with a low rate of fire; its Rampage Apex makes it an akimbo pair. Mid to low on DMZ lists. Since 23 Nov 2026 it deals 12 to 13% less damage in DMZ."
 status: stable
 brain_status: published
 sensitivity: public
@@ -24,6 +24,18 @@ Extract with its Weapon Manual, then buy it in the [[gunsmith]] ([[weapon-manual
 ## What is its Apex Attachment?
 
 **WZ.55 Striga Rampage:** turns it into an akimbo pair; it takes the place of the Optic, Stock and Underbarrel [[src-activision-mw4-launch-weapons-2026-10-19]]. See [[apex-attachments]].
+
+## What changed in DMZ on 23 Nov 2026?
+
+On 23 Nov 2026 Infinity Ward published the first weapon tuning written for DMZ itself, and the Wz.55 Striga was one of six SMGs whose damage went down at every range listed, by 12 to 13% [[src-mw4-season-1-patch-notes-2026-11-05]] ([[movement-and-tuning]]).
+
+| Value (DMZ) | Before | After |
+| --- | --- | --- |
+| Maximum damage | 45 | 39 (-13%) |
+| First middle damage | 41 | 36 (-12%) |
+| Minimum damage | 33 | 29 (-12%) |
+
+These are DMZ's own damage figures, kept separate from Multiplayer's, so changes listed under Multiplayer elsewhere on this page are not DMZ values. The same update made the Signal 50 hit harder ([[signal-50]]).
 
 ## What changed on 28 Oct 2026?
 
