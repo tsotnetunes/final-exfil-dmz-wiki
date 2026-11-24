@@ -1,7 +1,7 @@
 ---
 type: material
 title: "Prototype RF Module"
-description: "A Legendary 3D Printer ingredient that drops from the Deathstalker drone Commander and, by one database, a new recipe prints; needed for Vendor Item Upgrade I, the Fulton Drop Marker and two Ultra recipes."
+description: "A Legendary 3D Printer ingredient that drops from the Deathstalker drone Commander and, by one database, a new recipe prints; needed for Vendor Item Upgrade I, the Fulton Drop Marker and two Ultra rec"
 status: stable
 brain_status: published
 sensitivity: public
