@@ -1,11 +1,11 @@
 ---
 type: item
 title: "Parachutes"
-description: "Disposable Parachutes give three uses since the 23 Oct fix; the Legendary Parachute is reusable (DMZ level 69). Find them in Fire Stations or print them; none comes free."
+description: "Disposable Parachutes give three uses since the 23 Oct fix; the Legendary Parachute is reusable (DMZ level 69). Find them in Fire Stations or print them; on-foot infils give none."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_7e1b19e52f1e, clm_ca51ba0b61c2, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-keengamer-best-loot-2026-10-22]
+sources: [clm_7e1b19e52f1e, clm_ca51ba0b61c2, src-mw4-launch-patch-notes-2026-10-29, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-keengamer-best-loot-2026-10-22, src-dmzhub-items-2026-11-24]
 aliases: ["Parachute", "Infinite parachute", "Disposable Parachute", "parachute uses", "chute", "reusable parachute"]
 ---
 <!-- generated:start -->
@@ -21,7 +21,7 @@ _Generated from 1 confirmed and 1 reported claims across 2 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-DMZ has two parachutes: the Disposable Parachute, which gives three uses since the fix of 23 Oct 2026, and the Legendary Parachute, which you can use again and again [[src-mw4-launch-patch-notes-2026-10-29]] [[src-dmzhub-items-2026-10-31]]. Nobody deploys with one for free: you find or print it [clm_7e1b19e52f1e], and without one equipped a long drop kills you [clm_b9d5f0d9bab7].
+DMZ has two parachutes: the Disposable Parachute, which gives three uses since the fix of 23 Oct 2026, and the Legendary Parachute, which you can use again and again [[src-mw4-launch-patch-notes-2026-10-29]] [[src-dmzhub-items-2026-10-31]]. Going in on foot gives you none: you find or print it [clm_7e1b19e52f1e], although one database says the paid cargo plane infil hands you a Parachute (reported) [[src-dmzhub-items-2026-11-24]]. And without one equipped a long drop kills you [clm_b9d5f0d9bab7].
 
 ## How many uses does a parachute have?
 
@@ -36,7 +36,7 @@ DMZ has two parachutes: the Disposable Parachute, which gives three uses since t
 | Disposable Parachute | Rare (Uncommon on one site) | Fire Stations; recipe at DMZ level 55 | 500 | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] [[src-wzstats-dmz-loot-2026-10-30]] |
 | Parachute | Legendary | DMZ level 69 reward; printable | 5,000 | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] |
 
-Fire Stations, the red buildings on the map, are the place to look [[src-activision-dmz-guide-part1-2026-10-05]] [[src-keengamer-best-loot-2026-10-22]] [[src-codmunity-dmz-items-2026-10-26]]. Both kinds print in the Gear category of the [[3d-printer]] [[src-activision-dmz-guide-part2-2026-10-09]] [[src-westie-dmz-ama-recap-2026-10-11]]; one database gives the reusable Parachute's recipe as 2 Turned Components, 5 Nylon Cloth and 10 Rigid Synthetics (reported) [[src-dmzhub-recipes-2026-10-31]].
+Fire Stations, the red buildings on the map, are the place to look [[src-activision-dmz-guide-part1-2026-10-05]] [[src-keengamer-best-loot-2026-10-22]] [[src-codmunity-dmz-items-2026-10-26]]. For the reusable Parachute the same database adds a rare drop from [[colossus]] and the odd weapon locker (reported) [[src-dmzhub-items-2026-11-24]]. Both kinds print in the Gear category of the [[3d-printer]] [[src-activision-dmz-guide-part2-2026-10-09]] [[src-westie-dmz-ama-recap-2026-10-11]]; one database gives the reusable Parachute's recipe as 2 Turned Components, 5 Nylon Cloth and 10 Rigid Synthetics (reported) [[src-dmzhub-recipes-2026-10-31]].
 
 ## How do you use it?
 

@@ -1537,3 +1537,7 @@
 ## [2026-11-23 20:41 EST] render | 6 pages rendered, 1000 claims, 1000 evidence
 - changed: wiki 6, claims 1, evidence 1, index.md 1
 - run: r-20261124-014123-4679
+
+## [2026-11-23 21:20 EST] edit | community sweep 2026-11-24: DMZHub 23 Nov revisions (gas mask timers 160/80 and 240/160 s, Parachute from cargo plane infil and Colossus, Encrypted Archive 2,000, stack sizes) and recipes 103 to 106 (Experimental Compounds, Prototype RF Module, Nano-Structured Alloy now printable), reported; codmunity not fetched
+- changed: .kac 1, index 11, index.md 1, raw 2, wiki 12
+- run: r-20261123-212040-4520

@@ -1,11 +1,11 @@
 ---
 type: material
 title: "Experimental Compounds"
-description: "A Legendary 3D Printer ingredient that Commanders drop (Colossus for certain) and no recipe prints; used in the Door Breacher Charge, a 3-plate vest and late FOB upgrades."
+description: "A Legendary 3D Printer ingredient that Commanders drop (Colossus for certain) and, by one database, a new recipe prints; used in the Door Breacher Charge, a 3-plate vest and late FOB upgrades."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_0a8c285157c0, src-codmunity-dmz-items-2026-10-26, src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzhub-bosses-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31]
+sources: [clm_0a8c285157c0, src-codmunity-dmz-items-2026-10-26, src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzhub-bosses-2026-10-31, src-activision-dmz-guide-part2-2026-10-09, src-dmzhub-upgrades-2026-10-31, src-dmzhub-recipes-2026-11-24]
 aliases: ["Experimental Compound", "where to find Experimental Compounds", "Legendary ingredient"]
 ---
 <!-- generated:start -->
@@ -19,7 +19,7 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-Experimental Compounds are a Legendary 3D Printer ingredient [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] [clm_0a8c285157c0]. No printer recipe makes them [[src-dmzhub-recipes-2026-10-31]], and the Ultra recipes that need them can only be found in Hajin [[src-codcentral-3d-printer-recipes-2026-10-20]].
+Experimental Compounds are a Legendary 3D Printer ingredient [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] [clm_0a8c285157c0]. At launch no printer recipe made them [[src-dmzhub-recipes-2026-10-31]]; by 24 Nov 2026 one database lists a recipe that prints them from 2 Volatile Explosives and 5 Binding Catalyst (reported, unlock not known) [[src-dmzhub-recipes-2026-11-24]]. And the Ultra recipes that need them can only be found in Hajin [[src-codcentral-3d-printer-recipes-2026-10-20]].
 
 ## Where do you get Experimental Compounds?
 

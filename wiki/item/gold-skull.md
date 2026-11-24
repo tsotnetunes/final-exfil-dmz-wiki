@@ -5,7 +5,7 @@ description: "An Ultra valuable worth 25,000 DMZ Cash, found in high-tier key ro
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_b90e9b9a3636, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-gamingpromax-dmz-keys-2026-10-27, src-conquestcapped-dmz-keys-2026-10-28, src-keengamer-best-loot-2026-10-22, src-dmzhub-upgrades-2026-11-12]
+sources: [clm_b90e9b9a3636, src-dmzhub-items-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-gamingpromax-dmz-keys-2026-10-27, src-conquestcapped-dmz-keys-2026-10-28, src-keengamer-best-loot-2026-10-22, src-dmzhub-upgrades-2026-11-12, src-dmzhub-items-2026-11-24]
 aliases: ["Gold Skulls", "golden skull", "skull"]
 ---
 <!-- generated:start -->
@@ -27,7 +27,7 @@ Players report that end-game FOB upgrades need five Gold Skulls [clm_b90e9b9a363
 
 ## Where do you find Gold Skulls?
 
-In high-tier key rooms. Guides found them in the Counting Room Vault on the main floor of the Heavenly Luck Casino, and in the South Block Armory deep inside The Citadel at the 14th Political Prison [[src-gamingpromax-dmz-keys-2026-10-27]] [[src-conquestcapped-dmz-keys-2026-10-28]]. Both rooms need a key; see [[keys]]. Loot changes between deployments and no place guarantees a given rare item [[src-keengamer-best-loot-2026-10-22]], so a skull is never certain.
+In high-tier key rooms. Guides found them in the Counting Room Vault on the main floor of the Heavenly Luck Casino, and in the South Block Armory deep inside The Citadel at the 14th Political Prison [[src-gamingpromax-dmz-keys-2026-10-27]] [[src-conquestcapped-dmz-keys-2026-10-28]]. Both rooms need a key; see [[keys]]. One database also says safes hold them now and then, and that they stack up to ten in one slot (reported) [[src-dmzhub-items-2026-11-24]]. Loot changes between deployments and no place guarantees a given rare item [[src-keengamer-best-loot-2026-10-22]], so a skull is never certain.
 
 ## How do you keep one safe?
 

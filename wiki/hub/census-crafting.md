@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: crafting"
-description: "Every crafting subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 23 Nov 2026."
+description: "Every crafting subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 24 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -17,7 +17,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | 3D Printer (unlock, how printing works, tracking, fixes of 21 and 28 Oct) | [[3d-printer]] | [[src-activision-dmz-guide-part2-2026-10-09]], [[src-activision-ready-for-launch-progression-2026-10-19]], [[src-mw4-launch-patch-notes-2026-10-29]], [[src-vgtimes-dmz-3d-printer-2026-10-27]] | published |
 | Printer upgrades, 31 levels: Bank I to X, Stash Item I to IV, Stash Weapon I to III, MIA Recovery Discount I to IV, Gunsmith I and II, Vendor Item I and II, Dog Tag Case I to IV, Uncommon and Epic Ingredient Printing | [[printer-upgrades]] | [[src-dmzhub-upgrades-2026-10-31]], [[src-destructoid-3d-printer-recipes-2026-10-21]], [[src-codcentral-3d-printer-recipes-2026-10-20]], [[src-gamerfuzion-3d-printer-upgrades-2026-10-23]] | published; levels only in one database marked reported |
 | All 95 launch recipes | [[recipes]] | [[src-destructoid-3d-printer-recipes-2026-10-21]], [[src-codcentral-3d-printer-recipes-2026-10-20]], [[src-dmzhub-recipes-2026-10-31]], [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
-| Season 1 recipes: Consumable, Medical, Hazmat, Utility and Survivor Boxes, 3.5-Plate Armor Vest, Staff Emergency Exfil Keycard (103 in all on 23 Nov 2026) | Season 1 table in [[recipes]] | [[src-dmzhub-recipes-2026-11-23]] | published (reported) |
+| Season 1 recipes: Consumable, Medical, Hazmat, Utility and Survivor Boxes, 3.5-Plate Armor Vest, Staff Emergency Exfil Keycard (106 in all on 24 Nov 2026, with the ingredient recipes) | Season 1 table in [[recipes]] | [[src-dmzhub-recipes-2026-11-23]], [[src-dmzhub-recipes-2026-11-24]] | published (reported) |
 | Military Composites recipe (Season 1) | row in [[materials]], note in [[military-composites]] | [[src-dmzhub-recipes-2026-11-23]] | published (reported) |
 | Hazmat Box recipe (Season 1, unlocked by page 3 of the X01 Orders by one list) | rows in [[recipes]] and [[field-upgrades]] | [[src-dmzhub-items-2026-11-10]] [[src-dmzhub-recipes-2026-11-23]] | published (reported) |
 | Medkit | [[medkit-recipe]] | [[src-activision-dmz-guide-part2-2026-10-09]], [[src-westie-dmz-ama-recap-2026-10-11]], [[src-dtgre-dmz-crafting-guides-2026-10-24]] | published |
@@ -62,9 +62,9 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Nylon Laminate | [[nylon-laminate]] | [[src-destructoid-dmz-ingredient-guides-2026-10-22]], [[src-codcentral-3d-printer-recipes-2026-10-20]] | published |
 | Turned Components | [[turned-components]] | [[src-codcentral-3d-printer-recipes-2026-10-20]], [clm_6c7b8163cfc9] | published |
 | Military Composites | [[military-composites]] | [[src-gamingpromax-dmz-boss-locations-2026-10-23]], [[src-conquestcapped-dmz-bosses-2026-10-28]] | published |
-| Experimental Compounds | [[experimental-compounds]] | [[src-gamingpromax-dmz-boss-locations-2026-10-23]], [[src-dmzhub-bosses-2026-10-31]] | published; drop from Deathstalker and tank reported |
-| Prototype RF Module | [[prototype-rf-module]] | [[src-gamingpromax-dmz-boss-locations-2026-10-23]], [[src-conquestcapped-dmz-bosses-2026-10-28]] | published |
+| Experimental Compounds | [[experimental-compounds]] | [[src-gamingpromax-dmz-boss-locations-2026-10-23]], [[src-dmzhub-bosses-2026-10-31]], [[src-dmzhub-recipes-2026-11-24]] | published; drop from Deathstalker and tank reported |
+| Prototype RF Module | [[prototype-rf-module]] | [[src-gamingpromax-dmz-boss-locations-2026-10-23]], [[src-conquestcapped-dmz-bosses-2026-10-28]], [[src-dmzhub-recipes-2026-11-24]] | published |
 | Nitro Compounds | row in [[materials]] | [[src-codmunity-dmz-items-2026-10-26]], [[src-activision-ready-for-launch-progression-2026-10-19]] | published; where to find missing (no source names a spot) |
 | Alloyed Plating, Ballistic Fabric, Power Regulator, Stabilized Reagents, Volatile Explosives | row in [[materials]] | [[src-codcentral-3d-printer-recipes-2026-10-20]], [[src-dmzhub-items-2026-10-31]] | published; spots partly reported |
-| Nano-Structured Alloy | row in [[materials]] | [[src-gamingpromax-dmz-boss-locations-2026-10-23]], [[src-conquestcapped-dmz-bosses-2026-10-28]] | published; too thin for its own page |
+| Nano-Structured Alloy | row in [[materials]] | [[src-gamingpromax-dmz-boss-locations-2026-10-23]], [[src-conquestcapped-dmz-bosses-2026-10-28]], [[src-dmzhub-recipes-2026-11-24]] | published; too thin for its own page |
 <!-- human:end -->

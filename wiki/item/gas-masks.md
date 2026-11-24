@@ -5,7 +5,7 @@ description: "Gas Mask (recipe at DMZ level 26) and Durable Gas Mask (level 68 r
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-mw4-launch-patch-notes-2026-10-29, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-keengamer-best-loot-2026-10-22]
+sources: [src-mw4-launch-patch-notes-2026-10-29, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-keengamer-best-loot-2026-10-22, src-dmzhub-items-2026-11-24]
 aliases: ["Gas Mask", "Durable Gas Mask", "gasmask", "gas mask durability", "Purple Gas Mask", "purple gas mask", "radiation mask", "Radiation Gear"]
 ---
 <!-- generated:start -->
@@ -17,7 +17,7 @@ A gas mask protects you from radiation, both the storm that spreads across Hajin
 
 ## Do gas masks still break in radiation?
 
-No longer instantly. At launch gas masks and parachutes had the wrong number of uses; the fix of 23 Oct 2026 stopped gas masks, the Durable one included, from breaking the moment you walk into a radiation zone [[src-mw4-launch-patch-notes-2026-10-29]]. They still wear out: the reactor's red zone uses them up fast, so carry a spare (reported) [[src-codmunity-dmz-guide-2026-10-24]]. How long each mask lasts is not published.
+No longer instantly. At launch gas masks and parachutes had the wrong number of uses; the fix of 23 Oct 2026 stopped gas masks, the Durable one included, from breaking the moment you walk into a radiation zone [[src-mw4-launch-patch-notes-2026-10-29]]. They still wear out: the reactor's red zone uses them up fast, so carry a spare (reported) [[src-codmunity-dmz-guide-2026-10-24]]. One database gives each mask a fixed time: the Gas Mask protects for 160 seconds in ordinary radiation and 80 seconds in the reactor's critical zone, the Durable Gas Mask for 240 and 160 seconds (reported) [[src-dmzhub-items-2026-11-24]].
 
 ## How do you get one?
 
@@ -26,7 +26,7 @@ No longer instantly. At launch gas masks and parachutes had the wrong number of 
 | Gas Mask | Rare | recipe at DMZ level 26; printable | 300 or 1,200 | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] [[src-wzstats-dmz-loot-2026-10-30]] |
 | Durable Gas Mask | Epic | DMZ level 68 reward; printable | 1,000 | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzhub-items-2026-10-31]] |
 
-Gas masks print in the 3D Printer's Gear category [[src-activision-dmz-guide-part2-2026-10-09]]. One database lists the Gas Mask at 30 Chemicals and 3 Rigid Synthetics, and the Durable Gas Mask at 30 Chemicals, 1 High-Tenacity Fibers and 5 Biomaterials (reported) [[src-dmzhub-recipes-2026-10-31]]. Fire Stations, the red buildings on the map, stock radiation gear [[src-activision-dmz-guide-part1-2026-10-05]] [[src-keengamer-best-loot-2026-10-22]].
+Gas masks print in the 3D Printer's Gear category [[src-activision-dmz-guide-part2-2026-10-09]]. One database lists the Gas Mask at 30 Chemicals and 3 Rigid Synthetics, and the Durable Gas Mask at 30 Chemicals, 1 High-Tenacity Fibers and 5 Biomaterials (reported) [[src-dmzhub-recipes-2026-10-31]]. Fire Stations, the red buildings on the map, stock radiation gear [[src-activision-dmz-guide-part1-2026-10-05]] [[src-keengamer-best-loot-2026-10-22]]. The same database adds industrial lockers for both masks, Fire Station storage rooms for the Durable one, and drops from enemy soldiers in hazmat suits, more often inside the reactor (reported) [[src-dmzhub-items-2026-11-24]].
 
 ## What else protects you from radiation?
 

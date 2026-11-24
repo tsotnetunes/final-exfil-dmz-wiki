@@ -1,11 +1,11 @@
 ---
 type: material
 title: "Prototype RF Module"
-description: "A Legendary 3D Printer ingredient that drops from the Deathstalker drone Commander and cannot be printed; needed for Vendor Item Upgrade I, the Fulton Drop Marker and two Ultra recipes."
+description: "A Legendary 3D Printer ingredient that drops from the Deathstalker drone Commander and, by one database, a new recipe prints; needed for Vendor Item Upgrade I, the Fulton Drop Marker and two Ultra recipes."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-codcentral-3d-printer-recipes-2026-10-20, src-vgtimes-dmz-3d-printer-2026-10-27, src-destructoid-3d-printer-recipes-2026-10-21, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-dmzhub-bosses-2026-10-31, src-dmzhub-upgrades-2026-10-31]
+sources: [src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-codcentral-3d-printer-recipes-2026-10-20, src-vgtimes-dmz-3d-printer-2026-10-27, src-destructoid-3d-printer-recipes-2026-10-21, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-guide-part1-2026-10-05, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-dmzhub-bosses-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-dmzhub-recipes-2026-11-24]
 aliases: ["Prototype RF Modules", "RF Module", "RF Modules", "Deathstalker drop", "where to find Prototype RF Module"]
 ---
 <!-- generated:start -->
@@ -13,7 +13,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 <!-- generated:end -->
 
 <!-- human:start -->
-The Prototype RF Module is a Legendary 3D Printer ingredient that drops from the Deathstalker, the helicopter-sized drone Commander [[src-activision-dmz-guide-part2-2026-10-09]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-codcentral-3d-printer-recipes-2026-10-20]] [[src-vgtimes-dmz-3d-printer-2026-10-27]]. No printer recipe makes it [[src-codcentral-3d-printer-recipes-2026-10-20]].
+The Prototype RF Module is a Legendary 3D Printer ingredient that drops from the Deathstalker, the helicopter-sized drone Commander [[src-activision-dmz-guide-part2-2026-10-09]] [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-codcentral-3d-printer-recipes-2026-10-20]] [[src-vgtimes-dmz-3d-printer-2026-10-27]]. At launch no printer recipe made it [[src-codcentral-3d-printer-recipes-2026-10-20]]; by 24 Nov 2026 one database lists a recipe that prints it from 2 Power Regulators and 5 CPUs (reported, unlock not known) [[src-dmzhub-recipes-2026-11-24]].
 
 ## How do you get one?
 

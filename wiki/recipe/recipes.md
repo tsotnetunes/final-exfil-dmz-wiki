@@ -5,7 +5,7 @@ description: "All 88 item recipes at the MW4 DMZ 3D Printer, Season 1 included, 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-recipes-2026-10-31, src-dmzhub-recipes-2026-11-23, src-dmzhub-items-2026-11-23, src-dmzhub-orders-2026-11-13, src-dmzguides-orders-2026-11-13, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-vgtimes-dmz-3d-printer-2026-10-27, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gfinity-dmz-3d-printer-2026-10-22, src-altchar-dmz-story-missions-2026-10-22, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31]
+sources: [src-dmzhub-recipes-2026-10-31, src-dmzhub-recipes-2026-11-23, src-dmzhub-items-2026-11-23, src-dmzhub-orders-2026-11-13, src-dmzguides-orders-2026-11-13, src-activision-dmz-guide-part2-2026-10-09, src-activision-ready-for-launch-progression-2026-10-19, src-destructoid-3d-printer-recipes-2026-10-21, src-codcentral-3d-printer-recipes-2026-10-20, src-vgtimes-dmz-3d-printer-2026-10-27, src-xboxplay-dmz-crafting-guides-2026-10-23, src-allthingshow-dmz-crafting-guides-2026-10-21, src-gfinity-dmz-3d-printer-2026-10-22, src-altchar-dmz-story-missions-2026-10-22, src-codmunity-dmz-items-2026-10-26, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-11-24]
 aliases: ["Recipes", "crafting recipes", "DMZ recipes", "printer recipes", "3D printer recipe list", "what can you craft", "all recipes", "crafting list", "recipe cards"]
 ---
 <!-- generated:start -->
@@ -23,7 +23,7 @@ _Generated from 0 confirmed and 1 reported claims across 1 posts and 0 patch not
 <!-- generated:end -->
 
 <!-- human:start -->
-At launch the [[3d-printer]] printed 81 kinds of gear, each from its own recipe; with 14 ingredient recipes that made 95 [[src-codcentral-3d-printer-recipes-2026-10-20]] [[src-dmzhub-recipes-2026-10-31]]. Season 1 brought seven more item recipes and one more ingredient recipe, 103 in all by 23 Nov 2026 (reported) [[src-dmzhub-recipes-2026-11-23]]; they are listed under Season 1 below. Six come with the printer; the rest unlock through DMZ levels, DMZ Orders, a Story Mission or a recipe card you loot and extract [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]]. Ingredient recipes: [[materials]]. Upgrades: [[printer-upgrades]].
+At launch the [[3d-printer]] printed 81 kinds of gear, each from its own recipe; with 14 ingredient recipes that made 95 [[src-codcentral-3d-printer-recipes-2026-10-20]] [[src-dmzhub-recipes-2026-10-31]]. Season 1 brought seven more item recipes and four more ingredient recipes, 106 in all by 24 Nov 2026 (reported) [[src-dmzhub-recipes-2026-11-23]] [[src-dmzhub-recipes-2026-11-24]]; they are listed under Season 1 below. Six come with the printer; the rest unlock through DMZ levels, DMZ Orders, a Story Mission or a recipe card you loot and extract [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]]. Ingredient recipes: [[materials]]. Upgrades: [[printer-upgrades]].
 
 ## How do you unlock a recipe?
 
@@ -167,7 +167,7 @@ Inputs: three lists, agreeing except as noted below [[src-destructoid-3d-printer
 | 3.5-Plate Armor Vest | Ultra | 2 Power Regulators, 5 Structural Alloy, 1 Specter Fabric Sample | Not confirmed |
 | Staff Emergency Exfil Keycard | Epic | 80 Electronics, 2 CPU, 4 Printed Circuit Boards, 8 Control Units | Orders (X01, page 4, by one list; others say the card itself) |
 
-Inputs and rarities come from one database and are reported until a second source or the card in game agrees [[src-dmzhub-recipes-2026-11-23]]. The four boxes are Field Upgrades, the Survivor Box among them (reported) [[src-dmzhub-items-2026-11-23]]; the SR-16 Bio Agent Sample and the Specter Fabric Sample are Season 1 ingredients that are not printed. Order unlocks follow the X01 Orders lists, which disagree on whether some pages pay the recipe or the finished item; see [[x01-orders]] [[src-dmzhub-orders-2026-11-13]] [[src-dmzguides-orders-2026-11-13]]. The same database also adds a recipe that prints Military Composites; see [[materials]].
+Inputs and rarities come from one database and are reported until a second source or the card in game agrees [[src-dmzhub-recipes-2026-11-23]]. The four boxes are Field Upgrades, the Survivor Box among them (reported) [[src-dmzhub-items-2026-11-23]]; the SR-16 Bio Agent Sample and the Specter Fabric Sample are Season 1 ingredients that are not printed. Order unlocks follow the X01 Orders lists, which disagree on whether some pages pay the recipe or the finished item; see [[x01-orders]] [[src-dmzhub-orders-2026-11-13]] [[src-dmzguides-orders-2026-11-13]]. The same database also adds recipes that print all four Legendary Commander ingredients: Military Composites from 23 Nov, Experimental Compounds, the Prototype RF Module and Nano-Structured Alloy from 24 Nov 2026 [[src-dmzhub-recipes-2026-11-24]]; see [[materials]].
 
 ## Where the lists disagree
 

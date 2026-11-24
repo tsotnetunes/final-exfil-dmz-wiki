@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: items"
-description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 23 Nov 2026."
+description: "Every items subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 24 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -72,8 +72,8 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Large Secure Backpack | row in [[backpacks]] | [[src-dmzradar-backpacks-2026-10-20]] [[src-dmzhub-items-2026-10-31]] | published |
 | Secure Scavenger Backpack | row in [[backpacks]] | [[src-dmzradar-backpacks-2026-10-20]] [[src-dmzhub-items-2026-10-31]] | published |
 | Large Backpack | [[large-backpack]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-dmzradar-backpacks-2026-10-20]] | published |
-| Gas Mask | row in [[gas-masks]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |
-| Durable Gas Mask | row in [[gas-masks]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] | published |
+| Gas Mask | row in [[gas-masks]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] [[src-dmzhub-items-2026-11-24]] | published |
+| Durable Gas Mask | row in [[gas-masks]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] [[src-dmzhub-items-2026-11-24]] | published |
 | Radiation Gear | section in [[gas-masks]] (one database lists it as an item) | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Purple Gas Mask (not an item name) | [[purple-gas-mask]], alias on [[gas-masks]] | [clm_af3e918e79b4] | retired |
 | Hazmat Suit | [[hazmat-suit]] | [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] [[src-dmzhub-items-2026-11-08]] | published |
@@ -81,7 +81,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Weak Night Vision Goggles | row in [[night-vision-goggles]] | [[src-westie-dmz-ama-recap-2026-10-11]] [[src-dmzhub-items-2026-10-31]] | published |
 | Elite Night Vision Goggles | row in [[night-vision-goggles]] | [[src-westie-dmz-ama-recap-2026-10-11]] [[src-dmzhub-items-2026-10-31]] | published |
 | Disposable Parachute | row in [[parachute]] | [[src-mw4-launch-patch-notes-2026-10-29]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
-| Parachute | row in [[parachute]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-westie-dmz-ama-recap-2026-10-11]] | published |
+| Parachute | row in [[parachute]] | [[src-activision-ready-for-launch-progression-2026-10-19]] [[src-westie-dmz-ama-recap-2026-10-11]] [[src-dmzhub-items-2026-11-24]] | published |
 | Bandage | row in [[medical-items]] | [[src-westie-dmz-ama-recap-2026-10-11]] [[src-activision-dmz-guide-part2-2026-10-09]] | published |
 | Medkit | row in [[medical-items]] | [[src-activision-dmz-guide-part2-2026-10-09]] [[src-activision-ready-for-launch-progression-2026-10-19]] | published |
 | Stim | row in [[medical-items]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-items-2026-10-31]] | published |
@@ -156,14 +156,14 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Infantry Invasion Plans | row in [[valuables]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Degraded Execution Footage | row in [[valuables]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-11-17]] | published |
 | Nuclear Program Files | row in [[valuables]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | published |
-| Encrypted Archive | row in [[valuables]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | published |
+| Encrypted Archive | row in [[valuables]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-11-24]] | published |
 | W.M.D Manifest | row in [[valuables]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Foreign Intelligence Targets | row in [[valuables]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Cipher Code Ledger | row in [[valuables]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Sanctioned Assassination List | row in [[valuables]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | published |
 | Gold Bar | [[gold-bar]] | [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]] | published |
 | Gold Bars (duplicate) | [[gold-bars]], alias on [[gold-bar]] | [clm_121f8118faaf] | retired |
-| Gold Skull | [[gold-skull]] | [[src-dmzhub-items-2026-10-31]] [[src-dmzhub-upgrades-2026-10-31]] | published |
+| Gold Skull | [[gold-skull]] | [[src-dmzhub-items-2026-10-31]] [[src-dmzhub-upgrades-2026-10-31]] [[src-dmzhub-items-2026-11-24]] | published |
 | Lieutenant Dog Tags (8: Bale, Gorani, Iskra, Jin-Tae, Roze, the Scavenger, The Chemist, The Doctor) | section in [[valuables]]; detail on [[legendary-dog-tag]] (progression area) | [[src-dmzhub-items-2026-10-31]] [[src-allthings-how-solo-money-2026-10-21]] | published |
 | Steel Dog Tag, Dog Tag | [[dog-tags]] (progression area) | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | other area |
 | Gas Can | row in [[repair-items]] | [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-items-2026-10-26]] | draft (uses not confirmed) |

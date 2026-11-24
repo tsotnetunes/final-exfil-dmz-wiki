@@ -5,7 +5,7 @@ description: "Every 3D Printer material in MW4 DMZ: the four Resources and 26 In
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-dmzhub-items-2026-11-04, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-items-2026-10-26, src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-dtgre-dmz-crafting-guides-2026-10-24, src-vgtimes-dmz-3d-printer-2026-10-27, src-gfinity-dmz-3d-printer-2026-10-22, src-destructoid-dmz-ingredient-guides-2026-10-22, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-techbloat-dmz-orders-2026-10-28, src-allthingshow-dmz-crafting-guides-2026-10-21, src-patchcrazy-dmz-crafting-guides-2026-10-28, src-dmzhub-items-2026-10-31, src-dmzhub-traits-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05, src-dmzhub-items-2026-11-12, src-dmzhub-recipes-2026-11-23]
+sources: [src-dmzhub-items-2026-11-04, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-ready-for-launch-progression-2026-10-19, src-codmunity-dmz-items-2026-10-26, src-codcentral-3d-printer-recipes-2026-10-20, src-destructoid-3d-printer-recipes-2026-10-21, src-dtgre-dmz-crafting-guides-2026-10-24, src-vgtimes-dmz-3d-printer-2026-10-27, src-gfinity-dmz-3d-printer-2026-10-22, src-destructoid-dmz-ingredient-guides-2026-10-22, src-gamingpromax-dmz-boss-locations-2026-10-23, src-conquestcapped-dmz-bosses-2026-10-28, src-gamerfuzion-3d-printer-upgrades-2026-10-23, src-techbloat-dmz-orders-2026-10-28, src-allthingshow-dmz-crafting-guides-2026-10-21, src-patchcrazy-dmz-crafting-guides-2026-10-28, src-dmzhub-items-2026-10-31, src-dmzhub-traits-2026-10-31, src-dmzhub-recipes-2026-10-31, src-dmzhub-bosses-2026-10-31, src-dmzhub-upgrades-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05, src-dmzhub-items-2026-11-12, src-dmzhub-recipes-2026-11-23, src-dmzhub-recipes-2026-11-24]
 aliases: ["Materials", "Ingredients", "Resources", "printer resources", "3D Printer Ingredients", "crafting materials", "Synthetics", "Electronics", "Chemicals", "Metals", "Nitro Compounds", "Alloyed Plating", "Ballistic Fabric", "Power Regulator", "Stabilized Reagents", "Volatile Explosives", "Nano-Structured Alloy", "where to farm materials"]
 ---
 <!-- generated:start -->
@@ -49,10 +49,10 @@ Rarity from [[src-dmzhub-items-2026-10-31]], [[src-codmunity-dmz-items-2026-10-2
 | Stabilized Reagents | Epic | Epic tier | Mirae General Hospital, medical tents | none |
 | [[turned-components]] | Epic | Epic tier | Imjin rice mill, construction zone | none |
 | Volatile Explosives | Epic | Epic tier | NuriGO DRC lab, Citadel yard, Imjin tents | none |
-| [[experimental-compounds]] | Legendary | No | Commanders (Colossus for certain) | none |
-| [[military-composites]] | Legendary | No | Colossus | none |
-| Nano-Structured Alloy | Legendary | No | North Korean battle tank | none |
-| [[prototype-rf-module]] | Legendary | No | Deathstalker | none |
+| [[experimental-compounds]] | Legendary | New recipe (reported) | Commanders (Colossus for certain) | none |
+| [[military-composites]] | Legendary | New recipe (reported) | Colossus | none |
+| Nano-Structured Alloy | Legendary | New recipe (reported) | North Korean battle tank | none |
+| [[prototype-rf-module]] | Legendary | New recipe (reported) | Deathstalker | none |
 | Specter Fabric Sample (Season 1) | Legendary | No | anywhere in [[x01]]; a chance from [[the-captain]] (reported) | none |
 
 Each Commander's own part is confirmed by several guides [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-conquestcapped-dmz-bosses-2026-10-28]] [[src-codcentral-3d-printer-recipes-2026-10-20]] [[src-dmzhub-bosses-2026-10-31]]; Experimental Compounds come from Colossus [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-dmzhub-bosses-2026-10-31]] and, by one database, from every Commander (reported). Nano-Structured Alloy is Legendary [[src-gamingpromax-dmz-boss-locations-2026-10-23]] [[src-dmzhub-items-2026-10-31]]; Comms Module is Epic [[src-destructoid-dmz-ingredient-guides-2026-10-22]] [[src-dmzhub-items-2026-10-31]]. The Specter Fabric Sample is a Season 1 ingredient for the X01 printer that goes into the 3.5-Plate Armor Vest ([[armor-vests]]) and, by the same database, the Argonaut Armor ([[fire-support]]) (reported) [[src-dmzhub-items-2026-11-12]].
@@ -80,6 +80,9 @@ Uncommon Ingredient Printing (50,000 DMZ Cash) opens the six Uncommon ones, each
 | Turned Components | 100 Metals, 3 Stock Rods |
 | Volatile Explosives | 100 Chemicals, 3 Nitro Compounds |
 | Military Composites (Season 1, Legendary) | 2 Nylon Laminate, 5 Nylon Cloth (reported) [[src-dmzhub-recipes-2026-11-23]] |
+| Experimental Compounds (Season 1, Legendary) | 2 Volatile Explosives, 5 Binding Catalyst (reported) [[src-dmzhub-recipes-2026-11-24]] |
+| Prototype RF Module (Season 1, Legendary) | 2 Power Regulators, 5 CPU (reported) [[src-dmzhub-recipes-2026-11-24]] |
+| Nano-Structured Alloy (Season 1, Legendary) | 2 Turned Components, 5 Structural Alloy (reported) [[src-dmzhub-recipes-2026-11-24]] |
 
 ## What do the Ingredients without a page go into?
 
