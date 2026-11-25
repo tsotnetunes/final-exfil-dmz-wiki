@@ -102,7 +102,8 @@ Every subject in the players' area (FAQ, glossary, events, guides and the mechan
 | Halloween Party Mode in the playlists (29 and 30 Oct) | row in [[events]] | [[src-mw4-launch-patch-notes-2026-10-29]] | published |
 | Warzone Season 1, Hajin Conflict: trailer and roadmap (2 Nov) | row in [[events]] | [[src-cod-x-hajin-conflict-2026-11-01]] | published |
 | Wager Match Event (live since 11 Nov 2026) | [[wager-match]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-infinityward-x-wager-match-live-2026-11-12]] | published |
-| Threat Briefing: Battle Tank; Threat Briefing: The Captain (start not given) | row in [[events]] | [[src-activision-season-1-announcement-2026-10-28]] | published |
+| Threat Briefing: Battle Tank (live since 6 Nov 2026) | [[threat-briefing-battle-tank]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]] | published |
+| Threat Briefing: The Captain (live since 24 Nov 2026) | [[threat-briefing-the-captain]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-infinityward-x-captain-threat-briefing-2026-11-24]] | published |
 | Resupply Run (live since 12 Nov 2026) | [[resupply-run-event]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-x-community-resupply-run-2026-11-13]] | published |
 | Joint Fire (every Friday from 13 Nov 2026) | [[joint-fire]] | [[src-infinityward-x-joint-fire-live-2026-11-13]] | published |
 | Natural Concealment camo event (live since 16 Nov 2026) | [[natural-concealment]] | [[src-infinityward-x-natural-concealment-2026-11-16]] | published |

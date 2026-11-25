@@ -1545,3 +1545,7 @@
 ## [2026-11-23 22:47 EST] render | 2 pages rendered, 1000 claims, 1000 evidence
 - changed: wiki 2, claims 1, evidence 1, index.md 1
 - run: r-20261124-034726-968d
+
+## [2026-11-24 19:44 EST] edit | daily update 2026-11-25: Threat Briefing: The Captain live since 24 Nov (new event page and official source; the-captain, events, FAQ, Season 1, Battle Tank briefing, fire-support, census rows)
+- changed: .kac 1, evals 1, index 9, index.md 1, raw 1, wiki 10
+- run: r-20261124-194430-a455

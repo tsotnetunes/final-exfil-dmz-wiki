@@ -34,7 +34,7 @@ _No generated text yet. The Brain fills this zone from confirmed claims; nobody 
 | Wheelson (Commander, Season 1) | [[wheelson]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]] [[src-gamerfuzion-x01-orders-page-5-2026-11-18]] | published (Logistics Tunnel reported; no cash reward announced) |
 | Juggernauts, Elite Strike Teams (June list) | section in [[commander-threats]] | [[src-activision-dmz-deep-dive-2026-06]] | missing (not seen in any launch source; the Juggernaut returns as The Captain) |
 | King Slayer calling card | rows in [[commander-threats]] and [[colossus]] | [[src-mw4-launch-patch-notes-2026-10-29]] | published row (its requirements are not confirmed) |
-| Threat Briefing events | [[threat-briefing-battle-tank]], section in [[the-captain]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]] | published |
+| Threat Briefing events | [[threat-briefing-battle-tank]], [[threat-briefing-the-captain]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-mw4-season-1-patch-notes-2026-11-05]] | published |
 | 100 Spirits NK Faction (North Korean forces) | [[north-korean-forces]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-activision-dmz-guide-part1-2026-10-05]] | published |
 | Tier 1 to Tier 4 soldiers, hazmat troops | rows in [[north-korean-forces]] | [[src-activision-dmz-guide-part1-2026-10-05]] [[src-gamespark-tokyo-media-event-2026-10-01]] | published |
 | Drone swarms, LMG drones, Combat and Heavy Combat Drones | rows in [[north-korean-forces]] | [[src-activision-dmz-guide-part1-2026-10-05]] | published (Combat Drone names reported from Orders) |

@@ -5,7 +5,7 @@ description: "DMZ's Season 1 event from 6 Nov 2026: destroy North Korean battle 
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-mw4-season-1-patch-notes-2026-11-05, src-activision-season-1-announcement-2026-10-28, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-items-2026-11-10, src-dmzhub-items-2026-11-19]
+sources: [src-infinityward-x-captain-threat-briefing-2026-11-24, src-mw4-season-1-patch-notes-2026-11-05, src-activision-season-1-announcement-2026-10-28, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-items-2026-11-10, src-dmzhub-items-2026-11-19]
 aliases: ["Battle Tank event", "Threat Briefing Battle Tank", "tank event", "armor fragments", "tank parts event", "Threat Briefing"]
 date: "2026-11-06"
 ---
@@ -25,5 +25,5 @@ The official notes speak only of rewards, and the post of better ones for more p
 ## How do you beat the tank?
 See [[main-nk-battle-tank]]: launchers from cover, a DDOS for its armour, and three loot spots on the wreck [[src-allthingshow-dmz-bosses-2026-10-21]] [[src-conquestcapped-dmz-bosses-2026-10-28]]. From 6 Nov 2026 the Crossfire Killstreak does more damage to tanks [[src-mw4-season-1-patch-notes-2026-11-05]] ([[fire-support]]).
 
-More Threat Briefings follow in the season, The Captain's first ([[the-captain]]) [[src-activision-season-1-announcement-2026-10-28]]. All events: [[are-there-events-in-dmz]].
+The season's second briefing, for The Captain in X01, started on 24 Nov 2026 [[src-infinityward-x-captain-threat-briefing-2026-11-24]] ([[threat-briefing-the-captain]]), and more are planned [[src-activision-season-1-announcement-2026-10-28]]. All events: [[are-there-events-in-dmz]].
 <!-- human:end -->

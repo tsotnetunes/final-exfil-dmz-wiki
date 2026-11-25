@@ -470,3 +470,6 @@
 - id: g157
   question: Which weapons did the 23 Nov DMZ weapon tuning nerf, and was the Signal 50 buffed?
   must_retrieve: [movement-and-tuning]
+- id: g147
+  question: When did The Captain's Threat Briefing start in DMZ and what does it reward?
+  must_retrieve: [threat-briefing-the-captain]
