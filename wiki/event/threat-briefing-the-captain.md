@@ -8,7 +8,6 @@ sensitivity: public
 sources: [src-infinityward-x-captain-threat-briefing-2026-11-24, src-activision-season-1-announcement-2026-10-28, src-gamerfuzion-x01-orders-page-4-2026-11-19, src-lfcarry-x01-guide-2026-11-19]
 aliases: ["Captain Threat Briefing", "Threat Briefing Captain", "The Captain event", "Captain event", "Prototype Helmet", "Prototype Helmets", "Captain helmet event", "helmet event DMZ"]
 date: "2026-11-24"
-stale_after: 2026-12-15
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._
