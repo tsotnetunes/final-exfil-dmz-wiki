@@ -1,7 +1,7 @@
 ---
 type: event
 title: "MW4 DMZ events and dates"
-description: "Every dated DMZ and Modern Warfare 4 event from DMZ Week on: launch, Season 1 on 6 Nov 2026, Wager Match, the Resupply Run, Friday Joint Fire, Natural Concealment, the War Chest, The Captain and Thanksgiving Double XP to 30 Nov."
+description: "Every dated DMZ and Modern Warfare 4 event from DMZ Week on: launch, Season 1 on 6 Nov 2026, Wager Match, the Resupply Run, Friday Joint Fire, Natural Concealment, the War Chest, The Captain and Thank"
 status: stable
 brain_status: published
 sensitivity: public
