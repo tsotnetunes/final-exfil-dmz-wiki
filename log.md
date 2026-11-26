@@ -1553,3 +1553,7 @@
 ## [2026-11-24 22:47 EST] render | 8 pages rendered, 1000 claims, 1000 evidence
 - changed: wiki 8, claims 1, evidence 1, index.md 1
 - run: r-20261125-034725-205f
+
+## [2026-11-25 19:43 EST] edit | daily update 2026-11-26: Thanksgiving Double Level and Weapon XP 25 to 30 Nov 10 AM PT, Season 1 Reloaded due week of 30 Nov per Infinity Ward (new official source; double-xp-tokens, events, season-1, post-launch FAQ)
+- changed: .kac 1, index 10, index.md 1, raw 1, wiki 5
+- run: r-20261125-194340-9c22

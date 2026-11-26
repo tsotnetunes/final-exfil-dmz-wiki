@@ -1,11 +1,11 @@
 ---
 type: event
 title: "MW4 DMZ events and dates"
-description: "Every dated DMZ and Modern Warfare 4 event from DMZ Week on: launch, Season 1 on 6 Nov 2026, Wager Match, the Resupply Run, Friday Joint Fire, Natural Concealment and the War Chest since 19 Nov."
+description: "Every dated DMZ and Modern Warfare 4 event from DMZ Week on: launch, Season 1 on 6 Nov 2026, Wager Match, the Resupply Run, Friday Joint Fire, Natural Concealment, the War Chest, The Captain and Thanksgiving Double XP to 30 Nov."
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-infinityward-x-captain-threat-briefing-2026-11-24, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-iw-dmz-early-access-time-2026-10-19, src-activision-pc-specs-2026-09-29, src-cod-x-mw4-2xp-giveaway-2026-10-23, src-gamerfuzion-launch-roadmap-2026-10-14, src-mw4-launch-patch-notes-2026-10-29, src-cod-x-hajin-conflict-2026-11-01, src-activision-warzone-season-1-blog-2026-11-02, src-cod-x-dmz-high-stakes-2026-11-02, src-mw4-season-1-patch-notes-2026-11-05, src-infinityward-x-wager-match-live-2026-11-12, src-x-community-resupply-run-2026-11-13, src-infinityward-x-joint-fire-live-2026-11-13, src-callofduty-x-double-xp-weekend-2026-11-13, src-infinityward-x-natural-concealment-2026-11-16, src-detonated-season-1-reloaded-date-2026-11-18, src-gamelevate-season-1-reloaded-date-2026-11-18]
+sources: [src-infinityward-x-captain-threat-briefing-2026-11-24, src-activision-season-1-announcement-2026-10-28, src-activision-dmz-guide-part2-2026-10-09, src-westie-dmz-ama-recap-2026-10-11, src-activision-campaign-early-access-live-2026-10-16, src-iw-dmz-early-access-time-2026-10-19, src-activision-pc-specs-2026-09-29, src-cod-x-mw4-2xp-giveaway-2026-10-23, src-gamerfuzion-launch-roadmap-2026-10-14, src-mw4-launch-patch-notes-2026-10-29, src-cod-x-hajin-conflict-2026-11-01, src-activision-warzone-season-1-blog-2026-11-02, src-cod-x-dmz-high-stakes-2026-11-02, src-mw4-season-1-patch-notes-2026-11-05, src-infinityward-x-wager-match-live-2026-11-12, src-x-community-resupply-run-2026-11-13, src-infinityward-x-joint-fire-live-2026-11-13, src-callofduty-x-double-xp-weekend-2026-11-13, src-callofduty-x-thanksgiving-double-xp-2026-11-25, src-infinityward-x-natural-concealment-2026-11-16, src-detonated-season-1-reloaded-date-2026-11-18, src-gamelevate-season-1-reloaded-date-2026-11-18]
 aliases: ["DMZ events", "DMZ calendar", "MW4 roadmap", "MW4 events", "DMZ schedule", "launch roadmap", "events list", "DMZ dates"]
 date: "2026-11-06"
 ---
@@ -43,11 +43,12 @@ Season 1 started at midnight ET on 6 Nov 2026 and brought DMZ's first events: [[
 | from 19 Nov, afternoon ET | War Chest [[src-mw4-season-1-patch-notes-2026-11-05]] [[src-infinityward-x-war-chest-live-2026-11-19]] | containers and safes score leaderboard points; Fulton Exfils, Tempered Armor Vests, UAVs and more, each won once | [[leaderboard-war-chest]] |
 | from 23 Nov | Thanksgiving Duty Roster [[src-mw4-season-1-patch-notes-2026-11-05]] | kills in every mode score leaderboard points, a DMZ kill only 2; the "Bird Call" Astaroth .57 blueprint among the rewards | [[thanksgiving-duty-roster]] |
 | from 24 Nov, afternoon ET | Threat Briefing: The Captain [[src-infinityward-x-captain-threat-briefing-2026-11-24]] | kill The Captain in X01 for a guaranteed Prototype Helmet, find more in X01 and exfil them; Argonaut Armor and Large Backpacks among the rewards | [[threat-briefing-the-captain]] |
+| 25 Nov to 30 Nov, 10 AM PT | Thanksgiving Double Level XP and Double Weapon XP [[src-callofduty-x-thanksgiving-double-xp-2026-11-25]] | DMZ not named in the posts; weapon XP is shared with DMZ | [[double-xp-tokens]] |
 
 ## What is coming?
 | Date | Event | For DMZ | Page |
 | --- | --- | --- | --- |
-| expected 3 Dec 2026 (reported) | Season 1 Reloaded, with more Threat Briefings | date read from the in-game timer, not announced; DMZ content not detailed yet [[src-detonated-season-1-reloaded-date-2026-11-18]] [[src-gamelevate-season-1-reloaded-date-2026-11-18]] | [[season-1]] |
+| week of 30 Nov 2026; 3 Dec expected (reported) | Season 1 Reloaded, with more Threat Briefings | Infinity Ward said on 25 Nov it arrives next week [[src-callofduty-x-thanksgiving-double-xp-2026-11-25]]; the 3 Dec date is read from the in-game timer, not announced; DMZ content not detailed yet [[src-detonated-season-1-reloaded-date-2026-11-18]] [[src-gamelevate-season-1-reloaded-date-2026-11-18]] | [[season-1]] |
 
 Rows without their own citation come from the official Season 1 post [[src-activision-season-1-announcement-2026-10-28]] and the patch notes [[src-mw4-season-1-patch-notes-2026-11-05]], with the Player Level reset from the Warzone post [[src-activision-warzone-season-1-blog-2026-11-02]].
 
