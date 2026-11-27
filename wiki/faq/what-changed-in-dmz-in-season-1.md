@@ -1,7 +1,7 @@
 ---
 type: faq
 title: "What changed in DMZ with the Season 1 patch?"
-description: "From 6 Nov 2026: X01, Possum nerf, dupe fixes; 10 Nov failed-exfil cash; 11 Nov longer hitscan; 16 Nov shared Lieutenant tag cash; 23 Nov first DMZ-only weapon tuning; 25 Nov fixes for Gas Masks, consumables and challenges."
+description: "From 6 Nov 2026: X01, Possum nerf, dupe fixes; 10 Nov failed-exfil cash; 11 Nov longer hitscan; 16 Nov shared Lieutenant tag cash; 23 Nov first DMZ-only weapon tuning; 25 Nov fixes for Gas Masks, cons"
 status: stable
 brain_status: published
 sensitivity: public

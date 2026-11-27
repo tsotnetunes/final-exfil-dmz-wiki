@@ -1565,3 +1565,7 @@
 ## [2026-11-26 19:50 EST] edit | daily update 2026-11-27: Infinity Ward's 25 Nov DMZ fixes (vehicle kills in challenges, Gas Mask lost with NVGs, consumables lost mantling, Backpack attachment capacity) and a barrel count for Ask (new sources; season-1 changes FAQ, gas-masks, night-vision-goggles, medical-items, backpacks, dmz-camos, vehicles, weapon-customization)
 - changed: .kac 1, evals 1, index 10, index.md 1, raw 2, wiki 10
 - run: r-20261126-195044-54ef
+
+## [2026-11-26 22:47 EST] render | 8 pages rendered, 1000 claims, 1000 evidence
+- changed: wiki 8, claims 1, evidence 1, index.md 1
+- run: r-20261127-034722-c73a
