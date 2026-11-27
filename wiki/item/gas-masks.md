@@ -5,7 +5,7 @@ description: "Gas Mask (recipe at DMZ level 26) and Durable Gas Mask (level 68 r
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-mw4-launch-patch-notes-2026-10-29, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-keengamer-best-loot-2026-10-22, src-dmzhub-items-2026-11-24]
+sources: [src-mw4-launch-patch-notes-2026-10-29, src-activision-ready-for-launch-progression-2026-10-19, src-activision-dmz-guide-part1-2026-10-05, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-keengamer-best-loot-2026-10-22, src-dmzhub-items-2026-11-24, src-infinityward-x-thanksgiving-fixes-2026-11-25]
 aliases: ["Gas Mask", "Durable Gas Mask", "gasmask", "gas mask durability", "Purple Gas Mask", "purple gas mask", "radiation mask", "Radiation Gear"]
 ---
 <!-- generated:start -->
@@ -33,6 +33,8 @@ Gas masks print in the 3D Printer's Gear category [[src-activision-dmz-guide-par
 - **Radiation Gear**: codmunity.gg lists it as a separate Gear item found in Fire Stations that, worn with a Gas Mask, gets you into the reactor (reported) [[src-codmunity-dmz-items-2026-10-26]]; other databases do not list it.
 - **[[hazmat-suit]]**: a Legendary suit against radiation that you lose when you exfil [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]].
 - **Radiation Blockers**: a Rare consumable that weakens radiation effects for a minute (see [[medical-items]]) [[src-dmzhub-items-2026-10-31]] [[src-codmunity-dmz-guide-2026-10-24]].
+
+Since the evening of 25 Nov 2026 a Gas Mask stays on when you switch Night Vision Goggles on or off; before that fix, toggling NVGs could make the mask disappear [[src-infinityward-x-thanksgiving-fixes-2026-11-25]] ([[night-vision-goggles]]).
 
 "Purple gas mask" is not a separate item: neither item database lists one [[src-codmunity-dmz-items-2026-10-26]] [[src-dmzhub-items-2026-10-31]]. For the storm itself, see [[radiation-storm]].
 <!-- human:end -->

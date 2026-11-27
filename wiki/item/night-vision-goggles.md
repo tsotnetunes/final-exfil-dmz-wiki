@@ -5,7 +5,7 @@ description: "Three night vision goggles (Weak, standard, Elite) for Hajin's dar
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-gfinity-story-mission-rewards-2026-10-23, src-mw4-season-1-patch-notes-2026-11-05]
+sources: [src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-codmunity-dmz-items-2026-10-26, src-codmunity-dmz-guide-2026-10-24, src-dmzhub-items-2026-10-31, src-dmzhub-recipes-2026-10-31, src-wzstats-dmz-loot-2026-10-30, src-gfinity-story-mission-rewards-2026-10-23, src-mw4-season-1-patch-notes-2026-11-05, src-infinityward-x-thanksgiving-fixes-2026-11-25]
 aliases: ["NVG", "NVGs", "night vision", "Weak Night Vision Goggles", "Elite Night Vision Goggles", "nods"]
 ---
 <!-- generated:start -->
@@ -39,6 +39,8 @@ The standard pair's card value is 3,000 [[src-codmunity-dmz-items-2026-10-26]] [
 - **Loot**: they are part of the loot pool in Hajin [[src-westie-dmz-ama-recap-2026-10-11]].
 
 Season 1 (6 Nov 2026) corrects the unlock instructions the printer showed for the standard recipe, and lets you sell both the Weak and the standard pair from your Stash, which failed before [[src-mw4-season-1-patch-notes-2026-11-05]].
+
+Since the evening of 25 Nov 2026, switching NVGs on or off no longer removes a Gas Mask you are wearing, a bug that hit players in the reactor and other radiation zones [[src-infinityward-x-thanksgiving-fixes-2026-11-25]] ([[gas-masks]]).
 
 How long the goggles last, or whether they use a battery, is not confirmed yet.
 <!-- human:end -->

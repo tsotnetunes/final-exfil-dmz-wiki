@@ -5,7 +5,7 @@ description: "DMZ's Mastery camos: Chiral (2,500 Tier 3+ kills), Ripple Tide (tw
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_3a8e17bcc079, clm_23d4f9bb7b2b, clm_f1b717014ef6, clm_e85655747a23, clm_d7f7ed624ff4, clm_e31370beac8b, clm_7be12d197052, clm_d0991c0c7966, clm_ea0c5a1cdac4, clm_2b05fa148d3c, clm_e153c3eb028f, clm_e48247d4fe41, src-cod-x-camo-tracking-2026-11-07, src-activision-ready-for-launch-progression-2026-10-19, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05, src-infinityward-x-natural-concealment-2026-11-16]
+sources: [clm_3a8e17bcc079, clm_23d4f9bb7b2b, clm_f1b717014ef6, clm_e85655747a23, clm_d7f7ed624ff4, clm_e31370beac8b, clm_7be12d197052, clm_d0991c0c7966, clm_ea0c5a1cdac4, clm_2b05fa148d3c, clm_e153c3eb028f, clm_e48247d4fe41, src-cod-x-camo-tracking-2026-11-07, src-activision-ready-for-launch-progression-2026-10-19, src-westie-dmz-ama-recap-2026-10-11, src-activision-dmz-guide-part2-2026-10-09, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05, src-infinityward-x-natural-concealment-2026-11-16, src-infinityward-x-thanksgiving-fixes-2026-11-25]
 aliases: ["Camo grind", "Serpentine camo", "Mastery camos", "Chiral", "Ripple Tide", "Helio", "DMZ Mastery", "DMZ calling cards", "Divergence"]
 ---
 <!-- generated:start -->
@@ -76,6 +76,7 @@ A successor to the 2022 beta's Serpentine camo hunt is planned for post-launch s
 - Fixed 10 Nov 2026: headshots did not count for the Sniper BlackCell camo challenge [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Fixed 12 Nov 2026: some other BlackCell camo challenges did not always track in DMZ [[src-mw4-season-1-patch-notes-2026-11-05]].
 - Reported 4 Nov 2026: on the Pila, JOKR and RPG, the challenge to destroy vehicles or killstreaks counts in DMZ rather than Multiplayer and needs 50, not 30 (reported) [clm_9e05ae7aa090].
+- Fixed on the evening of 25 Nov 2026: vehicle kills did not count toward some challenges, among them the Spinal Verge BlackCell camo [[src-infinityward-x-thanksgiving-fixes-2026-11-25]].
 ## What was fixed in Season 1?
 
 From 6 Nov 2026 Lieutenant Dog Tags count toward Camo Challenges, squad events count toward the Mastery II challenge, the High-Value Escort Calling Card tracks properly, and several camo descriptions and requirements were corrected, with no list of which [[src-mw4-season-1-patch-notes-2026-11-05]].

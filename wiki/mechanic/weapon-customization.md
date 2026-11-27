@@ -5,8 +5,8 @@ description: "How DMZ weapon builds work: attachments unlock by weapon level sha
 status: stable
 brain_status: published
 sensitivity: public
-sources: [clm_55b26f37e758, clm_36375a19fdcb, clm_7190ea4faab3, clm_62fa4a279a75, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-launch-weapons-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmztracker-gunsmith-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-weapons-2026-10-31, src-westie-dmz-ama-recap-2026-10-11]
-aliases: ["attachments", "weapon builds", "Gunsmith builds", "weapon rarity", "Shared Attachments", "Optic Rail Placement", "damaged weapons", "broken attachments", "weapon levels", "weapon prestige", "Ultra weapons"]
+sources: [clm_55b26f37e758, clm_36375a19fdcb, clm_7190ea4faab3, clm_62fa4a279a75, src-activision-dmz-guide-part2-2026-10-09, src-activision-dmz-deep-dive-2026-06, src-activision-mw4-launch-weapons-2026-10-19, src-mw4-launch-patch-notes-2026-10-29, src-allthingshow-dmz-gunsmith-weapons-2026-10-21, src-allthingshow-rezi-12-enforcer-build-2026-10-21, src-dmztracker-gunsmith-2026-10-29, src-dmzcodex-gunsmith-2026-10-29, src-codmunity-dmz-guide-2026-10-24, src-conquestcapped-dmz-bosses-2026-10-28, src-dmzhub-weapons-2026-10-31, src-westie-dmz-ama-recap-2026-10-11, src-warzoneloadout-mw4-barrels-2026-11-27]
+aliases: ["attachments", "weapon builds", "Gunsmith builds", "weapon rarity", "Shared Attachments", "Optic Rail Placement", "damaged weapons", "broken attachments", "weapon levels", "weapon prestige", "Ultra weapons", "barrel attachments", "barrels"]
 ---
 <!-- generated:start -->
 Weapon customization is a mechanic that lets players modify firearms with attachments by spending DMZ Cash. It dictates how players tailor their loadouts for survival and effectiveness during matches.
@@ -34,6 +34,8 @@ In DMZ you build weapons at the FOB [[gunsmith]] and pay DMZ Cash for the base g
 ## Which slots are there?
 
 Optic, Laser, Barrel, Muzzle, Underbarrel, Stock, Rear Grip, Comb, Ammunition and Magazine; some Apex Attachments also block a Trigger Action slot [[src-activision-mw4-launch-weapons-2026-10-19]]. Pistols take full attachments; launchers and the knife only change their look [[src-activision-mw4-launch-weapons-2026-10-19]]. Optic Rail Placement lets you slide an optic along the rail to set your sight picture [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]].
+
+**Barrels.** There is no official list of barrels. One community site counts 125 barrel attachments across the game, named by maker and length and unlocking between weapon levels 2 and 68, but gives no stats (reported) [[src-warzoneloadout-mw4-barrels-2026-11-27]]. Like other attachments, a barrel unlocks on a weapon's level track and then works on every gun that can take it (see Shared Attachments above) [[src-activision-mw4-launch-weapons-2026-10-19]].
 
 ## How many attachments can a DMZ gun carry?
 

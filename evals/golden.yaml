@@ -473,3 +473,9 @@
 - id: g147
   question: When did The Captain's Threat Briefing start in DMZ and what does it reward?
   must_retrieve: [threat-briefing-the-captain]
+- id: g159
+  question: Was the Gas Mask disappearing when toggling night vision fixed in DMZ?
+  must_retrieve: [gas-masks]
+- id: g160
+  question: How many barrel attachments are there in Modern Warfare 4?
+  must_retrieve: [weapon-customization]
