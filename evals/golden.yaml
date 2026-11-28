@@ -479,3 +479,15 @@
 - id: g160
   question: How many barrel attachments are there in Modern Warfare 4?
   must_retrieve: [weapon-customization]
+- id: g161
+  question: How do you unlock the PILA launcher in DMZ and is it good against the tank?
+  must_retrieve: [pila]
+- id: g162
+  question: How many RPG-8 rockets does it take to down the Deathstalker?
+  must_retrieve: [rpg-8]
+- id: g163
+  question: Is the JOKR Infrared mode still disabled?
+  must_retrieve: [jokr]
+- id: g164
+  question: What is the PM-40 Anvil grenade launcher and is it worth using in DMZ?
+  must_retrieve: [pm-40-anvil]

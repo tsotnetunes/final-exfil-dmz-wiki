@@ -1,7 +1,7 @@
 ---
 type: hub
 title: "Census: weapons"
-description: "Every weapons subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 21 Nov 2026."
+description: "Every weapons subject MW4 DMZ lists, with its Codex page or list row and its sources, as of 28 Nov 2026."
 status: stable
 brain_status: published
 sensitivity: public
@@ -42,7 +42,11 @@ Launch weapons (33) and their Apex Attachments come from the official launch gui
 | Oris 8.6 | [[oris-8-6]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzcodex-gunsmith-2026-10-29]] [[src-conquestcapped-dmz-bosses-2026-10-28]] | published (21 Nov) |
 | Signal 50 | [[signal-50]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzcodex-gunsmith-2026-10-29]] [[src-allthingshow-colossus-2026-10-21]] | published (21 Nov) |
 | SANG 9mm, Krait P68, .50 GS, Mojave .357 | rows in [[weapons]] | [[src-activision-mw4-launch-weapons-2026-10-19]] | published (rows; DMZ prices not confirmed) |
-| PILA, RPG-8, JOKR, PM-40 Anvil, FSS Carbon Edge 1095 | rows in [[weapons]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-codmunity-dmz-items-2026-10-26]] | published (rows) |
+| PILA | [[pila]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-weapon-manuals-2026-10-31]] [[src-conquestcapped-dmz-bosses-2026-10-28]] | published (28 Nov) |
+| RPG-8 | [[rpg-8]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-weapon-manuals-2026-10-31]] [[src-allthingshow-dmz-bosses-2026-10-21]] | published (28 Nov) |
+| JOKR | [[jokr]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-mw4-launch-patch-notes-2026-10-29]] [[src-mw4-season-1-patch-notes-2026-11-05]] | published (28 Nov; Infrared mode off) |
+| PM-40 Anvil | [[pm-40-anvil]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-dmzhub-weapon-manuals-2026-10-31]] | published (28 Nov; thin: no DMZ price or tuning) |
+| FSS Carbon Edge 1095 | row in [[weapons]] | [[src-activision-mw4-launch-weapons-2026-10-19]] [[src-codmunity-dmz-items-2026-10-26]] | published (row) |
 | Cronen Osprey (Season 1) | [[cronen-osprey-assault-rifle]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-dmzhub-items-2026-11-07]] | published (out 6 Nov; Manual listed, reported) |
 | CSG-35 (Season 1) | [[csg-35-smg]] | [[src-activision-season-1-announcement-2026-10-28]] [[src-dmzhub-items-2026-11-07]] | published (out 6 Nov; Manual listed, reported) |
 | JAK 12, ZLR Talonhawk (Season 1) | rows in [[weapons]] | [[src-activision-season-1-announcement-2026-10-28]] | published (rows; later in Season 1) |

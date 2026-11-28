@@ -59,10 +59,10 @@ Names, classes and Apex Attachments are official [[src-activision-mw4-launch-wea
 | Krait P68 | Pistol | Krait P68 Commando | not listed | none |
 | .50 GS | Pistol | GS Magna | not listed | none |
 | Mojave .357 | Pistol | Mojave Lawless | not listed | none |
-| PILA | Launcher | none | not listed | none |
-| RPG-8 | Launcher | none | not listed | none |
-| JOKR (Infrared mode off since 2 Nov 2026, until an exploit is fully fixed [[src-mw4-launch-patch-notes-2026-10-29]]) | Launcher | none | not listed | none |
-| PM-40 Anvil | Launcher | none | not listed | none |
+| [[pila]] | Launcher | none | not listed | none |
+| [[rpg-8]] | Launcher | none | not listed | none |
+| [[jokr]] (Infrared mode off since 2 Nov 2026, until an exploit is fully fixed [[src-mw4-launch-patch-notes-2026-10-29]]) | Launcher | none | not listed | none |
+| [[pm-40-anvil]] | Launcher | none | not listed | none |
 | FSS Carbon Edge 1095 | Melee | none | not listed | none |
 
 One guide says the Axion's Apex is named Axion Reaver in the game (reported) [[src-conquestcapped-mw4-weapons-2026-10-26]]. Launchers and the knife take no attachments and have no Apex; pistols take full attachments [[src-activision-mw4-launch-weapons-2026-10-19]]. Apex details: [[apex-attachments]].

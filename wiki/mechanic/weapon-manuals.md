@@ -62,10 +62,10 @@ The Manuals the database lists, by the name it gives each item; five of them sho
 | Manual: Krait P68 | Krait P68 | | |
 | Manual: .50 GS | .50 GS | | |
 | Manual: Mojave .357 | Mojave .357 | | yes |
-| Manual: Pila | PILA | 5,000 | yes |
-| Manual: RPG-8 | RPG-8 | 5,000 | yes |
-| Manual: Jokr | JOKR | | |
-| Manual: PM-40 Anvil | PM-40 Anvil | | |
+| Manual: Pila | [[pila]] | 5,000 | yes |
+| Manual: RPG-8 | [[rpg-8]] | 5,000 | yes |
+| Manual: Jokr | [[jokr]] | | |
+| Manual: PM-40 Anvil | [[pm-40-anvil]] | | |
 | Manual: Cronen Osprey (Season 1) | [[cronen-osprey-assault-rifle]] | | |
 | Manual: CSG-35 (Season 1) | [[csg-35-smg]] | | |
 
