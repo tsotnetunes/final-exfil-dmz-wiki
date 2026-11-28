@@ -5,11 +5,10 @@ description: "Unguided anti-vehicle rocket launcher; no attachments or Apex. Unl
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-conquestcapped-mw4-weapons-2026-10-26, src-dmzhub-weapon-manuals-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-wzstats-dmz-meta-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05, src-dmzhub-orders-2026-10-31, clm_2709a2129c64, clm_9e05ae7aa090]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-conquestcapped-mw4-weapons-2026-10-26, src-dmzhub-weapon-manuals-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-gamingpromax-dmz-boss-locations-2026-10-23, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-wzstats-dmz-meta-2026-10-31, src-mw4-season-1-patch-notes-2026-11-05, src-dmzhub-orders-2026-10-31]
 aliases: ["RPG", "RPG 8", "RPG8", "Manual: RPG-8", "RPG-8 manual", "rocket launcher"]
 class: "Launcher"
 manual_source: "Weapon Manual, looted in Hajin"
-stale_after: 2027-01-31
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

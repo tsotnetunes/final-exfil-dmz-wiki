@@ -1573,3 +1573,7 @@
 ## [2026-11-27 19:52 EST] edit | daily update 2026-11-28: no new patch or official DMZ news since 27 Nov; Saturday weapons gap: launcher pages PILA, RPG-8, JOKR published, PM-40 Anvil new, linked from weapons, weapon-manuals and census
 - changed: evals 1, index 5, index.md 1, wiki 7
 - run: r-20261127-195242-55f3
+
+## [2026-11-27 20:41 EST] render | 5 pages rendered, 1000 claims, 1000 evidence
+- changed: wiki 5, claims 1, evidence 1, index.md 1
+- run: r-20261128-014112-540c

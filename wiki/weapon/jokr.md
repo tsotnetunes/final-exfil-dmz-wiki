@@ -5,11 +5,10 @@ description: "Guided top-attack missile launcher; no attachments or Apex. Its In
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-conquestcapped-mw4-weapons-2026-10-26, src-dmzhub-weapon-manuals-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-wzstats-dmz-meta-2026-10-31, src-allthingshow-dmz-bosses-2026-10-21, clm_6ca698ed62e3, clm_9e05ae7aa090]
+sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-conquestcapped-mw4-weapons-2026-10-26, src-dmzhub-weapon-manuals-2026-10-31, src-mw4-launch-patch-notes-2026-10-29, src-mw4-season-1-patch-notes-2026-11-05, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-wzstats-dmz-meta-2026-10-31, src-allthingshow-dmz-bosses-2026-10-21]
 aliases: ["Jokr", "JOKR launcher", "Manual: Jokr", "Jokr manual", "JOKR Infrared mode"]
 class: "Launcher"
 manual_source: "Weapon Manual, looted in Hajin (reported)"
-stale_after: 2027-01-31
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

@@ -9,7 +9,6 @@ sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide
 aliases: ["PM-40", "PM40 Anvil", "Anvil", "Anvil grenade launcher", "Manual: PM-40 Anvil", "PM-40 Anvil manual"]
 class: "Launcher"
 manual_source: "Weapon Manual, looted in Hajin (reported)"
-stale_after: 2027-01-31
 ---
 <!-- generated:start -->
 _No generated text yet. The Brain fills this zone from confirmed claims; nobody edits it by hand._

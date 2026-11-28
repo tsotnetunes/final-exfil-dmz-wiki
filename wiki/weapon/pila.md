@@ -5,11 +5,10 @@ description: "Launcher that fires guided or unguided missiles at vehicles; no at
 status: stable
 brain_status: published
 sensitivity: public
-sources: [src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-conquestcapped-mw4-weapons-2026-10-26, src-dmzhub-weapon-manuals-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-wzstats-dmz-meta-2026-10-31, src-xboxplay-colossus-2026-10-22, src-mw4-season-1-patch-notes-2026-11-05, src-warzone-season-1-patch-notes-2026-11-05, clm_ce6b0de65759, clm_9e05ae7aa090]
+sources: [clm_c23d886db28c, src-activision-mw4-launch-weapons-2026-10-19, src-activision-dmz-guide-part2-2026-10-09, src-conquestcapped-mw4-weapons-2026-10-26, src-dmzhub-weapon-manuals-2026-10-31, src-codmunity-dmz-items-2026-10-26, src-allthingshow-dmz-bosses-2026-10-21, src-conquestcapped-dmz-bosses-2026-10-28, src-destructoid-dmz-weapons-tier-list-2026-10-22, src-wzstats-dmz-meta-2026-10-31, src-xboxplay-colossus-2026-10-22, src-mw4-season-1-patch-notes-2026-11-05, src-warzone-season-1-patch-notes-2026-11-05]
 aliases: ["Pila", "Pila launcher", "Manual: Pila", "Pila manual", "PILA rocket launcher"]
 class: "Launcher"
 manual_source: "Weapon Manual, looted in Hajin"
-stale_after: 2027-01-31
 ---
 <!-- generated:start -->
 The PILA is an unlockable weapon in DMZ.
